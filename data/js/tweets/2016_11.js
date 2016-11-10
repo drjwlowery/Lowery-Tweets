@@ -1,6 +1,2039 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 18:57:18 +0000 2016",
+		"id": 796426455324442600,
+		"id_str": "796426455324442624",
+		"text": "Trump’s Surprise Victory Sends Shock Through Higher Ed - The Chronicle of Higher Education #SAHElaw  https://t.co/znKjgaf9ib",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/znKjgaf9ib",
+					"expanded_url": "http://www.chronicle.com/article/Trump-s-Surprise-Victory/238346?cid=gs&utm_source=gs&utm_medium=en&elqTrackId=1325437c643f4699979f3ddd241e28b1&elq=38d82757ce7f4556ba21a8bc0016ebc9&elqaid=11432&elqat=1&elqCampaignId=4459",
+					"display_url": "chronicle.com/article/Trump-…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 17:28:34 +0000 2016",
+		"id": 796404126263316500,
+		"id_str": "796404126263316480",
+		"text": "RT @CoryBooker: Often our greatest courage is just getting up after a long night &amp; persisting in doing good for others, serving, helping &amp;…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CoryBooker",
+					"name": "Cory Booker",
+					"id": 15808765,
+					"id_str": "15808765",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 06:49:07 +0000 2016",
+			"id": 796243203083083800,
+			"id_str": "796243203083083779",
+			"text": "Often our greatest courage is just getting up after a long night &amp; persisting in doing good for others, serving, he… https://t.co/akhXWXQ4Y7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/akhXWXQ4Y7",
+						"expanded_url": "https://twitter.com/i/web/status/796243203083083779",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15808765,
+				"id_str": "15808765",
+				"name": "Cory Booker",
+				"screen_name": "CoryBooker",
+				"location": "Newark, NJ",
+				"description": "U.S. Senator from New Jersey",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1893348,
+				"friends_count": 90523,
+				"listed_count": 13487,
+				"created_at": "Mon Aug 11 14:41:16 +0000 2008",
+				"favourites_count": 94,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 57284,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74694112/Cory_Booker_looking_up5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74694112/Cory_Booker_looking_up5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/694587770812104704/2fOI9t5R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/694587770812104704/2fOI9t5R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15808765/1456413038",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDBDBC",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796236716940070900,
+			"quoted_status_id_str": "796236716940070913",
+			"quoted_status": {
+				"created_at": "Wed Nov 09 06:23:21 +0000 2016",
+				"id": 796236716940070900,
+				"id_str": "796236716940070913",
+				"text": "How do we carry on tomorrow @CoryBooker?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "CoryBooker",
+							"name": "Cory Booker",
+							"id": 15808765,
+							"id_str": "15808765",
+							"indices": [
+								28,
+								39
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2808639665,
+					"id_str": "2808639665",
+					"name": "David Wooderson",
+					"screen_name": "WoodersonsD",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 169,
+					"friends_count": 694,
+					"listed_count": 0,
+					"created_at": "Sun Oct 05 17:52:31 +0000 2014",
+					"favourites_count": 245,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 985,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/518821964522090496/fM0gVo_A_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/518821964522090496/fM0gVo_A_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2808639665/1473490541",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 19,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4916,
+			"favorite_count": 7817,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 796236716940070900,
+		"quoted_status_id_str": "796236716940070913",
+		"retweet_count": 4916,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:46:34 +0000 2016",
+		"id": 796287859477086200,
+		"id_str": "796287859477086208",
+		"text": "RT @Lin_Manuel: Go through all stages tonight.\nYou are allowed to feel however you like.\nTake stock of your heart.\nSee you tomorrow.\nWe are…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lin_Manuel",
+					"name": "Lin-Manuel Miranda",
+					"id": 79923701,
+					"id_str": "79923701",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 09:38:09 +0000 2016",
+			"id": 796285741789810700,
+			"id_str": "796285741789810688",
+			"text": "Go through all stages tonight.\nYou are allowed to feel however you like.\nTake stock of your heart.\nSee you tomorrow.\nWe are all still here.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79923701,
+				"id_str": "79923701",
+				"name": "Lin-Manuel Miranda",
+				"screen_name": "Lin_Manuel",
+				"location": "London",
+				"description": "There's no place like",
+				"url": "https://t.co/1U0poRLi4I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1U0poRLi4I",
+								"expanded_url": "http://Linmanuel.com",
+								"display_url": "Linmanuel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 945122,
+				"friends_count": 1931,
+				"listed_count": 3720,
+				"created_at": "Mon Oct 05 04:59:07 +0000 2009",
+				"favourites_count": 19692,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40507,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492368997/ApmJgOTCIAAANu2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492368997/ApmJgOTCIAAANu2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794222903734759425/3_7J2Od1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794222903734759425/3_7J2Od1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79923701/1478192439",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16526,
+			"favorite_count": 48433,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16526,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:45:47 +0000 2016",
+		"id": 796287663636709400,
+		"id_str": "796287663636709376",
+		"text": "RT @pattonoswalt: Hold your loved ones close tonight. Let 'em feel it. Get some sleep. Back at it tomorrow. Love has a longer wick than hat…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pattonoswalt",
+					"name": "Patton Oswalt",
+					"id": 139162440,
+					"id_str": "139162440",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 08:02:56 +0000 2016",
+			"id": 796261777482780700,
+			"id_str": "796261777482780672",
+			"text": "Hold your loved ones close tonight. Let 'em feel it. Get some sleep. Back at it tomorrow. Love has a longer wick than hate &amp; fear.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139162440,
+				"id_str": "139162440",
+				"name": "Patton Oswalt",
+				"screen_name": "pattonoswalt",
+				"location": "Los Angeles",
+				"description": "Mr. Oswalt is a former wedding deejay from Northern Virginia.",
+				"url": "http://t.co/HKcoZHbxiG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HKcoZHbxiG",
+								"expanded_url": "http://www.pattonoswalt.com",
+								"display_url": "pattonoswalt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3025289,
+				"friends_count": 2433,
+				"listed_count": 26008,
+				"created_at": "Sat May 01 19:00:10 +0000 2010",
+				"favourites_count": 15621,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28057,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1C5741",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_link_color": "BF1238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14846,
+			"favorite_count": 43541,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14846,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:45:12 +0000 2016",
+		"id": 796287513430282200,
+		"id_str": "796287513430282240",
+		"text": "RT @Lin_Manuel: F*ck that. \nI love this country, and there's more work to do than ever. \n(No offense Canada) https://t.co/u9aHY1Zho4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lin_Manuel",
+					"name": "Lin-Manuel Miranda",
+					"id": 79923701,
+					"id_str": "79923701",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u9aHY1Zho4",
+					"expanded_url": "https://twitter.com/monicawright/status/796206389148393477",
+					"display_url": "twitter.com/monicawright/s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 04:24:17 +0000 2016",
+			"id": 796206755478904800,
+			"id_str": "796206755478904833",
+			"text": "F*ck that. \nI love this country, and there's more work to do than ever. \n(No offense Canada) https://t.co/u9aHY1Zho4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u9aHY1Zho4",
+						"expanded_url": "https://twitter.com/monicawright/status/796206389148393477",
+						"display_url": "twitter.com/monicawright/s…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79923701,
+				"id_str": "79923701",
+				"name": "Lin-Manuel Miranda",
+				"screen_name": "Lin_Manuel",
+				"location": "London",
+				"description": "There's no place like",
+				"url": "https://t.co/1U0poRLi4I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1U0poRLi4I",
+								"expanded_url": "http://Linmanuel.com",
+								"display_url": "Linmanuel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 945122,
+				"friends_count": 1931,
+				"listed_count": 3720,
+				"created_at": "Mon Oct 05 04:59:07 +0000 2009",
+				"favourites_count": 19692,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40507,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492368997/ApmJgOTCIAAANu2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492368997/ApmJgOTCIAAANu2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794222903734759425/3_7J2Od1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794222903734759425/3_7J2Od1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79923701/1478192439",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796206389148393500,
+			"quoted_status_id_str": "796206389148393477",
+			"quoted_status": {
+				"created_at": "Wed Nov 09 04:22:50 +0000 2016",
+				"id": 796206389148393500,
+				"id_str": "796206389148393477",
+				"text": "I bet @Lin_Manuel is moving to Canada.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Lin_Manuel",
+							"name": "Lin-Manuel Miranda",
+							"id": 79923701,
+							"id_str": "79923701",
+							"indices": [
+								6,
+								17
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5840872,
+					"id_str": "5840872",
+					"name": "Monica Wright",
+					"screen_name": "monicawright",
+					"location": "Portland, ME",
+					"description": "VP Audience Engagement for @sengineland @marketingland @smx & @martechconf. Art and media enthusiast; pseudo martial artist.",
+					"url": "http://t.co/8d9uuYnq4W",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/8d9uuYnq4W",
+									"expanded_url": "http://www.monicawright.com",
+									"display_url": "monicawright.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 9349,
+					"friends_count": 2263,
+					"listed_count": 855,
+					"created_at": "Mon May 07 18:54:36 +0000 2007",
+					"favourites_count": 3141,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 35518,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/163594596/twitterbg.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/163594596/twitterbg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/551070061918568448/u_QMGn9a_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/551070061918568448/u_QMGn9a_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5840872/1398269905",
+					"profile_link_color": "DD0808",
+					"profile_sidebar_border_color": "DD0808",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 14,
+				"favorite_count": 76,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 13002,
+			"favorite_count": 48178,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 796206389148393500,
+		"quoted_status_id_str": "796206389148393477",
+		"retweet_count": 13002,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:39:10 +0000 2016",
+		"id": 796285994802757600,
+		"id_str": "796285994802757632",
+		"text": "RT @ezraklein: So that conversation where Trump tells Ryan the first priority is a trillion dollar infrastructure bill will be awkward",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ezraklein",
+					"name": "Ezra Klein",
+					"id": 18622869,
+					"id_str": "18622869",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 08:16:05 +0000 2016",
+			"id": 796265086356754400,
+			"id_str": "796265086356754432",
+			"text": "So that conversation where Trump tells Ryan the first priority is a trillion dollar infrastructure bill will be awkward",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18622869,
+				"id_str": "18622869",
+				"name": "Ezra Klein",
+				"screen_name": "ezraklein",
+				"location": "DC",
+				"description": "Founder, https://t.co/5gESirnht7. Come work with us! https://t.co/VhALOhLXm2",
+				"url": "http://t.co/8X2hDCPnDl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8X2hDCPnDl",
+								"expanded_url": "http://www.vox.com",
+								"display_url": "vox.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5gESirnht7",
+								"expanded_url": "http://Vox.com",
+								"display_url": "Vox.com",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/VhALOhLXm2",
+								"expanded_url": "http://bit.ly/1ToAmQ8",
+								"display_url": "bit.ly/1ToAmQ8",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1311982,
+				"friends_count": 980,
+				"listed_count": 19654,
+				"created_at": "Mon Jan 05 04:02:29 +0000 2009",
+				"favourites_count": 1025,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18622869/1386449293",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 1642,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 564,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:37:08 +0000 2016",
+		"id": 796285486767763500,
+		"id_str": "796285486767763456",
+		"text": "RT @iJesseWilliams: Be tired. Be mad. Be honest &amp; concerned. But be not afraid. Rest up. Be safe. Come together. Construct. Know your surro…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iJesseWilliams",
+					"name": "jesseWilliams.",
+					"id": 30602016,
+					"id_str": "30602016",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 08:46:15 +0000 2016",
+			"id": 796272680185905200,
+			"id_str": "796272680185905153",
+			"text": "Be tired. Be mad. Be honest &amp; concerned. But be not afraid. Rest up. Be safe. Come together. Construct. Know your surroundings. Be creative.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30602016,
+				"id_str": "30602016",
+				"name": "jesseWilliams.",
+				"screen_name": "iJesseWilliams",
+				"location": "abolitionist",
+				"description": "Maker. FormerTeacher. Co-founder: @EbrojiApp Cohost: @OpenRun BoardOfDirectors:  @MyScholly @Adv_Project & @SankofaDotOrg ExecProd: @QuestionBridge",
+				"url": "https://t.co/SblApTDCFc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SblApTDCFc",
+								"expanded_url": "http://www.jessehimself.tumblr.com",
+								"display_url": "jessehimself.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1883256,
+				"friends_count": 3056,
+				"listed_count": 5391,
+				"created_at": "Sun Apr 12 04:37:25 +0000 2009",
+				"favourites_count": 1822,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15443,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D4205",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000076839579/8e416608d06d1176019d97c2262b64ff.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000076839579/8e416608d06d1176019d97c2262b64ff.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788220776478420992/XrCJVwQb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788220776478420992/XrCJVwQb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30602016/1409417420",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54797,
+			"favorite_count": 84949,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54797,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 09:31:48 +0000 2016",
+		"id": 796284144464576500,
+		"id_str": "796284144464576512",
+		"text": "Donald Trump as US president: what it means for higher education https://t.co/rK1nUuD7am via @timeshighered #SAHElaw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timeshighered",
+					"name": "TimesHigherEducation",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						93,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rK1nUuD7am",
+					"expanded_url": "https://www.timeshighereducation.com/news/donald-trump-us-president-what-it-means-higher-education",
+					"display_url": "timeshighereducation.com/news/donald-tr…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 09 02:05:52 +0000 2016",
+		"id": 796171919154364400,
+		"id_str": "796171919154364418",
+		"text": "RT @BlackGirlNerds: As the great John Oliver once said. #ElectionNight #DemVotes https://t.co/IqIz6P2lXn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ElectionNight",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "DemVotes",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlackGirlNerds",
+					"name": "Black Girl Nerds",
+					"id": 480819245,
+					"id_str": "480819245",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796169767430324200,
+					"id_str": "796169767430324224",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+					"url": "https://t.co/IqIz6P2lXn",
+					"display_url": "pic.twitter.com/IqIz6P2lXn",
+					"expanded_url": "https://twitter.com/BlackGirlNerds/status/796169910669938688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796169910669938700,
+					"source_status_id_str": "796169910669938688",
+					"source_user_id": 480819245,
+					"source_user_id_str": "480819245"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796169767430324200,
+					"id_str": "796169767430324224",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+					"url": "https://t.co/IqIz6P2lXn",
+					"display_url": "pic.twitter.com/IqIz6P2lXn",
+					"expanded_url": "https://twitter.com/BlackGirlNerds/status/796169910669938688/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796169910669938700,
+					"source_status_id_str": "796169910669938688",
+					"source_user_id": 480819245,
+					"source_user_id_str": "480819245",
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CwyQL2iXAAA4z2R.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 617,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 2121,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 01:57:53 +0000 2016",
+			"id": 796169910669938700,
+			"id_str": "796169910669938688",
+			"text": "As the great John Oliver once said. #ElectionNight #DemVotes https://t.co/IqIz6P2lXn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ElectionNight",
+						"indices": [
+							36,
+							50
+						]
+					},
+					{
+						"text": "DemVotes",
+						"indices": [
+							51,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796169767430324200,
+						"id_str": "796169767430324224",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+						"url": "https://t.co/IqIz6P2lXn",
+						"display_url": "pic.twitter.com/IqIz6P2lXn",
+						"expanded_url": "https://twitter.com/BlackGirlNerds/status/796169910669938688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796169767430324200,
+						"id_str": "796169767430324224",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwyQL2iXAAA4z2R.jpg",
+						"url": "https://t.co/IqIz6P2lXn",
+						"display_url": "pic.twitter.com/IqIz6P2lXn",
+						"expanded_url": "https://twitter.com/BlackGirlNerds/status/796169910669938688/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								139
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CwyQL2iXAAA4z2R.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 480819245,
+				"id_str": "480819245",
+				"name": "Black Girl Nerds",
+				"screen_name": "BlackGirlNerds",
+				"location": "",
+				"description": "Online community for nerdy Black women. Book forthcoming from Ballantine Bantam Dell. Rep'd by @iglabooks Support our Patreon! https://t.co/n6iQhiGpBy",
+				"url": "https://t.co/BCUvJS9mUA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BCUvJS9mUA",
+								"expanded_url": "http://www.blackgirlnerds.com",
+								"display_url": "blackgirlnerds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/n6iQhiGpBy",
+								"expanded_url": "http://patreon.com/blackgirlnerds",
+								"display_url": "patreon.com/blackgirlnerds",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 91266,
+				"friends_count": 1120,
+				"listed_count": 1997,
+				"created_at": "Wed Feb 01 23:15:38 +0000 2012",
+				"favourites_count": 119635,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 437989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000106799448/b575bcceb1a698974d691e2d06723ad4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000106799448/b575bcceb1a698974d691e2d06723ad4.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773648371991060480/hqiYNOn1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773648371991060480/hqiYNOn1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/480819245/1398487349",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2660,
+			"favorite_count": 3329,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2660,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 09 00:32:20 +0000 2016",
 		"id": 796148381357932500,
 		"id_str": "796148381357932548",
