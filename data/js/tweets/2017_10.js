@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 07 13:05:52 +0000 2017",
+		"id": 916650787585036300,
+		"id_str": "916650787585036289",
+		"text": "Our biggest fans this week: @thomhickey55, @kcjohnson9, @the_60s_at_50. Thank you! via https://t.co/RiaHACtyoE https://t.co/coFz0b9FRn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomhickey55",
+					"name": "Thom Hickey",
+					"id": 1134793622,
+					"id_str": "1134793622",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "kcjohnson9",
+					"name": "KC Johnson",
+					"id": 87180920,
+					"id_str": "87180920",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "the_60s_at_50",
+					"name": "The '60s at 50",
+					"id": 150651320,
+					"id_str": "150651320",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RiaHACtyoE",
+					"expanded_url": "https://sumall.com/thankyou?utm_source=twitter&utm_medium=publishing&utm_campaign=thank_you_tweet&utm_content=text_and_media&utm_term=88b66d0c42f666cc625a95af",
+					"display_url": "sumall.com/thankyou?utm_s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 916650784510611500,
+					"id_str": "916650784510611456",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DLiZCCnWkAAI9mL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLiZCCnWkAAI9mL.jpg",
+					"url": "https://t.co/coFz0b9FRn",
+					"display_url": "pic.twitter.com/coFz0b9FRn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/916650787585036289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 916650784510611500,
+					"id_str": "916650784510611456",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DLiZCCnWkAAI9mL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLiZCCnWkAAI9mL.jpg",
+					"url": "https://t.co/coFz0b9FRn",
+					"display_url": "pic.twitter.com/coFz0b9FRn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/916650787585036289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sumall.com/\" rel=\"nofollow\">SumAll</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 751,
+			"listed_count": 99,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3338,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 06 20:35:03 +0000 2017",
 		"id": 916401439844589600,
 		"id_str": "916401439844589568",
