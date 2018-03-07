@@ -1,6 +1,1449 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 06 21:56:37 +0000 2018",
+		"id": 971142531433074700,
+		"id_str": "971142531433074689",
+		"text": "@NASPAhistory @UMNews @NASPAtweets In 2005, I was asked by Kurt Keppler to serve on the Conference Leadership Team… https://t.co/8JVCXsIHUQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAhistory",
+					"name": "NASPA History",
+					"id": 937716186057527300,
+					"id_str": "937716186057527297",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UMNews",
+					"name": "University of Minnesota",
+					"id": 18917572,
+					"id_str": "18917572",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8JVCXsIHUQ",
+					"expanded_url": "https://twitter.com/i/web/status/971142531433074689",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 971135965476589600,
+		"in_reply_to_status_id_str": "971135965476589569",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 20:13:24 +0000 2018",
+		"id": 971116559212142600,
+		"id_str": "971116559212142592",
+		"text": "RT @AngelaDelfine24: @IUPSAHE grads supporting our Department Chair @drjwlowery who moderated the featured Free Speech on Campus panel this…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AngelaDelfine24",
+					"name": "Angela Delfine",
+					"id": 4062908727,
+					"id_str": "4062908727",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "IUPSAHE",
+					"name": "IUP SAHE",
+					"id": 366747456,
+					"id_str": "366747456",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "drjwlowery",
+					"name": "John Wesley Lowery",
+					"id": 120855168,
+					"id_str": "120855168",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 06 19:37:12 +0000 2018",
+			"id": 971107446398898200,
+			"id_str": "971107446398898176",
+			"text": "@IUPSAHE grads supporting our Department Chair @drjwlowery who moderated the featured Free Speech on Campus panel t… https://t.co/w70IIOSBFj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IUPSAHE",
+						"name": "IUP SAHE",
+						"id": 366747456,
+						"id_str": "366747456",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "drjwlowery",
+						"name": "John Wesley Lowery",
+						"id": 120855168,
+						"id_str": "120855168",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/w70IIOSBFj",
+						"expanded_url": "https://twitter.com/i/web/status/971107446398898176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 366747456,
+			"in_reply_to_user_id_str": "366747456",
+			"in_reply_to_screen_name": "IUPSAHE",
+			"user": {
+				"id": 4062908727,
+				"id_str": "4062908727",
+				"name": "Angela Delfine",
+				"screen_name": "AngelaDelfine24",
+				"location": "Johnstown, PA",
+				"description": "Grad Area Coordinator at @PittJohnstown | @IUPSAHE '19 | @MySaintVincent '13 | Blogger | Cat Mom | She/Her/Hers | #SAChat #SAGrad https://t.co/5RxTUJtQ",
+				"url": "https://t.co/5RxTUJtQye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5RxTUJtQye",
+								"expanded_url": null,
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 463,
+				"friends_count": 1586,
+				"listed_count": 18,
+				"created_at": "Wed Oct 28 20:18:08 +0000 2015",
+				"favourites_count": 9501,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2057,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940994686616977408/Mlon3KBC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940994686616977408/Mlon3KBC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4062908727/1446064440",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 20:13:09 +0000 2018",
+		"id": 971116494561202200,
+		"id_str": "971116494561202176",
+		"text": "RT @NASPAtweets: Featured Panel: Free Speech on Campus with @WFURue, @SamatFIRE, @TbyrdEsq, @SigalBenPorath and @drjwlowery. #NASPA18 https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA18",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "WFURue",
+					"name": "Penny Rue",
+					"id": 707384311,
+					"id_str": "707384311",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "SamatFIRE",
+					"name": "Samantha Harris",
+					"id": 1431424680,
+					"id_str": "1431424680",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "TbyrdEsq",
+					"name": "Traevena Byrd",
+					"id": 2153096070,
+					"id_str": "2153096070",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "SigalBenPorath",
+					"name": "Sigal",
+					"id": 4907331280,
+					"id_str": "4907331280",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "drjwlowery",
+					"name": "John Wesley Lowery",
+					"id": 120855168,
+					"id_str": "120855168",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 06 18:37:31 +0000 2018",
+			"id": 971092428043276300,
+			"id_str": "971092428043276288",
+			"text": "Featured Panel: Free Speech on Campus with @WFURue, @SamatFIRE, @TbyrdEsq, @SigalBenPorath and @drjwlowery. #NASPA18 https://t.co/UZars6ZJ1j",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NASPA18",
+						"indices": [
+							108,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WFURue",
+						"name": "Penny Rue",
+						"id": 707384311,
+						"id_str": "707384311",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"screen_name": "SamatFIRE",
+						"name": "Samantha Harris",
+						"id": 1431424680,
+						"id_str": "1431424680",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"screen_name": "TbyrdEsq",
+						"name": "Traevena Byrd",
+						"id": 2153096070,
+						"id_str": "2153096070",
+						"indices": [
+							64,
+							73
+						]
+					},
+					{
+						"screen_name": "SigalBenPorath",
+						"name": "Sigal",
+						"id": 4907331280,
+						"id_str": "4907331280",
+						"indices": [
+							75,
+							90
+						]
+					},
+					{
+						"screen_name": "drjwlowery",
+						"name": "John Wesley Lowery",
+						"id": 120855168,
+						"id_str": "120855168",
+						"indices": [
+							95,
+							106
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 971092423152689200,
+						"id_str": "971092423152689152",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DXoDae4W4AAqlvq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXoDae4W4AAqlvq.jpg",
+						"url": "https://t.co/UZars6ZJ1j",
+						"display_url": "pic.twitter.com/UZars6ZJ1j",
+						"expanded_url": "https://twitter.com/NASPAtweets/status/971092428043276288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1064,
+								"h": 1065,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 1065,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971092423152689200,
+						"id_str": "971092423152689152",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DXoDae4W4AAqlvq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXoDae4W4AAqlvq.jpg",
+						"url": "https://t.co/UZars6ZJ1j",
+						"display_url": "pic.twitter.com/UZars6ZJ1j",
+						"expanded_url": "https://twitter.com/NASPAtweets/status/971092428043276288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1064,
+								"h": 1065,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 1065,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93729105,
+				"id_str": "93729105",
+				"name": "NASPA",
+				"screen_name": "NASPAtweets",
+				"location": "Washington, DC",
+				"description": "We empower student affairs practitioners working in higher ed to serve the changing academic, emotional, and social needs of today's diverse student population.",
+				"url": "https://t.co/zca501mzTd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zca501mzTd",
+								"expanded_url": "http://www.naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30223,
+				"friends_count": 283,
+				"listed_count": 853,
+				"created_at": "Mon Nov 30 22:49:50 +0000 2009",
+				"favourites_count": 4124,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12952,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452169109103316992/K4k3llAD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452169109103316992/K4k3llAD.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890285575567233024/d3_344Kz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890285575567233024/d3_344Kz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93729105/1502732645",
+				"profile_link_color": "006666",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e4a0d228eb6be76b",
+				"url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+				"place_type": "city",
+				"name": "Philadelphia",
+				"full_name": "Philadelphia, PA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-75.280284,
+								39.871811
+							],
+							[
+								-74.955712,
+								39.871811
+							],
+							[
+								-74.955712,
+								40.13792
+							],
+							[
+								-75.280284,
+								40.13792
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 20:11:51 +0000 2018",
+		"id": 971116166029639700,
+		"id_str": "971116166029639686",
+		"text": "RT @NASPAtweets: Congratulations to the 2018 AVP/Senior-Level Student Affairs Professional Award winner,\nJerry Brewer, Associate Vice Presi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 06 17:35:41 +0000 2018",
+			"id": 971076866256851000,
+			"id_str": "971076866256850945",
+			"text": "Congratulations to the 2018 AVP/Senior-Level Student Affairs Professional Award winner,\nJerry Brewer, Associate Vic… https://t.co/UQKQJAophm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UQKQJAophm",
+						"expanded_url": "https://twitter.com/i/web/status/971076866256850945",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93729105,
+				"id_str": "93729105",
+				"name": "NASPA",
+				"screen_name": "NASPAtweets",
+				"location": "Washington, DC",
+				"description": "We empower student affairs practitioners working in higher ed to serve the changing academic, emotional, and social needs of today's diverse student population.",
+				"url": "https://t.co/zca501mzTd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zca501mzTd",
+								"expanded_url": "http://www.naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30223,
+				"friends_count": 283,
+				"listed_count": 853,
+				"created_at": "Mon Nov 30 22:49:50 +0000 2009",
+				"favourites_count": 4124,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12952,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452169109103316992/K4k3llAD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452169109103316992/K4k3llAD.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890285575567233024/d3_344Kz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890285575567233024/d3_344Kz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93729105/1502732645",
+				"profile_link_color": "006666",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 17:27:36 +0000 2018",
+		"id": 971074831595786200,
+		"id_str": "971074831595786241",
+		"text": "No pressure.... https://t.co/43uxzN5F7i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 971074823911854100,
+					"id_str": "971074823911854080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DXnzaEmXUAAiVdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXnzaEmXUAAiVdT.jpg",
+					"url": "https://t.co/43uxzN5F7i",
+					"display_url": "pic.twitter.com/43uxzN5F7i",
+					"expanded_url": "https://twitter.com/drjwlowery/status/971074831595786241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971074823911854100,
+					"id_str": "971074823911854080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DXnzaEmXUAAiVdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXnzaEmXUAAiVdT.jpg",
+					"url": "https://t.co/43uxzN5F7i",
+					"display_url": "pic.twitter.com/43uxzN5F7i",
+					"expanded_url": "https://twitter.com/drjwlowery/status/971074831595786241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 16:31:03 +0000 2018",
+		"id": 971060600594927600,
+		"id_str": "971060600594927617",
+		"text": "So this is the room that I am speaking in next.... https://t.co/814dOErLRs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 971060595024977900,
+					"id_str": "971060595024977920",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DXnmd13X4AAhUXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXnmd13X4AAhUXp.jpg",
+					"url": "https://t.co/814dOErLRs",
+					"display_url": "pic.twitter.com/814dOErLRs",
+					"expanded_url": "https://twitter.com/drjwlowery/status/971060600594927617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971060595024977900,
+					"id_str": "971060595024977920",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DXnmd13X4AAhUXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXnmd13X4AAhUXp.jpg",
+					"url": "https://t.co/814dOErLRs",
+					"display_url": "pic.twitter.com/814dOErLRs",
+					"expanded_url": "https://twitter.com/drjwlowery/status/971060600594927617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 12:34:00 +0000 2018",
+		"id": 971000944816197600,
+		"id_str": "971000944816197632",
+		"text": "Elizabeth Warren Calls Betsy DeVos “The Worst Secretary Of Education This Country Has Ever Seen” #SAHElaw  https://t.co/Rg2apOxBTB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rg2apOxBTB",
+					"expanded_url": "https://www.motherjones.com/politics/2018/03/elizabeth-warren-calls-betsy-devos-the-worst-secretary-of-education-this-country-has-ever-seen/",
+					"display_url": "motherjones.com/politics/2018/…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 806,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 3872,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 05 20:10:29 +0000 2018",
 		"id": 970753435724283900,
 		"id_str": "970753435724283905",
