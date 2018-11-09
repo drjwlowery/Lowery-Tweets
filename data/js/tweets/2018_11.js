@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 20:22:07 +0000 2018",
+		"id": 1060628554654855200,
+		"id_str": "1060628554654855168",
+		"full_text": "10 Tweets From Our New Acting Attorney General https://t.co/q04M4Z4fz8 via @Esquire",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "esquire",
+					"name": "Esquire",
+					"id": 20455625,
+					"id_str": "20455625",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q04M4Z4fz8",
+					"expanded_url": "https://www.esquire.com/news-politics/a24796022/acting-attorney-general-matthew-whitaker-tweets/",
+					"display_url": "esquire.com/news-politics/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10 Tweets From Our New Acting Attorney General https://t.co/q04M4Z4fz8 via @Esquire"
+	},
+	{
+		"created_at": "Thu Nov 08 18:29:51 +0000 2018",
+		"id": 1060600302997553200,
+		"id_str": "1060600302997553152",
+		"full_text": "Suspension continues for Bowie State (Maryland) marching band in wake of hazing allegations #SAHElaw https://t.co/CEvzQCzxPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CEvzQCzxPi",
+					"expanded_url": "https://www.washingtonpost.com/education/2018/11/08/suspension-continues-bowie-state-marching-band-wake-hazing-allegations/?tid=ss_tw&utm_term=.c543c19cd0d1",
+					"display_url": "washingtonpost.com/education/2018…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Suspension continues for Bowie State (Maryland) marching band in wake of hazing allegations #SAHElaw https://t.co/CEvzQCzxPi"
+	},
+	{
+		"created_at": "Thu Nov 08 14:32:43 +0000 2018",
+		"id": 1060540625915953200,
+		"id_str": "1060540625915953153",
+		"full_text": "Justice Ruth Bader Ginsburg Hospitalized With 3 Broken Ribs https://t.co/VpMgQzRWOX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060540603107340300,
+					"id_str": "1060540603107340289",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrfMDz4XcAE6uRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrfMDz4XcAE6uRx.jpg",
+					"url": "https://t.co/VpMgQzRWOX",
+					"display_url": "pic.twitter.com/VpMgQzRWOX",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1060540625915953153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060540603107340300,
+					"id_str": "1060540603107340289",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrfMDz4XcAE6uRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrfMDz4XcAE6uRx.jpg",
+					"url": "https://t.co/VpMgQzRWOX",
+					"display_url": "pic.twitter.com/VpMgQzRWOX",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1060540625915953153/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DrfMDz4XcAE6uRx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Justice Ruth Bader Ginsburg Hospitalized With 3 Broken Ribs https://t.co/VpMgQzRWOX"
+	},
+	{
+		"created_at": "Thu Nov 08 13:50:38 +0000 2018",
+		"id": 1060530036166615000,
+		"id_str": "1060530036166615041",
+		"full_text": "Meriwether, who teaches religion &amp;  philosophy at Shawnee State Univ. (OH), filed a complaint in U.S. District Court Monday against the school's trustees &amp; other officials stating they violated his freedom of speech, religion, &amp; due process. #SAHElaw  https://t.co/rOTL5BCZYx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						254,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rOTL5BCZYx",
+					"expanded_url": "https://www.cincinnati.com/story/news/crime/crime-and-courts/2018/11/07/ohio-professor-sues-doesnt-want-use-transgender-students-pronouns/1894084002/",
+					"display_url": "cincinnati.com/story/news/cri…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meriwether, who teaches religion &amp;  philosophy at Shawnee State Univ. (OH), filed a complaint in U.S. District Court Monday against the school's trustees &amp; other officials stating they violated his freedom of speech, religion, &amp; due process. #SAHElaw  https://t.co/rOTL5BCZYx"
+	},
+	{
+		"created_at": "Thu Nov 08 11:44:50 +0000 2018",
+		"id": 1060498373910913000,
+		"id_str": "1060498373910913025",
+		"full_text": "College administrators are off the scale in relation to the rest of the nation in terms of their ideological leanings, contends Samuel J. Abrams.\n (opinion) https://t.co/TZEM7uuRKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TZEM7uuRKJ",
+					"expanded_url": "https://www.insidehighered.com/views/2018/11/08/college-administrators-are-more-liberal-other-groups-including-faculty-members",
+					"display_url": "insidehighered.com/views/2018/11/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "College administrators are off the scale in relation to the rest of the nation in terms of their ideological leanings, contends Samuel J. Abrams.\n (opinion) https://t.co/TZEM7uuRKJ"
+	},
+	{
+		"created_at": "Thu Nov 08 11:41:26 +0000 2018",
+		"id": 1060497518507802600,
+		"id_str": "1060497518507802624",
+		"full_text": "Dafina-Lazarus Stewart ⁦@DrDLStewart⁩ challenges the view that student affairs administrators are socializing students into a leftist ideology.  Student affairs administrators aren't socializing students into a leftist ideology (opinion)  https://t.co/FuCJxCmDKe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrDLStewart",
+					"name": "Your Zaddy Uncle",
+					"id": 3091031607,
+					"id_str": "3091031607",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FuCJxCmDKe",
+					"expanded_url": "https://www.insidehighered.com/views/2018/11/08/student-affairs-administrators-arent-socializing-students-leftist-ideology-opinion",
+					"display_url": "insidehighered.com/views/2018/11/…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 925,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dafina-Lazarus Stewart ⁦@DrDLStewart⁩ challenges the view that student affairs administrators are socializing students into a leftist ideology.  Student affairs administrators aren't socializing students into a leftist ideology (opinion)  https://t.co/FuCJxCmDKe"
+	},
+	{
 		"created_at": "Wed Nov 07 19:31:22 +0000 2018",
 		"id": 1060253395158818800,
 		"id_str": "1060253395158818816",
