@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 20:57:49 +0000 2018",
+		"id": 1070784397878677500,
+		"id_str": "1070784397878677507",
+		"full_text": "Wisconsin school district officials have unveiled a plan that they hope will instill more empathy and understanding in students after a photo recently surfaced showing several dozen high schoolers giving what appears to be a Nazi salute. https://t.co/moGKoVzGc7 #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						262,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/moGKoVzGc7",
+					"expanded_url": "https://apnews.com/f97573c3654849bd86de7712ee3f2a7e",
+					"display_url": "apnews.com/f97573c3654849…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 954,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wisconsin school district officials have unveiled a plan that they hope will instill more empathy and understanding in students after a photo recently surfaced showing several dozen high schoolers giving what appears to be a Nazi salute. https://t.co/moGKoVzGc7 #SAHElaw"
+	},
+	{
+		"created_at": "Thu Dec 06 20:07:10 +0000 2018",
+		"id": 1070771650273120300,
+		"id_str": "1070771650273120257",
+		"full_text": "How One University Uses ‘Sneaky Learning’ to Help Students Develop Good Study Habits https://t.co/GRwpId7GwC via @chronicle #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GRwpId7GwC",
+					"expanded_url": "https://www.chronicle.com/article/How-One-University-Uses/245265/#.XAmBZbQnYoU.twitter",
+					"display_url": "chronicle.com/article/How-On…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 954,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How One University Uses ‘Sneaky Learning’ to Help Students Develop Good Study Habits https://t.co/GRwpId7GwC via @chronicle #SAHElaw"
+	},
+	{
+		"created_at": "Thu Dec 06 20:03:46 +0000 2018",
+		"id": 1070770795486568400,
+		"id_str": "1070770795486568448",
+		"full_text": "3 Mantras That'll Help You Grow Through Your Next Failure https://t.co/ZyEsJ9ugKK via @shinetext",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShineText",
+					"name": "Shine",
+					"id": 3799802902,
+					"id_str": "3799802902",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZyEsJ9ugKK",
+					"expanded_url": "https://advice.shinetext.com/articles/3-mantras-thatll-help-you-grow-through-your-next-failure/",
+					"display_url": "advice.shinetext.com/articles/3-man…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 954,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3 Mantras That'll Help You Grow Through Your Next Failure https://t.co/ZyEsJ9ugKK via @shinetext"
+	},
+	{
+		"created_at": "Wed Dec 05 14:44:41 +0000 2018",
+		"id": 1070328107935154200,
+		"id_str": "1070328107935154176",
+		"full_text": "Hey, @betsydevosED! This is for you. \n\nHere'a a little holiday story for everyone about your #onesIXtygift!\n\nEveryone! Please watch, and then go here for instructions on how to return this supremely shIXtty gift: https://t.co/ZIZ1Ne2lLu https://t.co/bsIILPUnD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onesIXtygift",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetsyDeVosED",
+					"name": "Betsy DeVos",
+					"id": 828997388920619000,
+					"id_str": "828997388920619008",
+					"indices": [
+						5,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZIZ1Ne2lLu",
+					"expanded_url": "http://ItsOnUs.org/TitleIX",
+					"display_url": "ItsOnUs.org/TitleIX",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070317564633464800,
+					"id_str": "1070317564633464834",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070317564633464834/pu/img/6mbJF824_RpxrArT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070317564633464834/pu/img/6mbJF824_RpxrArT.jpg",
+					"url": "https://t.co/bsIILPUnD6",
+					"display_url": "pic.twitter.com/bsIILPUnD6",
+					"expanded_url": "https://twitter.com/ItsOnUs/status/1070318007732314113/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1070318007732314100,
+					"source_status_id_str": "1070318007732314113",
+					"source_user_id": 2840712124,
+					"source_user_id_str": "2840712124"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070317564633464800,
+					"id_str": "1070317564633464834",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070317564633464834/pu/img/6mbJF824_RpxrArT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070317564633464834/pu/img/6mbJF824_RpxrArT.jpg",
+					"url": "https://t.co/bsIILPUnD6",
+					"display_url": "pic.twitter.com/bsIILPUnD6",
+					"expanded_url": "https://twitter.com/ItsOnUs/status/1070318007732314113/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1070318007732314100,
+					"source_status_id_str": "1070318007732314113",
+					"source_user_id": 2840712124,
+					"source_user_id_str": "2840712124",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1070317564633464834/pu/pl/tU_x4KgB1omRZElv.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070317564633464834/pu/vid/1280x720/VnNC9pv8eBx4p19F.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070317564633464834/pu/vid/640x360/Ai9f7iWfmUl563Kc.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070317564633464834/pu/vid/320x180/9fAECb7eFzA5cGrU.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2840712124,
+							"id_str": "2840712124",
+							"name": "It's On Us",
+							"screen_name": "ItsOnUs",
+							"location": "United States",
+							"description": "Changing the culture around campus sexual assault. Take the #ItsOnUs pledge: https://t.co/h1w9vTQSQk",
+							"url": "https://t.co/y8wXYT2XPZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/y8wXYT2XPZ",
+											"expanded_url": "http://www.itsonus.org",
+											"display_url": "itsonus.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/h1w9vTQSQk",
+											"expanded_url": "http://itsonus.org/pledge",
+											"display_url": "itsonus.org/pledge",
+											"indices": [
+												77,
+												100
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 26481,
+							"friends_count": 1053,
+							"listed_count": 261,
+							"created_at": "Tue Oct 21 21:24:07 +0000 2014",
+							"favourites_count": 3044,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 6301,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1044249555724906503/fyi9ZnPY_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044249555724906503/fyi9ZnPY_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2840712124/1542393383",
+							"profile_link_color": "00CCCC",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26642006,
+			"id_str": "26642006",
+			"name": "Alyssa Milano",
+			"screen_name": "Alyssa_Milano",
+			"location": "Los Angeles",
+			"description": "🇺🇸 I get political/personal here. Check out @PatNotPart and @NoRA4USA Also, please follow my other accounts for career updates @AlyssaDotCom @TouchByAM #NoRA",
+			"url": "https://t.co/DOhhBYiEHZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DOhhBYiEHZ",
+							"expanded_url": "http://alyssa.com",
+							"display_url": "alyssa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3467786,
+			"friends_count": 3220,
+			"listed_count": 37436,
+			"created_at": "Thu Mar 26 00:34:20 +0000 2009",
+			"favourites_count": 7680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "260808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069318716356124672/Ch-An0im_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069318716356124672/Ch-An0im_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26642006/1541690655",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "77BF56",
+			"profile_sidebar_fill_color": "A5C44F",
+			"profile_text_color": "EBE18F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4641,
+		"favorite_count": 9964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, @betsydevosED! This is for you. \n\nHere'a a little holiday story for everyone about your #onesIXtygift!\n\nEveryone! Please watch, and then go here for instructions on how to return this supremely shIXtty gift: https://t.co/ZIZ1Ne2lLu https://t.co/bsIILPUnD6"
+	},
+	{
+		"created_at": "Thu Dec 06 11:40:23 +0000 2018",
+		"id": 1070644114863968300,
+		"id_str": "1070644114863968256",
+		"full_text": "What Would It Take to Keep Campus Protests Safe? One Idea: a ‘Mobile Force Platoon’\n\nA proposal for the University of North Carolina system has drawn fire for its steep cost and for what one critic termed its “totalitarian” approach. #SAHElaw  https://t.co/8PMPrRrunl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						234,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8PMPrRrunl",
+					"expanded_url": "https://www.chronicle.com/article/What-Would-It-Take-to-Keep/245272",
+					"display_url": "chronicle.com/article/What-W…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 954,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What Would It Take to Keep Campus Protests Safe? One Idea: a ‘Mobile Force Platoon’\n\nA proposal for the University of North Carolina system has drawn fire for its steep cost and for what one critic termed its “totalitarian” approach. #SAHElaw  https://t.co/8PMPrRrunl"
+	},
+	{
 		"created_at": "Wed Dec 05 22:13:44 +0000 2018",
 		"id": 1070441116053442600,
 		"id_str": "1070441116053442563",
