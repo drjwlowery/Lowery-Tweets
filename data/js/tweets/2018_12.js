@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 20:49:12 +0000 2018",
+		"id": 1071869395134308400,
+		"id_str": "1071869395134308352",
+		"full_text": "Green River College’s fine for campus safety violations reduced to $250,000 https://t.co/Q2HQGXMavN via @asiakmfields @seattletimes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asiakmfields",
+					"name": "Asia Fields",
+					"id": 705144542270353400,
+					"id_str": "705144542270353408",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"screen_name": "seattletimes",
+					"name": "The Seattle Times",
+					"id": 14352556,
+					"id_str": "14352556",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q2HQGXMavN",
+					"expanded_url": "https://www.seattletimes.com/seattle-news/education/green-river-colleges-fine-for-campus-safety-violations-reduced-to-250000/?utm_source=twitter&utm_medium=social&utm_campaign=article_left_1.1",
+					"display_url": "seattletimes.com/seattle-news/e…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713450652903473200,
+			"id_str": "713450652903473152",
+			"name": "Clery Act Info",
+			"screen_name": "CleryActInfo",
+			"location": "Washington, DC",
+			"description": "Independent source for information about the federal Jeanne Clery Act. Operated by @sdccampussafety of @SAFECampusesLLC.",
+			"url": "https://t.co/4wIvhKRbS3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4wIvhKRbS3",
+							"expanded_url": "http://safecampuses.biz/clery-act/",
+							"display_url": "safecampuses.biz/clery-act/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 57,
+			"listed_count": 1,
+			"created_at": "Fri Mar 25 19:41:05 +0000 2016",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713454507489763328/urprvM0I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713454507489763328/urprvM0I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713450652903473152/1458936783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "f49a4a8acee0f86c",
+			"url": "https://api.twitter.com/1.1/geo/id/f49a4a8acee0f86c.json",
+			"place_type": "city",
+			"name": "Martinez",
+			"full_name": "Martinez, GA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-82.158293,
+							33.457257
+						],
+						[
+							-82.032315,
+							33.457257
+						],
+						[
+							-82.032315,
+							33.595387
+						],
+						[
+							-82.158293,
+							33.595387
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Green River College’s fine for campus safety violations reduced to $250,000 https://t.co/Q2HQGXMavN via @asiakmfields @seattletimes"
+	},
+	{
+		"created_at": "Sat Dec 08 00:15:09 +0000 2018",
+		"id": 1071196445850722300,
+		"id_str": "1071196445850722311",
+		"full_text": "Except for that little part where the US Attorney’s Office says that you directed and coordinated with Cohen to commit two felonies. Other than that, totally scot-free. https://t.co/YXmgY9KmXi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YXmgY9KmXi",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1071177621445230596",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 471677441,
+			"id_str": "471677441",
+			"name": "George Conway",
+			"screen_name": "gtconway3d",
+			"location": "Washington, DC and NYC",
+			"description": "Lawyer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219641,
+			"friends_count": 844,
+			"listed_count": 1107,
+			"created_at": "Mon Jan 23 04:23:10 +0000 2012",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/471677441/1541910186",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071177621445230600,
+		"quoted_status_id_str": "1071177621445230596",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YXmgY9KmXi",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1071177621445230596",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 07 23:00:21 +0000 2018",
+			"id": 1071177621445230600,
+			"id_str": "1071177621445230596",
+			"full_text": "Totally clears the President. Thank you!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56146082,
+				"friends_count": 46,
+				"listed_count": 97270,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22882,
+			"favorite_count": 109454,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 34412,
+		"favorite_count": 127582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Except for that little part where the US Attorney’s Office says that you directed and coordinated with Cohen to commit two felonies. Other than that, totally scot-free. https://t.co/YXmgY9KmXi"
+	},
+	{
+		"created_at": "Sat Dec 08 14:03:12 +0000 2018",
+		"id": 1071404830835531800,
+		"id_str": "1071404830835531777",
+		"full_text": "Our biggest fans this week: @SChaleunphonh, @AlisonKissDoc, @dfalletta. Thank you! via https://t.co/RiaHACtyoE https://t.co/dLpN3kUcLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SChaleunphonh",
+					"name": "Seuth Chaleunphonh",
+					"id": 600098254,
+					"id_str": "600098254",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "AlisonKissDoc",
+					"name": "Alison Kiss",
+					"id": 4800472282,
+					"id_str": "4800472282",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "dfalletta",
+					"name": "David Falletta",
+					"id": 21683335,
+					"id_str": "21683335",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RiaHACtyoE",
+					"expanded_url": "https://sumall.com/thankyou?utm_source=twitter&utm_medium=publishing&utm_campaign=thank_you_tweet&utm_content=text_and_media&utm_term=88b66d0c42f666cc625a95af",
+					"display_url": "sumall.com/thankyou?utm_s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071404822732202000,
+					"id_str": "1071404822732201984",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt5lAn2X4AAvYlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt5lAn2X4AAvYlM.jpg",
+					"url": "https://t.co/dLpN3kUcLI",
+					"display_url": "pic.twitter.com/dLpN3kUcLI",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1071404830835531777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071404822732202000,
+					"id_str": "1071404822732201984",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt5lAn2X4AAvYlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt5lAn2X4AAvYlM.jpg",
+					"url": "https://t.co/dLpN3kUcLI",
+					"display_url": "pic.twitter.com/dLpN3kUcLI",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1071404830835531777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sumall.com/\" rel=\"nofollow\">SumAll</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2138,
+			"friends_count": 955,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our biggest fans this week: @SChaleunphonh, @AlisonKissDoc, @dfalletta. Thank you! via https://t.co/RiaHACtyoE https://t.co/dLpN3kUcLI"
+	},
+	{
 		"created_at": "Sat Dec 08 00:15:09 +0000 2018",
 		"id": 1071196445850722300,
 		"id_str": "1071196445850722311",
