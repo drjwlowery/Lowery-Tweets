@@ -1,6 +1,1773 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 14:30:47 +0000 2018",
+		"id": 1078659530798579700,
+		"id_str": "1078659530798579712",
+		"full_text": "So the National Review says that a student was disciplined just for asking a girl out on a date. That would be a great example of Title IX overreach. But it's not what happened.\n\nLet's summarize what happened. First, he kept asking her out and attending her dance classes. /1 https://t.co/dDN3mX24Po",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078659020720930800,
+					"id_str": "1078659020720930817",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvgqqhPXgAEpB-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvgqqhPXgAEpB-f.jpg",
+					"url": "https://t.co/dDN3mX24Po",
+					"display_url": "pic.twitter.com/dDN3mX24Po",
+					"expanded_url": "https://twitter.com/ASFleischman/status/1078659530798579712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078659020720930800,
+					"id_str": "1078659020720930817",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvgqqhPXgAEpB-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvgqqhPXgAEpB-f.jpg",
+					"url": "https://t.co/dDN3mX24Po",
+					"display_url": "pic.twitter.com/dDN3mX24Po",
+					"expanded_url": "https://twitter.com/ASFleischman/status/1078659530798579712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3461132476,
+			"id_str": "3461132476",
+			"name": "Andrew Fleischman",
+			"screen_name": "ASFleischman",
+			"location": "Atlanta, GA",
+			"description": "I work on behalf of the wrongfully or unfairly convicted.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 763,
+			"listed_count": 28,
+			"created_at": "Thu Aug 27 20:11:03 +0000 2015",
+			"favourites_count": 20396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662372736564510722/ttwIoZ0Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662372736564510722/ttwIoZ0Q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1144,
+		"favorite_count": 2124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So the National Review says that a student was disciplined just for asking a girl out on a date. That would be a great example of Title IX overreach. But it's not what happened.\n\nLet's summarize what happened. First, he kept asking her out and attending her dance classes. /1 https://t.co/dDN3mX24Po"
+	},
+	{
+		"created_at": "Fri Dec 28 20:07:42 +0000 2018",
+		"id": 1078744320100978700,
+		"id_str": "1078744320100978688",
+		"full_text": "A teacher makes 2019 education predictions — some he 'desperately’ hopes won’t come true - The Washington Post #SAHElaw  https://t.co/o9f4SW3mfh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o9f4SW3mfh",
+					"expanded_url": "https://www.washingtonpost.com/education/2018/12/28/teacher-makes-education-predictions-some-he-desperately-hopes-wont-come-true/",
+					"display_url": "washingtonpost.com/education/2018…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A teacher makes 2019 education predictions — some he 'desperately’ hopes won’t come true - The Washington Post #SAHElaw  https://t.co/o9f4SW3mfh"
+	},
+	{
+		"created_at": "Fri Dec 28 19:57:18 +0000 2018",
+		"id": 1078741703169884200,
+		"id_str": "1078741703169884160",
+		"full_text": "I encourage you to read this lengthy story about problems with some of our efforts as a nation to respond to MS-13 &amp; the problems which can be associated with school resource officers.| How a Crackdown on MS-13 Caught Up Innocent H.S. Students  https://t.co/UfYrbKRlqj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UfYrbKRlqj",
+					"expanded_url": "https://nyti.ms/2RkZJdE?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2RkZJdE?smid=n…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I encourage you to read this lengthy story about problems with some of our efforts as a nation to respond to MS-13 &amp; the problems which can be associated with school resource officers.| How a Crackdown on MS-13 Caught Up Innocent H.S. Students  https://t.co/UfYrbKRlqj"
+	},
+	{
+		"created_at": "Fri Dec 28 17:58:43 +0000 2018",
+		"id": 1078711860201963500,
+		"id_str": "1078711860201963525",
+		"full_text": "We can all learn from Tyler and strive to live with some measure of his grace and gratitude. | Tyler Trent: As I face my last days, here is why I am grateful https://t.co/g7Va5dPgkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g7Va5dPgkT",
+					"expanded_url": "https://www.news-press.com/story/opinion/contributors/2018/12/24/tyler-trent-face-my-last-days-why-am-grateful/2405781002/",
+					"display_url": "news-press.com/story/opinion/…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We can all learn from Tyler and strive to live with some measure of his grace and gratitude. | Tyler Trent: As I face my last days, here is why I am grateful https://t.co/g7Va5dPgkT"
+	},
+	{
+		"created_at": "Fri Dec 28 17:27:50 +0000 2018",
+		"id": 1078704087120650200,
+		"id_str": "1078704087120650246",
+		"full_text": "A powerful story I urge you to read. | Mollie Tibbetts' mother listened as Trump used her slain daughter to rail against illegal immigration. Then she took a different path. - The Washington Post https://t.co/oCr5nUCprR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oCr5nUCprR",
+					"expanded_url": "https://www.washingtonpost.com/local/social-issues/trump-used-her-slain-daughter-to-rail-against-illegal-immigration-she-chose-a-different-path/2018/12/27/084f93a4-e9ce-11e8-a939-9469f1166f9d_story.html",
+					"display_url": "washingtonpost.com/local/social-i…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A powerful story I urge you to read. | Mollie Tibbetts' mother listened as Trump used her slain daughter to rail against illegal immigration. Then she took a different path. - The Washington Post https://t.co/oCr5nUCprR"
+	},
+	{
+		"created_at": "Thu Dec 27 20:07:59 +0000 2018",
+		"id": 1078382000887816200,
+		"id_str": "1078382000887816194",
+		"full_text": "And you may find yourself in a beautiful White House, with a beautiful third wife\nAnd you may ask yourself, \"Well... how did I get here?\"\nAnd you may insist to yourself: \"NO COLLUSION.\" https://t.co/JE8T9ivB3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078381777641586700,
+					"id_str": "1078381777641586688",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvcug2SUwAAzWpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvcug2SUwAAzWpp.jpg",
+					"url": "https://t.co/JE8T9ivB3C",
+					"display_url": "pic.twitter.com/JE8T9ivB3C",
+					"expanded_url": "https://twitter.com/KevinMKruse/status/1078382000887816194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078381777641586700,
+					"id_str": "1078381777641586688",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvcug2SUwAAzWpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvcug2SUwAAzWpp.jpg",
+					"url": "https://t.co/JE8T9ivB3C",
+					"display_url": "pic.twitter.com/JE8T9ivB3C",
+					"expanded_url": "https://twitter.com/KevinMKruse/status/1078382000887816194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060489838,
+			"id_str": "3060489838",
+			"name": "Kevin M. Kruse",
+			"screen_name": "KevinMKruse",
+			"location": "Princeton, NJ",
+			"description": "Historian. Author/editor of White Flight; The New Suburban History; Spaces of the Modern City; Fog of War; One Nation Under God; Fault Lines.",
+			"url": "http://t.co/OJWVBf00D8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OJWVBf00D8",
+							"expanded_url": "http://kevinmkruse.com",
+							"display_url": "kevinmkruse.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225872,
+			"friends_count": 1565,
+			"listed_count": 2442,
+			"created_at": "Wed Feb 25 01:25:19 +0000 2015",
+			"favourites_count": 111202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84209,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702198093974863873/MOM1zrQx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702198093974863873/MOM1zrQx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060489838/1540696689",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2534,
+		"favorite_count": 14936,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And you may find yourself in a beautiful White House, with a beautiful third wife\nAnd you may ask yourself, \"Well... how did I get here?\"\nAnd you may insist to yourself: \"NO COLLUSION.\" https://t.co/JE8T9ivB3C"
+	},
+	{
+		"created_at": "Fri Dec 28 15:48:50 +0000 2018",
+		"id": 1078679172652978200,
+		"id_str": "1078679172652978176",
+		"full_text": "This article helps document the costs to individuals, families, communities, and society when the education system fails students, Native American and others. | A Second Chance for Prisoners, and Their Warden   via @NYTimes https://t.co/hXITmvD8KQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hXITmvD8KQ",
+					"expanded_url": "https://nyti.ms/2Rib0f0?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2Rib0f0?smid=n…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This article helps document the costs to individuals, families, communities, and society when the education system fails students, Native American and others. | A Second Chance for Prisoners, and Their Warden   via @NYTimes https://t.co/hXITmvD8KQ"
+	},
+	{
+		"created_at": "Fri Dec 28 15:46:42 +0000 2018",
+		"id": 1078678636801212400,
+		"id_str": "1078678636801212416",
+		"full_text": "‘I Feel Invisible’: Native Students Languish in Public Schools | At Wolf Point High School in rural Montana, Native American students face the same neglect Native students across the U.S. do as they navigate a school system that has failed American Indians https://t.co/lCwXgNAMTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lCwXgNAMTh",
+					"expanded_url": "https://nyti.ms/2GH46vK?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2GH46vK?smid=n…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘I Feel Invisible’: Native Students Languish in Public Schools | At Wolf Point High School in rural Montana, Native American students face the same neglect Native students across the U.S. do as they navigate a school system that has failed American Indians https://t.co/lCwXgNAMTh"
+	},
+	{
+		"created_at": "Fri Dec 28 15:30:23 +0000 2018",
+		"id": 1078674528983760900,
+		"id_str": "1078674528983760897",
+		"full_text": "Interestingly the article was revised to clearly state that the accused student had engaged in a series of behaviors, but the clickbait title largely remains. | Student Found to Have Violated Title IX in Part by Asking Another Student on a Date https://t.co/d9mcxIuxK2 #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9mcxIuxK2",
+					"expanded_url": "https://www.nationalreview.com/2018/12/student-found-to-have-violated-title-ix-by-asking-another-student-on-a-date/",
+					"display_url": "nationalreview.com/2018/12/studen…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interestingly the article was revised to clearly state that the accused student had engaged in a series of behaviors, but the clickbait title largely remains. | Student Found to Have Violated Title IX in Part by Asking Another Student on a Date https://t.co/d9mcxIuxK2 #SAHElaw"
+	},
+	{
+		"created_at": "Fri Dec 28 14:55:33 +0000 2018",
+		"id": 1078665762406125600,
+		"id_str": "1078665762406125568",
+		"full_text": "#HistSAHE https://t.co/u5B7aDJ92y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u5B7aDJ92y",
+					"expanded_url": "https://twitter.com/capitolhistory/status/1078658117272027137",
+					"display_url": "twitter.com/capitolhistory…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078658117272027100,
+		"quoted_status_id_str": "1078658117272027137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u5B7aDJ92y",
+			"expanded": "https://twitter.com/capitolhistory/status/1078658117272027137",
+			"display": "twitter.com/capitolhistory…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 28 14:25:10 +0000 2018",
+			"id": 1078658117272027100,
+			"id_str": "1078658117272027137",
+			"full_text": "Today in 1898 Justin Morrill died--#Vermont representative &amp; senator who was key in passing legislation creating land-grant colleges, an income tax during the Civil War, &amp; the Nat'l Statuary Hall Collection.\n\nImage: 1884 Morrill ptg by Jonathan Johnson courtesy US Sen. Collection https://t.co/rKTxGLWza5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Vermont",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1078658114952618000,
+						"id_str": "1078658114952617984",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/Dvgp1y_X4AAvPK-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dvgp1y_X4AAvPK-.jpg",
+						"url": "https://t.co/rKTxGLWza5",
+						"display_url": "pic.twitter.com/rKTxGLWza5",
+						"expanded_url": "https://twitter.com/CapitolHistory/status/1078658117272027137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1078658114952618000,
+						"id_str": "1078658114952617984",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/Dvgp1y_X4AAvPK-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dvgp1y_X4AAvPK-.jpg",
+						"url": "https://t.co/rKTxGLWza5",
+						"display_url": "pic.twitter.com/rKTxGLWza5",
+						"expanded_url": "https://twitter.com/CapitolHistory/status/1078658117272027137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 506,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52779839,
+				"id_str": "52779839",
+				"name": "US Capitol History",
+				"screen_name": "CapitolHistory",
+				"location": "Washington, DC",
+				"description": "US Capitol History Facts is run by the US Capitol Historical Society, a 501(c)3 founded in 1962 to educate the public about the US Capitol & Congress. @USCapHis",
+				"url": "http://t.co/jTJLFGd0Ry",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jTJLFGd0Ry",
+								"expanded_url": "http://www.uschs.org/",
+								"display_url": "uschs.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23273,
+				"friends_count": 837,
+				"listed_count": 681,
+				"created_at": "Wed Jul 01 16:53:00 +0000 2009",
+				"favourites_count": 85,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/292274918/Dome-elevation-small_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/292274918/Dome-elevation-small_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52779839/1401981459",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HistSAHE https://t.co/u5B7aDJ92y"
+	},
+	{
+		"created_at": "Fri Dec 28 14:24:20 +0000 2018",
+		"id": 1078657906441109500,
+		"id_str": "1078657906441109504",
+		"full_text": "The ‘Story of the Year’ at the Collision of Sports and Politics: The Woman Who Defeated a Cartel (Nassar &amp; Michigan State too) | The Nation #SAHElaw  https://t.co/Py0Noovcok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Py0Noovcok",
+					"expanded_url": "https://www.thenation.com/article/the-story-of-the-year-at-the-collision-of-sports-and-politics-the-woman-who-defeated-a-cartel/",
+					"display_url": "thenation.com/article/the-st…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ‘Story of the Year’ at the Collision of Sports and Politics: The Woman Who Defeated a Cartel (Nassar &amp; Michigan State too) | The Nation #SAHElaw  https://t.co/Py0Noovcok"
+	},
+	{
+		"created_at": "Fri Dec 28 13:34:56 +0000 2018",
+		"id": 1078645477921431600,
+		"id_str": "1078645477921431552",
+		"full_text": "Let's #endgunviolencetogether - go to https://t.co/bzBSOBzhjz to send your representative a postcard demanding they take action on what more than 90% of Americans agree on: universal background checks. https://t.co/AwxDHgsWQ6 via @TOMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "endgunviolencetogether",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TOMS",
+					"name": "TOMS",
+					"id": 15010370,
+					"id_str": "15010370",
+					"indices": [
+						230,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bzBSOBzhjz",
+					"expanded_url": "http://TOMS.com",
+					"display_url": "TOMS.com",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/AwxDHgsWQ6",
+					"expanded_url": "https://www.toms.com/takeaction#showGV#showGV",
+					"display_url": "toms.com/takeaction#sho…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's #endgunviolencetogether - go to https://t.co/bzBSOBzhjz to send your representative a postcard demanding they take action on what more than 90% of Americans agree on: universal background checks. https://t.co/AwxDHgsWQ6 via @TOMS"
+	},
+	{
+		"created_at": "Fri Dec 28 01:25:50 +0000 2018",
+		"id": 1078461993529544700,
+		"id_str": "1078461993529544709",
+		"full_text": "The surprising story behind a shocking photo of MLK under attack https://t.co/5CI3FY5UJR #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CI3FY5UJR",
+					"expanded_url": "http://ti.me/2CUIKED?utm_source=twitter.com&utm_medium=social&utm_campaign=social-share-article",
+					"display_url": "ti.me/2CUIKED?utm_so…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 958,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The surprising story behind a shocking photo of MLK under attack https://t.co/5CI3FY5UJR #HistSAHE"
+	},
+	{
 		"created_at": "Wed Dec 26 16:35:24 +0000 2018",
 		"id": 1077966117333860400,
 		"id_str": "1077966117333860358",
