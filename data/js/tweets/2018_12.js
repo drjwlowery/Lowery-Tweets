@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 31 19:04:08 +0000 2018",
+		"id": 1079815484768505900,
+		"id_str": "1079815484768505856",
+		"full_text": "#HistSAHE https://t.co/Qr2lks4t6V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qr2lks4t6V",
+					"expanded_url": "https://twitter.com/historylvrsclub/status/1079757818897543170",
+					"display_url": "twitter.com/historylvrsclu…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 957,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1079757818897543200,
+		"quoted_status_id_str": "1079757818897543170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qr2lks4t6V",
+			"expanded": "https://twitter.com/historylvrsclub/status/1079757818897543170",
+			"display": "twitter.com/historylvrsclu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 31 15:14:59 +0000 2018",
+			"id": 1079757818897543200,
+			"id_str": "1079757818897543170",
+			"full_text": "Ruby Bridges, first African-American to attend a white elementary school in the South. November 14th, 1960. See more pictures: https://t.co/YZXaNGZ3bU https://t.co/xSQuJ1dy0m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YZXaNGZ3bU",
+						"expanded_url": "http://cmore.pics/OJiOO",
+						"display_url": "cmore.pics/OJiOO",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1079757749779607600,
+						"id_str": "1079757749779607554",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DvwR898WsAIVZu-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvwR898WsAIVZu-.jpg",
+						"url": "https://t.co/xSQuJ1dy0m",
+						"display_url": "pic.twitter.com/xSQuJ1dy0m",
+						"expanded_url": "https://twitter.com/historylvrsclub/status/1079757818897543170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1079757749779607600,
+						"id_str": "1079757749779607554",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DvwR898WsAIVZu-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvwR898WsAIVZu-.jpg",
+						"url": "https://t.co/xSQuJ1dy0m",
+						"display_url": "pic.twitter.com/xSQuJ1dy0m",
+						"expanded_url": "https://twitter.com/historylvrsclub/status/1079757818897543170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3863605355,
+				"id_str": "3863605355",
+				"name": "History Lovers Club",
+				"screen_name": "historylvrsclub",
+				"location": "London, England",
+				"description": "Rare historical photos.  All copyrights belong to their respective owners. Business, removal requests and questions: ask.history.lovers.club@gmail.com",
+				"url": "https://t.co/gggmdpuCSK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gggmdpuCSK",
+								"expanded_url": "http://historyloversclub.com",
+								"display_url": "historyloversclub.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 416627,
+				"friends_count": 1,
+				"listed_count": 4249,
+				"created_at": "Sun Oct 04 17:25:59 +0000 2015",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 143206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650726769058807808/vWX4lILy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650726769058807808/vWX4lILy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3863605355/1443983426",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HistSAHE https://t.co/Qr2lks4t6V"
+	},
+	{
+		"created_at": "Sun Dec 30 13:42:47 +0000 2018",
+		"id": 1079372229106905100,
+		"id_str": "1079372229106905088",
+		"full_text": "It’s my birthday! And I’m asking for the gift of gratitude (for others)! Peep the deets below! https://t.co/gUPtRKWgjU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1079372209292886000,
+					"id_str": "1079372209292886016",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DvqzTjtUwAA_FiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvqzTjtUwAA_FiV.jpg",
+					"url": "https://t.co/gUPtRKWgjU",
+					"display_url": "pic.twitter.com/gUPtRKWgjU",
+					"expanded_url": "https://twitter.com/itsAlexCL/status/1079372229106905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079372209292886000,
+					"id_str": "1079372209292886016",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DvqzTjtUwAA_FiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvqzTjtUwAA_FiV.jpg",
+					"url": "https://t.co/gUPtRKWgjU",
+					"display_url": "pic.twitter.com/gUPtRKWgjU",
+					"expanded_url": "https://twitter.com/itsAlexCL/status/1079372229106905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850019210,
+			"id_str": "850019210",
+			"name": "Alex C. Lange",
+			"screen_name": "itsAlexCL",
+			"location": "Coralville, IA",
+			"description": "i embrace a both/and | devoted to a more loving, equitable #highered thru critical, queer, & anticolonial praxis | #HESAdoc @ UIowa | (gender)queer | they/them",
+			"url": "https://t.co/yfKpjP7CWe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yfKpjP7CWe",
+							"expanded_url": "http://www.itsalexcl.com",
+							"display_url": "itsalexcl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1975,
+			"friends_count": 1418,
+			"listed_count": 46,
+			"created_at": "Thu Sep 27 21:52:46 +0000 2012",
+			"favourites_count": 28542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23743,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/967906751927418880/kwHV6LOj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/967906751927418880/kwHV6LOj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850019210/1513872950",
+			"profile_link_color": "191970",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s my birthday! And I’m asking for the gift of gratitude (for others)! Peep the deets below! https://t.co/gUPtRKWgjU"
+	},
+	{
+		"created_at": "Mon Dec 31 15:28:15 +0000 2018",
+		"id": 1079761157588729900,
+		"id_str": "1079761157588729856",
+		"full_text": "College track star warned police about her ex-boyfriend 6 times in the 10 days before he killed her\n\nNew reports show that authorities were given multiple chances to intervene before Lauren McCluskey was murdered. #SAHElaw  https://t.co/Vwd4iP9Eda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vwd4iP9Eda",
+					"expanded_url": "https://thinkprogress.org/mccluskey-university-of-utah-warned-police-about-ex-boyfriend-6-times-bc08aed0fad5/",
+					"display_url": "thinkprogress.org/mccluskey-univ…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 957,
+			"listed_count": 97,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "College track star warned police about her ex-boyfriend 6 times in the 10 days before he killed her\n\nNew reports show that authorities were given multiple chances to intervene before Lauren McCluskey was murdered. #SAHElaw  https://t.co/Vwd4iP9Eda"
+	},
+	{
 		"created_at": "Sun Dec 30 16:59:31 +0000 2018",
 		"id": 1079421735835975700,
 		"id_str": "1079421735835975683",
