@@ -1,6 +1,1562 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 20:00:57 +0000 2019",
+		"id": 1085265603546566700,
+		"id_str": "1085265603546566658",
+		"full_text": "Asked the UNC system to clarify the shift in timing of Folt's departure (she had said May, now it's Jan. 31). I wanted to know whether would it be accurate to say UNC's board fired Folt. Reply: \"The board voted to accept Chancellor Folt’s resignation on an accelerated timeline.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 829134464,
+			"id_str": "829134464",
+			"name": "Sarah Brown",
+			"screen_name": "Brown_e_Points",
+			"location": "Washington, DC",
+			"description": "Senior reporter @chronicle covering campus culture & whatever gets newsy. Occasional half marathoner, horse lover, sports fanatic. Tar Heel/@dailytarheel alum.",
+			"url": "https://t.co/fzlffj780k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fzlffj780k",
+							"expanded_url": "http://chronicle.com",
+							"display_url": "chronicle.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3024,
+			"friends_count": 952,
+			"listed_count": 102,
+			"created_at": "Mon Sep 17 14:09:12 +0000 2012",
+			"favourites_count": 3758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5405,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054456307649077248/WJNeB0Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054456307649077248/WJNeB0Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/829134464/1505084112",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Asked the UNC system to clarify the shift in timing of Folt's departure (she had said May, now it's Jan. 31). I wanted to know whether would it be accurate to say UNC's board fired Folt. Reply: \"The board voted to accept Chancellor Folt’s resignation on an accelerated timeline.\""
+	},
+	{
+		"created_at": "Tue Jan 15 18:57:57 +0000 2019",
+		"id": 1085249748217577500,
+		"id_str": "1085249748217577479",
+		"full_text": "In a 13-page summary order, CA2 today affirms summary judgment in #titleix and breach of contract case brought by respondent who was challenging Colgate U's disciplinary adjudication.  Court held there was no sex discrimination or breach of contract.  https://t.co/gRwC1l1Mma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "titleix",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gRwC1l1Mma",
+					"expanded_url": "https://bit.ly/2FtZZli",
+					"display_url": "bit.ly/2FtZZli",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111648037,
+			"id_str": "111648037",
+			"name": "Robb Jones",
+			"screen_name": "RobbJones_UE",
+			"location": "Washington, DC",
+			"description": "Education lawyer, college trustee, former SCOTUS administrator, history buff, amateur photographer, and fan of all matters nautical.",
+			"url": "http://t.co/GcyoPBaBPp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GcyoPBaBPp",
+							"expanded_url": "http://www.ue.org",
+							"display_url": "ue.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 124,
+			"listed_count": 9,
+			"created_at": "Fri Feb 05 17:32:16 +0000 2010",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660155242185625600/2rgS8e9K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660155242185625600/2rgS8e9K_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a 13-page summary order, CA2 today affirms summary judgment in #titleix and breach of contract case brought by respondent who was challenging Colgate U's disciplinary adjudication.  Court held there was no sex discrimination or breach of contract.  https://t.co/gRwC1l1Mma"
+	},
+	{
+		"created_at": "Tue Jan 15 17:31:54 +0000 2019",
+		"id": 1085228092417822700,
+		"id_str": "1085228092417822722",
+		"full_text": "Fun that #negreg is starting off today with a legislative history of #negreg -- but @usedgov failed to give negotiators legislative/reg histories of the rules they're rewriting. Don't worry, tho, @NewAmericaEd @CAPHigherEd @Public_Citizen wrote some up at https://t.co/2KvyV7sXox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "negreg",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "negreg",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "usedgov",
+					"name": "US Dept of Education",
+					"id": 20437286,
+					"id_str": "20437286",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"screen_name": "NewAmericaEd",
+					"name": "New America Ed",
+					"id": 52844632,
+					"id_str": "52844632",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"screen_name": "CAPHigherEd",
+					"name": "CAP Higher Education",
+					"id": 2469421711,
+					"id_str": "2469421711",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"screen_name": "Public_Citizen",
+					"name": "Public Citizen",
+					"id": 14335586,
+					"id_str": "14335586",
+					"indices": [
+						223,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2KvyV7sXox",
+					"expanded_url": "http://newamerica.org/negreg",
+					"display_url": "newamerica.org/negreg",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 476844419,
+			"id_str": "476844419",
+			"name": "Clare McCann",
+			"screen_name": "claremccann",
+			"location": "Washington, D.C.",
+			"description": "#HigherEd policy. Current @newamerica @newamericaed, fmr @usedgov, and Bucks County, PA native. A fan of chocolate and The Container Store. Tweets are my own.",
+			"url": "https://t.co/0zfqsNK4XX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zfqsNK4XX",
+							"expanded_url": "http://edcentral.org",
+							"display_url": "edcentral.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2336,
+			"friends_count": 1401,
+			"listed_count": 84,
+			"created_at": "Sat Jan 28 15:14:04 +0000 2012",
+			"favourites_count": 3463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7692,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893528639064739841/uyCV5aHP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893528639064739841/uyCV5aHP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/476844419/1501868651",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun that #negreg is starting off today with a legislative history of #negreg -- but @usedgov failed to give negotiators legislative/reg histories of the rules they're rewriting. Don't worry, tho, @NewAmericaEd @CAPHigherEd @Public_Citizen wrote some up at https://t.co/2KvyV7sXox"
+	},
+	{
+		"created_at": "Tue Jan 15 19:16:27 +0000 2019",
+		"id": 1085254405472034800,
+		"id_str": "1085254405472034816",
+		"full_text": "After the death of a student, SAE fraternity is suspended at UC-Irvine #SAHElaw https://t.co/fEIcx1g81u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fEIcx1g81u",
+					"expanded_url": "https://www.washingtonpost.com/education/2019/01/14/after-death-student-sae-fraternity-is-suspended-uc-irvine/?tid=ss_tw&utm_term=.e49eaa7a3ece",
+					"display_url": "washingtonpost.com/education/2019…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After the death of a student, SAE fraternity is suspended at UC-Irvine #SAHElaw https://t.co/fEIcx1g81u"
+	},
+	{
+		"created_at": "Tue Jan 15 19:09:24 +0000 2019",
+		"id": 1085252630551638000,
+		"id_str": "1085252630551638018",
+		"full_text": "UNC Chancellor Folt says Confederate monument Silent Sam must go — and so will she - The Washington Post #HistSAHE https://t.co/drYcX1lOhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/drYcX1lOhV",
+					"expanded_url": "https://www.washingtonpost.com/education/2019/01/15/unc-chancellor-says-confederate-monument-silent-sam-must-go-so-will-she/?utm_term=.11bfc4f2230a&wpisrc=nl_highered&wpmm=1",
+					"display_url": "washingtonpost.com/education/2019…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UNC Chancellor Folt says Confederate monument Silent Sam must go — and so will she - The Washington Post #HistSAHE https://t.co/drYcX1lOhV"
+	},
+	{
+		"created_at": "Tue Jan 15 13:43:57 +0000 2019",
+		"id": 1085170727979020300,
+		"id_str": "1085170727979020290",
+		"full_text": "A former Michigan State  political science prof propositioned a grad student “for sexual favors in exchange for his academic guidance regarding her research and paper,” according an MSU investigative report provided to the State Journal. #SAHElaw  https://t.co/tdQ44J19u4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						238,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdQ44J19u4",
+					"expanded_url": "https://www.lansingstatejournal.com/story/news/2019/01/14/msu-um-find-political-scientist-propositioned-grad-students-sex/2558997002/",
+					"display_url": "lansingstatejournal.com/story/news/201…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A former Michigan State  political science prof propositioned a grad student “for sexual favors in exchange for his academic guidance regarding her research and paper,” according an MSU investigative report provided to the State Journal. #SAHElaw  https://t.co/tdQ44J19u4"
+	},
+	{
+		"created_at": "Tue Jan 15 13:42:48 +0000 2019",
+		"id": 1085170438957920300,
+		"id_str": "1085170438957920256",
+		"full_text": "According to the lawsuit, Betancourt says the discrimination began a few days after Jan. 2017 semester began when during a meeting with one of her professors, prof asked her what her name was before she transitioned from male to female. #SAHElaw \n https://t.co/TyWwmzEMCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						237,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TyWwmzEMCS",
+					"expanded_url": "https://www.nbcsandiego.com/news/local/Transgender-Student-Sues-Cal-Western-Law-School-For-Rampant-Discrimination-504244721.html",
+					"display_url": "nbcsandiego.com/news/local/Tra…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "According to the lawsuit, Betancourt says the discrimination began a few days after Jan. 2017 semester began when during a meeting with one of her professors, prof asked her what her name was before she transitioned from male to female. #SAHElaw \n https://t.co/TyWwmzEMCS"
+	},
+	{
+		"created_at": "Tue Jan 15 13:40:04 +0000 2019",
+		"id": 1085169747837227000,
+		"id_str": "1085169747837227008",
+		"full_text": "Today's @shinetext made me feel all the feels. 🧠 1 thing our brains love: clutter. But there's no bet... #shinetext https://t.co/0xpufQRcOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shinetext",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShineText",
+					"name": "Shine",
+					"id": 3799802902,
+					"id_str": "3799802902",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0xpufQRcOM",
+					"expanded_url": "http://shne.us/2019-01-15?utm_source=DailyShine&utm_medium=Twitter&utm_campaign=SMSMain",
+					"display_url": "shne.us/2019-01-15?utm…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's @shinetext made me feel all the feels. 🧠 1 thing our brains love: clutter. But there's no bet... #shinetext https://t.co/0xpufQRcOM"
+	},
+	{
+		"created_at": "Tue Jan 15 13:25:34 +0000 2019",
+		"id": 1085166100147515400,
+		"id_str": "1085166100147515394",
+		"full_text": "The Dunning-Kruger Effect May Help Explain Trump's Support | Psychology Today https://t.co/qfYsVZOnmu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qfYsVZOnmu",
+					"expanded_url": "https://www.psychologytoday.com/blog/mind-in-the-machine/201808/the-dunning-kruger-effect-may-help-explain-trumps-support",
+					"display_url": "psychologytoday.com/blog/mind-in-t…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Dunning-Kruger Effect May Help Explain Trump's Support | Psychology Today https://t.co/qfYsVZOnmu"
+	},
+	{
+		"created_at": "Mon Jan 14 18:24:27 +0000 2019",
+		"id": 1084878930665001000,
+		"id_str": "1084878930665000960",
+		"full_text": "\"Students today want the opportunity to be the architects of their own education experience.\" -@NASPApres How will our institutions of #highered respond? #avp19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "avp19",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPApres",
+					"name": "Kevin Kruger",
+					"id": 95735176,
+					"id_str": "95735176",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263547567,
+			"id_str": "263547567",
+			"name": "Jill Creighton",
+			"screen_name": "jillcreighton",
+			"location": "Eugene, OR",
+			"description": "@theasca Past-President. @ascapodcast host. Asst Dean #sapro & #stuconduct pro @uoregon. Doc student Public Admin @WCUofPA. She/her/hers. Views are my own.",
+			"url": "https://t.co/xjhdctDvRL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xjhdctDvRL",
+							"expanded_url": "http://www.theasca.org",
+							"display_url": "theasca.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 515,
+			"listed_count": 21,
+			"created_at": "Thu Mar 10 07:31:47 +0000 2011",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890982450792366080/O8rVI-Zk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890982450792366080/O8rVI-Zk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263547567/1415068264",
+			"profile_link_color": "0022FF",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4de072969805ac41",
+			"url": "https://api.twitter.com/1.1/geo/id/4de072969805ac41.json",
+			"place_type": "city",
+			"name": "West Palm Beach",
+			"full_name": "West Palm Beach, FL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.2006,
+							26.644671
+						],
+						[
+							-80.044639,
+							26.644671
+						],
+						[
+							-80.044639,
+							26.7991205
+						],
+						[
+							-80.2006,
+							26.7991205
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Students today want the opportunity to be the architects of their own education experience.\" -@NASPApres How will our institutions of #highered respond? #avp19"
+	},
+	{
+		"created_at": "Tue Jan 15 11:33:07 +0000 2019",
+		"id": 1085137802789048300,
+		"id_str": "1085137802789048320",
+		"full_text": "UNC Chancellor Folt Steps Down &amp; Orders the Removal of Silent Sam’s Remains\n\nThese apparently came as a surprise to the UNC system’s  board. Its chair said Folt’s move “undermines and insults the board’s goal to operate with class and dignity.” #HistSAHE  https://t.co/IlFhSEyBJK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						249,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlFhSEyBJK",
+					"expanded_url": "https://www.chronicle.com/article/UNC-Chancellor-Steps-Down-and/245472",
+					"display_url": "chronicle.com/article/UNC-Ch…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UNC Chancellor Folt Steps Down &amp; Orders the Removal of Silent Sam’s Remains\n\nThese apparently came as a surprise to the UNC system’s  board. Its chair said Folt’s move “undermines and insults the board’s goal to operate with class and dignity.” #HistSAHE  https://t.co/IlFhSEyBJK"
+	},
+	{
+		"created_at": "Tue Jan 15 11:28:48 +0000 2019",
+		"id": 1085136716762153000,
+		"id_str": "1085136716762152960",
+		"full_text": "Stunning Departure at Chapel Hill\nCarol Folt announces she has ordered removal of Confederate plaques and that she is stepping down. System board leader criticizes her actions #HistSAHE  https://t.co/3vJHQuYYR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3vJHQuYYR6",
+					"expanded_url": "https://www.insidehighered.com/news/2019/01/15/chapel-hill-chancellors-departure-comes-tensions-unc-continue-boiling-over",
+					"display_url": "insidehighered.com/news/2019/01/1…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stunning Departure at Chapel Hill\nCarol Folt announces she has ordered removal of Confederate plaques and that she is stepping down. System board leader criticizes her actions #HistSAHE  https://t.co/3vJHQuYYR6"
+	},
+	{
+		"created_at": "Tue Jan 15 02:25:27 +0000 2019",
+		"id": 1084999976663597000,
+		"id_str": "1084999976663597058",
+		"full_text": "5 Essential Skills For Planning and Doing Your Best Work | Productive Flourishing https://t.co/SSUwJXj466 via @CharlieGilkey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlieGilkey",
+					"name": "Charlie Gilkey",
+					"id": 14198282,
+					"id_str": "14198282",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SSUwJXj466",
+					"expanded_url": "http://bit.ly/2K8YkUc",
+					"display_url": "bit.ly/2K8YkUc",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2149,
+			"friends_count": 971,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 Essential Skills For Planning and Doing Your Best Work | Productive Flourishing https://t.co/SSUwJXj466 via @CharlieGilkey"
+	},
+	{
 		"created_at": "Mon Jan 14 23:47:33 +0000 2019",
 		"id": 1084960240226000900,
 		"id_str": "1084960240226000898",
