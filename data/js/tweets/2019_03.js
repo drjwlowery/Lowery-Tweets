@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 21:02:25 +0000 2019",
+		"id": 1107996114937172000,
+		"id_str": "1109561059743014917",
+		"full_text": "If I’ve got the Latin right, this says “History is the bollocks of time.” Wise, the ancients were. https://t.co/CVDBKGpONK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107996108482138100,
+					"id_str": "1107996108482138118",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BklxqX0AYnFdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BklxqX0AYnFdM.jpg",
+					"url": "https://t.co/CVDBKGpONK",
+					"display_url": "pic.twitter.com/CVDBKGpONK",
+					"expanded_url": "https://twitter.com/DavidWondrich/status/1107996114937171969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107996108482138100,
+					"id_str": "1107996108482138118",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BklxqX0AYnFdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BklxqX0AYnFdM.jpg",
+					"url": "https://t.co/CVDBKGpONK",
+					"display_url": "pic.twitter.com/CVDBKGpONK",
+					"expanded_url": "https://twitter.com/DavidWondrich/status/1107996114937171969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172485263,
+			"id_str": "172485263",
+			"name": "David Wondrich",
+			"screen_name": "DavidWondrich",
+			"location": "Drunkistan",
+			"description": "Barstool Historian. Author of Imbibe and Punch. Hedge funk manager. Vermiculos in mente mundi degustavi. Senior Drinks Columnist, @thedailybeast",
+			"url": "https://t.co/3ayN3nQUYf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ayN3nQUYf",
+							"expanded_url": "http://www.thedailybeast.com/drink-and-food.html",
+							"display_url": "thedailybeast.com/drink-and-food…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30363,
+			"friends_count": 730,
+			"listed_count": 675,
+			"created_at": "Thu Jul 29 20:48:03 +0000 2010",
+			"favourites_count": 16544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C1E9EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263093583/GTFcut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263093583/GTFcut_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172485263/1538413036",
+			"profile_link_color": "0300B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5EFDC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I’ve got the Latin right, this says “History is the bollocks of time.” Wise, the ancients were. https://t.co/CVDBKGpONK"
+	},
+	{
+		"created_at": "Sat Mar 23 13:08:33 +0000 2019",
+		"id": 1109441805525884900,
+		"id_str": "1109441805525884931",
+		"full_text": "Your Ancestors Were Slaves. Who Owns the Photos of Them? https://t.co/Z8QCPRp7gA via ⁦@nytimes⁩ #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z8QCPRp7gA",
+					"expanded_url": "https://www.nytimes.com/2019/03/22/arts/slave-photos-harvard-lawsuit.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2019/03/22/art…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2163,
+			"friends_count": 1004,
+			"listed_count": 98,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 4982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your Ancestors Were Slaves. Who Owns the Photos of Them? https://t.co/Z8QCPRp7gA via ⁦@nytimes⁩ #HistSAHE"
+	},
+	{
 		"created_at": "Sat Mar 23 01:04:48 +0000 2019",
 		"id": 1109259667987783700,
 		"id_str": "1109259667987783680",
