@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 17:53:28 +0000 2019",
+		"id": 1137473622791086100,
+		"id_str": "1138142147197059072",
+		"full_text": "Whatever you do, please DO NOT retweet or like this video of Obama getting a standing ovation at an NBA game.\n\nTrump hates it and screamed at his staff about it.\n\nWe would NOT want Trump or his supporters to see it. https://t.co/bnvVrLPtzu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135352792489627600,
+					"id_str": "1135352792489627648",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135352792489627648/pu/img/Of-ZmSqPpC1PoFtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135352792489627648/pu/img/Of-ZmSqPpC1PoFtv.jpg",
+					"url": "https://t.co/bnvVrLPtzu",
+					"display_url": "pic.twitter.com/bnvVrLPtzu",
+					"expanded_url": "https://twitter.com/YahooCASports/status/1135353018973601792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1135353018973601800,
+					"source_status_id_str": "1135353018973601792",
+					"source_user_id": 28217393,
+					"source_user_id_str": "28217393"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135352792489627600,
+					"id_str": "1135352792489627648",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135352792489627648/pu/img/Of-ZmSqPpC1PoFtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135352792489627648/pu/img/Of-ZmSqPpC1PoFtv.jpg",
+					"url": "https://t.co/bnvVrLPtzu",
+					"display_url": "pic.twitter.com/bnvVrLPtzu",
+					"expanded_url": "https://twitter.com/YahooCASports/status/1135353018973601792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1135353018973601800,
+					"source_status_id_str": "1135353018973601792",
+					"source_user_id": 28217393,
+					"source_user_id_str": "28217393",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29393,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135352792489627648/pu/vid/320x568/TVVPOBecFUV3YxJ5.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135352792489627648/pu/vid/360x640/MlauPS52canqwl2k.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135352792489627648/pu/vid/720x1280/G8HbCah7RP0H3gYl.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1135352792489627648/pu/pl/9VTuI32Zoew9MxZJ.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 28217393,
+							"id_str": "28217393",
+							"name": "Yahoo Sports Canada",
+							"screen_name": "YahooCASports",
+							"location": "Canada",
+							"description": "Sports without the suits // LISTEN to “Inside the Green Room” episodes below 🎧 🏀 ▶️",
+							"url": "https://t.co/kfwi9Un4b6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/kfwi9Un4b6",
+											"expanded_url": "https://apple.co/2yFOz7S",
+											"display_url": "apple.co/2yFOz7S",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 10197,
+							"friends_count": 300,
+							"listed_count": 295,
+							"created_at": "Wed Apr 01 22:46:46 +0000 2009",
+							"favourites_count": 534,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 68199,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1103386863686111234/bK1YyYBE_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103386863686111234/bK1YyYBE_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/28217393/1557370702",
+							"profile_link_color": "400090",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 580224794,
+			"id_str": "580224794",
+			"name": "Travis Allen 🇺🇸",
+			"screen_name": "TravisAllen02",
+			"location": "Louisville, KY",
+			"description": "#RESIST Blocked by Trump THREE times. Sad! Helping Democrats get elected. Vandy Engineer🤓. Not legally responsible for myself",
+			"url": "https://t.co/rzafw1Bx4j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rzafw1Bx4j",
+							"expanded_url": "http://www.amazon.com/shop/travisallen02",
+							"display_url": "amazon.com/shop/travisall…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179740,
+			"friends_count": 110834,
+			"listed_count": 535,
+			"created_at": "Mon May 14 20:47:16 +0000 2012",
+			"favourites_count": 2645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930006342721536/2iWdklAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930006342721536/2iWdklAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580224794/1542761852",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85584,
+		"favorite_count": 126490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whatever you do, please DO NOT retweet or like this video of Obama getting a standing ovation at an NBA game.\n\nTrump hates it and screamed at his staff about it.\n\nWe would NOT want Trump or his supporters to see it. https://t.co/bnvVrLPtzu"
+	},
+	{
+		"created_at": "Mon Jun 10 15:43:06 +0000 2019",
+		"id": 1138109341221904400,
+		"id_str": "1138109341221904384",
+		"full_text": "Saga of Missouri Title IX bills shows sway of lobbyists, dark money in state government https://t.co/t834EVKORQ #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t834EVKORQ",
+					"expanded_url": "https://www.kansascity.com/news/politics-government/article230987328.html",
+					"display_url": "kansascity.com/news/politics-…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 1042,
+			"listed_count": 99,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saga of Missouri Title IX bills shows sway of lobbyists, dark money in state government https://t.co/t834EVKORQ #SAHElaw"
+	},
+	{
+		"created_at": "Mon Jun 10 15:42:10 +0000 2019",
+		"id": 1138109107578101800,
+		"id_str": "1138109107578101761",
+		"full_text": "MIchigan State provost recommended William Strampel stay on as dean despite complaints of inappropriate behavior - https://t.co/adRPtb3yS1 #SAHElaw  https://t.co/c2qYicpUha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/adRPtb3yS1",
+					"expanded_url": "http://mlive.com",
+					"display_url": "mlive.com",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/c2qYicpUha",
+					"expanded_url": "https://www.mlive.com/news/2019/06/msu-provost-recommended-william-strampel-stay-on-as-dean-despite-complaints-of-inappropriate-behavior.html",
+					"display_url": "mlive.com/news/2019/06/m…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 1042,
+			"listed_count": 99,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MIchigan State provost recommended William Strampel stay on as dean despite complaints of inappropriate behavior - https://t.co/adRPtb3yS1 #SAHElaw  https://t.co/c2qYicpUha"
+	},
+	{
 		"created_at": "Sun Jun 09 17:19:34 +0000 2019",
 		"id": 1137771227320205300,
 		"id_str": "1137771227320205312",
