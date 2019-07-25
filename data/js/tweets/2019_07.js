@@ -1,6 +1,3746 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 22:30:21 +0000 2019",
+		"id": 1154156893075624000,
+		"id_str": "1154156893075623942",
+		"full_text": "You can read Marion Talbot's autobiographical work, More than Lore: Reminiscences of Marion Talbot, Dean of Women on HathiTrust: https://t.co/0Ju92Rr6XL #HistSAHE https://t.co/wwy8ZNCtyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Ju92Rr6XL",
+					"expanded_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015013790574&view=1up&seq=11",
+					"display_url": "babel.hathitrust.org/cgi/pt?id=mdp.…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154156891792138200,
+					"id_str": "1154156891792138241",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EARjk_5W4AEPeWP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARjk_5W4AEPeWP.jpg",
+					"url": "https://t.co/wwy8ZNCtyP",
+					"display_url": "pic.twitter.com/wwy8ZNCtyP",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154156893075623942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 777,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154156891792138200,
+					"id_str": "1154156891792138241",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EARjk_5W4AEPeWP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARjk_5W4AEPeWP.jpg",
+					"url": "https://t.co/wwy8ZNCtyP",
+					"display_url": "pic.twitter.com/wwy8ZNCtyP",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154156893075623942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 777,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can read Marion Talbot's autobiographical work, More than Lore: Reminiscences of Marion Talbot, Dean of Women on HathiTrust: https://t.co/0Ju92Rr6XL #HistSAHE https://t.co/wwy8ZNCtyP"
+	},
+	{
+		"created_at": "Wed Jul 24 21:30:23 +0000 2019",
+		"id": 1154141803366555600,
+		"id_str": "1154141803366555648",
+		"full_text": "As part larger exhibit, On Equal Terms: Educating Women at the University of Chicago, Marion Talbot and role at the University of Chicago is discussed. #HistSAHE https://t.co/PjEQVyRVGB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PjEQVyRVGB",
+					"expanded_url": "https://www.lib.uchicago.edu/collex/exhibits/exoet/marion-talbot/",
+					"display_url": "lib.uchicago.edu/collex/exhibit…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As part larger exhibit, On Equal Terms: Educating Women at the University of Chicago, Marion Talbot and role at the University of Chicago is discussed. #HistSAHE https://t.co/PjEQVyRVGB"
+	},
+	{
+		"created_at": "Wed Jul 24 20:50:06 +0000 2019",
+		"id": 1154131667516371000,
+		"id_str": "1154131667516370945",
+		"full_text": "Entangled Lives | “A Lesbian Love Triangle at the University of Chicago: Sophonisba Breckinridge, Marion Talbot, and Edith Abbott.” #HistSAHE #SAchat https://t.co/tHpkv9zrS8 https://t.co/8acHYfn819",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "SAchat",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8acHYfn819",
+					"expanded_url": "https://mag.uchicago.edu/law-policy-society/entangled-lives",
+					"display_url": "mag.uchicago.edu/law-policy-soc…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055148205825056800,
+					"id_str": "1055148205825056776",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DqSjs-mX4AgtHFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqSjs-mX4AgtHFu.jpg",
+					"url": "https://t.co/tHpkv9zrS8",
+					"display_url": "pic.twitter.com/tHpkv9zrS8",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055148206701625344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 325,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055148206701625300,
+					"source_status_id_str": "1055148206701625344",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055148205825056800,
+					"id_str": "1055148205825056776",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DqSjs-mX4AgtHFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqSjs-mX4AgtHFu.jpg",
+					"url": "https://t.co/tHpkv9zrS8",
+					"display_url": "pic.twitter.com/tHpkv9zrS8",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055148206701625344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 325,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055148206701625300,
+					"source_status_id_str": "1055148206701625344",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Entangled Lives | “A Lesbian Love Triangle at the University of Chicago: Sophonisba Breckinridge, Marion Talbot, and Edith Abbott.” #HistSAHE #SAchat https://t.co/tHpkv9zrS8 https://t.co/8acHYfn819"
+	},
+	{
+		"created_at": "Wed Jul 24 20:33:53 +0000 2019",
+		"id": 1154127586039160800,
+		"id_str": "1154127586039160833",
+		"full_text": "In this video, Dr. Anya Jabour of the University of Montana discusses Marion Talbot's work at the University of Chicago with Sophonisba Breckinridge who was her Assistant Dean of Women. https://t.co/LXhBoQ2M6U #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LXhBoQ2M6U",
+					"expanded_url": "https://youtu.be/0sLol6cXXow",
+					"display_url": "youtu.be/0sLol6cXXow",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this video, Dr. Anya Jabour of the University of Montana discusses Marion Talbot's work at the University of Chicago with Sophonisba Breckinridge who was her Assistant Dean of Women. https://t.co/LXhBoQ2M6U #HistSAHE"
+	},
+	{
+		"created_at": "Wed Jul 24 20:30:25 +0000 2019",
+		"id": 1154126714089422800,
+		"id_str": "1154126714089422853",
+		"full_text": "William Rainey Harper wrote Marion Talbot about a woman student's inappropriate conduct in 1896. #HistSAHE https://t.co/r8OzIPJlT0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154126712910876700,
+					"id_str": "1154126712910876678",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EARIIWzXkAYz1mQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARIIWzXkAYz1mQ.jpg",
+					"url": "https://t.co/r8OzIPJlT0",
+					"display_url": "pic.twitter.com/r8OzIPJlT0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154126714089422853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154126712910876700,
+					"id_str": "1154126712910876678",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EARIIWzXkAYz1mQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARIIWzXkAYz1mQ.jpg",
+					"url": "https://t.co/r8OzIPJlT0",
+					"display_url": "pic.twitter.com/r8OzIPJlT0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154126714089422853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "William Rainey Harper wrote Marion Talbot about a woman student's inappropriate conduct in 1896. #HistSAHE https://t.co/r8OzIPJlT0"
+	},
+	{
+		"created_at": "Wed Jul 24 20:00:25 +0000 2019",
+		"id": 1154119161548890000,
+		"id_str": "1154119161548890112",
+		"full_text": "Marston even wrote about Alice Freeman Palmer in an early issue of Wonder Woman. #HistSAHE https://t.co/nirpbTehJi https://t.co/JhyUADGRTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nirpbTehJi",
+					"expanded_url": "http://ow.ly/wfCI30g3auA",
+					"display_url": "ow.ly/wfCI30g3auA",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054501426402074600,
+					"id_str": "1054501426402074624",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJXddfWoAAbFPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJXddfWoAAbFPc.jpg",
+					"url": "https://t.co/JhyUADGRTx",
+					"display_url": "pic.twitter.com/JhyUADGRTx",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054501428021133312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054501428021133300,
+					"source_status_id_str": "1054501428021133312",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054501426402074600,
+					"id_str": "1054501426402074624",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJXddfWoAAbFPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJXddfWoAAbFPc.jpg",
+					"url": "https://t.co/JhyUADGRTx",
+					"display_url": "pic.twitter.com/JhyUADGRTx",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054501428021133312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 241,
+							"h": 361,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054501428021133300,
+					"source_status_id_str": "1054501428021133312",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marston even wrote about Alice Freeman Palmer in an early issue of Wonder Woman. #HistSAHE https://t.co/nirpbTehJi https://t.co/JhyUADGRTx"
+	},
+	{
+		"created_at": "Wed Jul 24 19:52:53 +0000 2019",
+		"id": 1154117265685540900,
+		"id_str": "1154117265685540864",
+		"full_text": "Learning more about Cheyney's history and future in this recent program from NPR station WHYY. Cheyney University’s survival plan https://t.co/rqTOCstYX4 #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rqTOCstYX4",
+					"expanded_url": "https://whyy.org/episodes/cheyney-universitys-survival-plan/",
+					"display_url": "whyy.org/episodes/cheyn…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning more about Cheyney's history and future in this recent program from NPR station WHYY. Cheyney University’s survival plan https://t.co/rqTOCstYX4 #HistSAHE"
+	},
+	{
+		"created_at": "Wed Jul 24 19:50:08 +0000 2019",
+		"id": 1154116573411590100,
+		"id_str": "1154116573411590144",
+		"full_text": "Alice Freeman Palmer was featured in Wonder Women of History in Wonder Woman #34. William Moulton Marston who created Wonder Woman was a student of her Husband, George Palmer, who taught at Harvard.  #HistSAHE https://t.co/Ny2Od7beNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						200,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154116571826217000,
+					"id_str": "1154116571826216961",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EAQ-6EUX4AEG-ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAQ-6EUX4AEG-ER.jpg",
+					"url": "https://t.co/Ny2Od7beNZ",
+					"display_url": "pic.twitter.com/Ny2Od7beNZ",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154116573411590144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154116571826217000,
+					"id_str": "1154116571826216961",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EAQ-6EUX4AEG-ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAQ-6EUX4AEG-ER.jpg",
+					"url": "https://t.co/Ny2Od7beNZ",
+					"display_url": "pic.twitter.com/Ny2Od7beNZ",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1154116573411590144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alice Freeman Palmer was featured in Wonder Women of History in Wonder Woman #34. William Moulton Marston who created Wonder Woman was a student of her Husband, George Palmer, who taught at Harvard.  #HistSAHE https://t.co/Ny2Od7beNZ"
+	},
+	{
+		"created_at": "Wed Jul 24 19:45:09 +0000 2019",
+		"id": 1154115322041032700,
+		"id_str": "1154115322041032704",
+		"full_text": "William Moulton Marston, the creator of Wonder Woman &amp; an early lie detector test, was taught by Palmer's widowed husband at Harvard. #HistSAHE https://t.co/9sNFSzNq3D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054486328958693400,
+					"id_str": "1054486328958693376",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJJurIWsAAwE4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJJurIWsAAwE4-.jpg",
+					"url": "https://t.co/9sNFSzNq3D",
+					"display_url": "pic.twitter.com/9sNFSzNq3D",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054486331211034625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 467,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 467,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054486331211034600,
+					"source_status_id_str": "1054486331211034625",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054486328958693400,
+					"id_str": "1054486328958693376",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJJurIWsAAwE4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJJurIWsAAwE4-.jpg",
+					"url": "https://t.co/9sNFSzNq3D",
+					"display_url": "pic.twitter.com/9sNFSzNq3D",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054486331211034625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 467,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 467,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054486331211034600,
+					"source_status_id_str": "1054486331211034625",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "William Moulton Marston, the creator of Wonder Woman &amp; an early lie detector test, was taught by Palmer's widowed husband at Harvard. #HistSAHE https://t.co/9sNFSzNq3D"
+	},
+	{
+		"created_at": "Wed Jul 24 19:30:27 +0000 2019",
+		"id": 1154111620504871000,
+		"id_str": "1154111620504870912",
+		"full_text": "After her death, Alice Freeman Palmer's husband George (a faculty member at Harvard) wrote her biography. She died in 1902 and he would mourn her for the next 3 decades. Read it here: https://t.co/Sl6YYuT1Un #HistSAHE https://t.co/CrhOCEJi7Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sl6YYuT1Un",
+					"expanded_url": "http://ow.ly/nyd1N",
+					"display_url": "ow.ly/nyd1N",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054532878636335100,
+					"id_str": "1054532878636335104",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJ0EOMWwAAi3Fw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJ0EOMWwAAi3Fw.jpg",
+					"url": "https://t.co/CrhOCEJi7Q",
+					"display_url": "pic.twitter.com/CrhOCEJi7Q",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054532881043865600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054532881043865600,
+					"source_status_id_str": "1054532881043865600",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054532878636335100,
+					"id_str": "1054532878636335104",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJ0EOMWwAAi3Fw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJ0EOMWwAAi3Fw.jpg",
+					"url": "https://t.co/CrhOCEJi7Q",
+					"display_url": "pic.twitter.com/CrhOCEJi7Q",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054532881043865600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054532881043865600,
+					"source_status_id_str": "1054532881043865600",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After her death, Alice Freeman Palmer's husband George (a faculty member at Harvard) wrote her biography. She died in 1902 and he would mourn her for the next 3 decades. Read it here: https://t.co/Sl6YYuT1Un #HistSAHE https://t.co/CrhOCEJi7Q"
+	},
+	{
+		"created_at": "Wed Jul 24 19:00:27 +0000 2019",
+		"id": 1154104073127415800,
+		"id_str": "1154104073127415808",
+		"full_text": "Alice Freeman Palmer became president of Wellesley at the age of 27! She retired and married George Palmer a philosophy professor at Harvard. #Overachiever #HistSAHE https://t.co/BMZGmJj0cf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Overachiever",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "HistSAHE",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054517789984284700,
+					"id_str": "1054517789984284673",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJmV8lX4AEAQXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJmV8lX4AEAQXg.jpg",
+					"url": "https://t.co/BMZGmJj0cf",
+					"display_url": "pic.twitter.com/BMZGmJj0cf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054517798137929728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054517798137929700,
+					"source_status_id_str": "1054517798137929728",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054517789984284700,
+					"id_str": "1054517789984284673",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DqJmV8lX4AEAQXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqJmV8lX4AEAQXg.jpg",
+					"url": "https://t.co/BMZGmJj0cf",
+					"display_url": "pic.twitter.com/BMZGmJj0cf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054517798137929728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054517798137929700,
+					"source_status_id_str": "1054517798137929728",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alice Freeman Palmer became president of Wellesley at the age of 27! She retired and married George Palmer a philosophy professor at Harvard. #Overachiever #HistSAHE https://t.co/BMZGmJj0cf"
+	},
+	{
+		"created_at": "Wed Jul 24 18:30:33 +0000 2019",
+		"id": 1154096547065413600,
+		"id_str": "1154096547065413634",
+		"full_text": "Marion Talbot (below) also wrote about the early history of the AAUW (1881-1931) with Lois Kimball Matthews Rosenberry. You can read it here: https://t.co/Y2pi8mjE2Z #HistSAHE https://t.co/zTbwT9P1nn #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "HistSAHE",
+					"indices": [
+						200,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y2pi8mjE2Z",
+					"expanded_url": "http://ow.ly/nybEr",
+					"display_url": "ow.ly/nybEr",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054848724638281700,
+					"id_str": "1054848724638281735",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DqOTU4PWsAc8Upm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqOTU4PWsAc8Upm.jpg",
+					"url": "https://t.co/zTbwT9P1nn",
+					"display_url": "pic.twitter.com/zTbwT9P1nn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054848726597013514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 678,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054848726597013500,
+					"source_status_id_str": "1054848726597013514",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054848724638281700,
+					"id_str": "1054848724638281735",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DqOTU4PWsAc8Upm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqOTU4PWsAc8Upm.jpg",
+					"url": "https://t.co/zTbwT9P1nn",
+					"display_url": "pic.twitter.com/zTbwT9P1nn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054848726597013514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 678,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054848726597013500,
+					"source_status_id_str": "1054848726597013514",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marion Talbot (below) also wrote about the early history of the AAUW (1881-1931) with Lois Kimball Matthews Rosenberry. You can read it here: https://t.co/Y2pi8mjE2Z #HistSAHE https://t.co/zTbwT9P1nn #HistSAHE"
+	},
+	{
+		"created_at": "Wed Jul 24 18:01:20 +0000 2019",
+		"id": 1154089192844079000,
+		"id_str": "1154089192844079105",
+		"full_text": "You can find a a series of clips from Horsefeathers (1932) here: https://t.co/txijUh9a8I\n\nI particularly like:\nI'm Against It (Clip 1/9)\nAdvice for Dad (Clip 2/9)\nProf. Wagstaff's Office (Clip 5/9)\nClass Clowns (Clip 6/9)\nPink's Fourth Quater Heroics (Clip 9/9)\n#HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						262,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/txijUh9a8I",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLAF3B6275045B9F08",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can find a a series of clips from Horsefeathers (1932) here: https://t.co/txijUh9a8I\n\nI particularly like:\nI'm Against It (Clip 1/9)\nAdvice for Dad (Clip 2/9)\nProf. Wagstaff's Office (Clip 5/9)\nClass Clowns (Clip 6/9)\nPink's Fourth Quater Heroics (Clip 9/9)\n#HistSAHE"
+	},
+	{
+		"created_at": "Wed Jul 24 18:00:26 +0000 2019",
+		"id": 1154088967744163800,
+		"id_str": "1154088967744163842",
+		"full_text": "You can read Lois Kimball Matthews’ The Dean of Women (1915) on Google Books. Note: She married later in life and added Rosenberry to her name. https://t.co/iFLswr2GBN #HistSAHE https://t.co/zk8bRMICR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iFLswr2GBN",
+					"expanded_url": "http://ow.ly/78a0l",
+					"display_url": "ow.ly/78a0l",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054425966997573600,
+					"id_str": "1054425966997573632",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqIS1JTWkAAq8GE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqIS1JTWkAAq8GE.jpg",
+					"url": "https://t.co/zk8bRMICR2",
+					"display_url": "pic.twitter.com/zk8bRMICR2",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054425968926961664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054425968926961700,
+					"source_status_id_str": "1054425968926961664",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054425966997573600,
+					"id_str": "1054425966997573632",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqIS1JTWkAAq8GE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqIS1JTWkAAq8GE.jpg",
+					"url": "https://t.co/zk8bRMICR2",
+					"display_url": "pic.twitter.com/zk8bRMICR2",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054425968926961664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054425968926961700,
+					"source_status_id_str": "1054425968926961664",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can read Lois Kimball Matthews’ The Dean of Women (1915) on Google Books. Note: She married later in life and added Rosenberry to her name. https://t.co/iFLswr2GBN #HistSAHE https://t.co/zk8bRMICR2"
+	},
+	{
+		"created_at": "Wed Jul 24 17:30:31 +0000 2019",
+		"id": 1154081440998592500,
+		"id_str": "1154081440998592514",
+		"full_text": "Thomas Arkle Clark was not the first student affairs professional, but he was the first to hold the title Dean of Men in 1909 at @Illinois_Alma #HistSAHE https://t.co/6IohpAdR6B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						144,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054821064780451800,
+					"id_str": "1054821064780451840",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DqN6K3PWkAALg6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqN6K3PWkAALg6D.jpg",
+					"url": "https://t.co/6IohpAdR6B",
+					"display_url": "pic.twitter.com/6IohpAdR6B",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054821067150245888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054821067150245900,
+					"source_status_id_str": "1054821067150245888",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054821064780451800,
+					"id_str": "1054821064780451840",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DqN6K3PWkAALg6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqN6K3PWkAALg6D.jpg",
+					"url": "https://t.co/6IohpAdR6B",
+					"display_url": "pic.twitter.com/6IohpAdR6B",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054821067150245888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054821067150245900,
+					"source_status_id_str": "1054821067150245888",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas Arkle Clark was not the first student affairs professional, but he was the first to hold the title Dean of Men in 1909 at @Illinois_Alma #HistSAHE https://t.co/6IohpAdR6B"
+	},
+	{
+		"created_at": "Wed Jul 24 17:00:22 +0000 2019",
+		"id": 1154073853343219700,
+		"id_str": "1154073853343219714",
+		"full_text": "Thomas Arkle Clark’s Discipline and the Derelict (1922) is available free on Google Books. #HistSAHE https://t.co/jMW18Afofq https://t.co/i3it8pdg7Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jMW18Afofq",
+					"expanded_url": "http://ow.ly/5N9Pv",
+					"display_url": "ow.ly/5N9Pv",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055569732139696100,
+					"id_str": "1055569732139696131",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DqYjFCfXQAMyN6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqYjFCfXQAMyN6U.jpg",
+					"url": "https://t.co/i3it8pdg7Q",
+					"display_url": "pic.twitter.com/i3it8pdg7Q",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055569733976813568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055569733976813600,
+					"source_status_id_str": "1055569733976813568",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055569732139696100,
+					"id_str": "1055569732139696131",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DqYjFCfXQAMyN6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqYjFCfXQAMyN6U.jpg",
+					"url": "https://t.co/i3it8pdg7Q",
+					"display_url": "pic.twitter.com/i3it8pdg7Q",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055569733976813568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 438,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055569733976813600,
+					"source_status_id_str": "1055569733976813568",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas Arkle Clark’s Discipline and the Derelict (1922) is available free on Google Books. #HistSAHE https://t.co/jMW18Afofq https://t.co/i3it8pdg7Q"
+	},
+	{
+		"created_at": "Wed Jul 24 16:30:15 +0000 2019",
+		"id": 1154066271270527000,
+		"id_str": "1154066271270526976",
+		"full_text": "Who Was Thomas Arkle Clark, Dean of Men? - Fraternity History &amp; More #HistSAHE\nhttps://t.co/bcwUTQbPMt\nhttps://t.co/OsnRF4GL04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bcwUTQbPMt",
+					"expanded_url": "https://www.franbecque.com/who-was-thomas-arkle-clark-dean-of-men/",
+					"display_url": "franbecque.com/who-was-thomas…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055934707169419300,
+					"id_str": "1055934707169419264",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DqdvBYbW4AA8BCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqdvBYbW4AA8BCs.jpg",
+					"url": "https://t.co/OsnRF4GL04",
+					"display_url": "pic.twitter.com/OsnRF4GL04",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055934708733878277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 109,
+							"h": 109,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055934708733878300,
+					"source_status_id_str": "1055934708733878277",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055934707169419300,
+					"id_str": "1055934707169419264",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DqdvBYbW4AA8BCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqdvBYbW4AA8BCs.jpg",
+					"url": "https://t.co/OsnRF4GL04",
+					"display_url": "pic.twitter.com/OsnRF4GL04",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1055934708733878277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 109,
+							"h": 109,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 109,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055934708733878300,
+					"source_status_id_str": "1055934708733878277",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who Was Thomas Arkle Clark, Dean of Men? - Fraternity History &amp; More #HistSAHE\nhttps://t.co/bcwUTQbPMt\nhttps://t.co/OsnRF4GL04"
+	},
+	{
+		"created_at": "Wed Jul 24 16:00:26 +0000 2019",
+		"id": 1154058767853609000,
+		"id_str": "1154058767853608960",
+		"full_text": "The 1920 Conference of Deans and Advisors of Men was hosted by Dean Thomas Arkle Clark. The 9 attendees met in Clark's office and discussed a variety of topics including: fraternities, housing, student self-government, &amp; student activities. #HistSAHE https://t.co/vQdptjkL3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						245,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098243590495658000,
+					"id_str": "1098243590495657984",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"url": "https://t.co/vQdptjkL3A",
+					"display_url": "pic.twitter.com/vQdptjkL3A",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098243592122966018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1098243592122966000,
+					"source_status_id_str": "1098243592122966018",
+					"source_user_id": 937716186057527300,
+					"source_user_id_str": "937716186057527297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098243590495658000,
+					"id_str": "1098243590495657984",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"url": "https://t.co/vQdptjkL3A",
+					"display_url": "pic.twitter.com/vQdptjkL3A",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098243592122966018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1098243592122966000,
+					"source_status_id_str": "1098243592122966018",
+					"source_user_id": 937716186057527300,
+					"source_user_id_str": "937716186057527297"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1920 Conference of Deans and Advisors of Men was hosted by Dean Thomas Arkle Clark. The 9 attendees met in Clark's office and discussed a variety of topics including: fraternities, housing, student self-government, &amp; student activities. #HistSAHE https://t.co/vQdptjkL3A"
+	},
+	{
+		"created_at": "Wed Jul 24 15:53:08 +0000 2019",
+		"id": 1154056932279431200,
+		"id_str": "1154056932279431169",
+		"full_text": "On Nov. 28, 1881, @AAUW began. The story begins with Marion Talbot, a recent grad from Boston U., &amp; Ellen Swallow Richards, Talbot’s mentor &amp; 1st woman MIT prof. They invited 15 alumnae from 8 colleges to meet in Boston. #HistSAHE https://t.co/MuvukS1wh2 https://t.co/LXY3tPL28v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AAUW",
+					"name": "AAUW",
+					"id": 19719380,
+					"id_str": "19719380",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MuvukS1wh2",
+					"expanded_url": "http://ow.ly/uXxs30mm50c",
+					"display_url": "ow.ly/uXxs30mm50c",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067785251756404700,
+					"id_str": "1067785251756404736",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DtGJB3NXcAAhcNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtGJB3NXcAAhcNR.jpg",
+					"url": "https://t.co/LXY3tPL28v",
+					"display_url": "pic.twitter.com/LXY3tPL28v",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1067785253396377601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1067785253396377600,
+					"source_status_id_str": "1067785253396377601",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067785251756404700,
+					"id_str": "1067785251756404736",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DtGJB3NXcAAhcNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtGJB3NXcAAhcNR.jpg",
+					"url": "https://t.co/LXY3tPL28v",
+					"display_url": "pic.twitter.com/LXY3tPL28v",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1067785253396377601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1067785253396377600,
+					"source_status_id_str": "1067785253396377601",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Nov. 28, 1881, @AAUW began. The story begins with Marion Talbot, a recent grad from Boston U., &amp; Ellen Swallow Richards, Talbot’s mentor &amp; 1st woman MIT prof. They invited 15 alumnae from 8 colleges to meet in Boston. #HistSAHE https://t.co/MuvukS1wh2 https://t.co/LXY3tPL28v"
+	},
+	{
+		"created_at": "Wed Jul 24 15:35:07 +0000 2019",
+		"id": 1154052397314052000,
+		"id_str": "1154052397314052096",
+		"full_text": "At the 1920 conference, several deans were asked to speak on specific topics. Dean Clark presented on fraternity problems, and Dean Coulter (below) of @Purdue presented on student standards. Read the meeting notes here: https://t.co/oytbJex1Bq https://t.co/4q7Ussy6ci #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Purdue",
+					"name": "Purdue Boilermakers",
+					"id": 227516842,
+					"id_str": "227516842",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oytbJex1Bq",
+					"expanded_url": "http://ow.ly/d/8bG7",
+					"display_url": "ow.ly/d/8bG7",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098644032010575900,
+					"id_str": "1098644032010575872",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8q7R6X4AA_7PL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8q7R6X4AA_7PL.jpg",
+					"url": "https://t.co/4q7Ussy6ci",
+					"display_url": "pic.twitter.com/4q7Ussy6ci",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098644034002792449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1098644034002792400,
+					"source_status_id_str": "1098644034002792449",
+					"source_user_id": 937716186057527300,
+					"source_user_id_str": "937716186057527297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098644032010575900,
+					"id_str": "1098644032010575872",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8q7R6X4AA_7PL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8q7R6X4AA_7PL.jpg",
+					"url": "https://t.co/4q7Ussy6ci",
+					"display_url": "pic.twitter.com/4q7Ussy6ci",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098644034002792449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1098644034002792400,
+					"source_status_id_str": "1098644034002792449",
+					"source_user_id": 937716186057527300,
+					"source_user_id_str": "937716186057527297"
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the 1920 conference, several deans were asked to speak on specific topics. Dean Clark presented on fraternity problems, and Dean Coulter (below) of @Purdue presented on student standards. Read the meeting notes here: https://t.co/oytbJex1Bq https://t.co/4q7Ussy6ci #HistSAHE"
+	},
+	{
+		"created_at": "Wed Jul 24 14:41:11 +0000 2019",
+		"id": 1154038824822907000,
+		"id_str": "1154038824822906881",
+		"full_text": "Kingman Brewster Jr., 69, Ex-Yale President and U.S. Envoy, Dies (from 1988) https://t.co/x4NJc75REU #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x4NJc75REU",
+					"expanded_url": "https://nyti.ms/2JMYUpq",
+					"display_url": "nyti.ms/2JMYUpq",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1050,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kingman Brewster Jr., 69, Ex-Yale President and U.S. Envoy, Dies (from 1988) https://t.co/x4NJc75REU #HistSAHE"
+	},
+	{
 		"created_at": "Tue Jul 23 19:49:47 +0000 2019",
 		"id": 1153754096639328300,
 		"id_str": "1153754096639328257",
