@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 00:06:45 +0000 2019",
+		"id": 1166139953778180000,
+		"id_str": "1166139953778180096",
+		"full_text": "Litigating Title IX : Some men accused of sexual assault are filing lawsuits against their universities over Title IX violations. NPR's Lulu Garcia-Navarro talks to attorney Michelle Simpson Tuegel. #SAHElaw  https://t.co/DIBFQMexL5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DIBFQMexL5",
+					"expanded_url": "https://www.npr.org/2019/08/18/752147809/litigating-title-ix",
+					"display_url": "npr.org/2019/08/18/752…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 1056,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Litigating Title IX : Some men accused of sexual assault are filing lawsuits against their universities over Title IX violations. NPR's Lulu Garcia-Navarro talks to attorney Michelle Simpson Tuegel. #SAHElaw  https://t.co/DIBFQMexL5"
+	},
+	{
+		"created_at": "Mon Aug 26 15:11:46 +0000 2019",
+		"id": 1166005320956727300,
+		"id_str": "1166005320956727296",
+		"full_text": "Land Grant Colleges have haitorically helped expand higher education opportunity for a wide variety of groups. #HistSAHE https://t.co/XA8NPNkpHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XA8NPNkpHT",
+					"expanded_url": "https://twitter.com/jselingo/status/1165978287606251520",
+					"display_url": "twitter.com/jselingo/statu…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 1056,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165978287606251500,
+		"quoted_status_id_str": "1165978287606251520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XA8NPNkpHT",
+			"expanded": "https://twitter.com/jselingo/status/1165978287606251520",
+			"display": "twitter.com/jselingo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 26 13:24:21 +0000 2019",
+			"id": 1165978287606251500,
+			"id_str": "1165978287606251520",
+			"full_text": "In the U.S., high quality in #highered is mistakenly attributed to small size. @purduemitch tells @GoldieStandard at @SalesforceOrg Innovation Forum that, as a Land Grant, growth is important to Purdue because it’s “why we are out there” to increase access. https://t.co/xsPKpalhNh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							29,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "purduemitch",
+						"name": "Mitch Daniels",
+						"id": 1119798144,
+						"id_str": "1119798144",
+						"indices": [
+							79,
+							91
+						]
+					},
+					{
+						"screen_name": "GoldieStandard",
+						"name": "Goldie Blumenstyk",
+						"id": 46941602,
+						"id_str": "46941602",
+						"indices": [
+							98,
+							113
+						]
+					},
+					{
+						"screen_name": "SalesforceOrg",
+						"name": "Salesforce.org",
+						"id": 36958179,
+						"id_str": "36958179",
+						"indices": [
+							117,
+							131
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1165978264420147200,
+						"id_str": "1165978264420147201",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/EC5jDcqW4AEbVS3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC5jDcqW4AEbVS3.jpg",
+						"url": "https://t.co/xsPKpalhNh",
+						"display_url": "pic.twitter.com/xsPKpalhNh",
+						"expanded_url": "https://twitter.com/jselingo/status/1165978287606251520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1165978264420147200,
+						"id_str": "1165978264420147201",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/EC5jDcqW4AEbVS3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC5jDcqW4AEbVS3.jpg",
+						"url": "https://t.co/xsPKpalhNh",
+						"display_url": "pic.twitter.com/xsPKpalhNh",
+						"expanded_url": "https://twitter.com/jselingo/status/1165978287606251520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29331255,
+				"id_str": "29331255",
+				"name": "Jeff Selingo",
+				"screen_name": "jselingo",
+				"location": "Washington, DC",
+				"description": "At work on ‘The Choice: A Year Inside College Admissions’ @ScribnerBooks 2020 | Contributor @TheAtlantic | Special Advisor @ASU | Visiting Scholar @GeorgiaTech",
+				"url": "https://t.co/RiLKl0yVku",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RiLKl0yVku",
+								"expanded_url": "http://jeffselingo.com",
+								"display_url": "jeffselingo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22353,
+				"friends_count": 1692,
+				"listed_count": 1153,
+				"created_at": "Mon Apr 06 23:55:37 +0000 2009",
+				"favourites_count": 4454,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9735,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926525433801211904/EhwS6UM5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926525433801211904/EhwS6UM5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29331255/1463609264",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Land Grant Colleges have haitorically helped expand higher education opportunity for a wide variety of groups. #HistSAHE https://t.co/XA8NPNkpHT"
+	},
+	{
+		"created_at": "Mon Aug 26 13:49:52 +0000 2019",
+		"id": 1165984708922159000,
+		"id_str": "1165984708922159104",
+		"full_text": "Will deeply divided board votes become the new normal? Kennedy was selected on 5-4 vote and Caslen at USC by an 11-8 to vote. Traditionally these votes were virtually unanimous. | How Partisan Divisions Roiled Colorado's Search for a New System President https://t.co/FXloB61FVC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FXloB61FVC",
+					"expanded_url": "https://www.chronicle.com/article/How-Partisan-Divisions-Roiled/247003/?key=C7CPI6oZBKwjNeU80sdonUClLWotlQ8hakaTktljd3JoM_z80ornclFVs_XoiKC3MDBUbmxCR3ZmNnVtZTI4NkNONGxCaTNFbHhBdndpTHhPdV9hOFRSRWJlSQ#.XWPjQMR5bIQ.twitter",
+					"display_url": "chronicle.com/article/How-Pa…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 1056,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will deeply divided board votes become the new normal? Kennedy was selected on 5-4 vote and Caslen at USC by an 11-8 to vote. Traditionally these votes were virtually unanimous. | How Partisan Divisions Roiled Colorado's Search for a New System President https://t.co/FXloB61FVC"
+	},
+	{
 		"created_at": "Sun Aug 25 22:09:18 +0000 2019",
 		"id": 1165748007595335700,
 		"id_str": "1165748007595335681",
