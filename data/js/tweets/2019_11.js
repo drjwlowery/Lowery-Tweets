@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 14:06:00 +0000 2019",
+		"id": 1190631143919509500,
+		"id_str": "1190631143919509504",
+		"full_text": "May L. Chaney was Appointment Secretary at UC-Berkeley &amp; 1st president of National Association of Appointment Secretaries (NAAS). Learn more about her here: https://t.co/FFUwI6DhRr #HistSAHE https://t.co/iUzs5lxqql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FFUwI6DhRr",
+					"expanded_url": "http://myacpa.org/may-l-cheney",
+					"display_url": "myacpa.org/may-l-cheney",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054468722801414100,
+					"id_str": "1054468722801414144",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DqI5t3FWkAAkchx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqI5t3FWkAAkchx.jpg",
+					"url": "https://t.co/iUzs5lxqql",
+					"display_url": "pic.twitter.com/iUzs5lxqql",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054468725544570883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054468725544570900,
+					"source_status_id_str": "1054468725544570883",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 166,
+									"h": 306,
+									"w": 306
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054468722801414100,
+					"id_str": "1054468722801414144",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DqI5t3FWkAAkchx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqI5t3FWkAAkchx.jpg",
+					"url": "https://t.co/iUzs5lxqql",
+					"display_url": "pic.twitter.com/iUzs5lxqql",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1054468725544570883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1054468725544570900,
+					"source_status_id_str": "1054468725544570883",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 166,
+									"h": 306,
+									"w": 306
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 294,
+									"h": 541,
+									"w": 541
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "May L. Chaney was Appointment Secretary at UC-Berkeley &amp; 1st president of National Association of Appointment Secretaries (NAAS). Learn more about her here: https://t.co/FFUwI6DhRr #HistSAHE https://t.co/iUzs5lxqql"
+	},
+	{
+		"created_at": "Sat Nov 02 13:29:00 +0000 2019",
+		"id": 1190621832619024400,
+		"id_str": "1190621832619024384",
+		"full_text": "@MeganMarron1 I think you could argue that while the Supreme Court has significantly narrowed the fighting words doctrine that they have upheld the basic concept in such cases as Street v. New York (1969), Cohen v. California (1971), R.A.V. v. City of St. Paul (1992). #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganMarron1",
+					"name": "Megan Marron",
+					"id": 1168201535781838800,
+					"id_str": "1168201535781838849",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1190272415726809000,
+		"in_reply_to_status_id_str": "1190272415726809091",
+		"in_reply_to_user_id": 1168201535781838800,
+		"in_reply_to_user_id_str": "1168201535781838849",
+		"in_reply_to_screen_name": "MeganMarron1",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeganMarron1 I think you could argue that while the Supreme Court has significantly narrowed the fighting words doctrine that they have upheld the basic concept in such cases as Street v. New York (1969), Cohen v. California (1971), R.A.V. v. City of St. Paul (1992). #SAHElaw"
+	},
+	{
 		"created_at": "Fri Nov 01 19:26:42 +0000 2019",
 		"id": 1190349462771839000,
 		"id_str": "1190349462771838976",
