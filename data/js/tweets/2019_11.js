@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 00:04:44 +0000 2019",
+		"id": 1191144207936872400,
+		"id_str": "1191144207936872448",
+		"full_text": "#SAHElaw https://t.co/ZvO1iTzzQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZvO1iTzzQG",
+					"expanded_url": "https://twitter.com/josephstorchny/status/1191133849008377857",
+					"display_url": "twitter.com/josephstorchny…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191133849008377900,
+		"quoted_status_id_str": "1191133849008377857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZvO1iTzzQG",
+			"expanded": "https://twitter.com/josephstorchny/status/1191133849008377857",
+			"display": "twitter.com/josephstorchny…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 23:23:34 +0000 2019",
+			"id": 1191133849008377900,
+			"id_str": "1191133849008377857",
+			"full_text": "Just over 2 years since @EDcivilrights issued its September 22, 2017 DCL &amp; we have some interesting notes from an opinion issued Friday. In wake of DCL (which laid out specific guidance while rescinding 2011 and 2014 Obama DCL’s) there’s a question as to whether it’s mandatory.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EDcivilrights",
+						"name": "ED Civil Rights",
+						"id": 252634665,
+						"id_str": "252634665",
+						"indices": [
+							24,
+							38
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 919225471807709200,
+				"id_str": "919225471807709184",
+				"name": "Joseph Storch",
+				"screen_name": "JosephStorchNY",
+				"location": "",
+				"description": "Proud dad, lifelong NY'er, committed pasta-tarian, higher ed lawyer specializing in violence prevention/response & I.P. He/Him. All views my own.",
+				"url": "https://t.co/FPLURswKiH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FPLURswKiH",
+								"expanded_url": "http://bit.ly/givegyb",
+								"display_url": "bit.ly/givegyb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 373,
+				"friends_count": 632,
+				"listed_count": 2,
+				"created_at": "Sat Oct 14 15:36:45 +0000 2017",
+				"favourites_count": 3581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 935,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931576009958178817/DRhQGt0G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931576009958178817/DRhQGt0G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919225471807709184/1572116621",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#SAHElaw https://t.co/ZvO1iTzzQG"
+	},
+	{
 		"created_at": "Sat Nov 02 14:06:00 +0000 2019",
 		"id": 1190631143919509500,
 		"id_str": "1190631143919509504",
