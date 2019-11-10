@@ -1,6 +1,1932 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 23:18:29 +0000 2019",
+		"id": 1193306895387373600,
+		"id_str": "1193306895387373569",
+		"full_text": "2 Charged With Murder After Clark Atlanta University Student Is Found Dead\nAlexis Crawford was reported missing on Nov. 1, just days after she filed a sexual assault report against her roommate’s boyfriend, officials said.  https://t.co/nx0kBENM1J via @NYTimes #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						261,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						252,
+						260
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nx0kBENM1J",
+					"expanded_url": "https://www.nytimes.com/2019/11/09/us/Alexis-Crawford-Clark-Atlanta.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2019/11/09/us/…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2 Charged With Murder After Clark Atlanta University Student Is Found Dead\nAlexis Crawford was reported missing on Nov. 1, just days after she filed a sexual assault report against her roommate’s boyfriend, officials said.  https://t.co/nx0kBENM1J via @NYTimes #SAHElaw"
+	},
+	{
+		"created_at": "Sat Nov 09 20:12:00 +0000 2019",
+		"id": 1193259965835698200,
+		"id_str": "1193259965835698177",
+		"full_text": "John Lewis’ 2016 Commencement address at Washington University in St. Louis https://t.co/J7rVPIjpM3 #HistSAHE https://t.co/5s5ZvTMNgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J7rVPIjpM3",
+					"expanded_url": "http://ow.ly/Nh0U30dDJlP",
+					"display_url": "ow.ly/Nh0U30dDJlP",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 893925863481278500,
+					"id_str": "893925863481278464",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DGfc1ixWAAAWejV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGfc1ixWAAAWejV.jpg",
+					"url": "https://t.co/5s5ZvTMNgn",
+					"display_url": "pic.twitter.com/5s5ZvTMNgn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/893925865444212738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893925865444212700,
+					"source_status_id_str": "893925865444212738",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893925863481278500,
+					"id_str": "893925863481278464",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DGfc1ixWAAAWejV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGfc1ixWAAAWejV.jpg",
+					"url": "https://t.co/5s5ZvTMNgn",
+					"display_url": "pic.twitter.com/5s5ZvTMNgn",
+					"expanded_url": "https://twitter.com/drjwlowery/status/893925865444212738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893925865444212700,
+					"source_status_id_str": "893925865444212738",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John Lewis’ 2016 Commencement address at Washington University in St. Louis https://t.co/J7rVPIjpM3 #HistSAHE https://t.co/5s5ZvTMNgn"
+	},
+	{
+		"created_at": "Sat Nov 09 18:27:00 +0000 2019",
+		"id": 1193233541913432000,
+		"id_str": "1193233541913432064",
+		"full_text": "Tom Hayden Helped Define 1960s Student Activism With This Manifesto [the Port Huron Statement] Tom Hayden died in 2016. #HistSAHE https://t.co/76yJv4b34C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/76yJv4b34C",
+					"expanded_url": "https://time.com/4542668/tom-hayden-port-huron-statement/?xid=tcoshare",
+					"display_url": "time.com/4542668/tom-ha…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tom Hayden Helped Define 1960s Student Activism With This Manifesto [the Port Huron Statement] Tom Hayden died in 2016. #HistSAHE https://t.co/76yJv4b34C"
+	},
+	{
+		"created_at": "Sat Nov 09 16:51:00 +0000 2019",
+		"id": 1193209382743490600,
+		"id_str": "1193209382743490561",
+		"full_text": "Cleveland Sellers was pardoned in 1993. PERSPECTIVE : Justice Finally Comes in the Orangeburg Massacre - latimes https://t.co/5SRPikv9Z7 #SAchat https://t.co/HDLewEtDQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAchat",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5SRPikv9Z7",
+					"expanded_url": "https://www.latimes.com/archives/la-xpm-1993-08-22-op-26458-story.html",
+					"display_url": "latimes.com/archives/la-xp…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093953907880067100,
+					"id_str": "1093953907880067072",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6BSH_XgAAx4XK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6BSH_XgAAx4XK.jpg",
+					"url": "https://t.co/HDLewEtDQz",
+					"display_url": "pic.twitter.com/HDLewEtDQz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1093953910073683969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1093953910073684000,
+					"source_status_id_str": "1093953910073683969",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093953907880067100,
+					"id_str": "1093953907880067072",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6BSH_XgAAx4XK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6BSH_XgAAx4XK.jpg",
+					"url": "https://t.co/HDLewEtDQz",
+					"display_url": "pic.twitter.com/HDLewEtDQz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1093953910073683969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1093953910073684000,
+					"source_status_id_str": "1093953910073683969",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 47,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cleveland Sellers was pardoned in 1993. PERSPECTIVE : Justice Finally Comes in the Orangeburg Massacre - latimes https://t.co/5SRPikv9Z7 #SAchat https://t.co/HDLewEtDQz"
+	},
+	{
+		"created_at": "Sat Nov 09 16:28:00 +0000 2019",
+		"id": 1193203594608156700,
+		"id_str": "1193203594608156672",
+		"full_text": "A Students for a Democratic Society national council meeting in Bloomington, Ind., in 1963. Tom Hayden is at far left. Credit C. Clark Kissinger. “ from NY Times #HistSAHE https://t.co/9JH94ajRb6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062721314996265000,
+					"id_str": "1062721314996264961",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr-LZ8uWoAE0KuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr-LZ8uWoAE0KuS.jpg",
+					"url": "https://t.co/9JH94ajRb6",
+					"display_url": "pic.twitter.com/9JH94ajRb6",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1062721449159467009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1062721449159467000,
+					"source_status_id_str": "1062721449159467009",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 148,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 313,
+									"y": 150,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 470,
+									"y": 150,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 528,
+									"y": 148,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 349,
+									"y": 149,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 431,
+									"y": 149,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 405,
+									"y": 155,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 221,
+									"y": 160,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 248,
+									"y": 168,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 480,
+									"y": 177,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 170,
+									"y": 187,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 191,
+									"y": 207,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 406,
+									"y": 211,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 610,
+									"y": 160,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 31,
+									"y": 387,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 120,
+									"y": 128,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 42,
+									"y": 185,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062721314996265000,
+					"id_str": "1062721314996264961",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr-LZ8uWoAE0KuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr-LZ8uWoAE0KuS.jpg",
+					"url": "https://t.co/9JH94ajRb6",
+					"display_url": "pic.twitter.com/9JH94ajRb6",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1062721449159467009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1062721449159467000,
+					"source_status_id_str": "1062721449159467009",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 148,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 313,
+									"y": 150,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 470,
+									"y": 150,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 528,
+									"y": 148,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 349,
+									"y": 149,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 431,
+									"y": 149,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 405,
+									"y": 155,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 221,
+									"y": 160,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 248,
+									"y": 168,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 480,
+									"y": 177,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 170,
+									"y": 187,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 191,
+									"y": 207,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 406,
+									"y": 211,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 610,
+									"y": 160,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 31,
+									"y": 387,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 120,
+									"y": 128,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 42,
+									"y": 185,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 472,
+									"y": 227,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 708,
+									"y": 226,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 796,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 527,
+									"y": 225,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 650,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 611,
+									"y": 234,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 333,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 374,
+									"y": 254,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 723,
+									"y": 268,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 256,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 289,
+									"y": 312,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 612,
+									"y": 318,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 920,
+									"y": 242,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 48,
+									"y": 583,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 181,
+									"y": 193,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 64,
+									"y": 279,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Students for a Democratic Society national council meeting in Bloomington, Ind., in 1963. Tom Hayden is at far left. Credit C. Clark Kissinger. “ from NY Times #HistSAHE https://t.co/9JH94ajRb6"
+	},
+	{
+		"created_at": "Sat Nov 09 15:40:40 +0000 2019",
+		"id": 1193191682042421200,
+		"id_str": "1193191682042421253",
+		"full_text": "First Generation Students Are Gaining Recognition At Colleges : NPR #HistSAHE #SAchat  https://t.co/7TgNlljzWq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "SAchat",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7TgNlljzWq",
+					"expanded_url": "https://www.npr.org/2019/11/08/776896753/first-gen-proud-campuses-are-celebrating-an-overlooked-group-but-is-that-enough",
+					"display_url": "npr.org/2019/11/08/776…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 1068,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First Generation Students Are Gaining Recognition At Colleges : NPR #HistSAHE #SAchat  https://t.co/7TgNlljzWq"
+	},
+	{
 		"created_at": "Sat Nov 09 01:03:51 +0000 2019",
 		"id": 1192971025258074000,
 		"id_str": "1192971025258074112",
