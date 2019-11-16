@@ -1,6 +1,939 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 23:17:00 +0000 2019",
+		"id": 1195480850072105000,
+		"id_str": "1195480850072104960",
+		"full_text": "Julian Bond - SNCC Digital Gateway SNCC Digital Gateway https://t.co/9MAJqIBQBY https://t.co/Tpp4s6rkpt #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9MAJqIBQBY",
+					"expanded_url": "https://snccdigital.org/people/julian-bond/",
+					"display_url": "snccdigital.org/people/julian-…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 927963926716850200,
+					"id_str": "927963926716850176",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DODKRlhVoAAy5sG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODKRlhVoAAy5sG.jpg",
+					"url": "https://t.co/Tpp4s6rkpt",
+					"display_url": "pic.twitter.com/Tpp4s6rkpt",
+					"expanded_url": "https://twitter.com/drjwlowery/status/927963929774575618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 942,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 942,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927963929774575600,
+					"source_status_id_str": "927963929774575618",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 100,
+									"h": 221,
+									"w": 221
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927963926716850200,
+					"id_str": "927963926716850176",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DODKRlhVoAAy5sG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODKRlhVoAAy5sG.jpg",
+					"url": "https://t.co/Tpp4s6rkpt",
+					"display_url": "pic.twitter.com/Tpp4s6rkpt",
+					"expanded_url": "https://twitter.com/drjwlowery/status/927963929774575618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 942,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 942,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927963929774575600,
+					"source_status_id_str": "927963929774575618",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 139,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 100,
+									"h": 221,
+									"w": 221
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 1069,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Julian Bond - SNCC Digital Gateway SNCC Digital Gateway https://t.co/9MAJqIBQBY https://t.co/Tpp4s6rkpt #HistSAHE"
+	},
+	{
+		"created_at": "Fri Nov 15 13:59:33 +0000 2019",
+		"id": 1195340563723276300,
+		"id_str": "1195340563723276288",
+		"full_text": "No Title IX regs for Christmas this year....sometime in early 2020? #SAHElaw https://t.co/74fK85oYwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74fK85oYwE",
+					"expanded_url": "https://twitter.com/sdccampussafety/status/1195179608271925248",
+					"display_url": "twitter.com/sdccampussafet…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 1069,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195179608271925200,
+		"quoted_status_id_str": "1195179608271925248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/74fK85oYwE",
+			"expanded": "https://twitter.com/sdccampussafety/status/1195179608271925248",
+			"display": "twitter.com/sdccampussafet…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 15 03:19:58 +0000 2019",
+			"id": 1195179608271925200,
+			"id_str": "1195179608271925248",
+			"full_text": "Title IX regulatory EO 12866 meetings with OMB are now scheduled through December 19th virtually assuring that final regulations won’t be published until 2020. https://t.co/D00HTvmqGB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D00HTvmqGB",
+						"expanded_url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=&rin=1870-AA14&viewRule=true",
+						"display_url": "reginfo.gov/public/do/eom1…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26397750,
+				"id_str": "26397750",
+				"name": "S. Daniel Carter",
+				"screen_name": "sdccampussafety",
+				"location": "Thomson, GA",
+				"description": "Campus security consultant (you may know me from the Clery Act), crime victims' rights advocate, & avid sci-fi fan. Pres. @SAFECampusesLLC. Opinions are my own.",
+				"url": "https://t.co/TaEKcfHkoV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TaEKcfHkoV",
+								"expanded_url": "http://safecampuses.biz/associates/s-daniel-carter/",
+								"display_url": "safecampuses.biz/associates/s-d…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1324,
+				"friends_count": 2388,
+				"listed_count": 38,
+				"created_at": "Wed Mar 25 01:57:54 +0000 2009",
+				"favourites_count": 4314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15367,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728299483939938305/eviRUmnu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728299483939938305/eviRUmnu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26397750/1571706159",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "512a8a4a4c4b4be0",
+				"url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+				"place_type": "city",
+				"name": "Charlotte",
+				"full_name": "Charlotte, NC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-81.046876,
+								35.001706
+							],
+							[
+								-80.646695,
+								35.001706
+							],
+							[
+								-80.646695,
+								35.416412
+							],
+							[
+								-81.046876,
+								35.416412
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No Title IX regs for Christmas this year....sometime in early 2020? #SAHElaw https://t.co/74fK85oYwE"
+	},
+	{
+		"created_at": "Fri Nov 15 12:38:29 +0000 2019",
+		"id": 1195320164314681300,
+		"id_str": "1195320164314681345",
+		"full_text": "Behind Closed Doors in Washington, Here’s What Colleges Fight For\nThink of them as College, Inc. Like most industries, higher education prefers less regulation (and accountability). https://t.co/XST5ds7VCp via @NYTimes #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XST5ds7VCp",
+					"expanded_url": "https://www.nytimes.com/2019/11/15/upshot/colleges-resist-regulation.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2019/11/15/ups…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 1069,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Behind Closed Doors in Washington, Here’s What Colleges Fight For\nThink of them as College, Inc. Like most industries, higher education prefers less regulation (and accountability). https://t.co/XST5ds7VCp via @NYTimes #SAHElaw"
+	},
+	{
+		"created_at": "Fri Nov 15 03:32:17 +0000 2019",
+		"id": 1195179608271925200,
+		"id_str": "1195182705983578113",
+		"full_text": "Title IX regulatory EO 12866 meetings with OMB are now scheduled through December 19th virtually assuring that final regulations won’t be published until 2020. https://t.co/D00HTvmqGB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D00HTvmqGB",
+					"expanded_url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=&rin=1870-AA14&viewRule=true",
+					"display_url": "reginfo.gov/public/do/eom1…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26397750,
+			"id_str": "26397750",
+			"name": "S. Daniel Carter",
+			"screen_name": "sdccampussafety",
+			"location": "Thomson, GA",
+			"description": "Campus security consultant (you may know me from the Clery Act), crime victims' rights advocate, & avid sci-fi fan. Pres. @SAFECampusesLLC. Opinions are my own.",
+			"url": "https://t.co/TaEKcfHkoV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TaEKcfHkoV",
+							"expanded_url": "http://safecampuses.biz/associates/s-daniel-carter/",
+							"display_url": "safecampuses.biz/associates/s-d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1324,
+			"friends_count": 2388,
+			"listed_count": 38,
+			"created_at": "Wed Mar 25 01:57:54 +0000 2009",
+			"favourites_count": 4314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728299483939938305/eviRUmnu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728299483939938305/eviRUmnu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26397750/1571706159",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "512a8a4a4c4b4be0",
+			"url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+			"place_type": "city",
+			"name": "Charlotte",
+			"full_name": "Charlotte, NC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-81.046876,
+							35.001706
+						],
+						[
+							-80.646695,
+							35.001706
+						],
+						[
+							-80.646695,
+							35.416412
+						],
+						[
+							-81.046876,
+							35.416412
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Title IX regulatory EO 12866 meetings with OMB are now scheduled through December 19th virtually assuring that final regulations won’t be published until 2020. https://t.co/D00HTvmqGB"
+	},
+	{
+		"created_at": "Fri Nov 15 02:32:07 +0000 2019",
+		"id": 1195167563963158500,
+		"id_str": "1195167563963158528",
+		"full_text": "Portrait of the Artist: An Oral History of David Berman at UVA | UVA Today #HistSAHE  https://t.co/PcF6xwpqBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PcF6xwpqBE",
+					"expanded_url": "https://news.virginia.edu/content/portrait-artist-oral-history-david-berman-uva",
+					"display_url": "news.virginia.edu/content/portra…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 1069,
+			"listed_count": 96,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 5902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Portrait of the Artist: An Oral History of David Berman at UVA | UVA Today #HistSAHE  https://t.co/PcF6xwpqBE"
+	},
+	{
 		"created_at": "Thu Nov 14 22:17:29 +0000 2019",
 		"id": 1195103483877318700,
 		"id_str": "1195103483877318661",
