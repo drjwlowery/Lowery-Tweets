@@ -1,6 +1,2020 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 00:37:14 +0000 2020",
+		"id": 1216519539124527000,
+		"id_str": "1216519539124527105",
+		"full_text": "The funniest story of adoted nicknames is the New Zealand rugby All Blacks. In their 1905 tour of the British Isles and due to a printer’s error, a description of team as “all backs” was misprinted “All Blacks.” The name has stuck for more than 100 years. https://t.co/Aca41gh1ZH https://t.co/r3RA6hrM0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Aca41gh1ZH",
+					"expanded_url": "http://rugbymuseum.co.nz/article-all-blacks-the-name/",
+					"display_url": "rugbymuseum.co.nz/article-all-bl…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216519535148327000,
+					"id_str": "1216519535148326918",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOHyEmLW4AYx-Y4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOHyEmLW4AYx-Y4.jpg",
+					"url": "https://t.co/r3RA6hrM0A",
+					"display_url": "pic.twitter.com/r3RA6hrM0A",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1216519539124527105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 77,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 155,
+									"y": 120,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 21,
+									"y": 121,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 286,
+									"y": 121,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 534,
+									"y": 122,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 408,
+									"y": 124,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 467,
+									"y": 128,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 604,
+									"y": 131,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 572,
+									"y": 177,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 166,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 232,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 305,
+									"y": 191,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 374,
+									"y": 192,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 505,
+									"y": 192,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 98,
+									"y": 195,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 32,
+									"y": 194,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 436,
+									"y": 196,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 443,
+									"y": 258,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 374,
+									"y": 268,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 229,
+									"y": 272,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 304,
+									"y": 270,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 123,
+									"y": 281,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216519535148327000,
+					"id_str": "1216519535148326918",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOHyEmLW4AYx-Y4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOHyEmLW4AYx-Y4.jpg",
+					"url": "https://t.co/r3RA6hrM0A",
+					"display_url": "pic.twitter.com/r3RA6hrM0A",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1216519539124527105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 77,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 155,
+									"y": 120,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 21,
+									"y": 121,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 286,
+									"y": 121,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 534,
+									"y": 122,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 408,
+									"y": 124,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 467,
+									"y": 128,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 604,
+									"y": 131,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 572,
+									"y": 177,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 166,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 232,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 305,
+									"y": 191,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 374,
+									"y": 192,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 505,
+									"y": 192,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 98,
+									"y": 195,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 32,
+									"y": 194,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 436,
+									"y": 196,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 443,
+									"y": 258,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 374,
+									"y": 268,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 229,
+									"y": 272,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 304,
+									"y": 270,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 123,
+									"y": 281,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 82,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 165,
+									"y": 128,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 23,
+									"y": 129,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 303,
+									"y": 129,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 566,
+									"y": 130,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 432,
+									"y": 132,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 495,
+									"y": 136,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 640,
+									"y": 139,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 606,
+									"y": 188,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 176,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 199,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 323,
+									"y": 203,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 396,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 535,
+									"y": 204,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 104,
+									"y": 207,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 34,
+									"y": 206,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 462,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 470,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 396,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 243,
+									"y": 288,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 322,
+									"y": 286,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 131,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1216517314369204200,
+		"in_reply_to_status_id_str": "1216517314369204224",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The funniest story of adoted nicknames is the New Zealand rugby All Blacks. In their 1905 tour of the British Isles and due to a printer’s error, a description of team as “all backs” was misprinted “All Blacks.” The name has stuck for more than 100 years. https://t.co/Aca41gh1ZH https://t.co/r3RA6hrM0A"
+	},
+	{
+		"created_at": "Mon Jan 13 00:28:24 +0000 2020",
+		"id": 1216517314369204200,
+		"id_str": "1216517314369204224",
+		"full_text": "Princeton football team originally wore orange and black stripes on their socks and jerseys which led sports reporters to call refer to them as tigers.  Then students adopted the nickname as their mascot. https://t.co/E8WWLVmxB3 #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E8WWLVmxB3",
+					"expanded_url": "https://princetoniana.princeton.edu/things-princeton/tiger",
+					"display_url": "princetoniana.princeton.edu/things-princet…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1216513968333824000,
+		"in_reply_to_status_id_str": "1216513968333824000",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Princeton football team originally wore orange and black stripes on their socks and jerseys which led sports reporters to call refer to them as tigers.  Then students adopted the nickname as their mascot. https://t.co/E8WWLVmxB3 #HistSAHE"
+	},
+	{
+		"created_at": "Mon Jan 13 00:18:08 +0000 2020",
+		"id": 1216514730417893400,
+		"id_str": "1216514730417893378",
+		"full_text": "Add Oklahoma State to the list. https://t.co/aPOEjuU52w #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aPOEjuU52w",
+					"expanded_url": "https://go.okstate.edu/about-osu/traditions/",
+					"display_url": "go.okstate.edu/about-osu/trad…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1216513968333824000,
+		"in_reply_to_status_id_str": "1216513968333824000",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Add Oklahoma State to the list. https://t.co/aPOEjuU52w #HistSAHE"
+	},
+	{
+		"created_at": "Mon Jan 13 00:15:06 +0000 2020",
+		"id": 1216513968333824000,
+		"id_str": "1216513968333824000",
+		"full_text": "How many schools originally borrowed their mascot and colors from Princeton? Why Clemson and LSU both have Tigers mascots - The Washington Post #HistSAHE  https://t.co/2juJTCZdjH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						144,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2juJTCZdjH",
+					"expanded_url": "https://www.washingtonpost.com/sports/2020/01/10/tiger-mascot-lsu-clemson/",
+					"display_url": "washingtonpost.com/sports/2020/01…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many schools originally borrowed their mascot and colors from Princeton? Why Clemson and LSU both have Tigers mascots - The Washington Post #HistSAHE  https://t.co/2juJTCZdjH"
+	},
+	{
+		"created_at": "Sun Jan 12 23:16:43 +0000 2020",
+		"id": 1216499277876297700,
+		"id_str": "1216499277876297728",
+		"full_text": "TWO STATES. EIGHT TEXTBOOKS. TWO AMERICAN STORIES.\nAmerican history textbooks can differ across the country, in ways that are shaded by partisan politics. https://t.co/JTE6yTUVly via @NYTimes #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JTE6yTUVly",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/01/12/us/texas-vs-california-history-textbooks.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TWO STATES. EIGHT TEXTBOOKS. TWO AMERICAN STORIES.\nAmerican history textbooks can differ across the country, in ways that are shaded by partisan politics. https://t.co/JTE6yTUVly via @NYTimes #HistSAHE"
+	},
+	{
+		"created_at": "Sun Jan 12 23:12:03 +0000 2020",
+		"id": 1216498101403508700,
+		"id_str": "1216498101403508737",
+		"full_text": "Officials Called ‘Redmen’ a Racist Mascot. Then Voters Weighed In.\nThe symbol was removed in a Connecticut town. Now, newly empowered Republicans are restoring it.  https://t.co/CZwt5vL6Qc via @NYTimes #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CZwt5vL6Qc",
+					"expanded_url": "https://www.nytimes.com/2020/01/11/nyregion/killingly-redmen-mascot.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2020/01/11/nyr…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Officials Called ‘Redmen’ a Racist Mascot. Then Voters Weighed In.\nThe symbol was removed in a Connecticut town. Now, newly empowered Republicans are restoring it.  https://t.co/CZwt5vL6Qc via @NYTimes #HistSAHE"
+	},
+	{
+		"created_at": "Sun Jan 12 23:08:13 +0000 2020",
+		"id": 1216497137866899500,
+		"id_str": "1216497137866899456",
+		"full_text": "#MeToo Cases’ New Legal Battleground: Defamation Lawsuits\nThe Weinstein trial is rare because most sexual misconduct allegations are too old to litigate. But women, and men, are finding an alternative way to get to court.  https://t.co/QlE1BnKrvF via @NYTimes #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeToo",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SAHElaw",
+					"indices": [
+						260,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						251,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QlE1BnKrvF",
+					"expanded_url": "https://www.nytimes.com/2020/01/12/arts/defamation-me-too.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2020/01/12/art…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1072,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MeToo Cases’ New Legal Battleground: Defamation Lawsuits\nThe Weinstein trial is rare because most sexual misconduct allegations are too old to litigate. But women, and men, are finding an alternative way to get to court.  https://t.co/QlE1BnKrvF via @NYTimes #SAHElaw"
+	},
+	{
 		"created_at": "Sun Jan 12 00:54:12 +0000 2020",
 		"id": 1216161421211459600,
 		"id_str": "1216161421211459585",
