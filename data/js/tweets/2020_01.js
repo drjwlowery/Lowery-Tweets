@@ -1,6 +1,1328 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 22:19:30 +0000 2020",
+		"id": 1217572041664213000,
+		"id_str": "1217572041664212994",
+		"full_text": "@mrjumd @iHeartRadio @lifeisbeautiful @PostMalone For the best performance that surprised me was Champ the Rapper. (We had really good seats). https://t.co/IYnkVCRsw1",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjumd",
+					"name": "Matt Johnson",
+					"id": 38205547,
+					"id_str": "38205547",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "lifeisbeautiful",
+					"name": "LIFE IS BEAUTIFUL",
+					"id": 853411141,
+					"id_str": "853411141",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "PostMalone",
+					"name": "Posty",
+					"id": 913812620,
+					"id_str": "913812620",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217572035171442700,
+					"id_str": "1217572035171442688",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWvUKTX4AAmapi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWvUKTX4AAmapi.jpg",
+					"url": "https://t.co/IYnkVCRsw1",
+					"display_url": "pic.twitter.com/IYnkVCRsw1",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1217572041664212994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 816,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1878,
+									"y": 910,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 478,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 1100,
+									"y": 533,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 816,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1878,
+									"y": 910,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 270,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 623,
+									"y": 302,
+									"h": 24,
+									"w": 24
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217572035171442700,
+					"id_str": "1217572035171442688",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWvUKTX4AAmapi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWvUKTX4AAmapi.jpg",
+					"url": "https://t.co/IYnkVCRsw1",
+					"display_url": "pic.twitter.com/IYnkVCRsw1",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1217572041664212994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 816,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1878,
+									"y": 910,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 478,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 1100,
+									"y": 533,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 816,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1878,
+									"y": 910,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 270,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 623,
+									"y": 302,
+									"h": 24,
+									"w": 24
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1217569371427614700,
+		"in_reply_to_status_id_str": "1217569371427614721",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrjumd @iHeartRadio @lifeisbeautiful @PostMalone For the best performance that surprised me was Champ the Rapper. (We had really good seats). https://t.co/IYnkVCRsw1"
+	},
+	{
+		"created_at": "Wed Jan 15 22:08:54 +0000 2020",
+		"id": 1217569371427614700,
+		"id_str": "1217569371427614721",
+		"full_text": "@mrjumd @iHeartRadio @lifeisbeautiful @PostMalone She loved it. He was the closing headliner on the last night. It was a dynamic performance. For me the stand out performer I wasn’t already a fan of was Billie Eilish.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjumd",
+					"name": "Matt Johnson",
+					"id": 38205547,
+					"id_str": "38205547",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "lifeisbeautiful",
+					"name": "LIFE IS BEAUTIFUL",
+					"id": 853411141,
+					"id_str": "853411141",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "PostMalone",
+					"name": "Posty",
+					"id": 913812620,
+					"id_str": "913812620",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1217561541920338000,
+		"in_reply_to_status_id_str": "1217561541920337920",
+		"in_reply_to_user_id": 38205547,
+		"in_reply_to_user_id_str": "38205547",
+		"in_reply_to_screen_name": "mrjumd",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrjumd @iHeartRadio @lifeisbeautiful @PostMalone She loved it. He was the closing headliner on the last night. It was a dynamic performance. For me the stand out performer I wasn’t already a fan of was Billie Eilish."
+	},
+	{
+		"created_at": "Wed Jan 15 18:42:06 +0000 2020",
+		"id": 1217517331716497400,
+		"id_str": "1217517331716497408",
+		"full_text": "@mrjumd Not surprised by the results, my daughter’s 16th Birthday  present was a trip this past fall to attend the @iHeartRadio and @lifeisbeautiful music frestivals and she was far and away most excited about seeing @PostMalone. https://t.co/MvqWE7ycbx",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjumd",
+					"name": "Matt Johnson",
+					"id": 38205547,
+					"id_str": "38205547",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"screen_name": "lifeisbeautiful",
+					"name": "LIFE IS BEAUTIFUL",
+					"id": 853411141,
+					"id_str": "853411141",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"screen_name": "PostMalone",
+					"name": "Posty",
+					"id": 913812620,
+					"id_str": "913812620",
+					"indices": [
+						217,
+						228
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217517325051744300,
+					"id_str": "1217517325051744256",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EOV9jnOX0AAm4Dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOV9jnOX0AAm4Dm.jpg",
+					"url": "https://t.co/MvqWE7ycbx",
+					"display_url": "pic.twitter.com/MvqWE7ycbx",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1217517331716497408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 728,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217517325051744300,
+					"id_str": "1217517325051744256",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EOV9jnOX0AAm4Dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOV9jnOX0AAm4Dm.jpg",
+					"url": "https://t.co/MvqWE7ycbx",
+					"display_url": "pic.twitter.com/MvqWE7ycbx",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1217517331716497408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 728,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1217291555700183000,
+		"in_reply_to_status_id_str": "1217291555700183040",
+		"in_reply_to_user_id": 38205547,
+		"in_reply_to_user_id_str": "38205547",
+		"in_reply_to_screen_name": "mrjumd",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrjumd Not surprised by the results, my daughter’s 16th Birthday  present was a trip this past fall to attend the @iHeartRadio and @lifeisbeautiful music frestivals and she was far and away most excited about seeing @PostMalone. https://t.co/MvqWE7ycbx"
+	},
+	{
+		"created_at": "Wed Jan 15 16:09:51 +0000 2020",
+		"id": 1217479016531267600,
+		"id_str": "1217479016531267585",
+		"full_text": "OCR Is About to Rock Our Worlds\nBrett A. Sokolow offers advice for how to respond to the new Title IX regulations that will be published soon. https://t.co/AXE2ZzjPzd #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXE2ZzjPzd",
+					"expanded_url": "https://www.insidehighered.com/views/2020/01/15/how-respond-new-federal-title-ix-regulations-being-published-soon-opinion?utm_source=Inside+Higher+Ed&utm_campaign=aae76a7feb-DNU_2019_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-aae76a7feb-198528653&mc_cid=aae76a7feb&mc_eid=b138da6eaf",
+					"display_url": "insidehighered.com/views/2020/01/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OCR Is About to Rock Our Worlds\nBrett A. Sokolow offers advice for how to respond to the new Title IX regulations that will be published soon. https://t.co/AXE2ZzjPzd #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jan 15 14:42:34 +0000 2020",
+		"id": 1217457047471624200,
+		"id_str": "1217457047471624192",
+		"full_text": "APA Manual 7th Edition: The 17 Most Notable Changes https://t.co/YAS6zDPPnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YAS6zDPPnG",
+					"expanded_url": "https://www.scribbr.com/apa-style/apa-seventh-edition-changes/",
+					"display_url": "scribbr.com/apa-style/apa-…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "APA Manual 7th Edition: The 17 Most Notable Changes https://t.co/YAS6zDPPnG"
+	},
+	{
+		"created_at": "Wed Jan 15 14:13:58 +0000 2020",
+		"id": 1217449852633866200,
+		"id_str": "1217449852633866240",
+		"full_text": "Two fired or resigned amid Florida Institute of Technology Clery Act reporting scandal #SAHElaw  https://t.co/BHiQvOIkZO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BHiQvOIkZO",
+					"expanded_url": "https://www.floridatoday.com/story/news/education/2020/01/13/two-fired-florida-tech-crime-reporting-scandal-grows-scope/4455589002/",
+					"display_url": "floridatoday.com/story/news/edu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two fired or resigned amid Florida Institute of Technology Clery Act reporting scandal #SAHElaw  https://t.co/BHiQvOIkZO"
+	},
+	{
+		"created_at": "Wed Jan 15 08:18:51 +0000 2020",
+		"id": 1217360484397191200,
+		"id_str": "1217360484397191168",
+		"full_text": "The Lost History of an American Coup D’État\nRepublicans and Democrats in North Carolina are locked in a battle over which party inherits the shame of Jim Crow.\n - The Atlantic #HistSAHE https://t.co/M7RPxH7jtH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7RPxH7jtH",
+					"expanded_url": "https://www.theatlantic.com/politics/archive/2017/08/wilmington-massacre/536457/",
+					"display_url": "theatlantic.com/politics/archi…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Lost History of an American Coup D’État\nRepublicans and Democrats in North Carolina are locked in a battle over which party inherits the shame of Jim Crow.\n - The Atlantic #HistSAHE https://t.co/M7RPxH7jtH"
+	},
+	{
+		"created_at": "Wed Jan 15 04:22:11 +0000 2020",
+		"id": 1217300923271135200,
+		"id_str": "1217300923271135232",
+		"full_text": "Bob Jones University looms large in this history and its past policies of racial discrimination loom large in this history. The Real Origins of the Religious Right https://t.co/NYrUUQ8rSq via @politicomag #SAHElaw #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"text": "HistSAHE",
+					"indices": [
+						214,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POLITICOMag",
+					"name": "POLITICO Magazine",
+					"id": 1548489476,
+					"id_str": "1548489476",
+					"indices": [
+						192,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NYrUUQ8rSq",
+					"expanded_url": "https://politi.co/2Qa1pUg",
+					"display_url": "politi.co/2Qa1pUg",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1071,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bob Jones University looms large in this history and its past policies of racial discrimination loom large in this history. The Real Origins of the Religious Right https://t.co/NYrUUQ8rSq via @politicomag #SAHElaw #HistSAHE"
+	},
+	{
 		"created_at": "Tue Jan 14 19:33:55 +0000 2020",
 		"id": 1217167980309680000,
 		"id_str": "1217167980309680141",
