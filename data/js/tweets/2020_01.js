@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 19:38:06 +0000 2020",
+		"id": 1222242464834228200,
+		"id_str": "1222242464834228224",
+		"full_text": "PA is 2nd on this list—from the bottom! https://t.co/KMdvOWDs67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KMdvOWDs67",
+					"expanded_url": "https://twitter.com/edtrust/status/1221923359237320708",
+					"display_url": "twitter.com/edtrust/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221923359237320700,
+		"quoted_status_id_str": "1221923359237320708",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KMdvOWDs67",
+			"expanded": "https://twitter.com/edtrust/status/1221923359237320708",
+			"display": "twitter.com/edtrust/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 22:30:05 +0000 2020",
+			"id": 1221923359237320700,
+			"id_str": "1221923359237320708",
+			"full_text": "In 47 of 50 states, students from low-income backgrounds need to work more than 15 hours per week (an amount that studies suggest can slow students’ progress toward a degree) to pay to go to a public 4yr college https://t.co/Kxpno9cDWV #AffordabilityGap https://t.co/XzJZP62jU9 https://t.co/OWJM0xv1Xr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AffordabilityGap",
+						"indices": [
+							236,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Kxpno9cDWV",
+						"expanded_url": "https://edtru.st/AffordabilityGap",
+						"display_url": "edtru.st/AffordabilityG…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1221923357358284800,
+						"id_str": "1221923357358284803",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUk0coX4AMuBsk.png",
+						"media_url_https": "https://pbs.twimg.com/media/EPUk0coX4AMuBsk.png",
+						"url": "https://t.co/OWJM0xv1Xr",
+						"display_url": "pic.twitter.com/OWJM0xv1Xr",
+						"expanded_url": "https://twitter.com/EdTrust/status/1221923359237320708/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1206995731405590500,
+						"id_str": "1206995731405590528",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EMAcOQfX0AAMYco.png",
+						"media_url_https": "https://pbs.twimg.com/media/EMAcOQfX0AAMYco.png",
+						"url": "https://t.co/XzJZP62jU9",
+						"display_url": "pic.twitter.com/XzJZP62jU9",
+						"expanded_url": "https://twitter.com/EdTrust/status/1206995733959839750/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 1206995733959839700,
+						"source_status_id_str": "1206995733959839750",
+						"source_user_id": 112471133,
+						"source_user_id_str": "112471133",
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221923357358284800,
+						"id_str": "1221923357358284803",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUk0coX4AMuBsk.png",
+						"media_url_https": "https://pbs.twimg.com/media/EPUk0coX4AMuBsk.png",
+						"url": "https://t.co/OWJM0xv1Xr",
+						"display_url": "pic.twitter.com/OWJM0xv1Xr",
+						"expanded_url": "https://twitter.com/EdTrust/status/1221923359237320708/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1206995731405590500,
+						"id_str": "1206995731405590528",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EMAcOQfX0AAMYco.png",
+						"media_url_https": "https://pbs.twimg.com/media/EMAcOQfX0AAMYco.png",
+						"url": "https://t.co/XzJZP62jU9",
+						"display_url": "pic.twitter.com/XzJZP62jU9",
+						"expanded_url": "https://twitter.com/EdTrust/status/1206995733959839750/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 1206995733959839700,
+						"source_status_id_str": "1206995733959839750",
+						"source_user_id": 112471133,
+						"source_user_id_str": "112471133",
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112471133,
+				"id_str": "112471133",
+				"name": "The Education Trust",
+				"screen_name": "EdTrust",
+				"location": "",
+				"description": "Ed Trust works to close the gaps in opportunity and achievement for all students, pre-K through college.",
+				"url": "https://t.co/h9fuLtOo6Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h9fuLtOo6Q",
+								"expanded_url": "https://edtru.st/2R7pxHa",
+								"display_url": "edtru.st/2R7pxHa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93559,
+				"friends_count": 582,
+				"listed_count": 1631,
+				"created_at": "Mon Feb 08 16:30:26 +0000 2010",
+				"favourites_count": 21804,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202310670110339072/IJn-D31P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202310670110339072/IJn-D31P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112471133/1579098452",
+				"profile_link_color": "9C999C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PA is 2nd on this list—from the bottom! https://t.co/KMdvOWDs67"
+	},
+	{
+		"created_at": "Tue Jan 28 19:33:46 +0000 2020",
+		"id": 1222241373744697300,
+		"id_str": "1222241373744697345",
+		"full_text": "#SAHElaw https://t.co/gzh5RKlao7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gzh5RKlao7",
+					"expanded_url": "https://twitter.com/edtrust/status/1222238170919645185",
+					"display_url": "twitter.com/edtrust/status…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222238170919645200,
+		"quoted_status_id_str": "1222238170919645185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gzh5RKlao7",
+			"expanded": "https://twitter.com/edtrust/status/1222238170919645185",
+			"display": "twitter.com/edtrust/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 19:21:02 +0000 2020",
+			"id": 1222238170919645200,
+			"id_str": "1222238170919645185",
+			"full_text": "\"Race-based affirmative action is the best means to achieve more racial diversity on campus.\" - @DrAndrewNichols https://t.co/4JIS51iOJc https://t.co/oFkdqYLVqH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrAndrewNichols",
+						"name": "d h nic",
+						"id": 25743530,
+						"id_str": "25743530",
+						"indices": [
+							96,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4JIS51iOJc",
+						"expanded_url": "https://edtru.st/2yIGzFC",
+						"display_url": "edtru.st/2yIGzFC",
+						"indices": [
+							113,
+							136
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222238167438430200,
+						"id_str": "1222238167438430208",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZDIzkXkAAuhfw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZDIzkXkAAuhfw.jpg",
+						"url": "https://t.co/oFkdqYLVqH",
+						"display_url": "pic.twitter.com/oFkdqYLVqH",
+						"expanded_url": "https://twitter.com/EdTrust/status/1222238170919645185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 340,
+										"y": 321,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 292,
+										"y": 103,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 153,
+										"y": 146,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222238167438430200,
+						"id_str": "1222238167438430208",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZDIzkXkAAuhfw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZDIzkXkAAuhfw.jpg",
+						"url": "https://t.co/oFkdqYLVqH",
+						"display_url": "pic.twitter.com/oFkdqYLVqH",
+						"expanded_url": "https://twitter.com/EdTrust/status/1222238170919645185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 340,
+										"y": 321,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 292,
+										"y": 103,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 153,
+										"y": 146,
+										"h": 78,
+										"w": 78
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 600,
+										"y": 568,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 516,
+										"y": 183,
+										"h": 146,
+										"w": 146
+									},
+									{
+										"x": 270,
+										"y": 258,
+										"h": 139,
+										"w": 139
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112471133,
+				"id_str": "112471133",
+				"name": "The Education Trust",
+				"screen_name": "EdTrust",
+				"location": "",
+				"description": "Ed Trust works to close the gaps in opportunity and achievement for all students, pre-K through college.",
+				"url": "https://t.co/h9fuLtOo6Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h9fuLtOo6Q",
+								"expanded_url": "https://edtru.st/2R7pxHa",
+								"display_url": "edtru.st/2R7pxHa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93559,
+				"friends_count": 582,
+				"listed_count": 1631,
+				"created_at": "Mon Feb 08 16:30:26 +0000 2010",
+				"favourites_count": 21804,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202310670110339072/IJn-D31P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202310670110339072/IJn-D31P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112471133/1579098452",
+				"profile_link_color": "9C999C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#SAHElaw https://t.co/gzh5RKlao7"
+	},
+	{
 		"created_at": "Mon Jan 27 11:31:56 +0000 2020",
 		"id": 1221757729640976400,
 		"id_str": "1221757729640976386",
