@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 23:40:21 +0000 2020",
+		"id": 1223028205403037700,
+		"id_str": "1223028205403037697",
+		"full_text": "UC Berkeley removes racist John Boalt’s name from law school | Berkeley News #HistSAHE  https://t.co/7yj2tXjsmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7yj2tXjsmx",
+					"expanded_url": "https://news.berkeley.edu/2020/01/30/boalt-hall-denamed/",
+					"display_url": "news.berkeley.edu/2020/01/30/boa…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2179,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UC Berkeley removes racist John Boalt’s name from law school | Berkeley News #HistSAHE  https://t.co/7yj2tXjsmx"
+	},
+	{
+		"created_at": "Thu Jan 30 23:29:02 +0000 2020",
+		"id": 1223025355373584400,
+		"id_str": "1223025355373584386",
+		"full_text": "Princeton University portraits lacked diversity, so artist Mario Moore painted blue-collar workers who ‘really run things’ - The Washington Post #SAchat https://t.co/LB58aoaTUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAchat",
+					"indices": [
+						145,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LB58aoaTUP",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/2020/01/24/portraits-campus-lacked-diversity-so-this-artist-painted-blue-collar-workers-who-really-run-things/",
+					"display_url": "washingtonpost.com/lifestyle/2020…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2179,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Princeton University portraits lacked diversity, so artist Mario Moore painted blue-collar workers who ‘really run things’ - The Washington Post #SAchat https://t.co/LB58aoaTUP"
+	},
+	{
+		"created_at": "Thu Jan 30 20:20:53 +0000 2020",
+		"id": 1222978006555267000,
+		"id_str": "1222978006555267072",
+		"full_text": "A civil rights love story: Representative Jim Clyburn who met his wife in jail in 1960 - He was arrested for leading lunch counter sit-ins in Orangeburg, SC as a student at ⁦@SCSTATE1896⁩ in 1960. - The Washington Post #HistSAHE  https://t.co/EMUlnl3ARG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						219,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCSTATE1896",
+					"name": "SC State University",
+					"id": 122169795,
+					"id_str": "122169795",
+					"indices": [
+						174,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EMUlnl3ARG",
+					"expanded_url": "https://www.washingtonpost.com/history/2020/01/10/clyburn-recounts-1960-meet-cute-with-his-future-wife-jail/",
+					"display_url": "washingtonpost.com/history/2020/0…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2179,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A civil rights love story: Representative Jim Clyburn who met his wife in jail in 1960 - He was arrested for leading lunch counter sit-ins in Orangeburg, SC as a student at ⁦@SCSTATE1896⁩ in 1960. - The Washington Post #HistSAHE  https://t.co/EMUlnl3ARG"
+	},
+	{
+		"created_at": "Thu Jan 30 18:31:00 +0000 2020",
+		"id": 1222950353890685000,
+		"id_str": "1222950353890684929",
+		"full_text": "@NASPAhistory @NASPAtweets @Tony_Cawthon Established in 1986, this award, named for Dr. Robert H. Shaffer Dean and Professor Emeritus at Indiana University (he passed away in 2017), is presented to a tenured, full-time faculty member in a graduate preparation program in student affairs.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAhistory",
+					"name": "NASPA History",
+					"id": 937716186057527300,
+					"id_str": "937716186057527297",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "Tony_Cawthon",
+					"name": "Tony Cawthon",
+					"id": 3160750246,
+					"id_str": "3160750246",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1222929973008388000,
+		"in_reply_to_status_id_str": "1222929973008388097",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2179,
+			"friends_count": 1087,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NASPAhistory @NASPAtweets @Tony_Cawthon Established in 1986, this award, named for Dr. Robert H. Shaffer Dean and Professor Emeritus at Indiana University (he passed away in 2017), is presented to a tenured, full-time faculty member in a graduate preparation program in student affairs."
+	},
+	{
 		"created_at": "Wed Jan 29 22:19:27 +0000 2020",
 		"id": 1222645460088782800,
 		"id_str": "1222645460088782848",
