@@ -1,6 +1,1440 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 23:58:55 +0000 2020",
+		"id": 1237434082251788300,
+		"id_str": "1237528393219895297",
+		"full_text": "Dr. Tim Renick \"Does Student Success Scale?\" #sxswedu #altsxswedu #highered @tim_renick @GeorgiaStateU https://t.co/bF6gAXpaW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sxswedu",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "altsxswedu",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tim_renick",
+					"name": "Tim Renick",
+					"id": 4064123482,
+					"id_str": "4064123482",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "GeorgiaStateU",
+					"name": "Georgia State University",
+					"id": 26524127,
+					"id_str": "26524127",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bF6gAXpaW3",
+					"expanded_url": "https://www.pscp.tv/w/cTZ36jFvTmpsUlh3d2JRd1J8MWxQSnFWbG5OTlp4YkKBnhQlJ_BSxcqH3Jj9prTgah2jFonbU6wUKw3rol5i",
+					"display_url": "pscp.tv/w/cTZ36jFvTmps…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2688930078,
+			"id_str": "2688930078",
+			"name": "UIA",
+			"screen_name": "UIAinnovation",
+			"location": "11 states spanning the country",
+			"description": "The groundbreaking national innovation cluster of 11 large public universities collaborating to improve outcomes for ALL students.",
+			"url": "https://t.co/nIEzXIdWgz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nIEzXIdWgz",
+							"expanded_url": "http://www.theUIA.org",
+							"display_url": "theUIA.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20831,
+			"friends_count": 12436,
+			"listed_count": 434,
+			"created_at": "Tue Jul 29 02:32:02 +0000 2014",
+			"favourites_count": 13228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494194686018342913/58JN_-2i_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494194686018342913/58JN_-2i_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2688930078/1406660091",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Tim Renick \"Does Student Success Scale?\" #sxswedu #altsxswedu #highered @tim_renick @GeorgiaStateU https://t.co/bF6gAXpaW3"
+	},
+	{
+		"created_at": "Tue Mar 10 21:03:06 +0000 2020",
+		"id": 1237484148350226400,
+		"id_str": "1237484148350226439",
+		"full_text": "Dr. Lori S. White was named the next President of @DePauwU last week, but she is not the first @NASPAtweets president to also lead an institution of higher education. She is at least the 13th to serve an institution in this role. #HistSAHE https://t.co/bUeVbgsqur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DePauwU",
+					"name": "DePauw University",
+					"id": 71563476,
+					"id_str": "71563476",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bUeVbgsqur",
+					"expanded_url": "https://twitter.com/naspahistory/status/1237476570815750151",
+					"display_url": "twitter.com/naspahistory/s…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1101,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237476570815750100,
+		"quoted_status_id_str": "1237476570815750151",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bUeVbgsqur",
+			"expanded": "https://twitter.com/naspahistory/status/1237476570815750151",
+			"display": "twitter.com/naspahistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 10 20:33:00 +0000 2020",
+			"id": 1237476570815750100,
+			"id_str": "1237476570815750151",
+			"full_text": "@DrLoriWashU @DePauwU @NASPAtweets James R. (“Jim”) Appleton was the 1974-1975 President of @NASPAtweets.\n    \nHe also served as President of @UofRedlands twice from 1987 until 2005 and again from 2010 until 2012. Before Redlands, Jim was VPSA at @USC and worked at @oaklandu in Michigan. https://t.co/qbpUjzdpG5",
+			"truncated": false,
+			"display_text_range": [
+				35,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrLoriWashU",
+						"name": "Lori S. White",
+						"id": 3507116961,
+						"id_str": "3507116961",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "DePauwU",
+						"name": "DePauw University",
+						"id": 71563476,
+						"id_str": "71563476",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							92,
+							104
+						]
+					},
+					{
+						"screen_name": "UofRedlands",
+						"name": "UniversityofRedlands",
+						"id": 23635476,
+						"id_str": "23635476",
+						"indices": [
+							142,
+							154
+						]
+					},
+					{
+						"screen_name": "USC",
+						"name": "USC",
+						"id": 19809471,
+						"id_str": "19809471",
+						"indices": [
+							247,
+							251
+						]
+					},
+					{
+						"screen_name": "oaklandu",
+						"name": "Oakland University",
+						"id": 17468189,
+						"id_str": "17468189",
+						"indices": [
+							266,
+							275
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236399595363750000,
+						"id_str": "1236399595363749888",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+						"url": "https://t.co/qbpUjzdpG5",
+						"display_url": "pic.twitter.com/qbpUjzdpG5",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1237476570815750151/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236399595363750000,
+						"id_str": "1236399595363749888",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+						"url": "https://t.co/qbpUjzdpG5",
+						"display_url": "pic.twitter.com/qbpUjzdpG5",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1237476570815750151/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1235342111446388700,
+			"in_reply_to_status_id_str": "1235342111446388736",
+			"in_reply_to_user_id": 937716186057527300,
+			"in_reply_to_user_id_str": "937716186057527297",
+			"in_reply_to_screen_name": "NASPAhistory",
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/jDWkdGdBnt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jDWkdGdBnt",
+								"expanded_url": "http://naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 62,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 442,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Lori S. White was named the next President of @DePauwU last week, but she is not the first @NASPAtweets president to also lead an institution of higher education. She is at least the 13th to serve an institution in this role. #HistSAHE https://t.co/bUeVbgsqur"
+	},
+	{
+		"created_at": "Tue Mar 10 18:03:40 +0000 2020",
+		"id": 1237438991106035700,
+		"id_str": "1237438991106035712",
+		"full_text": "@MattLewis84 Who is at greatest risk if the decision is not a good one for the candidate? Those who do not have financial resources.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLewis84",
+					"name": "Matt Lewis",
+					"id": 20278664,
+					"id_str": "20278664",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237196956008616000,
+		"in_reply_to_status_id_str": "1237196956008615941",
+		"in_reply_to_user_id": 20278664,
+		"in_reply_to_user_id_str": "20278664",
+		"in_reply_to_screen_name": "MattLewis84",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1101,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattLewis84 Who is at greatest risk if the decision is not a good one for the candidate? Those who do not have financial resources."
+	},
+	{
+		"created_at": "Tue Mar 10 17:59:29 +0000 2020",
+		"id": 1237078195561775000,
+		"id_str": "1237437936993517568",
+		"full_text": "We are giving away 10,000 FREE orders to celebrate our 10th birthday!\n\nRT to enter to win. Follow so we can DM you. Ends 3/16 at 10PM EST.\n\nRead about our 10-year journey below 👇 https://t.co/cN5DgbjpXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cN5DgbjpXQ",
+					"expanded_url": "https://twitter.com/stickermule/status/1237061672935862274",
+					"display_url": "twitter.com/stickermule/st…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://pickaw.com\" rel=\"nofollow\">Pickaw</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103760901,
+			"id_str": "103760901",
+			"name": "Sticker Mule",
+			"screen_name": "stickermule",
+			"location": "Worldwide",
+			"description": "Internet's most \"kick ass\" brand.",
+			"url": "https://t.co/XwSgsDjNgW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XwSgsDjNgW",
+							"expanded_url": "https://www.stickermule.com",
+							"display_url": "stickermule.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138432,
+			"friends_count": 28,
+			"listed_count": 778,
+			"created_at": "Mon Jan 11 04:53:04 +0000 2010",
+			"favourites_count": 153155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "602303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044285150790660096/kGJv-pH3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044285150790660096/kGJv-pH3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103760901/1497902634",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237061672935862300,
+		"quoted_status_id_str": "1237061672935862274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cN5DgbjpXQ",
+			"expanded": "https://twitter.com/stickermule/status/1237061672935862274",
+			"display": "twitter.com/stickermule/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 09 17:04:20 +0000 2020",
+			"id": 1237061672935862300,
+			"id_str": "1237061672935862274",
+			"full_text": "10 years ago Sticker Mule was born out of frustration.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103760901,
+				"id_str": "103760901",
+				"name": "Sticker Mule",
+				"screen_name": "stickermule",
+				"location": "Worldwide",
+				"description": "Internet's most \"kick ass\" brand.",
+				"url": "https://t.co/XwSgsDjNgW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XwSgsDjNgW",
+								"expanded_url": "https://www.stickermule.com",
+								"display_url": "stickermule.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138432,
+				"friends_count": 28,
+				"listed_count": 778,
+				"created_at": "Mon Jan 11 04:53:04 +0000 2010",
+				"favourites_count": 153155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80336,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "602303",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044285150790660096/kGJv-pH3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044285150790660096/kGJv-pH3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103760901/1497902634",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5252,
+			"favorite_count": 8218,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 37564,
+		"favorite_count": 15024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are giving away 10,000 FREE orders to celebrate our 10th birthday!\n\nRT to enter to win. Follow so we can DM you. Ends 3/16 at 10PM EST.\n\nRead about our 10-year journey below 👇 https://t.co/cN5DgbjpXQ"
+	},
+	{
+		"created_at": "Tue Mar 10 14:50:44 +0000 2020",
+		"id": 1237390435175116800,
+		"id_str": "1237390435175116806",
+		"full_text": "Dr. Lori S. White was named the next President of @DePauwU last week, but she is not the first @NASPAtweets president to also lead an institution of higher education. She is at least the 13th to serve an institution in this role. #HistSAHE https://t.co/aPv6thmyr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DePauwU",
+					"name": "DePauw University",
+					"id": 71563476,
+					"id_str": "71563476",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aPv6thmyr5",
+					"expanded_url": "https://twitter.com/naspahistory/status/1237385722195148801",
+					"display_url": "twitter.com/naspahistory/s…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1101,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237385722195148800,
+		"quoted_status_id_str": "1237385722195148801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aPv6thmyr5",
+			"expanded": "https://twitter.com/naspahistory/status/1237385722195148801",
+			"display": "twitter.com/naspahistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 10 14:32:00 +0000 2020",
+			"id": 1237385722195148800,
+			"id_str": "1237385722195148801",
+			"full_text": "@DrLoriWashU @DePauwU @NASPAtweets Fr. Victor R. Yanitelli was the \n1964-1965 President of @NASPAtweets. \n\nHe served as President of \nSaint Peter's College from 1965 until 1978. In 1965, Yanitelli brought Dr. Martin Luther King, Jr. to speak at @saintpetersuniv &amp; awarded him an honorary Doctor of Laws and Letters. https://t.co/JG20Q9GNVm",
+			"truncated": false,
+			"display_text_range": [
+				35,
+				319
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrLoriWashU",
+						"name": "Lori S. White",
+						"id": 3507116961,
+						"id_str": "3507116961",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "DePauwU",
+						"name": "DePauw University",
+						"id": 71563476,
+						"id_str": "71563476",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							91,
+							103
+						]
+					},
+					{
+						"screen_name": "saintpetersuniv",
+						"name": "Saint Peter's Univ.",
+						"id": 31169220,
+						"id_str": "31169220",
+						"indices": [
+							245,
+							261
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236399269675970600,
+						"id_str": "1236399269675970569",
+						"indices": [
+							320,
+							343
+						],
+						"media_url": "http://pbs.twimg.com/media/ESiSlcWWsAkxznG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESiSlcWWsAkxznG.jpg",
+						"url": "https://t.co/JG20Q9GNVm",
+						"display_url": "pic.twitter.com/JG20Q9GNVm",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1237385722195148801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236399269675970600,
+						"id_str": "1236399269675970569",
+						"indices": [
+							320,
+							343
+						],
+						"media_url": "http://pbs.twimg.com/media/ESiSlcWWsAkxznG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESiSlcWWsAkxznG.jpg",
+						"url": "https://t.co/JG20Q9GNVm",
+						"display_url": "pic.twitter.com/JG20Q9GNVm",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1237385722195148801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 325,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1235342111446388700,
+			"in_reply_to_status_id_str": "1235342111446388736",
+			"in_reply_to_user_id": 937716186057527300,
+			"in_reply_to_user_id_str": "937716186057527297",
+			"in_reply_to_screen_name": "NASPAhistory",
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/jDWkdGdBnt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jDWkdGdBnt",
+								"expanded_url": "http://naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 62,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 442,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Lori S. White was named the next President of @DePauwU last week, but she is not the first @NASPAtweets president to also lead an institution of higher education. She is at least the 13th to serve an institution in this role. #HistSAHE https://t.co/aPv6thmyr5"
+	},
+	{
+		"created_at": "Tue Mar 10 12:52:41 +0000 2020",
+		"id": 1237360727939301400,
+		"id_str": "1237360727939301376",
+		"full_text": "Small Colleges Are Lawyering Up. Here’s Why. #SAHElaw  https://t.co/jFhdsazhNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jFhdsazhNB",
+					"expanded_url": "https://www.forbes.com/sites/michaeltnietzel/2020/03/09/small-colleges-are-lawyering-up-heres-why/",
+					"display_url": "forbes.com/sites/michaelt…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1101,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Small Colleges Are Lawyering Up. Here’s Why. #SAHElaw  https://t.co/jFhdsazhNB"
+	},
+	{
+		"created_at": "Tue Mar 10 01:32:36 +0000 2020",
+		"id": 1237189581600104400,
+		"id_str": "1237189581600104450",
+		"full_text": "@AriCohn Never Trump + far Left is an interesting combo applied to anyone.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AriCohn",
+					"name": "Ari Cohn",
+					"id": 368673071,
+					"id_str": "368673071",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237186879482724400,
+		"in_reply_to_status_id_str": "1237186879482724354",
+		"in_reply_to_user_id": 368673071,
+		"in_reply_to_user_id_str": "368673071",
+		"in_reply_to_screen_name": "AriCohn",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1101,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AriCohn Never Trump + far Left is an interesting combo applied to anyone."
+	},
+	{
 		"created_at": "Mon Mar 09 20:56:03 +0000 2020",
 		"id": 1237119984494612500,
 		"id_str": "1237119984494612480",
