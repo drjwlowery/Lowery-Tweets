@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 00:53:33 +0000 2020",
+		"id": 1240803633635168300,
+		"id_str": "1240803633635168261",
+		"full_text": "@cjdenial https://t.co/e6kjMSkhKf",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjdenial",
+					"name": "Cate Denial",
+					"id": 2964671343,
+					"id_str": "2964671343",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240803616627265500,
+					"id_str": "1240803616627265541",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ETg4ULUWkAUKXAQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETg4ULUWkAUKXAQ.png",
+					"url": "https://t.co/e6kjMSkhKf",
+					"display_url": "pic.twitter.com/e6kjMSkhKf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1240803633635168261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240803616627265500,
+					"id_str": "1240803616627265541",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ETg4ULUWkAUKXAQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETg4ULUWkAUKXAQ.png",
+					"url": "https://t.co/e6kjMSkhKf",
+					"display_url": "pic.twitter.com/e6kjMSkhKf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1240803633635168261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 543,
+							"h": 142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 142,
+							"h": 142,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240640549792686000,
+		"in_reply_to_status_id_str": "1240640549792686081",
+		"in_reply_to_user_id": 2964671343,
+		"in_reply_to_user_id_str": "2964671343",
+		"in_reply_to_screen_name": "cjdenial",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@cjdenial https://t.co/e6kjMSkhKf"
+	},
+	{
+		"created_at": "Thu Mar 19 20:33:12 +0000 2020",
+		"id": 1240736126140330000,
+		"id_str": "1240738111778435072",
+		"full_text": "👀👀 https://t.co/wFYr64C8S0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wFYr64C8S0",
+					"expanded_url": "https://twitter.com/jakehigheredlaw/status/1240735854047395840",
+					"display_url": "twitter.com/jakehigheredla…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2906375368,
+			"id_str": "2906375368",
+			"name": "Scott Schneider",
+			"screen_name": "EdLawDude",
+			"location": "Austin, TX",
+			"description": "",
+			"url": "https://t.co/q3ROdrjN1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q3ROdrjN1i",
+							"expanded_url": "https://www.huschblackwell.com/professionals/scott-schneider",
+							"display_url": "huschblackwell.com/professionals/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1648,
+			"friends_count": 951,
+			"listed_count": 31,
+			"created_at": "Fri Dec 05 13:20:23 +0000 2014",
+			"favourites_count": 11211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234216843558215681/cjF5LqOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234216843558215681/cjF5LqOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2906375368/1574023822",
+			"profile_link_color": "481276",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240735854047395800,
+		"quoted_status_id_str": "1240735854047395840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wFYr64C8S0",
+			"expanded": "https://twitter.com/jakehigheredlaw/status/1240735854047395840",
+			"display": "twitter.com/jakehigheredla…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 20:24:14 +0000 2020",
+			"id": 1240735854047395800,
+			"id_str": "1240735854047395840",
+			"full_text": "#NewTitleIX 12866 review meetings scheduled on March 30. Does not push the date back as the April 6th meeting still stands, but shows that OMB/OIRA is still accepting meetings as concerns that regs will drop during the CoronaCrisis have surfaced. #TitleIXRegs #TitleIX https://t.co/jeZjtT5k46",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NewTitleIX",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "TitleIXRegs",
+						"indices": [
+							247,
+							259
+						]
+					},
+					{
+						"text": "TitleIX",
+						"indices": [
+							260,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240734761070612500,
+						"id_str": "1240734761070612480",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/ETf5sQYX0AA5oLc.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETf5sQYX0AA5oLc.png",
+						"url": "https://t.co/jeZjtT5k46",
+						"display_url": "pic.twitter.com/jeZjtT5k46",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1240735854047395840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240734761070612500,
+						"id_str": "1240734761070612480",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/ETf5sQYX0AA5oLc.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETf5sQYX0AA5oLc.png",
+						"url": "https://t.co/jeZjtT5k46",
+						"display_url": "pic.twitter.com/jeZjtT5k46",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1240735854047395840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 252,
+								"h": 169,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893633585944703000,
+				"id_str": "893633585944702977",
+				"name": "Jake G., JD",
+				"screen_name": "JakeHigherEdLaw",
+				"location": "Texas, USA",
+				"description": "Legal Researcher & Presenter on Title IX News, Litigation, & Regulations. Occasional Opiner. Title IX Admin. “You'll Never Walk Alone”",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109,
+				"friends_count": 38,
+				"listed_count": 0,
+				"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+				"favourites_count": 372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1556049821",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀👀 https://t.co/wFYr64C8S0"
+	},
+	{
+		"created_at": "Thu Mar 19 20:32:29 +0000 2020",
+		"id": 1240689935557865500,
+		"id_str": "1240737932463476737",
+		"full_text": "Let’s talk about what happens if you get COVID19 and recover. Are you immune to the disease? How long does the immunity last? And what does that mean for your life and for the public health and economy of our society? 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788363167,
+			"id_str": "788363167",
+			"name": "Nicholas A. Christakis",
+			"screen_name": "NAChristakis",
+			"location": "Vermont, USA",
+			"description": "Sterling Professor of Social & Natural Science at Yale. Physician. Author of Blueprint: The Evolutionary Origins of a Good Society. Luckily wed @ErikaChristakis",
+			"url": "https://t.co/Ijs5w2Vw9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ijs5w2Vw9a",
+							"expanded_url": "http://www.humannaturelab.net",
+							"display_url": "humannaturelab.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105096,
+			"friends_count": 690,
+			"listed_count": 2176,
+			"created_at": "Wed Aug 29 02:38:45 +0000 2012",
+			"favourites_count": 8069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2554415250/portrait2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2554415250/portrait2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788363167/1571906603",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4714,
+		"favorite_count": 10163,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Let’s talk about what happens if you get COVID19 and recover. Are you immune to the disease? How long does the immunity last? And what does that mean for your life and for the public health and economy of our society? 1/"
+	},
+	{
 		"created_at": "Wed Mar 18 19:20:04 +0000 2020",
 		"id": 1240357318346322000,
 		"id_str": "1240357318346321921",
