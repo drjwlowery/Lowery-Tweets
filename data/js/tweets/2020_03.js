@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 14:30:32 +0000 2020",
+		"id": 1241009230636896300,
+		"id_str": "1241009230636896256",
+		"full_text": "Thank you for this important public service! https://t.co/ixt311XGhk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixt311XGhk",
+					"expanded_url": "https://twitter.com/alexisinfantino/status/1240733332180217856",
+					"display_url": "twitter.com/alexisinfantin…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1103,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240733332180217900,
+		"quoted_status_id_str": "1240733332180217856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ixt311XGhk",
+			"expanded": "https://twitter.com/alexisinfantino/status/1240733332180217856",
+			"display": "twitter.com/alexisinfantin…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 20:14:12 +0000 2020",
+			"id": 1240733332180217900,
+			"id_str": "1240733332180217856",
+			"full_text": "Having a rough day? Cats on ice 😂 https://t.co/CM0tbgU75E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240733195651428400,
+						"id_str": "1240733195651428355",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240733195651428355/pu/img/NctLi4u1f6Bjralo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240733195651428355/pu/img/NctLi4u1f6Bjralo.jpg",
+						"url": "https://t.co/CM0tbgU75E",
+						"display_url": "pic.twitter.com/CM0tbgU75E",
+						"expanded_url": "https://twitter.com/alexisinfantino/status/1240733332180217856/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 888,
+								"h": 908,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 908,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 665,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240733195651428400,
+						"id_str": "1240733195651428355",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240733195651428355/pu/img/NctLi4u1f6Bjralo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240733195651428355/pu/img/NctLi4u1f6Bjralo.jpg",
+						"url": "https://t.co/CM0tbgU75E",
+						"display_url": "pic.twitter.com/CM0tbgU75E",
+						"expanded_url": "https://twitter.com/alexisinfantino/status/1240733332180217856/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 888,
+								"h": 908,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 908,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 665,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								222,
+								227
+							],
+							"duration_millis": 40683,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1240733195651428355/pu/vid/720x736/OSZZIO05Pu6CKfiO.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1240733195651428355/pu/pl/111Ef3abBDfPJG3G.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1240733195651428355/pu/vid/320x326/bWYiUm1i_fdhhJJf.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1240733195651428355/pu/vid/360x368/8vXYrjUXeCfiBxOX.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 994337347490734100,
+				"id_str": "994337347490734081",
+				"name": "Reia Amidala",
+				"screen_name": "alexisinfantino",
+				"location": "New Orleans, LA",
+				"description": "Sicilian, Cajun 🇮🇹⚜️ - Professional Cook - Pan (no pun intended) - Feminist Cat Lady - She/Her 🏳️‍🌈 IG: alexisinfantino",
+				"url": "https://t.co/VZzWY83uFd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VZzWY83uFd",
+								"expanded_url": "http://venmo.com/amariefrances",
+								"display_url": "venmo.com/amariefrances",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1881,
+				"friends_count": 380,
+				"listed_count": 2,
+				"created_at": "Wed May 09 22:04:32 +0000 2018",
+				"favourites_count": 41520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11840,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232351144837623808/oYwseOk4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232351144837623808/oYwseOk4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/994337347490734081/1578679598",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15983,
+			"favorite_count": 42708,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for this important public service! https://t.co/ixt311XGhk"
+	},
+	{
+		"created_at": "Fri Mar 20 14:07:29 +0000 2020",
+		"id": 1241003432066134000,
+		"id_str": "1241003432066134017",
+		"full_text": "Don’t trust her.... https://t.co/8gSOBRnS5e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8gSOBRnS5e",
+					"expanded_url": "https://twitter.com/andrewujifusa/status/1240771385804369921",
+					"display_url": "twitter.com/andrewujifusa/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1103,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240771385804370000,
+		"quoted_status_id_str": "1240771385804369921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8gSOBRnS5e",
+			"expanded": "https://twitter.com/andrewujifusa/status/1240771385804369921",
+			"display": "twitter.com/andrewujifusa/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 22:45:25 +0000 2020",
+			"id": 1240771385804370000,
+			"id_str": "1240771385804369921",
+			"full_text": "*Extremely* big news we just published: Sen. Mitch McConnell's #coronavirus bill would give Betsy DeVos sweeping power to grant waivers from federal education law.\n\nMore here: https://t.co/gAJqEQFovD via @educationweek https://t.co/uOzKb3oNGS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coronavirus",
+						"indices": [
+							63,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "educationweek",
+						"name": "Education Week",
+						"id": 15147042,
+						"id_str": "15147042",
+						"indices": [
+							204,
+							218
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gAJqEQFovD",
+						"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/2020/03/coronavirus-devos-sweeping-power-waive-education-law.html",
+						"display_url": "blogs.edweek.org/edweek/campaig…",
+						"indices": [
+							176,
+							199
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1240771248080257000,
+						"id_str": "1240771248080257026",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+						"url": "https://t.co/uOzKb3oNGS",
+						"display_url": "pic.twitter.com/uOzKb3oNGS",
+						"expanded_url": "https://twitter.com/AndrewUjifusa/status/1240771385804369921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240771248080257000,
+						"id_str": "1240771248080257026",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+						"url": "https://t.co/uOzKb3oNGS",
+						"display_url": "pic.twitter.com/uOzKb3oNGS",
+						"expanded_url": "https://twitter.com/AndrewUjifusa/status/1240771385804369921/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 362,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								181
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/ETga4FFXgAIHuw-.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211258358,
+				"id_str": "211258358",
+				"name": "Andrew Ujifusa",
+				"screen_name": "AndrewUjifusa",
+				"location": "",
+				"description": "@educationweek reporter and @PoliticsK12 co-author. Former resident of Mississippi, Japan, and elsewhere. 一期一会 and 残心.",
+				"url": "https://t.co/7m3eqeQKBV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7m3eqeQKBV",
+								"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/",
+								"display_url": "blogs.edweek.org/edweek/campaig…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4080,
+				"friends_count": 1934,
+				"listed_count": 208,
+				"created_at": "Tue Nov 02 19:21:42 +0000 2010",
+				"favourites_count": 1742,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17377,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211258358/1545254238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t trust her.... https://t.co/8gSOBRnS5e"
+	},
+	{
+		"created_at": "Fri Mar 20 14:07:18 +0000 2020",
+		"id": 1240771385804370000,
+		"id_str": "1241003386868285440",
+		"full_text": "*Extremely* big news we just published: Sen. Mitch McConnell's #coronavirus bill would give Betsy DeVos sweeping power to grant waivers from federal education law.\n\nMore here: https://t.co/gAJqEQFovD via @educationweek https://t.co/uOzKb3oNGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educationweek",
+					"name": "Education Week",
+					"id": 15147042,
+					"id_str": "15147042",
+					"indices": [
+						204,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gAJqEQFovD",
+					"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/2020/03/coronavirus-devos-sweeping-power-waive-education-law.html",
+					"display_url": "blogs.edweek.org/edweek/campaig…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240771248080257000,
+					"id_str": "1240771248080257026",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+					"url": "https://t.co/uOzKb3oNGS",
+					"display_url": "pic.twitter.com/uOzKb3oNGS",
+					"expanded_url": "https://twitter.com/AndrewUjifusa/status/1240771385804369921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240771248080257000,
+					"id_str": "1240771248080257026",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETga4FFXgAIHuw-.jpg",
+					"url": "https://t.co/uOzKb3oNGS",
+					"display_url": "pic.twitter.com/uOzKb3oNGS",
+					"expanded_url": "https://twitter.com/AndrewUjifusa/status/1240771385804369921/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							181
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ETga4FFXgAIHuw-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211258358,
+			"id_str": "211258358",
+			"name": "Andrew Ujifusa",
+			"screen_name": "AndrewUjifusa",
+			"location": "",
+			"description": "@educationweek reporter and @PoliticsK12 co-author. Former resident of Mississippi, Japan, and elsewhere. 一期一会 and 残心.",
+			"url": "https://t.co/7m3eqeQKBV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7m3eqeQKBV",
+							"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/",
+							"display_url": "blogs.edweek.org/edweek/campaig…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4080,
+			"friends_count": 1934,
+			"listed_count": 208,
+			"created_at": "Tue Nov 02 19:21:42 +0000 2010",
+			"favourites_count": 1742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211258358/1545254238",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*Extremely* big news we just published: Sen. Mitch McConnell's #coronavirus bill would give Betsy DeVos sweeping power to grant waivers from federal education law.\n\nMore here: https://t.co/gAJqEQFovD via @educationweek https://t.co/uOzKb3oNGS"
+	},
+	{
+		"created_at": "Fri Mar 20 02:50:19 +0000 2020",
+		"id": 1240833017414930400,
+		"id_str": "1240833017414930432",
+		"full_text": "@cjdenial I have been looking at a 1918 @IUP student diary from a student who was quarantined in her residence hall room.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjdenial",
+					"name": "Cate Denial",
+					"id": 2964671343,
+					"id_str": "2964671343",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "iup",
+					"name": "IUP",
+					"id": 16029712,
+					"id_str": "16029712",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240803633635168300,
+		"in_reply_to_status_id_str": "1240803633635168261",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1103,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjdenial I have been looking at a 1918 @IUP student diary from a student who was quarantined in her residence hall room."
+	},
+	{
 		"created_at": "Fri Mar 20 00:53:33 +0000 2020",
 		"id": 1240803633635168300,
 		"id_str": "1240803633635168261",
