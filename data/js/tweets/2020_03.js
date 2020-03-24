@@ -1,6 +1,1169 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 00:22:50 +0000 2020",
+		"id": 1242245452713603000,
+		"id_str": "1242245452713603078",
+		"full_text": "PA Governor: Marshmallow Peeps are \"Life-Sustaining,\" production can continue during COVID-19 Emergency https://t.co/LEdq4B7H1W via @reason #Duh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Duh",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reason",
+					"name": "reason",
+					"id": 16467567,
+					"id_str": "16467567",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LEdq4B7H1W",
+					"expanded_url": "https://reason.com/2020/03/23/pa-governor-marshmellow-peeps-are-life-sustaining-production-can-continue-during-covid-19-emergency/",
+					"display_url": "reason.com/2020/03/23/pa-…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PA Governor: Marshmallow Peeps are \"Life-Sustaining,\" production can continue during COVID-19 Emergency https://t.co/LEdq4B7H1W via @reason #Duh"
+	},
+	{
+		"created_at": "Mon Mar 23 22:04:15 +0000 2020",
+		"id": 1242210576446693400,
+		"id_str": "1242210576446693376",
+		"full_text": "Trump cannot block critics on Twitter, federal court affirms - The Washington Post #SAHElaw  https://t.co/zOERKevC2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOERKevC2O",
+					"expanded_url": "https://www.washingtonpost.com/local/legal-issues/trump-cannot-block-critics-on-twitter-federal-court-affirms-in-ruling/2020/03/23/83ac302c-6d0b-11ea-a3ec-70d7479d83f0_story.html",
+					"display_url": "washingtonpost.com/local/legal-is…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump cannot block critics on Twitter, federal court affirms - The Washington Post #SAHElaw  https://t.co/zOERKevC2O"
+	},
+	{
+		"created_at": "Mon Mar 23 20:46:57 +0000 2020",
+		"id": 1242183586020655000,
+		"id_str": "1242191124250402819",
+		"full_text": "@NASPAtweets Dean Robert Rienow was very involved in response to 1918 influenza outbreak at @uiowa &amp; led a committee to examine  providing student health services. He recommended the topic be discussed at the 1920 @NASPAtweets meeting. \n\nRead Dr. Rienow's 1920 report: https://t.co/n4bRAbZ1JW https://t.co/AuWyG0RD1P",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "uiowa",
+					"name": "University of Iowa",
+					"id": 14534931,
+					"id_str": "14534931",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						218,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n4bRAbZ1JW",
+					"expanded_url": "https://itty.bitty.site/#SURVEY_OF_HEALTH_SUPERVISION_SYSTEMS/?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",
+					"display_url": "itty.bitty.site/#SURVEY_OF_HEA…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242163374726746000,
+					"id_str": "1242163374726746112",
+					"indices": [
+						297,
+						320
+					],
+					"media_url": "http://pbs.twimg.com/media/ET0NAg-WkAAr2Rz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET0NAg-WkAAr2Rz.jpg",
+					"url": "https://t.co/AuWyG0RD1P",
+					"display_url": "pic.twitter.com/AuWyG0RD1P",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1242183586020655104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242163374726746000,
+					"id_str": "1242163374726746112",
+					"indices": [
+						297,
+						320
+					],
+					"media_url": "http://pbs.twimg.com/media/ET0NAg-WkAAr2Rz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET0NAg-WkAAr2Rz.jpg",
+					"url": "https://t.co/AuWyG0RD1P",
+					"display_url": "pic.twitter.com/AuWyG0RD1P",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1242183586020655104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 144,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1242145585731420200,
+		"in_reply_to_status_id_str": "1242145585731420162",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Dean Robert Rienow was very involved in response to 1918 influenza outbreak at @uiowa &amp; led a committee to examine  providing student health services. He recommended the topic be discussed at the 1920 @NASPAtweets meeting. \n\nRead Dr. Rienow's 1920 report: https://t.co/n4bRAbZ1JW https://t.co/AuWyG0RD1P"
+	},
+	{
+		"created_at": "Mon Mar 23 19:58:28 +0000 2020",
+		"id": 1242178923963834400,
+		"id_str": "1242178923963834373",
+		"full_text": "How Colleges Co-opt Black-Student Protests\nStudents do the hard work of rectifying racism in the academy. Administrators take the credit. https://t.co/G5TfMnWSKq #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G5TfMnWSKq",
+					"expanded_url": "https://www.chronicle.com/article/How-Colleges-Co-opt/248206",
+					"display_url": "chronicle.com/article/How-Co…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Colleges Co-opt Black-Student Protests\nStudents do the hard work of rectifying racism in the academy. Administrators take the credit. https://t.co/G5TfMnWSKq #HistSAHE"
+	},
+	{
+		"created_at": "Mon Mar 23 18:58:06 +0000 2020",
+		"id": 1242163732408656000,
+		"id_str": "1242163732408655872",
+		"full_text": "Sexual-Assault Investigations May Be Delayed as Coronavirus Disrupts Colleges https://t.co/0gOXTgCARi via @chronicle #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0gOXTgCARi",
+					"expanded_url": "https://www.chronicle.com/article/Sexual-Assault-Investigations/248305/#.XnkGtLTEzlg.twitter",
+					"display_url": "chronicle.com/article/Sexual…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sexual-Assault Investigations May Be Delayed as Coronavirus Disrupts Colleges https://t.co/0gOXTgCARi via @chronicle #SAHElaw"
+	},
+	{
+		"created_at": "Mon Mar 23 17:26:44 +0000 2020",
+		"id": 1242140666173386800,
+		"id_str": "1242140739418628104",
+		"full_text": "A song about to have a resurgence.\n\nhttps://t.co/S7LcbK4Ea8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S7LcbK4Ea8",
+					"expanded_url": "https://www.youtube.com/watch?v=Z0GFRcFm-aY",
+					"display_url": "youtube.com/watch?v=Z0GFRc…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141459742,
+			"id_str": "141459742",
+			"name": "Michele Dauber",
+			"screen_name": "mldauber",
+			"location": "California, USA",
+			"description": "Professor @Stanford, Chair of @recallpersky, Chair of @enoughvoter, author of https://t.co/jmeVYR4aqn. Hobbies: backpacking, skiing, and ranting.",
+			"url": "https://t.co/SOstueKZcA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SOstueKZcA",
+							"expanded_url": "http://enoughisenoughvoter.org",
+							"display_url": "enoughisenoughvoter.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jmeVYR4aqn",
+							"expanded_url": "http://www.sympatheticstate.com",
+							"display_url": "sympatheticstate.com",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7907,
+			"friends_count": 841,
+			"listed_count": 89,
+			"created_at": "Sat May 08 04:32:42 +0000 2010",
+			"favourites_count": 5450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111366495328624640/1mpM6h85_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111366495328624640/1mpM6h85_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141459742/1488467841",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A song about to have a resurgence.\n\nhttps://t.co/S7LcbK4Ea8"
+	},
+	{
+		"created_at": "Mon Mar 23 17:25:45 +0000 2020",
+		"id": 1242140490084032500,
+		"id_str": "1242140490084032513",
+		"full_text": "Kentucky football: 1918 Spanish flu pandemic ended season early https://t.co/b90Hk2OiAG #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b90Hk2OiAG",
+					"expanded_url": "https://www.courier-journal.com/story/sports/college/kentucky/2020/03/18/kentucky-football-1918-spanish-flu-pandemic-ended-season-early/5072087002/",
+					"display_url": "courier-journal.com/story/sports/c…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kentucky football: 1918 Spanish flu pandemic ended season early https://t.co/b90Hk2OiAG #HistSAHE"
+	},
+	{
+		"created_at": "Mon Mar 23 16:48:21 +0000 2020",
+		"id": 1242125130098188300,
+		"id_str": "1242131078942527489",
+		"full_text": "Several weeks ago, @naspatweets made the difficult decision to cancel the 2020 Conference in Austin due to COVID-19. This is not the first time that a worldwide pandemic has impacted a NASPA conference and been a topic of discussion during the conference. https://t.co/NMnXcx9AWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NMnXcx9AWQ",
+					"expanded_url": "https://www.naspa.org/news/2020-naspa-annual-conference-canceled",
+					"display_url": "naspa.org/news/2020-nasp…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Several weeks ago, @naspatweets made the difficult decision to cancel the 2020 Conference in Austin due to COVID-19. This is not the first time that a worldwide pandemic has impacted a NASPA conference and been a topic of discussion during the conference. https://t.co/NMnXcx9AWQ"
+	},
+	{
+		"created_at": "Mon Mar 23 16:34:21 +0000 2020",
+		"id": 1242127555622318000,
+		"id_str": "1242127555622318080",
+		"full_text": "BLACK HISTORY MONTH: Armed Voorhees students took over administration building in 1969 | News | https://t.co/5PQXn9BdTK https://t.co/Oa519Tf28P #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						144,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5PQXn9BdTK",
+					"expanded_url": "http://thetandd.com",
+					"display_url": "thetandd.com",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/Oa519Tf28P",
+					"expanded_url": "https://thetandd.com/news/black-history-month-armed-voorhees-students-took-over-administration-building/article_a38a3290-5046-587e-b492-4f1dbb5d346e.html",
+					"display_url": "thetandd.com/news/black-his…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1102,
+			"listed_count": 95,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACK HISTORY MONTH: Armed Voorhees students took over administration building in 1969 | News | https://t.co/5PQXn9BdTK https://t.co/Oa519Tf28P #HistSAHE"
+	},
+	{
 		"created_at": "Sat Mar 21 21:56:28 +0000 2020",
 		"id": 1241483843347062800,
 		"id_str": "1241483843347062785",
