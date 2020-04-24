@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 17:54:15 +0000 2020",
+		"id": 1253007206519275500,
+		"id_str": "1253381685716160512",
+		"full_text": "Here's a thread of all the statements I've seen from colleges about what they're planning for the pandemic'd fall semester 👇🏻",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259322958,
+			"id_str": "259322958",
+			"name": "Andy Thomason",
+			"screen_name": "arthomason",
+			"location": "",
+			"description": "Senior editor at @chronicle. I am The Dreaded Laramie. Writing a book about colleges and their big-time sports: https://t.co/x0y5P70ANg",
+			"url": "https://t.co/fzlffj780k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fzlffj780k",
+							"expanded_url": "http://chronicle.com",
+							"display_url": "chronicle.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/x0y5P70ANg",
+							"expanded_url": "http://writingabook.substack.com/welcome",
+							"display_url": "writingabook.substack.com/welcome",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3274,
+			"friends_count": 538,
+			"listed_count": 105,
+			"created_at": "Tue Mar 01 16:41:36 +0000 2011",
+			"favourites_count": 3245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032569297900646401/rUPCuuno_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032569297900646401/rUPCuuno_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259322958/1557307352",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1412,
+		"favorite_count": 2982,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Here's a thread of all the statements I've seen from colleges about what they're planning for the pandemic'd fall semester 👇🏻"
+	},
+	{
 		"created_at": "Wed Apr 22 12:52:14 +0000 2020",
 		"id": 1252943293488431000,
 		"id_str": "1252943293488431105",
