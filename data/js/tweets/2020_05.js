@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 01:05:46 +0000 2020",
+		"id": 1262912365789667300,
+		"id_str": "1262912365789667333",
+		"full_text": "Do Universities Really Expect to Treat their Students as \"Pod\" People?\nAttempts to force college students into strict protocols are unlikely to succeed\n\n#SAHElaw  https://t.co/JE0yoZ3kKs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JE0yoZ3kKs",
+					"expanded_url": "https://reason.com/2020/05/19/do-universities-really-expect-to-treat-their-students-as-pod-people/",
+					"display_url": "reason.com/2020/05/19/do-…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1112,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do Universities Really Expect to Treat their Students as \"Pod\" People?\nAttempts to force college students into strict protocols are unlikely to succeed\n\n#SAHElaw  https://t.co/JE0yoZ3kKs"
+	},
+	{
+		"created_at": "Tue May 19 20:03:55 +0000 2020",
+		"id": 1262836404381515800,
+		"id_str": "1262836404381515776",
+		"full_text": "You can now access the official published version of the Title IX Final Rule in the Federal Register. It clocks in at \"only\" 554 pages. #SAHElaw \nhttps://t.co/albNgzcBlq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/albNgzcBlq",
+					"expanded_url": "https://www.govinfo.gov/content/pkg/FR-2020-05-19/pdf/2020-10512.pdf",
+					"display_url": "govinfo.gov/content/pkg/FR…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1112,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can now access the official published version of the Title IX Final Rule in the Federal Register. It clocks in at \"only\" 554 pages. #SAHElaw \nhttps://t.co/albNgzcBlq"
+	},
+	{
+		"created_at": "Tue May 19 12:38:39 +0000 2020",
+		"id": 1262450923047190500,
+		"id_str": "1262724348160376832",
+		"full_text": "William &amp; Mary — in its 327th year of existence — has hired its first Black academic dean, set to lead the nation’s oldest law school.\nhttps://t.co/e1lSRdCMZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1lSRdCMZa",
+					"expanded_url": "https://www.wm.edu/news/stories/2020/a.-benjamin-spencer-selected-to-lead-wm-law-school.php",
+					"display_url": "wm.edu/news/stories/2…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 560850949,
+			"id_str": "560850949",
+			"name": "Eddie R. Cole",
+			"screen_name": "EddieRCole",
+			"location": "Williamsburg, VA",
+			"description": "professor: @williamandmary. author: 𝙏𝙝𝙚 𝘾𝙖𝙢𝙥𝙪𝙨 𝘾𝙤𝙡𝙤𝙧 𝙇𝙞𝙣𝙚 (@PrincetonUPress). Coming Sept. 15. Pre-order: https://t.co/3WwzpIt3fW",
+			"url": "https://t.co/WzifREoEWD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WzifREoEWD",
+							"expanded_url": "http://www.eddiercole.com",
+							"display_url": "eddiercole.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3WwzpIt3fW",
+							"expanded_url": "https://tinyurl.com/CampusColorLine",
+							"display_url": "tinyurl.com/CampusColorLine",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1236,
+			"friends_count": 358,
+			"listed_count": 40,
+			"created_at": "Mon Apr 23 05:22:32 +0000 2012",
+			"favourites_count": 3751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244359547671764993/ME17DDKg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244359547671764993/ME17DDKg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560850949/1586377673",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "William &amp; Mary — in its 327th year of existence — has hired its first Black academic dean, set to lead the nation’s oldest law school.\nhttps://t.co/e1lSRdCMZa"
+	},
+	{
+		"created_at": "Tue May 19 12:35:51 +0000 2020",
+		"id": 1262593128801931300,
+		"id_str": "1262723643366346752",
+		"full_text": "The era of Rule By Blog has begun. https://t.co/WEH2WhjZZO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WEH2WhjZZO",
+					"expanded_url": "https://twitter.com/mcarletonohio/status/1262592216096219141",
+					"display_url": "twitter.com/mcarletonohio/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2906375368,
+			"id_str": "2906375368",
+			"name": "Scott Schneider",
+			"screen_name": "EdLawDude",
+			"location": "Austin, TX",
+			"description": "",
+			"url": "https://t.co/q3ROdrjN1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q3ROdrjN1i",
+							"expanded_url": "https://www.huschblackwell.com/professionals/scott-schneider",
+							"display_url": "huschblackwell.com/professionals/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 884,
+			"listed_count": 32,
+			"created_at": "Fri Dec 05 13:20:23 +0000 2014",
+			"favourites_count": 12014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261314630049300483/B5dobx0x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261314630049300483/B5dobx0x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2906375368/1574023822",
+			"profile_link_color": "481276",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c3f37afa9efcf94b",
+			"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+			"place_type": "city",
+			"name": "Austin",
+			"full_name": "Austin, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-97.928935,
+							30.127892
+						],
+						[
+							-97.5805133,
+							30.127892
+						],
+						[
+							-97.5805133,
+							30.5187994
+						],
+						[
+							-97.928935,
+							30.5187994
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262592216096219100,
+		"quoted_status_id_str": "1262592216096219141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WEH2WhjZZO",
+			"expanded": "https://twitter.com/mcarletonohio/status/1262592216096219141",
+			"display": "twitter.com/mcarletonohio/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 03:53:36 +0000 2020",
+			"id": 1262592216096219100,
+			"id_str": "1262592216096219141",
+			"full_text": "The U.S. Department of Education's Office for Civil Rights has posted a new blog post about what schools must put on the website under the new #TitleIX regulations.  Let's take a look, shall we?  Blog post here: https://t.co/OA3gsJghSN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TitleIX",
+						"indices": [
+							143,
+							151
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OA3gsJghSN",
+						"expanded_url": "https://www2.ed.gov/about/offices/list/ocr/blog/index.html",
+						"display_url": "www2.ed.gov/about/offices/…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3044664786,
+				"id_str": "3044664786",
+				"name": "Melissa Carleton",
+				"screen_name": "MCarletonOhio",
+				"location": "Columbus, Ohio",
+				"description": "Attorney, consultant, & investigator for #HigherEd and K-12. Special interest in #TitleIX. Wife, mom, genealogist, Queen fan. She/her. Opinions mine.",
+				"url": "https://t.co/9IIAhFISAy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9IIAhFISAy",
+								"expanded_url": "http://www.bricker.com/people/people-details.aspx?peopleid=195",
+								"display_url": "bricker.com/people/people-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 736,
+				"friends_count": 1616,
+				"listed_count": 10,
+				"created_at": "Thu Feb 26 21:24:12 +0000 2015",
+				"favourites_count": 3494,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3231,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/571058566656565248/UVovGwgQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/571058566656565248/UVovGwgQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044664786/1478038884",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The era of Rule By Blog has begun. https://t.co/WEH2WhjZZO"
+	},
+	{
 		"created_at": "Mon May 18 13:22:16 +0000 2020",
 		"id": 1262372936066961400,
 		"id_str": "1262372936066961411",
