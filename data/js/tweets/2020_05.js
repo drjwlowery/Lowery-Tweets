@@ -1,6 +1,1343 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 21:23:53 +0000 2020",
+		"id": 1265755630587043800,
+		"id_str": "1265755630587043841",
+		"full_text": "The New Communication Plan? Overcommunication https://t.co/3vIf92GZTp via @chronicle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3vIf92GZTp",
+					"expanded_url": "https://www.chronicle.com/article/The-New-Communication-Plan-/248836/?key=LwO6j3K0mIGHYkT3aRWpxJtl0Mpfgq2h9_F8w7xR7QC-NFYjygDXur0bnAi3TlhOVDEtYVhJX3JrWlBibmNWb214LVFnOWFXcVVtV0VFQXdKWlBwRVdjdEozdw#.Xs7aYwDrjMg.twitter",
+					"display_url": "chronicle.com/article/The-Ne…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The New Communication Plan? Overcommunication https://t.co/3vIf92GZTp via @chronicle"
+	},
+	{
+		"created_at": "Wed May 27 20:20:56 +0000 2020",
+		"id": 1265739790051348500,
+		"id_str": "1265739790051348485",
+		"full_text": "@kevinrmcclure @ChrisMarsicano Davidson was not alone. IUP's first academic catalog in 1875 boasted of the \"healthfulness\" of the area as well as the steam heat and gas lamps \"throughout.\" #HistSAHE https://t.co/s4YWOsalNb",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinrmcclure",
+					"name": "Kevin R. McClure",
+					"id": 2397025926,
+					"id_str": "2397025926",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ChrisMarsicano",
+					"name": "Chris Marsicano",
+					"id": 62824122,
+					"id_str": "62824122",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265739782036095000,
+					"id_str": "1265739782036094976",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDPoCZXgAAL1HP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDPoCZXgAAL1HP.jpg",
+					"url": "https://t.co/s4YWOsalNb",
+					"display_url": "pic.twitter.com/s4YWOsalNb",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1265739790051348485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265739782036095000,
+					"id_str": "1265739782036094976",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDPoCZXgAAL1HP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDPoCZXgAAL1HP.jpg",
+					"url": "https://t.co/s4YWOsalNb",
+					"display_url": "pic.twitter.com/s4YWOsalNb",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1265739790051348485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1265682680974397400,
+		"in_reply_to_status_id_str": "1265682680974397440",
+		"in_reply_to_user_id": 2397025926,
+		"in_reply_to_user_id_str": "2397025926",
+		"in_reply_to_screen_name": "kevinrmcclure",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kevinrmcclure @ChrisMarsicano Davidson was not alone. IUP's first academic catalog in 1875 boasted of the \"healthfulness\" of the area as well as the steam heat and gas lamps \"throughout.\" #HistSAHE https://t.co/s4YWOsalNb"
+	},
+	{
+		"created_at": "Wed May 27 20:10:09 +0000 2020",
+		"id": 1265737076261126100,
+		"id_str": "1265737076261126144",
+		"full_text": "The Sex Bureaucracy Meets the Trump Bureaucracy: Jeannie Suk Gersen on how the debate over Title IX regulations became so polarized #SAHElaw  https://t.co/hQhQhTVuZp via @chronicle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hQhQhTVuZp",
+					"expanded_url": "https://www.chronicle.com/article/The-Sex-Bureaucracy-Meets-the/248849/?key=LwO6j3K0mIGHYkT3aRWpxLPLQgYA2yBZ8jMxN8Gbnu-QqYImI1XYe-FrEvxtp63uc2xvVFdNdHdySG43SXdydVJsWlM3RjdYVTQtWU1HUlhFTkZUdm5DTEpsMA#.Xs7I_uySLtY.twitter",
+					"display_url": "chronicle.com/article/The-Se…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Sex Bureaucracy Meets the Trump Bureaucracy: Jeannie Suk Gersen on how the debate over Title IX regulations became so polarized #SAHElaw  https://t.co/hQhQhTVuZp via @chronicle"
+	},
+	{
+		"created_at": "Wed May 27 20:09:27 +0000 2020",
+		"id": 1265736419110039600,
+		"id_str": "1265736899328651266",
+		"full_text": "https://t.co/eZ0QS3hJkA I think Professor Suk Gersen is more right than wrong, but she still wants more of a criminal trial than Title IX requires; colleges aren't geared for conducting fair (or unfair) trials. She's also wrong about the APA, which the Admin has ignored 30+ times https://t.co/sLJihWmLOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eZ0QS3hJkA",
+					"expanded_url": "http://chronicle.com/article/The-Sex-Bureaucracy-Meets-the/248849",
+					"display_url": "chronicle.com/article/The-Se…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265736400428609500,
+					"id_str": "1265736400428609536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDMjM7UMAAWmfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDMjM7UMAAWmfF.jpg",
+					"url": "https://t.co/sLJihWmLOU",
+					"display_url": "pic.twitter.com/sLJihWmLOU",
+					"expanded_url": "https://twitter.com/rockandrollprof/status/1265736419110039552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265736400428609500,
+					"id_str": "1265736400428609536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDMjM7UMAAWmfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDMjM7UMAAWmfF.jpg",
+					"url": "https://t.co/sLJihWmLOU",
+					"display_url": "pic.twitter.com/sLJihWmLOU",
+					"expanded_url": "https://twitter.com/rockandrollprof/status/1265736419110039552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 167,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3253620674,
+			"id_str": "3253620674",
+			"name": "Michael A. Olivas",
+			"screen_name": "rockandrollprof",
+			"location": "Santa Fe, NM",
+			"description": "Rock and Roll Law Professor,™ writing on college law, immigration, entertainment law--plus WH and Presidential mendacity. Retired UHLC, 2019: molivas@uh.edu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 204,
+			"listed_count": 17,
+			"created_at": "Tue Jun 23 12:38:24 +0000 2015",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198306939186360320/Gn-xmf09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198306939186360320/Gn-xmf09_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3253620674/1489533375",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/eZ0QS3hJkA I think Professor Suk Gersen is more right than wrong, but she still wants more of a criminal trial than Title IX requires; colleges aren't geared for conducting fair (or unfair) trials. She's also wrong about the APA, which the Admin has ignored 30+ times https://t.co/sLJihWmLOU"
+	},
+	{
+		"created_at": "Wed May 27 19:16:34 +0000 2020",
+		"id": 1265723589967392800,
+		"id_str": "1265723589967392773",
+		"full_text": "Davidson was not alone. IUP's first academic catalog in 1875 boasted of the \"healthfulness\" of the area as well as the steam heat and gas lamps \"thoughout.\" #HistSAHE https://t.co/TUNqEoX0Cf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265723581218111500,
+					"id_str": "1265723581218111494",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDA5BpXQAYgjs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDA5BpXQAYgjs-.jpg",
+					"url": "https://t.co/TUNqEoX0Cf",
+					"display_url": "pic.twitter.com/TUNqEoX0Cf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1265723589967392773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265723581218111500,
+					"id_str": "1265723581218111494",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EZDA5BpXQAYgjs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZDA5BpXQAYgjs-.jpg",
+					"url": "https://t.co/TUNqEoX0Cf",
+					"display_url": "pic.twitter.com/TUNqEoX0Cf",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1265723589967392773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Davidson was not alone. IUP's first academic catalog in 1875 boasted of the \"healthfulness\" of the area as well as the steam heat and gas lamps \"thoughout.\" #HistSAHE https://t.co/TUNqEoX0Cf"
+	},
+	{
+		"created_at": "Wed May 27 19:15:45 +0000 2020",
+		"id": 1265723384966647800,
+		"id_str": "1265723384966647810",
+		"full_text": "@ChrisMarsicano @kevinrmcclure More proof of why @twitter needs an edit button. 1875 Catalog",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMarsicano",
+					"name": "Chris Marsicano",
+					"id": 62824122,
+					"id_str": "62824122",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "kevinrmcclure",
+					"name": "Kevin R. McClure",
+					"id": 2397025926,
+					"id_str": "2397025926",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1265703313288429600,
+		"in_reply_to_status_id_str": "1265703313288429568",
+		"in_reply_to_user_id": 62824122,
+		"in_reply_to_user_id_str": "62824122",
+		"in_reply_to_screen_name": "ChrisMarsicano",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisMarsicano @kevinrmcclure More proof of why @twitter needs an edit button. 1875 Catalog"
+	},
+	{
+		"created_at": "Wed May 27 19:14:01 +0000 2020",
+		"id": 1265722947001634800,
+		"id_str": "1265722947001634816",
+		"full_text": "Slavery at South Carolina College, 1801–1865: The Foundations of the University of South Carolina #HistSAHE\n\nhttps://t.co/uHjt1zaqnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHjt1zaqnS",
+					"expanded_url": "https://delphi.tcl.sc.edu/library/digital/slaveryscc/campus-slaves--slavery.html",
+					"display_url": "delphi.tcl.sc.edu/library/digita…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slavery at South Carolina College, 1801–1865: The Foundations of the University of South Carolina #HistSAHE\n\nhttps://t.co/uHjt1zaqnS"
+	},
+	{
+		"created_at": "Wed May 27 15:49:54 +0000 2020",
+		"id": 1265415976809627600,
+		"id_str": "1265671580945993728",
+		"full_text": "If you’re unbothered or mildly bothered by the 1st knee, but outraged by the 2nd, then, in my father’s words, you’re “more devoted to order than to justice.” And more passionate about an anthem that supposedly symbolizes freedom than you are about a Black man’s freedom to live. https://t.co/kxpVOEeTNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265415972321726500,
+					"id_str": "1265415972321726471",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-pH1NXkAc6sDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-pH1NXkAc6sDL.jpg",
+					"url": "https://t.co/kxpVOEeTNR",
+					"display_url": "pic.twitter.com/kxpVOEeTNR",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1265415976809627650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265415972321726500,
+					"id_str": "1265415972321726471",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-pH1NXkAc6sDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-pH1NXkAc6sDL.jpg",
+					"url": "https://t.co/kxpVOEeTNR",
+					"display_url": "pic.twitter.com/kxpVOEeTNR",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1265415976809627650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "Bernice A. King is a connector, communicator, community builder, CEO of @TheKingCenter, and child of great global influencers.",
+			"url": "https://t.co/zq0VeoIg6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq0VeoIg6H",
+							"expanded_url": "http://www.BerniceKing.com",
+							"display_url": "BerniceKing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321115,
+			"friends_count": 458,
+			"listed_count": 1348,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 22341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1588367210",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112916,
+		"favorite_count": 360754,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’re unbothered or mildly bothered by the 1st knee, but outraged by the 2nd, then, in my father’s words, you’re “more devoted to order than to justice.” And more passionate about an anthem that supposedly symbolizes freedom than you are about a Black man’s freedom to live. https://t.co/kxpVOEeTNR"
+	},
+	{
+		"created_at": "Wed May 27 14:18:51 +0000 2020",
+		"id": 1265648667089830000,
+		"id_str": "1265648667089829889",
+		"full_text": "Florida Tech under federal investigation for alleged Clery Act violations https://t.co/4s6X5TtrGP via @Florida_Today #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Florida_Today",
+					"name": "Florida Today",
+					"id": 17001533,
+					"id_str": "17001533",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4s6X5TtrGP",
+					"expanded_url": "https://www.floridatoday.com/story/news/2020/05/26/florida-tech-under-federal-investigation-clery-act-violations/5258106002/",
+					"display_url": "floridatoday.com/story/news/202…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1111,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Florida Tech under federal investigation for alleged Clery Act violations https://t.co/4s6X5TtrGP via @Florida_Today #SAHElaw"
+	},
+	{
 		"created_at": "Tue May 26 22:42:56 +0000 2020",
 		"id": 1265413137047699500,
 		"id_str": "1265413137047699458",
