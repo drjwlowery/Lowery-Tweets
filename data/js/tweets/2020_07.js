@@ -1,6 +1,1132 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 16:22:27 +0000 2020",
+		"id": 1279088122710679600,
+		"id_str": "1279088122710679552",
+		"full_text": "1971 @NYTimes article about requests to change Dartmouth’s mascot. The change would be made in 1974. via @NYTimes. #HistSAHE  https://t.co/PgnDjM8KZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PgnDjM8KZZ",
+					"expanded_url": "https://www.nytimes.com/1971/11/14/archives/an-indian-affair-american-indian-students-concerned-about-nicknames.html?referringSource=articleShare",
+					"display_url": "nytimes.com/1971/11/14/arc…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1971 @NYTimes article about requests to change Dartmouth’s mascot. The change would be made in 1974. via @NYTimes. #HistSAHE  https://t.co/PgnDjM8KZZ"
+	},
+	{
+		"created_at": "Fri Jul 03 16:19:48 +0000 2020",
+		"id": 1279087455807963100,
+		"id_str": "1279087455807963137",
+		"full_text": "Washington Redskins to Review Team’s Nickname\n\nThe review — a prelude to a potential change — comes after years of protest from those who find the name offensive and defiance from the team’s owner. via @NYTimes #HistSAHE  https://t.co/uyC5uCgtXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						202,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uyC5uCgtXm",
+					"expanded_url": "https://www.nytimes.com/2020/07/03/sports/football/washington-redskins-nickname-history.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2020/07/03/spo…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Washington Redskins to Review Team’s Nickname\n\nThe review — a prelude to a potential change — comes after years of protest from those who find the name offensive and defiance from the team’s owner. via @NYTimes #HistSAHE  https://t.co/uyC5uCgtXm"
+	},
+	{
+		"created_at": "Fri Jul 03 12:37:44 +0000 2020",
+		"id": 1279031569324351500,
+		"id_str": "1279031569324351488",
+		"full_text": "The creator of Mount Rushmore’s forgotten ties to white supremacy\n\nSculptor Gutzon Borglum was deeply involved with the Ku Klux Klan while designing the Confederate memorial at Stone Mountain, Ga.\n - The Washington Post #HistSAHE  https://t.co/kwTwDqVFoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwTwDqVFoZ",
+					"expanded_url": "https://www.washingtonpost.com/history/2020/07/03/mount-rushmore-gutzon-borglum-klan-stone-mountain/",
+					"display_url": "washingtonpost.com/history/2020/0…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The creator of Mount Rushmore’s forgotten ties to white supremacy\n\nSculptor Gutzon Borglum was deeply involved with the Ku Klux Klan while designing the Confederate memorial at Stone Mountain, Ga.\n - The Washington Post #HistSAHE  https://t.co/kwTwDqVFoZ"
+	},
+	{
+		"created_at": "Fri Jul 03 12:35:39 +0000 2020",
+		"id": 1279031046760214500,
+		"id_str": "1279031046760214531",
+		"full_text": "Watching President Johnson Signs Civil Rights Act of 1964 @CSPAN https://t.co/Soh8M9ufLs #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cspan",
+					"name": "CSPAN",
+					"id": 15675138,
+					"id_str": "15675138",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Soh8M9ufLs",
+					"expanded_url": "https://www.c-span.org/video/?300956-1/civil-rights-act-50th-anniversary",
+					"display_url": "c-span.org/video/?300956-…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1279029817418174500,
+		"in_reply_to_status_id_str": "1279029817418174475",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching President Johnson Signs Civil Rights Act of 1964 @CSPAN https://t.co/Soh8M9ufLs #HistSAHE"
+	},
+	{
+		"created_at": "Fri Jul 03 12:34:59 +0000 2020",
+		"id": 1278547951925842000,
+		"id_str": "1279030878455431170",
+		"full_text": "I'm looking forward to moderating the 1st of 4 conversations in this series, each focused on a central question. Can't wait to hear the perspectives of this expert panel. Join me as @DrVEvansWinters, @DrLaGarrettKing &amp; @TerahJay drop all the mics! RSVP: https://t.co/1HQQRZaR1R https://t.co/skqJNaWZl6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrVEvansWinters",
+					"name": "Venus Evans-Winters",
+					"id": 64632139,
+					"id_str": "64632139",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"screen_name": "DrLaGarrettKing",
+					"name": "LaGarrett King",
+					"id": 617579498,
+					"id_str": "617579498",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"screen_name": "TerahJay",
+					"name": "Dr. TJ",
+					"id": 83617926,
+					"id_str": "83617926",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1HQQRZaR1R",
+					"expanded_url": "https://tinyurl.com/y7fwa8ea",
+					"display_url": "tinyurl.com/y7fwa8ea",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278546049674641400,
+					"id_str": "1278546049674641410",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5O26_WAAIvUP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5O26_WAAIvUP7.jpg",
+					"url": "https://t.co/skqJNaWZl6",
+					"display_url": "pic.twitter.com/skqJNaWZl6",
+					"expanded_url": "https://twitter.com/LoriPattonDavis/status/1278547951925841920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278546049674641400,
+					"id_str": "1278546049674641410",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5O26_WAAIvUP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5O26_WAAIvUP7.jpg",
+					"url": "https://t.co/skqJNaWZl6",
+					"display_url": "pic.twitter.com/skqJNaWZl6",
+					"expanded_url": "https://twitter.com/LoriPattonDavis/status/1278547951925841920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 867070513,
+			"id_str": "867070513",
+			"name": "LoriTheeBuckeye",
+			"screen_name": "LoriPattonDavis",
+			"location": "Columbus, OH",
+			"description": "Professor, Scholar, Researcher & Consultant. Retweets are not endorsements. Opinions are my own.",
+			"url": "https://t.co/oWYJk0yDKC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oWYJk0yDKC",
+							"expanded_url": "https://www.loripattondavis.com/",
+							"display_url": "loripattondavis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5500,
+			"friends_count": 917,
+			"listed_count": 86,
+			"created_at": "Sun Oct 07 22:39:09 +0000 2012",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976082430254698496/BU7x_E7U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976082430254698496/BU7x_E7U_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm looking forward to moderating the 1st of 4 conversations in this series, each focused on a central question. Can't wait to hear the perspectives of this expert panel. Join me as @DrVEvansWinters, @DrLaGarrettKing &amp; @TerahJay drop all the mics! RSVP: https://t.co/1HQQRZaR1R https://t.co/skqJNaWZl6"
+	},
+	{
+		"created_at": "Fri Jul 03 12:34:16 +0000 2020",
+		"id": 1278727013071814700,
+		"id_str": "1279030697781534720",
+		"full_text": "Today AASA submitted the second of two amicus briefs in State Attorney General cases against DeVos asking for a preliminary injunction. The brief, written by John Borkowski @HuschBlackwell urges the Court to give districts beyond Aug 14 to implement. https://t.co/J848X0Gi1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuschBlackwell",
+					"name": "Husch Blackwell",
+					"id": 172072794,
+					"id_str": "172072794",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J848X0Gi1g",
+					"expanded_url": "https://aasa.org/uploadedFiles/AASA_Blog(1)/Title%20IX%20Amicus%20Brief%202020.pdf",
+					"display_url": "aasa.org/uploadedFiles/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568346148,
+			"id_str": "568346148",
+			"name": "Sasha Pudelski AASA",
+			"screen_name": "SPudelski",
+			"location": "",
+			"description": "Advocacy Director, AASA. \nCo-Chair of https://t.co/BVfukTKZGa; \nProduct of great public schools, \nMom of preschooler and infant",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BVfukTKZGa",
+							"expanded_url": "http://novouchers.org",
+							"display_url": "novouchers.org",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2877,
+			"friends_count": 981,
+			"listed_count": 52,
+			"created_at": "Tue May 01 14:45:15 +0000 2012",
+			"favourites_count": 1994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236022139804938243/5K0vjPyr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236022139804938243/5K0vjPyr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568346148/1583525694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today AASA submitted the second of two amicus briefs in State Attorney General cases against DeVos asking for a preliminary injunction. The brief, written by John Borkowski @HuschBlackwell urges the Court to give districts beyond Aug 14 to implement. https://t.co/J848X0Gi1g"
+	},
+	{
+		"created_at": "Fri Jul 03 12:31:53 +0000 2020",
+		"id": 1279030098079989800,
+		"id_str": "1279030098079989761",
+		"full_text": "How the Civil Rights Act saved the South's economy https://t.co/m8zk8R25Nt via @voxdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "voxdotcom",
+					"name": "Vox",
+					"id": 2347049341,
+					"id_str": "2347049341",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m8zk8R25Nt",
+					"expanded_url": "https://www.vox.com/2014/7/2/5865249/the-economic-legacy-of-the-civil-rights-act",
+					"display_url": "vox.com/2014/7/2/58652…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1279029817418174500,
+		"in_reply_to_status_id_str": "1279029817418174475",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How the Civil Rights Act saved the South's economy https://t.co/m8zk8R25Nt via @voxdotcom"
+	},
+	{
+		"created_at": "Fri Jul 03 12:30:46 +0000 2020",
+		"id": 1279029817418174500,
+		"id_str": "1279029817418174475",
+		"full_text": "On July 2, 1964, President Lyndon B. John signed the Civil Rights Act of 1964 into law surrounded by a number of leaders of Civil Rights Movement. #HistSAHE https://t.co/ofAkGA5rBg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279029801127469000,
+					"id_str": "1279029801127469056",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EcAG09lXYAAXE3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcAG09lXYAAXE3N.jpg",
+					"url": "https://t.co/ofAkGA5rBg",
+					"display_url": "pic.twitter.com/ofAkGA5rBg",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1279029817418174475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279029801127469000,
+					"id_str": "1279029801127469056",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EcAG09lXYAAXE3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcAG09lXYAAXE3N.jpg",
+					"url": "https://t.co/ofAkGA5rBg",
+					"display_url": "pic.twitter.com/ofAkGA5rBg",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1279029817418174475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On July 2, 1964, President Lyndon B. John signed the Civil Rights Act of 1964 into law surrounded by a number of leaders of Civil Rights Movement. #HistSAHE https://t.co/ofAkGA5rBg"
+	},
+	{
 		"created_at": "Thu Jul 02 20:03:02 +0000 2020",
 		"id": 1278781247825862700,
 		"id_str": "1278781247825862663",
