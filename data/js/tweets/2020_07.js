@@ -1,6 +1,853 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 00:47:24 +0000 2020",
+		"id": 1281389523776049200,
+		"id_str": "1281389523776049152",
+		"full_text": "@ah_ra_cho Enamel lapel pin?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ah_ra_cho",
+					"name": "Ah Ra Cho",
+					"id": 235827196,
+					"id_str": "235827196",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281076651120423000,
+		"in_reply_to_status_id_str": "1281076651120422926",
+		"in_reply_to_user_id": 235827196,
+		"in_reply_to_user_id_str": "235827196",
+		"in_reply_to_screen_name": "ah_ra_cho",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ah_ra_cho Enamel lapel pin?"
+	},
+	{
+		"created_at": "Fri Jul 10 00:46:49 +0000 2020",
+		"id": 1281235560783392800,
+		"id_str": "1281389377029980160",
+		"full_text": "#NewTitleIX USDCT for MT grants Def's @montanastate's MTD as to P's #TitleIX Disparate Impact Official Policy claim, rejecting P's argument that the disparate Impact itself provides an inference of Intentional Discrimination. Ct. follows the 6th &amp; 7th CA, Cites Sandoval. https://t.co/zCaWfoaItO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewTitleIX",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "TitleIX",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "montanastate",
+					"name": "Montana State University",
+					"id": 224367026,
+					"id_str": "224367026",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281234267612287000,
+					"id_str": "1281234267612286977",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfbxzMWkAERnGX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcfbxzMWkAERnGX.png",
+					"url": "https://t.co/zCaWfoaItO",
+					"display_url": "pic.twitter.com/zCaWfoaItO",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1281235560783392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1816,
+							"h": 1332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281234267612287000,
+					"id_str": "1281234267612286977",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfbxzMWkAERnGX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcfbxzMWkAERnGX.png",
+					"url": "https://t.co/zCaWfoaItO",
+					"display_url": "pic.twitter.com/zCaWfoaItO",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1281235560783392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1816,
+							"h": 1332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., JD",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on HigherEd Compliance News & TitleIX Litigation. Texas TIX Admin. YNWA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1585580553",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NewTitleIX USDCT for MT grants Def's @montanastate's MTD as to P's #TitleIX Disparate Impact Official Policy claim, rejecting P's argument that the disparate Impact itself provides an inference of Intentional Discrimination. Ct. follows the 6th &amp; 7th CA, Cites Sandoval. https://t.co/zCaWfoaItO"
+	},
+	{
+		"created_at": "Thu Jul 09 19:44:20 +0000 2020",
+		"id": 1281313256351522800,
+		"id_str": "1281313256351522816",
+		"full_text": "John Robert's balancing act: The Supreme Court says the president is not a king but keeps his financial records hidden from Congress for now. #SAHElaw  https://t.co/01UB4Toa8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01UB4Toa8c",
+					"expanded_url": "https://slate.com/news-and-politics/2020/07/trump-supreme-court-tax-returns-financial-records-subpoena.html",
+					"display_url": "slate.com/news-and-polit…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John Robert's balancing act: The Supreme Court says the president is not a king but keeps his financial records hidden from Congress for now. #SAHElaw  https://t.co/01UB4Toa8c"
+	},
+	{
+		"created_at": "Thu Jul 09 15:54:47 +0000 2020",
+		"id": 1281255489729265700,
+		"id_str": "1281255489729265665",
+		"full_text": "\"3 things that help habits stick\n\nRepetition. Habits form based on frequency, not time.\n\nStable context. If the context is always changing, so is the behavior. You need a reliable environment.\n\nPositive emotions. If it feels good, you’ll want to repeat it.\"\n\n–@JamesClear",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						260,
+						271
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"3 things that help habits stick\n\nRepetition. Habits form based on frequency, not time.\n\nStable context. If the context is always changing, so is the behavior. You need a reliable environment.\n\nPositive emotions. If it feels good, you’ll want to repeat it.\"\n\n–@JamesClear"
+	},
+	{
+		"created_at": "Thu Jul 09 15:54:03 +0000 2020",
+		"id": 1281255305024688000,
+		"id_str": "1281255305024688130",
+		"full_text": "\"Time spent working hard is often better spent identifying where the bottleneck is located.\n\nWorking hard on the wrong thing leads to frustration, not progress.\"\n\n–@JamesClear",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						164,
+						175
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Time spent working hard is often better spent identifying where the bottleneck is located.\n\nWorking hard on the wrong thing leads to frustration, not progress.\"\n\n–@JamesClear"
+	},
+	{
+		"created_at": "Thu Jul 09 13:56:59 +0000 2020",
+		"id": 1281225842442399700,
+		"id_str": "1281225842442399744",
+		"full_text": "The Protesting of a Protest Paper - The Chronicle of Higher Education #HistSAHE  https://t.co/zslir3PN5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zslir3PN5b",
+					"expanded_url": "https://www.chronicle.com/article/The-Protesting-of-a-Protest/249129",
+					"display_url": "chronicle.com/article/The-Pr…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Protesting of a Protest Paper - The Chronicle of Higher Education #HistSAHE  https://t.co/zslir3PN5b"
+	},
+	{
+		"created_at": "Thu Jul 09 13:53:13 +0000 2020",
+		"id": 1281224895431508000,
+		"id_str": "1281224895431507969",
+		"full_text": "This Will Be One of the Worst Months in the History of Higher Education - The Chronicle of Higher Education #HistSAHE  https://t.co/eUY2hShWep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eUY2hShWep",
+					"expanded_url": "https://www.chronicle.com/article/This-Will-Be-One-of-the-Worst/249128",
+					"display_url": "chronicle.com/article/This-W…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1136,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Will Be One of the Worst Months in the History of Higher Education - The Chronicle of Higher Education #HistSAHE  https://t.co/eUY2hShWep"
+	},
+	{
 		"created_at": "Wed Jul 08 17:46:18 +0000 2020",
 		"id": 1280921163699388400,
 		"id_str": "1280921163699388416",
