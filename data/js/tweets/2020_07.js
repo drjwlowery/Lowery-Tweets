@@ -1,6 +1,1138 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 16:37:06 +0000 2020",
+		"id": 1282353301644808200,
+		"id_str": "1282353301644808192",
+		"full_text": "@rkelchen She was making the rounds this morning!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rkelchen",
+					"name": "Robert Kelchen",
+					"id": 1167013236,
+					"id_str": "1167013236",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282299249179467800,
+		"in_reply_to_status_id_str": "1282299249179467776",
+		"in_reply_to_user_id": 1167013236,
+		"in_reply_to_user_id_str": "1167013236",
+		"in_reply_to_screen_name": "rkelchen",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1141,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rkelchen She was making the rounds this morning!"
+	},
+	{
+		"created_at": "Sun Jul 12 13:45:51 +0000 2020",
+		"id": 1282299249179467800,
+		"id_str": "1282310202126151680",
+		"full_text": "Betsy DeVos is making a rare Sunday talk show appearance this morning. I'll share any highlights from her Fox News Sunday interview.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1167013236,
+			"id_str": "1167013236",
+			"name": "Robert Kelchen",
+			"screen_name": "rkelchen",
+			"location": "New Jersey",
+			"description": "Associate professor of higher education @SetonHall. I study higher ed finance, accountability, and financial aid. Data editor for @monthly college rankings.",
+			"url": "https://t.co/i2slgSVX8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i2slgSVX8f",
+							"expanded_url": "https://robertkelchen.com/",
+							"display_url": "robertkelchen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11879,
+			"friends_count": 838,
+			"listed_count": 384,
+			"created_at": "Sun Feb 10 21:03:38 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 39384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177323539113943041/LogmtxCu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177323539113943041/LogmtxCu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1167013236/1439765850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Betsy DeVos is making a rare Sunday talk show appearance this morning. I'll share any highlights from her Fox News Sunday interview."
+	},
+	{
+		"created_at": "Sun Jul 12 13:44:25 +0000 2020",
+		"id": 1282309842313662500,
+		"id_str": "1282309842313662464",
+		"full_text": "@EricaLG To be clear, the GIF refers to DeVos, not @EricaLG https://t.co/crVhpDFFTk",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EricaLG",
+					"name": "Erica L. Green",
+					"id": 22283200,
+					"id_str": "22283200",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "EricaLG",
+					"name": "Erica L. Green",
+					"id": 22283200,
+					"id_str": "22283200",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282309836244504600,
+					"id_str": "1282309836244504576",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcuuAIlX0AA3kM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcuuAIlX0AA3kM5.jpg",
+					"url": "https://t.co/crVhpDFFTk",
+					"display_url": "pic.twitter.com/crVhpDFFTk",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1282309842313662464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282309836244504600,
+					"id_str": "1282309836244504576",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcuuAIlX0AA3kM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcuuAIlX0AA3kM5.jpg",
+					"url": "https://t.co/crVhpDFFTk",
+					"display_url": "pic.twitter.com/crVhpDFFTk",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1282309842313662464/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EcuuAIlX0AA3kM5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282305047502770200,
+		"in_reply_to_status_id_str": "1282305047502770176",
+		"in_reply_to_user_id": 22283200,
+		"in_reply_to_user_id_str": "22283200",
+		"in_reply_to_screen_name": "EricaLG",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1141,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EricaLG To be clear, the GIF refers to DeVos, not @EricaLG https://t.co/crVhpDFFTk"
+	},
+	{
+		"created_at": "Sun Jul 12 13:42:39 +0000 2020",
+		"id": 1282309400896643000,
+		"id_str": "1282309400896643073",
+		"full_text": "No https://t.co/5YVaYjGi1e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5YVaYjGi1e",
+					"expanded_url": "https://twitter.com/dncwarroom/status/1282304758787842048",
+					"display_url": "twitter.com/dncwarroom/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1141,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282304758787842000,
+		"quoted_status_id_str": "1282304758787842048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5YVaYjGi1e",
+			"expanded": "https://twitter.com/dncwarroom/status/1282304758787842048",
+			"display": "twitter.com/dncwarroom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 12 13:24:13 +0000 2020",
+			"id": 1282304758787842000,
+			"id_str": "1282304758787842048",
+			"full_text": "\"Yes or no: Can you assure students, teachers, parents that they will not get coronavirus because they’re going back to school?”\n\n@BetsyDeVos: “Well, the key is that kids have to get back to school. And we know there are going to be hotspots.\" https://t.co/PtdTXwbZOG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BetsyDeVos",
+						"name": "Betsy DeVos",
+						"id": 599530439,
+						"id_str": "599530439",
+						"indices": [
+							130,
+							141
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282304464918065200,
+						"id_str": "1282304464918065157",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282304464918065157/pu/img/56wsrV833NVfDuWE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282304464918065157/pu/img/56wsrV833NVfDuWE.jpg",
+						"url": "https://t.co/PtdTXwbZOG",
+						"display_url": "pic.twitter.com/PtdTXwbZOG",
+						"expanded_url": "https://twitter.com/DNCWarRoom/status/1282304758787842048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282304464918065200,
+						"id_str": "1282304464918065157",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282304464918065157/pu/img/56wsrV833NVfDuWE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282304464918065157/pu/img/56wsrV833NVfDuWE.jpg",
+						"url": "https://t.co/PtdTXwbZOG",
+						"display_url": "pic.twitter.com/PtdTXwbZOG",
+						"expanded_url": "https://twitter.com/DNCWarRoom/status/1282304758787842048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 50288,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1282304464918065157/pu/vid/1280x720/iRMQ8M9aLfEiWrU4.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1282304464918065157/pu/pl/E3hCIRASUTEU0Vf3.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1282304464918065157/pu/vid/480x270/HWlmgGzlQFE-oxbK.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1282304464918065157/pu/vid/640x360/5udUnLIdz9PsMfdR.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4486093643,
+				"id_str": "4486093643",
+				"name": "DNC War Room",
+				"screen_name": "DNCWarRoom",
+				"location": "Washington, DC",
+				"description": "Official Twitter Account for @TheDemocrats War Room.",
+				"url": "https://t.co/jLlJ4BS2Kx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jLlJ4BS2Kx",
+								"expanded_url": "http://www.democrats.org",
+								"display_url": "democrats.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58347,
+				"friends_count": 79,
+				"listed_count": 603,
+				"created_at": "Mon Dec 14 23:34:33 +0000 2015",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7308,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116283451844517888/bv_lObPX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116283451844517888/bv_lObPX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4486093643/1556556093",
+				"profile_link_color": "00AEF3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 155,
+			"favorite_count": 217,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "No https://t.co/5YVaYjGi1e"
+	},
+	{
+		"created_at": "Sun Jul 12 13:35:23 +0000 2020",
+		"id": 1282306582190194700,
+		"id_str": "1282307570540085248",
+		"full_text": "BASH: You're the Secretary of Education. So why do you not have guidance on what schools should do if there's a coronavirus outbreak just weeks before you want them to reopen?\n\nDeVOS: There are really good examples that have been utilized in the private sector. https://t.co/RBFxZ5OeFw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282306087828566000,
+					"id_str": "1282306087828566017",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282306087828566017/pu/img/5vhKXnfz1P0wcSy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282306087828566017/pu/img/5vhKXnfz1P0wcSy0.jpg",
+					"url": "https://t.co/RBFxZ5OeFw",
+					"display_url": "pic.twitter.com/RBFxZ5OeFw",
+					"expanded_url": "https://twitter.com/atrupar/status/1282306582190194688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282306087828566000,
+					"id_str": "1282306087828566017",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282306087828566017/pu/img/5vhKXnfz1P0wcSy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282306087828566017/pu/img/5vhKXnfz1P0wcSy0.jpg",
+					"url": "https://t.co/RBFxZ5OeFw",
+					"display_url": "pic.twitter.com/RBFxZ5OeFw",
+					"expanded_url": "https://twitter.com/atrupar/status/1282306582190194688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139306,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282306087828566017/pu/vid/640x360/dqAVEN3tv2f54kI3.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282306087828566017/pu/vid/1280x720/2cS0V9_9wTnB2GBL.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282306087828566017/pu/vid/480x270/zgLo6CnJmbl8EhFb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1282306087828566017/pu/pl/KM0dc6a4XcFSn6dN.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282304952749228000,
+		"in_reply_to_status_id_str": "1282304952749228034",
+		"in_reply_to_user_id": 288277167,
+		"in_reply_to_user_id_str": "288277167",
+		"in_reply_to_screen_name": "atrupar",
+		"user": {
+			"id": 288277167,
+			"id_str": "288277167",
+			"name": "Aaron Rupar",
+			"screen_name": "atrupar",
+			"location": "",
+			"description": "journalist @voxdotcom. on parental leave.",
+			"url": "https://t.co/RnqX4a5AQt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RnqX4a5AQt",
+							"expanded_url": "http://vox.com",
+							"display_url": "vox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431256,
+			"friends_count": 999,
+			"listed_count": 3569,
+			"created_at": "Tue Apr 26 15:22:47 +0000 2011",
+			"favourites_count": 115432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 935,
+		"favorite_count": 2840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BASH: You're the Secretary of Education. So why do you not have guidance on what schools should do if there's a coronavirus outbreak just weeks before you want them to reopen?\n\nDeVOS: There are really good examples that have been utilized in the private sector. https://t.co/RBFxZ5OeFw"
+	},
+	{
+		"created_at": "Sun Jul 12 13:35:09 +0000 2020",
+		"id": 1282301600497840000,
+		"id_str": "1282307512000286722",
+		"full_text": "Betsy DeVos on Fox News with Chris Wallace: \"We know that schools across the country are very different.\"\n\nBut, she said, when it comes to local school districts, \"There has to be a posture of doing something, of action.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211258358,
+			"id_str": "211258358",
+			"name": "Andrew Ujifusa",
+			"screen_name": "AndrewUjifusa",
+			"location": "",
+			"description": "@educationweek reporter and @PoliticsK12 co-author. Former resident of Mississippi, Japan, and elsewhere. 一期一会 and 残心.",
+			"url": "https://t.co/7m3eqeQKBV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7m3eqeQKBV",
+							"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/",
+							"display_url": "blogs.edweek.org/edweek/campaig…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4516,
+			"friends_count": 2013,
+			"listed_count": 208,
+			"created_at": "Tue Nov 02 19:21:42 +0000 2010",
+			"favourites_count": 2054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211258358/1545254238",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Betsy DeVos on Fox News with Chris Wallace: \"We know that schools across the country are very different.\"\n\nBut, she said, when it comes to local school districts, \"There has to be a posture of doing something, of action.\""
+	},
+	{
+		"created_at": "Sun Jul 12 13:35:05 +0000 2020",
+		"id": 1282306980833628200,
+		"id_str": "1282307495675998209",
+		"full_text": "Aside from \"looking\" at options, DeVo stresses she doesn't want to \"cut off\" $ from education per se. \n\nBut by \"education\" DeVos means what families would pay for if they got federal $ directly; if districts close their buildings, that's not the \"education\" kids need.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1282303966316048400,
+		"in_reply_to_status_id_str": "1282303966316048384",
+		"in_reply_to_user_id": 211258358,
+		"in_reply_to_user_id_str": "211258358",
+		"in_reply_to_screen_name": "AndrewUjifusa",
+		"user": {
+			"id": 211258358,
+			"id_str": "211258358",
+			"name": "Andrew Ujifusa",
+			"screen_name": "AndrewUjifusa",
+			"location": "",
+			"description": "@educationweek reporter and @PoliticsK12 co-author. Former resident of Mississippi, Japan, and elsewhere. 一期一会 and 残心.",
+			"url": "https://t.co/7m3eqeQKBV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7m3eqeQKBV",
+							"expanded_url": "http://blogs.edweek.org/edweek/campaign-k-12/",
+							"display_url": "blogs.edweek.org/edweek/campaig…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4516,
+			"friends_count": 2013,
+			"listed_count": 208,
+			"created_at": "Tue Nov 02 19:21:42 +0000 2010",
+			"favourites_count": 2054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218257240265760770/VRGLgWYM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211258358/1545254238",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Aside from \"looking\" at options, DeVo stresses she doesn't want to \"cut off\" $ from education per se. \n\nBut by \"education\" DeVos means what families would pay for if they got federal $ directly; if districts close their buildings, that's not the \"education\" kids need."
+	},
+	{
 		"created_at": "Sun Jul 12 00:05:11 +0000 2020",
 		"id": 1282103676807655400,
 		"id_str": "1282103676807655424",
