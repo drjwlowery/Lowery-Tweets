@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 22:40:25 +0000 2020",
+		"id": 1282718217631346700,
+		"id_str": "1282807121982226434",
+		"full_text": "Today, @TheFIREorg filed an amicus curiae brief in the lawsuit against ICE brought by Harvard and MIT. \n\nForcing international students out of the country will likely have the effect of importing censorship, like China’s Great Firewall, to U.S. classes.\n\nhttps://t.co/i67ku3CEkZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheFIREorg",
+					"name": "FIRE",
+					"id": 17839988,
+					"id_str": "17839988",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i67ku3CEkZ",
+					"expanded_url": "https://www.thefire.org/fire-on-ice-policy-requiring-students-to-return-to-unfree-countries-will-import-censorship-to-american-classrooms/",
+					"display_url": "thefire.org/fire-on-ice-po…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 983322181,
+			"id_str": "983322181",
+			"name": "Sarah McLaughlin",
+			"screen_name": "sarahemclaugh",
+			"location": "Philadelphia, PA",
+			"description": "Advocate at @TheFIREorg. Tweets about free expression, dissent, and academic freedom. Campaigning to be the next Gritty Guard. Opinions are my own.",
+			"url": "https://t.co/2WZcZriQQC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2WZcZriQQC",
+							"expanded_url": "http://thefire.org/author/sarahm/",
+							"display_url": "thefire.org/author/sarahm/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20891,
+			"friends_count": 1508,
+			"listed_count": 270,
+			"created_at": "Sat Dec 01 20:52:40 +0000 2012",
+			"favourites_count": 38801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248772575087517697/A344021Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248772575087517697/A344021Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/983322181/1592183493",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, @TheFIREorg filed an amicus curiae brief in the lawsuit against ICE brought by Harvard and MIT. \n\nForcing international students out of the country will likely have the effect of importing censorship, like China’s Great Firewall, to U.S. classes.\n\nhttps://t.co/i67ku3CEkZ"
+	},
+	{
+		"created_at": "Mon Jul 13 22:35:22 +0000 2020",
+		"id": 1282720602265182200,
+		"id_str": "1282805847563870210",
+		"full_text": "71 higher ed groups file an amicus brief in support of Harvard-MIT litigation against DHS/ICE\nhttps://t.co/8iu9AhaCNj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8iu9AhaCNj",
+					"expanded_url": "https://www.acenet.edu/Documents/Amicus-Brief-Mass-District-Court-SEVP-071320.pdf",
+					"display_url": "acenet.edu/Documents/Amic…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 557822491,
+			"id_str": "557822491",
+			"name": "Barmak Nassirian",
+			"screen_name": "BarmakN",
+			"location": "Washington, DC",
+			"description": "#Education policy, #privacy, & #politics. Tweets are personal, not views of any organization Retweets=\"Look at this\"≠endorsement MEDIA TWEEPS: pls do NOT print!",
+			"url": "https://t.co/IEopYs1ROi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IEopYs1ROi",
+							"expanded_url": "http://www.aascu.org/policy/",
+							"display_url": "aascu.org/policy/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3819,
+			"friends_count": 2648,
+			"listed_count": 239,
+			"created_at": "Thu Apr 19 15:50:12 +0000 2012",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872278287761850368/Mpc49Lwl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872278287761850368/Mpc49Lwl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/557822491/1440920842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "71 higher ed groups file an amicus brief in support of Harvard-MIT litigation against DHS/ICE\nhttps://t.co/8iu9AhaCNj"
+	},
+	{
+		"created_at": "Mon Jul 13 11:43:25 +0000 2020",
+		"id": 1282641781138628600,
+		"id_str": "1282641781138628609",
+		"full_text": "Legal Challenges on Many Fronts\n4 lawsuits have been filed against new Dept. of Ed. regulations for how colleges must respond to sexual misconduct on campus. The lawsuits question the merits of the regulations &amp; seek to block their implementation. #SAHElaw https://t.co/JyMJNumUyp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						252,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JyMJNumUyp",
+					"expanded_url": "https://www.insidehighered.com/news/2020/07/13/understanding-lawsuits-against-new-title-ix-regulations",
+					"display_url": "insidehighered.com/news/2020/07/1…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 1141,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Legal Challenges on Many Fronts\n4 lawsuits have been filed against new Dept. of Ed. regulations for how colleges must respond to sexual misconduct on campus. The lawsuits question the merits of the regulations &amp; seek to block their implementation. #SAHElaw https://t.co/JyMJNumUyp"
+	},
+	{
+		"created_at": "Mon Jul 13 03:13:18 +0000 2020",
+		"id": 1282489251465175000,
+		"id_str": "1282513403618172929",
+		"full_text": "Pains me to say it.. but now feels #CollegeFootball is facing a 3rd and long.. against a tough, unpredictable foe. And the #usopen needs a service break to brighten the chances of Grand Slam tennis in thIs country. Newest video here https://t.co/VzXGIwWa8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CollegeFootball",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"text": "usopen",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzXGIwWa8A",
+					"expanded_url": "https://www.instagram.com/tv/CCj1aFRAn_P/?igshid=137dsg587rek1",
+					"display_url": "instagram.com/tv/CCj1aFRAn_P…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19212622,
+			"id_str": "19212622",
+			"name": "Chris Fowler",
+			"screen_name": "cbfowler",
+			"location": "",
+			"description": "CFB, tennis, soccer, hockey, music, a bit more. but my instagram is really much more enjoyable: https://t.co/Mui1MIZAgw",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Mui1MIZAgw",
+							"expanded_url": "http://www.instagram.com/chrisfowler",
+							"display_url": "instagram.com/chrisfowler",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 806647,
+			"friends_count": 634,
+			"listed_count": 5303,
+			"created_at": "Tue Jan 20 01:12:28 +0000 2009",
+			"favourites_count": 420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122603424128876545/b-lnBkfY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122603424128876545/b-lnBkfY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19212622/1469165338",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pains me to say it.. but now feels #CollegeFootball is facing a 3rd and long.. against a tough, unpredictable foe. And the #usopen needs a service break to brighten the chances of Grand Slam tennis in thIs country. Newest video here https://t.co/VzXGIwWa8A"
+	},
+	{
+		"created_at": "Mon Jul 13 02:59:55 +0000 2020",
+		"id": 1282503266128060400,
+		"id_str": "1282510037928357889",
+		"full_text": "U.S. education chief Betsy DeVos downplays risk of opening schools amid coronavirus https://t.co/FkeYJjSGhr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FkeYJjSGhr",
+					"expanded_url": "https://www.latimes.com/world-nation/story/2020-07-12/coronavirus-us-education-secretary-devos-risk-opening-schools",
+					"display_url": "latimes.com/world-nation/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KW9cHofnW4",
+							"expanded_url": "http://latimes.com/subscribe",
+							"display_url": "latimes.com/subscribe",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3640594,
+			"friends_count": 6957,
+			"listed_count": 32258,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 293134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "U.S. education chief Betsy DeVos downplays risk of opening schools amid coronavirus https://t.co/FkeYJjSGhr"
+	},
+	{
+		"created_at": "Mon Jul 13 02:56:42 +0000 2020",
+		"id": 1282038048751071200,
+		"id_str": "1282509226569601024",
+		"full_text": "College students return to campus in a few weeks. We wanted to know their thoughts about quarantine, symptom tracking, contact tracing, and mask wearing on campus, so my grad student @laurie_groshon and I did focus groups to find out. \n\nHere’s what students told us  \n\n1/x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurie_groshon",
+					"name": "Laurie Groshon",
+					"id": 1260925228357746700,
+					"id_str": "1260925228357746689",
+					"indices": [
+						183,
+						198
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 264356595,
+			"id_str": "264356595",
+			"name": "Sherry Pagoto",
+			"screen_name": "DrSherryPagoto",
+			"location": "Live in MA, work in CT she/her",
+			"description": "UConn professor. Clinical psychologist. Study public health and social media. Director @UCONNmHealth. Past-prez @behavioralmed. Opinions are mine. #scicomm",
+			"url": "https://t.co/8Yr8MHOeH0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8Yr8MHOeH0",
+							"expanded_url": "http://www.alliedhealth.uconn.edu/facultyandstaff/index_71_4085321408.pdf",
+							"display_url": "alliedhealth.uconn.edu/facultyandstaf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30085,
+			"friends_count": 7357,
+			"listed_count": 621,
+			"created_at": "Fri Mar 11 19:33:39 +0000 2011",
+			"favourites_count": 30343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231748426917974016/MJ66GX4b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231748426917974016/MJ66GX4b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264356595/1534620252",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4978,
+		"favorite_count": 8896,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "College students return to campus in a few weeks. We wanted to know their thoughts about quarantine, symptom tracking, contact tracing, and mask wearing on campus, so my grad student @laurie_groshon and I did focus groups to find out. \n\nHere’s what students told us  \n\n1/x"
+	},
+	{
 		"created_at": "Sun Jul 12 16:37:06 +0000 2020",
 		"id": 1282353301644808200,
 		"id_str": "1282353301644808192",
