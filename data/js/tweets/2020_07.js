@@ -1,6 +1,1778 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 23:14:29 +0000 2020",
+		"id": 1288976287630012400,
+		"id_str": "1288976287630012416",
+		"full_text": "If you didn’t get a chance to watch this afternoon, do yourself a favor and watch Reverend James Lawson, Jr.’s eulogy for his friend of 60 years and fellow Civil Rights icon, Representative John Lewis. #HistSAHE  https://t.co/IQ90DNQPL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IQ90DNQPL6",
+					"expanded_url": "https://youtu.be/YOxpSPT5PnI",
+					"display_url": "youtu.be/YOxpSPT5PnI",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you didn’t get a chance to watch this afternoon, do yourself a favor and watch Reverend James Lawson, Jr.’s eulogy for his friend of 60 years and fellow Civil Rights icon, Representative John Lewis. #HistSAHE  https://t.co/IQ90DNQPL6"
+	},
+	{
+		"created_at": "Thu Jul 30 16:21:53 +0000 2020",
+		"id": 1288872454094454800,
+		"id_str": "1288872454094454786",
+		"full_text": "James Lawson: John Lewis and C.T. Vivian gave leadership to struggle for equality #HistSAHE https://t.co/d5CAg7f3gC via @tennessean",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tennessean",
+					"name": "Tennessean",
+					"id": 16639736,
+					"id_str": "16639736",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d5CAg7f3gC",
+					"expanded_url": "https://www.tennessean.com/story/news/religion/2020/07/22/james-lawson-john-lewis-and-c-t-vivian-gave-leadership-struggle-equality/5488007002/",
+					"display_url": "tennessean.com/story/news/rel…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "James Lawson: John Lewis and C.T. Vivian gave leadership to struggle for equality #HistSAHE https://t.co/d5CAg7f3gC via @tennessean"
+	},
+	{
+		"created_at": "Thu Jul 30 16:21:15 +0000 2020",
+		"id": 1288872293989527600,
+		"id_str": "1288872293989527553",
+		"full_text": "Speaking now at the memorial for John Lewis is the man that help teach John Lewis the principles of non-violence in Nashville in the late 1950s and early 1960s and joined him in making #GoodTrouble, the Reverend James Lawson, Jr. #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodTrouble",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "HistSAHE",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Speaking now at the memorial for John Lewis is the man that help teach John Lewis the principles of non-violence in Nashville in the late 1950s and early 1960s and joined him in making #GoodTrouble, the Reverend James Lawson, Jr. #HistSAHE"
+	},
+	{
+		"created_at": "Thu Jul 30 15:58:42 +0000 2020",
+		"id": 1288866617410101200,
+		"id_str": "1288866617410101249",
+		"full_text": "\"Procrastinating on something important is choosing to delay a better future.\"\n\n–@JamesClear",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Procrastinating on something important is choosing to delay a better future.\"\n\n–@JamesClear"
+	},
+	{
+		"created_at": "Thu Jul 30 15:57:07 +0000 2020",
+		"id": 1288866218955481000,
+		"id_str": "1288866218955481089",
+		"full_text": "@DrGMBettencourt I would suggest following @raulpacheco. He tweets extensively about the academic writing process and shares lots of resources and examples.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrGMBettencourt",
+					"name": "Genia Bettencourt",
+					"id": 879757543236567000,
+					"id_str": "879757543236567040",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "raulpacheco",
+					"name": "Dr Raul Pacheco-Vega",
+					"id": 15432179,
+					"id_str": "15432179",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288855620242866200,
+		"in_reply_to_status_id_str": "1288855620242866176",
+		"in_reply_to_user_id": 879757543236567000,
+		"in_reply_to_user_id_str": "879757543236567040",
+		"in_reply_to_screen_name": "DrGMBettencourt",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrGMBettencourt I would suggest following @raulpacheco. He tweets extensively about the academic writing process and shares lots of resources and examples."
+	},
+	{
+		"created_at": "Thu Jul 30 15:55:43 +0000 2020",
+		"id": 1288861810976624600,
+		"id_str": "1288865867221143554",
+		"full_text": "https://t.co/18seEl3Bjy  I have serious questions about the reporting numbers--some of which suggest overcounts, and some undercounts. \n\nQuien sabe que? All that's certain is there will be many more, depending on how many open up &amp; encourage living on campuses. The should be wary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/18seEl3Bjy",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/07/28/us/covid-19-colleges-universities.html?smid=em-share",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3253620674,
+			"id_str": "3253620674",
+			"name": "Michael A. Olivas",
+			"screen_name": "rockandrollprof",
+			"location": "Santa Fe, NM",
+			"description": "Rock and Roll Law Professor,™ writing on college law, immigration, entertainment law--plus WH and Presidential mendacity. UHLC Emeritus, 2019: molivas@uh.edu",
+			"url": "https://t.co/UuREyHSHBg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UuREyHSHBg",
+							"expanded_url": "http://www.lawofrockandroll.com",
+							"display_url": "lawofrockandroll.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Tue Jun 23 12:38:24 +0000 2015",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198306939186360320/Gn-xmf09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198306939186360320/Gn-xmf09_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3253620674/1489533375",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/18seEl3Bjy  I have serious questions about the reporting numbers--some of which suggest overcounts, and some undercounts. \n\nQuien sabe que? All that's certain is there will be many more, depending on how many open up &amp; encourage living on campuses. The should be wary"
+	},
+	{
+		"created_at": "Thu Jul 30 15:52:58 +0000 2020",
+		"id": 1288852363428667400,
+		"id_str": "1288865177237106690",
+		"full_text": "Gov't brief is due August 3 and it will be interesting to see how it responds.  I have a feeling that judge may have set a trap for AGs and that they fell into it.  Could be wrong and would welcome anyone else's perspective on Judge Nichols' 7/24 order. https://t.co/yQjwgfCz3M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yQjwgfCz3M",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064",
+					"display_url": "twitter.com/JakeHigherEdLa…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111648037,
+			"id_str": "111648037",
+			"name": "Robb Jones",
+			"screen_name": "RobbJones_law",
+			"location": "Washington, DC",
+			"description": "Education lawyer, college trustee, former SCOTUS administrator, history buff, amateur photographer, and fan of all matters nautical.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 151,
+			"listed_count": 9,
+			"created_at": "Fri Feb 05 17:32:16 +0000 2010",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257472590333071360/UF9ed8uI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257472590333071360/UF9ed8uI_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288840091071320000,
+		"quoted_status_id_str": "1288840091071320064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yQjwgfCz3M",
+			"expanded": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064",
+			"display": "twitter.com/JakeHigherEdLa…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 14:13:17 +0000 2020",
+			"id": 1288840091071320000,
+			"id_str": "1288840091071320064",
+			"full_text": "The 18 AG's challenging the new #TitleIXRegs submitted the requested memo last night asking the Ct to grant an Injunction and delay the Aug. 14 effective date. AG's overall argument is that the new rule exceeds @usedgov authority &amp; will harm schs &amp; students. #TitleIX #EdLaw https://t.co/Wv3FglUQZL https://t.co/jCV8xUYaPw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				306
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TitleIXRegs",
+						"indices": [
+							32,
+							44
+						]
+					},
+					{
+						"text": "TitleIX",
+						"indices": [
+							267,
+							275
+						]
+					},
+					{
+						"text": "EdLaw",
+						"indices": [
+							276,
+							282
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "usedgov",
+						"name": "U.S. Department of Education",
+						"id": 20437286,
+						"id_str": "20437286",
+						"indices": [
+							211,
+							219
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Wv3FglUQZL",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1286810961005940736",
+						"display_url": "twitter.com/JakeHigherEdLa…",
+						"indices": [
+							283,
+							306
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1288838750584307700,
+						"id_str": "1288838750584307712",
+						"indices": [
+							307,
+							330
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLgA91WAAAt77m.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeLgA91WAAAt77m.png",
+						"url": "https://t.co/jCV8xUYaPw",
+						"display_url": "pic.twitter.com/jCV8xUYaPw",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1453,
+								"h": 831,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288838750584307700,
+						"id_str": "1288838750584307712",
+						"indices": [
+							307,
+							330
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLgA91WAAAt77m.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeLgA91WAAAt77m.png",
+						"url": "https://t.co/jCV8xUYaPw",
+						"display_url": "pic.twitter.com/jCV8xUYaPw",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1453,
+								"h": 831,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1288838750580113400,
+						"id_str": "1288838750580113409",
+						"indices": [
+							307,
+							330
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLgA90WAAEwWz1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeLgA90WAAEwWz1.png",
+						"url": "https://t.co/jCV8xUYaPw",
+						"display_url": "pic.twitter.com/jCV8xUYaPw",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1392,
+								"h": 558,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 273,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1288838750588543000,
+						"id_str": "1288838750588542976",
+						"indices": [
+							307,
+							330
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLgA92WoAAtt1w.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeLgA92WoAAtt1w.png",
+						"url": "https://t.co/jCV8xUYaPw",
+						"display_url": "pic.twitter.com/jCV8xUYaPw",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1288840091071320064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1416,
+								"h": 437,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893633585944703000,
+				"id_str": "893633585944702977",
+				"name": "Jake G., JD",
+				"screen_name": "JakeHigherEdLaw",
+				"location": "Texas, USA",
+				"description": "Legal Researcher & Presenter on HigherEd Compliance, News, & Title IX Litigation. Texas TIX Admin. YNWA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223,
+				"friends_count": 20,
+				"listed_count": 0,
+				"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+				"favourites_count": 554,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 363,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1585580553",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1286810961005940700,
+			"quoted_status_id_str": "1286810961005940736",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Wv3FglUQZL",
+				"expanded": "https://twitter.com/JakeHigherEdLaw/status/1286810961005940736",
+				"display": "twitter.com/JakeHigherEdLa…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gov't brief is due August 3 and it will be interesting to see how it responds.  I have a feeling that judge may have set a trap for AGs and that they fell into it.  Could be wrong and would welcome anyone else's perspective on Judge Nichols' 7/24 order. https://t.co/yQjwgfCz3M"
+	},
+	{
+		"created_at": "Thu Jul 30 15:51:50 +0000 2020",
+		"id": 1288855620242866200,
+		"id_str": "1288864890732544000",
+		"full_text": "Alright academic friends, who has a good system to keep track of all their different writing projects? I'm feeling the need to revamp my system these days and am a bit uninspired. Thanks in advance!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879757543236567000,
+			"id_str": "879757543236567040",
+			"name": "Genia Bettencourt",
+			"screen_name": "DrGMBettencourt",
+			"location": "Massachusetts, USA",
+			"description": "Postdoctoral Research Associate @UMassCSSR. Alum @UMasseduc @OregonState @UCDavis. She/Her/Hers.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 933,
+			"listed_count": 8,
+			"created_at": "Tue Jun 27 17:45:18 +0000 2017",
+			"favourites_count": 6325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031731934114660353/qNauZbtz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031731934114660353/qNauZbtz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879757543236567040/1534819086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Alright academic friends, who has a good system to keep track of all their different writing projects? I'm feeling the need to revamp my system these days and am a bit uninspired. Thanks in advance!"
+	},
+	{
+		"created_at": "Thu Jul 30 13:57:46 +0000 2020",
+		"id": 1288836186170065000,
+		"id_str": "1288836186170064899",
+		"full_text": "Great to see several @IUPSAHE students in the new @IUPedu video! \n\nLet’s Help Each Other Stay Safe - IUP News - News and Events - IUP https://t.co/5ITTuqvmRD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IUPSAHE",
+					"name": "IUP SAHE",
+					"id": 366747456,
+					"id_str": "366747456",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "IUPedu",
+					"name": "Indiana University of Pennsylvania",
+					"id": 16422886,
+					"id_str": "16422886",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5ITTuqvmRD",
+					"expanded_url": "https://www.iup.edu/news-item.aspx?id=286897&blogid=6121&utm_campaign=iup_daily&utm_medium=e-mail&utm_source=iup_daily&utm_content=0000-00-00",
+					"display_url": "iup.edu/news-item.aspx…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see several @IUPSAHE students in the new @IUPedu video! \n\nLet’s Help Each Other Stay Safe - IUP News - News and Events - IUP https://t.co/5ITTuqvmRD"
+	},
+	{
+		"created_at": "Thu Jul 30 11:26:45 +0000 2020",
+		"id": 1288798181929746400,
+		"id_str": "1288798181929746432",
+		"full_text": "I urge you to answer the highest calling of your heart and stand up for what you truly believe. In my life I have done all I can to demonstrate that the way of peace, the way of love and nonviolence is the more excellent way. Now it is your turn to let freedom ring.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1288797227498995700,
+		"in_reply_to_status_id_str": "1288797227498995713",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I urge you to answer the highest calling of your heart and stand up for what you truly believe. In my life I have done all I can to demonstrate that the way of peace, the way of love and nonviolence is the more excellent way. Now it is your turn to let freedom ring."
+	},
+	{
+		"created_at": "Thu Jul 30 11:26:00 +0000 2020",
+		"id": 1288797991013421000,
+		"id_str": "1288797991013421058",
+		"full_text": "You must study &amp; learn the lessons of history because humanity has been involved in this soul-wrenching, existential struggle for a very long time. The truth does not change, &amp; that is why the answers worked out long ago can help you find solutions to the challenges of our time.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1288797227498995700,
+		"in_reply_to_status_id_str": "1288797227498995713",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You must study &amp; learn the lessons of history because humanity has been involved in this soul-wrenching, existential struggle for a very long time. The truth does not change, &amp; that is why the answers worked out long ago can help you find solutions to the challenges of our time."
+	},
+	{
+		"created_at": "Thu Jul 30 11:24:43 +0000 2020",
+		"id": 1288797666651111400,
+		"id_str": "1288797666651111424",
+		"full_text": "Ordinary people with extraordinary vision can redeem the soul of America by getting in what I call good trouble, necessary trouble. Voting and participating in the democratic process are key. The vote is the most powerful nonviolent change agent you have in a democratic society.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1288797227498995700,
+		"in_reply_to_status_id_str": "1288797227498995713",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ordinary people with extraordinary vision can redeem the soul of America by getting in what I call good trouble, necessary trouble. Voting and participating in the democratic process are key. The vote is the most powerful nonviolent change agent you have in a democratic society."
+	},
+	{
+		"created_at": "Thu Jul 30 11:23:27 +0000 2020",
+		"id": 1288797350153072600,
+		"id_str": "1288797350153072641",
+		"full_text": "Though I am gone, I urge\nyou to answer the highest calling of your heart and stand \nup for what you truly believe. via @NYTOpinion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytopinion",
+					"name": "New York Times Opinion",
+					"id": 16686144,
+					"id_str": "16686144",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1288797227498995700,
+		"in_reply_to_status_id_str": "1288797227498995713",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Though I am gone, I urge\nyou to answer the highest calling of your heart and stand \nup for what you truly believe. via @NYTOpinion"
+	},
+	{
+		"created_at": "Thu Jul 30 11:22:58 +0000 2020",
+		"id": 1288797227498995700,
+		"id_str": "1288797227498995713",
+		"full_text": "In an essay written shortly before his death which he asked be published on the day of his funeral, John Lewis still shows us the way. \n\nTogether, You Can Redeem the Soul of Our Nation #HistSAHE \n https://t.co/Z1JzPpTGJV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z1JzPpTGJV",
+					"expanded_url": "https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2020/07/30/opi…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1156,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In an essay written shortly before his death which he asked be published on the day of his funeral, John Lewis still shows us the way. \n\nTogether, You Can Redeem the Soul of Our Nation #HistSAHE \n https://t.co/Z1JzPpTGJV"
+	},
+	{
 		"created_at": "Thu Jul 30 00:50:02 +0000 2020",
 		"id": 1288637943817674800,
 		"id_str": "1288637943817674752",
