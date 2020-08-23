@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 22 14:58:22 +0000 2020",
+		"id": 1296834697419526100,
+		"id_str": "1297186354380537861",
+		"full_text": "#NewTitleIX The USDCT of CO allows Pl's #42USC1983 Procedural Due Process claim arising out of an alleged botched #TitleIX investigation/adjudication to proceed past SummJ based on (Mathews) lack of Live Hearing, CrossExam, &amp; Failure to identify witness in Credibility Case.#EdLaw https://t.co/Ak6cSnOkv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewTitleIX",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "42USC1983",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "TitleIX",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "EdLaw",
+					"indices": [
+						278,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296832364799307800,
+					"id_str": "1296832364799307779",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef9GKjUXsAMVayJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef9GKjUXsAMVayJ.jpg",
+					"url": "https://t.co/Ak6cSnOkv4",
+					"display_url": "pic.twitter.com/Ak6cSnOkv4",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296834697419526144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296832364799307800,
+					"id_str": "1296832364799307779",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef9GKjUXsAMVayJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef9GKjUXsAMVayJ.jpg",
+					"url": "https://t.co/Ak6cSnOkv4",
+					"display_url": "pic.twitter.com/Ak6cSnOkv4",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296834697419526144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296832698280009700,
+					"id_str": "1296832698280009730",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef9Gd9oXYAICJi3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef9Gd9oXYAICJi3.jpg",
+					"url": "https://t.co/Ak6cSnOkv4",
+					"display_url": "pic.twitter.com/Ak6cSnOkv4",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296834697419526144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296832737161224200,
+					"id_str": "1296832737161224194",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef9GgOeXoAIboll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef9GgOeXoAIboll.jpg",
+					"url": "https://t.co/Ak6cSnOkv4",
+					"display_url": "pic.twitter.com/Ak6cSnOkv4",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296834697419526144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296834443555090400,
+					"id_str": "1296834443555090432",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef9IDjSXsAABxiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef9IDjSXsAABxiJ.jpg",
+					"url": "https://t.co/Ak6cSnOkv4",
+					"display_url": "pic.twitter.com/Ak6cSnOkv4",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296834697419526144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 317,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., JD",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on HigherEd Compliance, News, & Title IX Litigation. Texas Title IX & Civil Rights Compliance Admin. YNWA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1585580553",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NewTitleIX The USDCT of CO allows Pl's #42USC1983 Procedural Due Process claim arising out of an alleged botched #TitleIX investigation/adjudication to proceed past SummJ based on (Mathews) lack of Live Hearing, CrossExam, &amp; Failure to identify witness in Credibility Case.#EdLaw https://t.co/Ak6cSnOkv4"
+	},
+	{
+		"created_at": "Sat Aug 22 12:04:29 +0000 2020",
+		"id": 1297142597044052000,
+		"id_str": "1297142597044051970",
+		"full_text": "Student papers say administrators share blame for virus outbreaks: ‘Don’t make us write obituaries’ #HistSAHE  https://t.co/e8kZ8z5LaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8kZ8z5LaJ",
+					"expanded_url": "https://www.washingtonpost.com/education/2020/08/21/student-newspapers-coronavirus/",
+					"display_url": "washingtonpost.com/education/2020…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1166,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Student papers say administrators share blame for virus outbreaks: ‘Don’t make us write obituaries’ #HistSAHE  https://t.co/e8kZ8z5LaJ"
+	},
+	{
 		"created_at": "Fri Aug 21 16:58:00 +0000 2020",
 		"id": 1296854073732296700,
 		"id_str": "1296854073732296705",
