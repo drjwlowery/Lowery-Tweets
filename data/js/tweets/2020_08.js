@@ -1,6 +1,1559 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 21:45:17 +0000 2020",
+		"id": 1298013537227481000,
+		"id_str": "1298013537227481088",
+		"full_text": "HYPOCRITES 5:17 P.M.\nJerry Falwell Jr. Allegedly Approved of His Wife’s Affair https://t.co/E19j0wF0zn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E19j0wF0zn",
+					"expanded_url": "https://nymag.com/intelligencer/2020/08/jerry-falwell-jr-joins-the-ranks-of-evangelical-hypocrites.html",
+					"display_url": "nymag.com/intelligencer/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1298011023614578700,
+		"in_reply_to_status_id_str": "1298011023614578689",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYPOCRITES 5:17 P.M.\nJerry Falwell Jr. Allegedly Approved of His Wife’s Affair https://t.co/E19j0wF0zn"
+	},
+	{
+		"created_at": "Mon Aug 24 21:35:18 +0000 2020",
+		"id": 1298011023614578700,
+		"id_str": "1298011023614578689",
+		"full_text": "This story broke last night (it was just rumors before that point) and might have contributed to the decision. \n\nReport: Former Pool Boy Describes Years-Long Sexual Relationship With Jerry Falwell Jr. And Wife #Schadenfreude\n\nhttps://t.co/LCgnUlC0pU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Schadenfreude",
+					"indices": [
+						210,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LCgnUlC0pU",
+					"expanded_url": "https://www.reuters.com/investigates/special-report/usa-falwell-relationship/",
+					"display_url": "reuters.com/investigates/s…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1298004659169263600,
+		"in_reply_to_status_id_str": "1298004659169263617",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This story broke last night (it was just rumors before that point) and might have contributed to the decision. \n\nReport: Former Pool Boy Describes Years-Long Sexual Relationship With Jerry Falwell Jr. And Wife #Schadenfreude\n\nhttps://t.co/LCgnUlC0pU"
+	},
+	{
+		"created_at": "Mon Aug 24 21:10:01 +0000 2020",
+		"id": 1298004659169263600,
+		"id_str": "1298004659169263617",
+		"full_text": "Jerry Falwell Jr. agrees to resign from Liberty University #HistSAHE  https://t.co/ZqpXSP1Gkp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZqpXSP1Gkp",
+					"expanded_url": "https://www.washingtonpost.com/education/2020/08/24/jerry-falwell-jr-agrees-resign-liberty-university/",
+					"display_url": "washingtonpost.com/education/2020…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jerry Falwell Jr. agrees to resign from Liberty University #HistSAHE  https://t.co/ZqpXSP1Gkp"
+	},
+	{
+		"created_at": "Mon Aug 24 19:54:01 +0000 2020",
+		"id": 1294690317443235800,
+		"id_str": "1297985532501401600",
+		"full_text": "Here’s a thread about protecting student privacy while reporting new Covid-19 cases https://t.co/ZIl0wysH4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294690301605445600,
+					"id_str": "1294690301605445637",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efep-EFWAAUGeJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efep-EFWAAUGeJ-.jpg",
+					"url": "https://t.co/ZIl0wysH4X",
+					"display_url": "pic.twitter.com/ZIl0wysH4X",
+					"expanded_url": "https://twitter.com/sftierney/status/1294690317443235840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294690301605445600,
+					"id_str": "1294690301605445637",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efep-EFWAAUGeJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efep-EFWAAUGeJ-.jpg",
+					"url": "https://t.co/ZIl0wysH4X",
+					"display_url": "pic.twitter.com/ZIl0wysH4X",
+					"expanded_url": "https://twitter.com/sftierney/status/1294690317443235840/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Efep-EFWAAUGeJ-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49216466,
+			"id_str": "49216466",
+			"name": "Sean Tierney",
+			"screen_name": "sftierney",
+			"location": "",
+			"description": "Policy & Research at Indiana Commission for Higher Ed. Tweets = mine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 952,
+			"listed_count": 5,
+			"created_at": "Sun Jun 21 03:24:10 +0000 2009",
+			"favourites_count": 2175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460924489765634049/MrVLMXGa_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460924489765634049/MrVLMXGa_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49216466/1562380774",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a thread about protecting student privacy while reporting new Covid-19 cases https://t.co/ZIl0wysH4X"
+	},
+	{
+		"created_at": "Mon Aug 24 18:15:00 +0000 2020",
+		"id": 1297960615567401000,
+		"id_str": "1297960615567400960",
+		"full_text": "Don’t Hurt Yourself: A Survival Guide for Graduate Students of Color (w/ great tips for everyone)- #HistSAHE  #SAchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "SAchat",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Don’t Hurt Yourself: A Survival Guide for Graduate Students of Color (w/ great tips for everyone)- #HistSAHE  #SAchat"
+	},
+	{
+		"created_at": "Mon Aug 24 18:12:00 +0000 2020",
+		"id": 1297959860257067000,
+		"id_str": "1297959860257067008",
+		"full_text": "14 incredibly useful things you didn’t know Google Drive could do https://t.co/5PVjFmgWjo #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5PVjFmgWjo",
+					"expanded_url": "https://fastcompany.com/90392583/14-incredibly-useful-things-you-didnt-know-google-drive-could-do",
+					"display_url": "fastcompany.com/90392583/14-in…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "14 incredibly useful things you didn’t know Google Drive could do https://t.co/5PVjFmgWjo #HistSAHE"
+	},
+	{
+		"created_at": "Mon Aug 24 16:59:00 +0000 2020",
+		"id": 1297941489062830000,
+		"id_str": "1297941489062830082",
+		"full_text": "Entrepreneur Patrick Collison on the value of reading:\n\n\"You could try to pound your head against the wall and think of original ideas or you can cheat by reading them in books.\" https://t.co/s2jVJMfq07",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296487115069497300,
+					"id_str": "1296487115069497345",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ef4MKX2WoAE8Ke3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ef4MKX2WoAE8Ke3.jpg",
+					"url": "https://t.co/s2jVJMfq07",
+					"display_url": "pic.twitter.com/s2jVJMfq07",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1297941489062830082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296487115069497300,
+					"id_str": "1296487115069497345",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ef4MKX2WoAE8Ke3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ef4MKX2WoAE8Ke3.jpg",
+					"url": "https://t.co/s2jVJMfq07",
+					"display_url": "pic.twitter.com/s2jVJMfq07",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1297941489062830082/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							75,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ef4MKX2WoAE8Ke3.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Entrepreneur Patrick Collison on the value of reading:\n\n\"You could try to pound your head against the wall and think of original ideas or you can cheat by reading them in books.\" https://t.co/s2jVJMfq07"
+	},
+	{
+		"created_at": "Mon Aug 24 15:36:26 +0000 2020",
+		"id": 1296834902449684500,
+		"id_str": "1297920713417019392",
+		"full_text": "Hard to say whether the CA6 UK case expands Davis bc there is *no* analysis. CA6 does no one any favors - students or schools - when it holds there are “issues of fact” re whether a student is denied access to a P&amp;A but doesn’t explain how or why under these facts. Weak sauce. https://t.co/c4SVSS3iGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c4SVSS3iGy",
+					"expanded_url": "https://twitter.com/jakehigheredlaw/status/1296151824332992513",
+					"display_url": "twitter.com/jakehigheredla…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880093818598686700,
+			"id_str": "880093818598686722",
+			"name": "Josh Richards",
+			"screen_name": "JoshWBRichards",
+			"location": "Philadelphia, PA",
+			"description": "@SaulEwing in Philly counseling colleges everywhere about #TitleIX, #Clery, and other sticky legal issues. World’s fastest #TitleIX lawyer? 🏃🏼‍♂️ He/him",
+			"url": "https://t.co/ewZDxiyTsf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ewZDxiyTsf",
+							"expanded_url": "http://www.saul.com/attorneys/joshua-richards",
+							"display_url": "saul.com/attorneys/josh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416,
+			"friends_count": 575,
+			"listed_count": 3,
+			"created_at": "Wed Jun 28 16:01:32 +0000 2017",
+			"favourites_count": 1708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226887984433242117/U8eOAJGi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226887984433242117/U8eOAJGi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880093818598686722/1574823101",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296151824332992500,
+		"quoted_status_id_str": "1296151824332992513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c4SVSS3iGy",
+			"expanded": "https://twitter.com/jakehigheredlaw/status/1296151824332992513",
+			"display": "twitter.com/jakehigheredla…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 18:27:30 +0000 2020",
+			"id": 1296151824332992500,
+			"id_str": "1296151824332992513",
+			"full_text": "#NewTitleIX MajorCase: 6CA allows a #TitleIX Deliberate Indifference claim on SummJ to proceed against the Univ. of Kentucky where Pl. was not a UK student, but a community college (owned &amp; operated by UK) student who paid to live &amp; dine on UK campus. Seems to expand Davis.#EdLaw https://t.co/Zi67Lgz4ix",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NewTitleIX",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "TitleIX",
+						"indices": [
+							36,
+							44
+						]
+					},
+					{
+						"text": "EdLaw",
+						"indices": [
+							282,
+							288
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1296150751497072600,
+						"id_str": "1296150751497072641",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EfzaPb5WsAE-squ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfzaPb5WsAE-squ.png",
+						"url": "https://t.co/Zi67Lgz4ix",
+						"display_url": "pic.twitter.com/Zi67Lgz4ix",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296151824332992513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1132,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1228,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 641,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1296150751497072600,
+						"id_str": "1296150751497072641",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EfzaPb5WsAE-squ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfzaPb5WsAE-squ.png",
+						"url": "https://t.co/Zi67Lgz4ix",
+						"display_url": "pic.twitter.com/Zi67Lgz4ix",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296151824332992513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1132,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1228,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 641,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1296150751534813200,
+						"id_str": "1296150751534813187",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EfzaPcCWkAMuig0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfzaPcCWkAMuig0.png",
+						"url": "https://t.co/Zi67Lgz4ix",
+						"display_url": "pic.twitter.com/Zi67Lgz4ix",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296151824332992513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 940,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1468,
+								"h": 1150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 533,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1296150751522238500,
+						"id_str": "1296150751522238464",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EfzaPb_WsAA_aPB.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfzaPb_WsAA_aPB.png",
+						"url": "https://t.co/Zi67Lgz4ix",
+						"display_url": "pic.twitter.com/Zi67Lgz4ix",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296151824332992513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1416,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 763,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1296150751547400200,
+						"id_str": "1296150751547400192",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EfzaPcFWoAALSCk.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfzaPcFWoAALSCk.png",
+						"url": "https://t.co/Zi67Lgz4ix",
+						"display_url": "pic.twitter.com/Zi67Lgz4ix",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1296151824332992513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 738,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1418,
+								"h": 872,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893633585944703000,
+				"id_str": "893633585944702977",
+				"name": "Jake G., JD",
+				"screen_name": "JakeHigherEdLaw",
+				"location": "Texas, USA",
+				"description": "Legal Researcher & Presenter on HigherEd Compliance, News, & Title IX Litigation. Texas Title IX & Civil Rights Compliance Admin. YNWA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246,
+				"friends_count": 12,
+				"listed_count": 0,
+				"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+				"favourites_count": 575,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 399,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1585580553",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hard to say whether the CA6 UK case expands Davis bc there is *no* analysis. CA6 does no one any favors - students or schools - when it holds there are “issues of fact” re whether a student is denied access to a P&amp;A but doesn’t explain how or why under these facts. Weak sauce. https://t.co/c4SVSS3iGy"
+	},
+	{
+		"created_at": "Mon Aug 24 15:35:38 +0000 2020",
+		"id": 1297920509867327500,
+		"id_str": "1297920509867327500",
+		"full_text": "Reading, Processing, and Participating in Graduate School by @itsAlexCL https://t.co/B2uqM7yX32 #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsAlexCL",
+					"name": "Alex C. Lange",
+					"id": 850019210,
+					"id_str": "850019210",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B2uqM7yX32",
+					"expanded_url": "https://link.medium.com/DV1lW3hod9",
+					"display_url": "link.medium.com/DV1lW3hod9",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reading, Processing, and Participating in Graduate School by @itsAlexCL https://t.co/B2uqM7yX32 #HistSAHE"
+	},
+	{
+		"created_at": "Mon Aug 24 12:08:26 +0000 2020",
+		"id": 1297868365604761600,
+		"id_str": "1297868365604761600",
+		"full_text": "Survey finds many college students lacking in knowledge of religious traditions and in interfaith skills https://t.co/MSyt1Z98yp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MSyt1Z98yp",
+					"expanded_url": "https://www.insidehighered.com/news/2020/08/24/survey-finds-many-college-students-lacking-knowledge-religious-traditions-and#.X0OttSBry3U.twitter",
+					"display_url": "insidehighered.com/news/2020/08/2…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Survey finds many college students lacking in knowledge of religious traditions and in interfaith skills https://t.co/MSyt1Z98yp"
+	},
+	{
 		"created_at": "Sun Aug 23 17:49:48 +0000 2020",
 		"id": 1297591887189213200,
 		"id_str": "1297591887189213189",
