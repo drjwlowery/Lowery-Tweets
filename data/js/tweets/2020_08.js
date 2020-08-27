@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 23:07:49 +0000 2020",
+		"id": 1298759082023805000,
+		"id_str": "1298759082023804929",
+		"full_text": "Tracking Coronavirus Cases at U.S. Colleges and Universities via @NYTimes #HistSAHE  https://t.co/Q7A8DibvPP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q7A8DibvPP",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html?referringSource=articleShare",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2197,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tracking Coronavirus Cases at U.S. Colleges and Universities via @NYTimes #HistSAHE  https://t.co/Q7A8DibvPP"
+	},
+	{
+		"created_at": "Wed Aug 26 18:13:00 +0000 2020",
+		"id": 1298684887562559500,
+		"id_str": "1298684887562559488",
+		"full_text": "Many related to Harvard's students! | Harvard digitizes Colonial-era documents, letters via \n@BostonGlobe\n #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BostonGlobe",
+					"name": "The Boston Globe",
+					"id": 95431448,
+					"id_str": "95431448",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2197,
+			"friends_count": 1169,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Many related to Harvard's students! | Harvard digitizes Colonial-era documents, letters via \n@BostonGlobe\n #HistSAHE"
+	},
+	{
+		"created_at": "Wed Aug 26 17:49:52 +0000 2020",
+		"id": 1298650024235217000,
+		"id_str": "1298679066166534145",
+		"full_text": "Here, @etkeld asks whether campus reopening was all about money. @FeleciaElana, @cant_b, &amp; I provide insights.  Money is undeniably a major factor--&amp; money is political--but that's not the only factor driving these decisions.\n\nOne thing I want to clarify:\n\n(1/x) https://t.co/STh3fDJs8V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "etkeld",
+					"name": "Eric Kelderman",
+					"id": 7857542,
+					"id_str": "7857542",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"screen_name": "FeleciaElana",
+					"name": "Felecia Commodore",
+					"id": 58882337,
+					"id_str": "58882337",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "cant_b",
+					"name": "Brendan Cantwell",
+					"id": 158781901,
+					"id_str": "158781901",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/STh3fDJs8V",
+					"expanded_url": "https://twitter.com/chronicle/status/1298621285757591552",
+					"display_url": "twitter.com/chronicle/stat…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2598262352,
+			"id_str": "2598262352",
+			"name": "Andrew Koricich",
+			"screen_name": "Dr_AndrewK",
+			"location": "Boone, North Carolina, USA",
+			"description": "Assoc. Prof. of #HigherEd @AppstateRCOE | Ask me why #rural matters | Dog-lover | @penn_state-r | Explorer | Amateur chef & botanist | he/him/his",
+			"url": "https://t.co/Dmk7ywRu6U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dmk7ywRu6U",
+							"expanded_url": "http://about.me/andrew.koricich",
+							"display_url": "about.me/andrew.koricich",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 759,
+			"listed_count": 12,
+			"created_at": "Tue Jul 01 16:52:58 +0000 2014",
+			"favourites_count": 4217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068657400746434560/qOjOf1uX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068657400746434560/qOjOf1uX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2598262352/1467597698",
+			"profile_link_color": "0E3BAD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298621285757591600,
+		"quoted_status_id_str": "1298621285757591552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/STh3fDJs8V",
+			"expanded": "https://twitter.com/chronicle/status/1298621285757591552",
+			"display": "twitter.com/chronicle/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 26 14:00:16 +0000 2020",
+			"id": 1298621285757591600,
+			"id_str": "1298621285757591552",
+			"full_text": "As students cancel their plans to study on campus, nearly all of the money they spent for tuition will stay with the university. https://t.co/3DQ3FCo0sj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3DQ3FCo0sj",
+						"expanded_url": "https://chroni.cl/2YCDdiT",
+						"display_url": "chroni.cl/2YCDdiT",
+						"indices": [
+							129,
+							152
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12413032,
+				"id_str": "12413032",
+				"name": "The Chronicle of Higher Education",
+				"screen_name": "chronicle",
+				"location": "Washington, DC",
+				"description": "The leading news source for higher education. We tweet great stories from our archives with #CHEarchive. Get our newsletters: https://t.co/sl5AfZvjJ8",
+				"url": "http://t.co/xmkPbPRN4b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xmkPbPRN4b",
+								"expanded_url": "http://chronicle.com",
+								"display_url": "chronicle.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sl5AfZvjJ8",
+								"expanded_url": "http://chronicle.com/newsletters",
+								"display_url": "chronicle.com/newsletters",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281638,
+				"friends_count": 1596,
+				"listed_count": 7490,
+				"created_at": "Fri Jan 18 20:17:44 +0000 2008",
+				"favourites_count": 30,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 48742,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291050414285230082/TQnxUPX4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291050414285230082/TQnxUPX4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12413032/1474385755",
+				"profile_link_color": "005BB3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B9CCD7",
+				"profile_text_color": "272828",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here, @etkeld asks whether campus reopening was all about money. @FeleciaElana, @cant_b, &amp; I provide insights.  Money is undeniably a major factor--&amp; money is political--but that's not the only factor driving these decisions.\n\nOne thing I want to clarify:\n\n(1/x) https://t.co/STh3fDJs8V"
+	},
+	{
 		"created_at": "Wed Aug 26 01:02:30 +0000 2020",
 		"id": 1298425555436613600,
 		"id_str": "1298425555436613638",
