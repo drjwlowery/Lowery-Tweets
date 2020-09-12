@@ -1,6 +1,1374 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 20:22:34 +0000 2020",
+		"id": 1304515700296495000,
+		"id_str": "1304515700296495106",
+		"full_text": "As Colleges Open During a Pandemic, Student Life Remains Closed | What It's Like on College Campuses During Coronavirus | Time #HistSAHE  https://t.co/tLCWbj2xPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tLCWbj2xPY",
+					"expanded_url": "https://time.com/5887324/college-campus-coronavirus/",
+					"display_url": "time.com/5887324/colleg…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As Colleges Open During a Pandemic, Student Life Remains Closed | What It's Like on College Campuses During Coronavirus | Time #HistSAHE  https://t.co/tLCWbj2xPY"
+	},
+	{
+		"created_at": "Fri Sep 11 20:02:13 +0000 2020",
+		"id": 1304510580636647400,
+		"id_str": "1304510580636647424",
+		"full_text": "What It's Like on College Campuses During Coronavirus | Time #HistSAHE  https://t.co/tLCWbj2xPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tLCWbj2xPY",
+					"expanded_url": "https://time.com/5887324/college-campus-coronavirus/",
+					"display_url": "time.com/5887324/colleg…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What It's Like on College Campuses During Coronavirus | Time #HistSAHE  https://t.co/tLCWbj2xPY"
+	},
+	{
+		"created_at": "Fri Sep 11 18:21:00 +0000 2020",
+		"id": 1304485106602504200,
+		"id_str": "1304485106602504194",
+		"full_text": "More Honest Latin Mottoes For Your Overrated University - McSweeney’s Internet Tendency \nhttps://t.co/hJdL6X9tuR\n#HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hJdL6X9tuR",
+					"expanded_url": "https://www.mcsweeneys.net/articles/more-honest-latin-mottoes-for-your-overrated-university",
+					"display_url": "mcsweeneys.net/articles/more-…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More Honest Latin Mottoes For Your Overrated University - McSweeney’s Internet Tendency \nhttps://t.co/hJdL6X9tuR\n#HistSAHE"
+	},
+	{
+		"created_at": "Fri Sep 11 18:16:42 +0000 2020",
+		"id": 1304484026787475500,
+		"id_str": "1304484026787475457",
+		"full_text": "It is also striking that OCR is taking the exact opposite tack with transgender students than it took with Title IX &amp; Sexual Harassment--there OCR said following SCOTUS is best because there is just 1 standard, but here where they don't like the decision they ignore it. #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						275,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304483382118830000,
+		"in_reply_to_status_id_str": "1304483382118830081",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It is also striking that OCR is taking the exact opposite tack with transgender students than it took with Title IX &amp; Sexual Harassment--there OCR said following SCOTUS is best because there is just 1 standard, but here where they don't like the decision they ignore it. #SAHElaw"
+	},
+	{
+		"created_at": "Fri Sep 11 18:14:09 +0000 2020",
+		"id": 1304483382118830000,
+		"id_str": "1304483382118830081",
+		"full_text": "Ed Dept decision on trans student-athletes could have broader implications #SAHElaw https://t.co/tKkz5u1MGk via @EdDiveK12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdDiveK12",
+					"name": "Education Dive: K12",
+					"id": 508015210,
+					"id_str": "508015210",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tKkz5u1MGk",
+					"expanded_url": "https://www.educationdive.com/news/ed-dept-decision-on-trans-student-athletes-could-have-broader-implications/584535/",
+					"display_url": "educationdive.com/news/ed-dept-d…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ed Dept decision on trans student-athletes could have broader implications #SAHElaw https://t.co/tKkz5u1MGk via @EdDiveK12"
+	},
+	{
+		"created_at": "Fri Sep 11 17:48:00 +0000 2020",
+		"id": 1304476801977274400,
+		"id_str": "1304476801977274374",
+		"full_text": "@LukeWhiteman24 To be honest, the differences are limited (provided that a public college isn't attempting to limit constitutional rights through their contracts). #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LukeWhiteman24",
+					"name": "Luke Whiteman",
+					"id": 1166453288742658000,
+					"id_str": "1166453288742658054",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1303461963377381400,
+		"in_reply_to_status_id_str": "1303461963377381379",
+		"in_reply_to_user_id": 1166453288742658000,
+		"in_reply_to_user_id_str": "1166453288742658054",
+		"in_reply_to_screen_name": "LukeWhiteman24",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LukeWhiteman24 To be honest, the differences are limited (provided that a public college isn't attempting to limit constitutional rights through their contracts). #SAHElaw"
+	},
+	{
+		"created_at": "Fri Sep 11 17:02:00 +0000 2020",
+		"id": 1304465226050478000,
+		"id_str": "1304465226050478080",
+		"full_text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/wESzmLwvrK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171820240830967800,
+					"id_str": "1171820240830967808",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMkTOtXsAAXKq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMkTOtXsAAXKq4.jpg",
+					"url": "https://t.co/wESzmLwvrK",
+					"display_url": "pic.twitter.com/wESzmLwvrK",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171820242114420738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 573,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 573,
+							"h": 850,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171820242114420700,
+					"source_status_id_str": "1171820242114420738",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171820240830967800,
+					"id_str": "1171820240830967808",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMkTOtXsAAXKq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMkTOtXsAAXKq4.jpg",
+					"url": "https://t.co/wESzmLwvrK",
+					"display_url": "pic.twitter.com/wESzmLwvrK",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171820242114420738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 573,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 573,
+							"h": 850,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171820242114420700,
+					"source_status_id_str": "1171820242114420738",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/wESzmLwvrK"
+	},
+	{
+		"created_at": "Fri Sep 11 15:49:00 +0000 2020",
+		"id": 1304446854675955700,
+		"id_str": "1304446854675955712",
+		"full_text": "@molly_verostick We will talk about ESAs later this semester during our discussion of Housing Issues. #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "molly_verostick",
+					"name": "Molly Verostick",
+					"id": 1166437737211355100,
+					"id_str": "1166437737211355138",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1300920764934152200,
+		"in_reply_to_status_id_str": "1300920764934152192",
+		"in_reply_to_user_id": 1166437737211355100,
+		"in_reply_to_user_id_str": "1166437737211355138",
+		"in_reply_to_screen_name": "molly_verostick",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@molly_verostick We will talk about ESAs later this semester during our discussion of Housing Issues. #SAHElaw"
+	},
+	{
+		"created_at": "Fri Sep 11 15:01:00 +0000 2020",
+		"id": 1304434775449579500,
+		"id_str": "1304434775449579520",
+		"full_text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/RMMyphcQVR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171852180690747400,
+					"id_str": "1171852180690747394",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EENBWX9WwAIQnZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EENBWX9WwAIQnZh.jpg",
+					"url": "https://t.co/RMMyphcQVR",
+					"display_url": "pic.twitter.com/RMMyphcQVR",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171852182238507010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 852,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171852182238507000,
+					"source_status_id_str": "1171852182238507010",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171852180690747400,
+					"id_str": "1171852180690747394",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EENBWX9WwAIQnZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EENBWX9WwAIQnZh.jpg",
+					"url": "https://t.co/RMMyphcQVR",
+					"display_url": "pic.twitter.com/RMMyphcQVR",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171852182238507010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 852,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171852182238507000,
+					"source_status_id_str": "1171852182238507010",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/RMMyphcQVR"
+	},
+	{
+		"created_at": "Fri Sep 11 14:01:00 +0000 2020",
+		"id": 1304419675695128600,
+		"id_str": "1304419675695128576",
+		"full_text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/ZZNcb9QYkp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171912581390459000,
+					"id_str": "1171912581390458881",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EEN4SKGW4AEgMVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEN4SKGW4AEgMVD.jpg",
+					"url": "https://t.co/ZZNcb9QYkp",
+					"display_url": "pic.twitter.com/ZZNcb9QYkp",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171912582883696641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171912582883696600,
+					"source_status_id_str": "1171912582883696641",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171912581390459000,
+					"id_str": "1171912581390458881",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EEN4SKGW4AEgMVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEN4SKGW4AEgMVD.jpg",
+					"url": "https://t.co/ZZNcb9QYkp",
+					"display_url": "pic.twitter.com/ZZNcb9QYkp",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1171912582883696641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171912582883696600,
+					"source_status_id_str": "1171912582883696641",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1176,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On September 11, 1963, Henrie Monteith, Robert Anderson, and James Solomon enrolled in the University of South Carolina, becoming the first African Americans to enroll in the university since Reconstruction. #HistSAHE https://t.co/ZZNcb9QYkp"
+	},
+	{
 		"created_at": "Fri Sep 11 00:50:56 +0000 2020",
 		"id": 1304220850657398800,
 		"id_str": "1304220850657398785",
