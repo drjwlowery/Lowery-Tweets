@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 23:22:24 +0000 2020",
+		"id": 1307460061187518500,
+		"id_str": "1307460061187518464",
+		"full_text": "College Dean’s Message About Last Night’s Heavy-Breathing Party https://t.co/paNHGcSRU7 via @NewYorker #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/paNHGcSRU7",
+					"expanded_url": "https://www.newyorker.com/humor/daily-shouts/college-deans-message-about-last-nights-heavy-breathing-party?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=the-new-yorker&utm_social-type=earned",
+					"display_url": "newyorker.com/humor/daily-sh…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "College Dean’s Message About Last Night’s Heavy-Breathing Party https://t.co/paNHGcSRU7 via @NewYorker #HistSAHE"
+	},
+	{
+		"created_at": "Sat Sep 19 17:11:00 +0000 2020",
+		"id": 1307366593349869600,
+		"id_str": "1307366593349869568",
+		"full_text": "Hidden History of the University of Chicago: Harper's Bazaar, 1891-1916 https://t.co/o7AnZeMIpE via \n@YouTube\n #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o7AnZeMIpE",
+					"expanded_url": "http://youtu.be/yNcF5_up-T4",
+					"display_url": "youtu.be/yNcF5_up-T4",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hidden History of the University of Chicago: Harper's Bazaar, 1891-1916 https://t.co/o7AnZeMIpE via \n@YouTube\n #HistSAHE"
+	},
+	{
+		"created_at": "Sat Sep 19 14:11:36 +0000 2020",
+		"id": 1307321447849889800,
+		"id_str": "1307321447849889792",
+		"full_text": "Watching Senator McConnell on President Obama's Supreme Court Nomination @CSPAN https://t.co/mBlsRdvLgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cspan",
+					"name": "CSPAN",
+					"id": 15675138,
+					"id_str": "15675138",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mBlsRdvLgs",
+					"expanded_url": "https://www.c-span.org/video/?406734-3/senate-majority-leader-mcconnell-remarks-supreme-court-nomination",
+					"display_url": "c-span.org/video/?406734-…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching Senator McConnell on President Obama's Supreme Court Nomination @CSPAN https://t.co/mBlsRdvLgs"
+	},
+	{
+		"created_at": "Sat Sep 19 13:48:45 +0000 2020",
+		"id": 1307315696062337000,
+		"id_str": "1307315696062337024",
+		"full_text": "@LindseyGrahamSC #HoldTheTape https://t.co/vIZAyJRv3n",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HoldTheTape",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LindseyGrahamSC",
+					"name": "Lindsey Graham",
+					"id": 432895323,
+					"id_str": "432895323",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vIZAyJRv3n",
+					"expanded_url": "https://www.c-span.org/video/?c4907562/user-clip-hold-tape",
+					"display_url": "c-span.org/video/?c490756…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307109721581772800,
+		"in_reply_to_status_id_str": "1307109721581772802",
+		"in_reply_to_user_id": 432895323,
+		"in_reply_to_user_id_str": "432895323",
+		"in_reply_to_screen_name": "LindseyGrahamSC",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@LindseyGrahamSC #HoldTheTape https://t.co/vIZAyJRv3n"
+	},
+	{
+		"created_at": "Sat Sep 19 01:49:04 +0000 2020",
+		"id": 1307129386336948200,
+		"id_str": "1307134580684664832",
+		"full_text": "That was so quick that you know he had it ready to go in his Drafts folder. https://t.co/TphlLgt1yh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TphlLgt1yh",
+					"expanded_url": "https://twitter.com/senatemajldr/status/1307121192516628480",
+					"display_url": "twitter.com/senatemajldr/s…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19119809,
+			"id_str": "19119809",
+			"name": "W. Kamau Bell",
+			"screen_name": "wkamaubell",
+			"location": "Sheltering in Place",
+			"description": "Watch #UnitedShades on HBOMax & CNN on demand.\n\nWatch comedy special #PrivateSchoolNegro on Netflix.\n\nRead my book The Awkward Thoughts of W. Kamau Bell",
+			"url": "https://t.co/SkLRE1lMal",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SkLRE1lMal",
+							"expanded_url": "http://www.wkamaubell.com",
+							"display_url": "wkamaubell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377089,
+			"friends_count": 1147,
+			"listed_count": 3248,
+			"created_at": "Sat Jan 17 19:01:11 +0000 2009",
+			"favourites_count": 61460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277830004017999878/2DZHVAn0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277830004017999878/2DZHVAn0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19119809/1597623345",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307121192516628500,
+		"quoted_status_id_str": "1307121192516628480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TphlLgt1yh",
+			"expanded": "https://twitter.com/senatemajldr/status/1307121192516628480",
+			"display": "twitter.com/senatemajldr/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 19 00:55:52 +0000 2020",
+			"id": 1307121192516628500,
+			"id_str": "1307121192516628480",
+			"full_text": "The Senate and the nation mourn the passing of Justice Ruth Bader Ginsburg and the conclusion of her extraordinary American life.\n\nMy full statement: https://t.co/NOwYLhDxIk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1307121189450592300,
+						"id_str": "1307121189450592257",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/EiPTy9-WsAEPEO_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiPTy9-WsAEPEO_.jpg",
+						"url": "https://t.co/NOwYLhDxIk",
+						"display_url": "pic.twitter.com/NOwYLhDxIk",
+						"expanded_url": "https://twitter.com/senatemajldr/status/1307121192516628480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1109,
+								"h": 829,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1109,
+								"h": 829,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307121189450592300,
+						"id_str": "1307121189450592257",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/EiPTy9-WsAEPEO_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiPTy9-WsAEPEO_.jpg",
+						"url": "https://t.co/NOwYLhDxIk",
+						"display_url": "pic.twitter.com/NOwYLhDxIk",
+						"expanded_url": "https://twitter.com/senatemajldr/status/1307121192516628480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1109,
+								"h": 829,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1109,
+								"h": 829,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1249982359,
+				"id_str": "1249982359",
+				"name": "Leader McConnell",
+				"screen_name": "senatemajldr",
+				"location": "Washington, DC",
+				"description": "U.S. Senate Majority Leader Mitch McConnell\nFollow @McConnellPress & @SRCC",
+				"url": "https://t.co/J5RQpHiTgo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J5RQpHiTgo",
+								"expanded_url": "http://republicanleader.senate.gov",
+								"display_url": "republicanleader.senate.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1801041,
+				"friends_count": 105,
+				"listed_count": 6002,
+				"created_at": "Thu Mar 07 20:21:15 +0000 2013",
+				"favourites_count": 136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0066CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1249982359/1563547854",
+				"profile_link_color": "AD0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11139,
+			"favorite_count": 35671,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 629,
+		"favorite_count": 5880,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That was so quick that you know he had it ready to go in his Drafts folder. https://t.co/TphlLgt1yh"
+	},
+	{
 		"created_at": "Sat Sep 19 01:10:03 +0000 2020",
 		"id": 1307124765610700800,
 		"id_str": "1307124765610700805",
@@ -1334,7 +2112,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Fri Sep 18 12:58:39 +0000 2020",
 		"id": 1306940698810343400,
 		"id_str": "1306940698810343425",
-		"full_text": "Biden v. the Courts on Title IX\nAppellate rulings have shredded colleges for denying due-process protections—the same protections that the Democratic nominee promises to revoke. By ⁦@kcjohnson9⁩\n | City Journal #SAHElaw  https://t.co/sDmrnu1cDA",
+		"full_text": "Biden v. the Courts on Title IX\nAppellate rulings have shredded colleges for denying due-process protections—the same protections that the Democratic nominee promises to revoke. By @kcjohnson9\n | City Journal #SAHElaw  https://t.co/sDmrnu1cDA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1453,7 +2231,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Biden v. the Courts on Title IX\nAppellate rulings have shredded colleges for denying due-process protections—the same protections that the Democratic nominee promises to revoke. By ⁦@kcjohnson9⁩\n | City Journal #SAHElaw  https://t.co/sDmrnu1cDA"
+		"text": "Biden v. the Courts on Title IX\nAppellate rulings have shredded colleges for denying due-process protections—the same protections that the Democratic nominee promises to revoke. By @kcjohnson9\n | City Journal #SAHElaw  https://t.co/sDmrnu1cDA"
 	},
 	{
 		"created_at": "Fri Sep 18 10:50:00 +0000 2020",
