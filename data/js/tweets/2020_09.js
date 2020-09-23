@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 20:08:00 +0000 2020",
+		"id": 1308498300597747700,
+		"id_str": "1308498300597747712",
+		"full_text": "Rutgers' student newspaper the Targum described the first intercollegiate football game in its November 1869 issue.  https://t.co/0nN1w6woZs #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0nN1w6woZs",
+					"expanded_url": "http://beatvisitor.blogspot.com/2012/11/the-1869-targum-article-about-americas.html",
+					"display_url": "beatvisitor.blogspot.com/2012/11/the-18…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rutgers' student newspaper the Targum described the first intercollegiate football game in its November 1869 issue.  https://t.co/0nN1w6woZs #HistSAHE"
+	},
+	{
+		"created_at": "Tue Sep 22 18:10:06 +0000 2020",
+		"id": 1308468629223153700,
+		"id_str": "1308468629223153670",
+		"full_text": "Thread by @wdoyle42: The full impact of downturns in the economy take some time to reach higher education. Without action by the federal government to assist states, higher education in most states is facing severe...… https://t.co/rzgHIQitAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wdoyle42",
+					"name": "Will Doyle",
+					"id": 291900177,
+					"id_str": "291900177",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rzgHIQitAi",
+					"expanded_url": "https://threadreaderapp.com/thread/1308430277820194816.html",
+					"display_url": "threadreaderapp.com/thread/1308430…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread by @wdoyle42: The full impact of downturns in the economy take some time to reach higher education. Without action by the federal government to assist states, higher education in most states is facing severe...… https://t.co/rzgHIQitAi"
+	},
+	{
+		"created_at": "Tue Sep 22 18:09:50 +0000 2020",
+		"id": 1308468564953895000,
+		"id_str": "1308468564953894913",
+		"full_text": "@wdoyle42 @threadreaderapp unroll",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wdoyle42",
+					"name": "Will Doyle",
+					"id": 291900177,
+					"id_str": "291900177",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1308430277820194800,
+		"in_reply_to_status_id_str": "1308430277820194816",
+		"in_reply_to_user_id": 291900177,
+		"in_reply_to_user_id_str": "291900177",
+		"in_reply_to_screen_name": "wdoyle42",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wdoyle42 @threadreaderapp unroll"
+	},
+	{
+		"created_at": "Tue Sep 22 18:07:36 +0000 2020",
+		"id": 1308430277820194800,
+		"id_str": "1308468000719351811",
+		"full_text": "The full impact of downturns in the economy take some time to reach higher education. Without action by the federal government to assist states, higher education in most states is facing severe cuts, likely to be larger than those incurred during the Great Recession. 1/N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 291900177,
+			"id_str": "291900177",
+			"name": "Will Doyle",
+			"screen_name": "wdoyle42",
+			"location": "Nashville, TN",
+			"description": "Professor of Higher Education, Vanderbilt University",
+			"url": "http://t.co/Gm76MjvsBJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Gm76MjvsBJ",
+							"expanded_url": "http://my.vanderbilt.edu/willdoyle/",
+							"display_url": "my.vanderbilt.edu/willdoyle/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 248,
+			"listed_count": 26,
+			"created_at": "Mon May 02 19:59:13 +0000 2011",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/429240911617220608/dg2BGrsi_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/429240911617220608/dg2BGrsi_normal.jpeg",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The full impact of downturns in the economy take some time to reach higher education. Without action by the federal government to assist states, higher education in most states is facing severe cuts, likely to be larger than those incurred during the Great Recession. 1/N"
+	},
+	{
+		"created_at": "Tue Sep 22 16:03:00 +0000 2020",
+		"id": 1308436644626866200,
+		"id_str": "1308436644626866182",
+		"full_text": "Lyman Hotchkiss Bagg died on October 23, 1911. Here is his obituary from the New York Times. #HistSAHE https://t.co/MI6pckouYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172961928655888400,
+					"id_str": "1172961928655888385",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EEcyqNSXYAEaeFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEcyqNSXYAEaeFJ.jpg",
+					"url": "https://t.co/MI6pckouYh",
+					"display_url": "pic.twitter.com/MI6pckouYh",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1176228240819654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1176228240819654700,
+					"source_status_id_str": "1176228240819654656",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172961928655888400,
+					"id_str": "1172961928655888385",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EEcyqNSXYAEaeFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEcyqNSXYAEaeFJ.jpg",
+					"url": "https://t.co/MI6pckouYh",
+					"display_url": "pic.twitter.com/MI6pckouYh",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1176228240819654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1176228240819654700,
+					"source_status_id_str": "1176228240819654656",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lyman Hotchkiss Bagg died on October 23, 1911. Here is his obituary from the New York Times. #HistSAHE https://t.co/MI6pckouYh"
+	},
+	{
+		"created_at": "Tue Sep 22 16:02:39 +0000 2020",
+		"id": 1308436558509469700,
+		"id_str": "1308436558509469699",
+		"full_text": "A compromise offered by @DavidAFrench, but will anyone go for it? The Battle Over Ginsburg's Seat Is Set to Be All About Raw Power. But There's Still a Way to Show Principles Matter https://t.co/Wy7xBYjTZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidAFrench",
+					"name": "David French",
+					"id": 240107748,
+					"id_str": "240107748",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wy7xBYjTZP",
+					"expanded_url": "https://ti.me/3iRJakd",
+					"display_url": "ti.me/3iRJakd",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2199,
+			"friends_count": 1178,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A compromise offered by @DavidAFrench, but will anyone go for it? The Battle Over Ginsburg's Seat Is Set to Be All About Raw Power. But There's Still a Way to Show Principles Matter https://t.co/Wy7xBYjTZP"
+	},
+	{
 		"created_at": "Mon Sep 21 21:07:00 +0000 2020",
 		"id": 1308150760476090400,
 		"id_str": "1308150760476090369",
