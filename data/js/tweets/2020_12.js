@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 13:06:49 +0000 2020",
+		"id": 1343906316889292800,
+		"id_str": "1343906316889292801",
+		"full_text": "A Cheerleader’s Vulgar Message Prompts a First Amendment Showdown\n\nA Pennsylvania school district has asked the Supreme Court to rule on whether students may be disciplined for what they say on social media. via @NYTimes #SAHElaw  https://t.co/HKWcXMsnFA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						221,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HKWcXMsnFA",
+					"expanded_url": "https://www.nytimes.com/2020/12/28/us/supreme-court-schools-free-speech.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2020/12/28/us/…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2177,
+			"friends_count": 1194,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Cheerleader’s Vulgar Message Prompts a First Amendment Showdown\n\nA Pennsylvania school district has asked the Supreme Court to rule on whether students may be disciplined for what they say on social media. via @NYTimes #SAHElaw  https://t.co/HKWcXMsnFA"
+	},
+	{
+		"created_at": "Tue Dec 29 02:40:32 +0000 2020",
+		"id": 1343748708303859700,
+		"id_str": "1343748708303859719",
+		"full_text": "@KevinKinser @rkelchen Corbitt’s cuts were a major part of the story and this was the result of the pandemic. https://t.co/tM9PtRRwiA",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinKinser",
+					"name": "Kevin Kinser",
+					"id": 299882129,
+					"id_str": "299882129",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "rkelchen",
+					"name": "Robert Kelchen",
+					"id": 1167013236,
+					"id_str": "1167013236",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343748705728557000,
+					"id_str": "1343748705728557056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EqX0VBBXcAAR0IF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqX0VBBXcAAR0IF.jpg",
+					"url": "https://t.co/tM9PtRRwiA",
+					"display_url": "pic.twitter.com/tM9PtRRwiA",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1343748708303859719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343748705728557000,
+					"id_str": "1343748705728557056",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EqX0VBBXcAAR0IF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqX0VBBXcAAR0IF.jpg",
+					"url": "https://t.co/tM9PtRRwiA",
+					"display_url": "pic.twitter.com/tM9PtRRwiA",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1343748708303859719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343553480141766700,
+		"in_reply_to_status_id_str": "1343553480141766656",
+		"in_reply_to_user_id": 299882129,
+		"in_reply_to_user_id_str": "299882129",
+		"in_reply_to_screen_name": "KevinKinser",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2177,
+			"friends_count": 1194,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KevinKinser @rkelchen Corbitt’s cuts were a major part of the story and this was the result of the pandemic. https://t.co/tM9PtRRwiA"
+	},
+	{
 		"created_at": "Mon Dec 28 14:29:25 +0000 2020",
 		"id": 1343564718619975700,
 		"id_str": "1343564718619975690",
