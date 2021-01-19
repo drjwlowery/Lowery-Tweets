@@ -1,6 +1,1174 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 00:11:44 +0000 2021",
+		"id": 1351321408002007000,
+		"id_str": "1351321408002007045",
+		"full_text": "MLK: ‘If we are not careful, our colleges will produce … close-minded, unscientific, illogical propagandists’ https://t.co/Xp969QnAu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xp969QnAu1",
+					"expanded_url": "https://www.washingtonpost.com/education/2021/01/17/mlk-education-quotes-prophetic/",
+					"display_url": "washingtonpost.com/education/2021…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MLK: ‘If we are not careful, our colleges will produce … close-minded, unscientific, illogical propagandists’ https://t.co/Xp969QnAu1"
+	},
+	{
+		"created_at": "Mon Jan 18 23:57:07 +0000 2021",
+		"id": 1351317727630266400,
+		"id_str": "1351317727630266376",
+		"full_text": "New wave of coronavirus uncertainty slams higher education https://t.co/n3UCO4WBA9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n3UCO4WBA9",
+					"expanded_url": "https://www.washingtonpost.com/local/education/colleges-spring-semester-coronavirus/2021/01/16/0be39db6-55d9-11eb-a931-5b162d0d033d_story.html",
+					"display_url": "washingtonpost.com/local/educatio…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New wave of coronavirus uncertainty slams higher education https://t.co/n3UCO4WBA9"
+	},
+	{
+		"created_at": "Mon Jan 18 23:40:48 +0000 2021",
+		"id": 1351167010516967400,
+		"id_str": "1351313623436636164",
+		"full_text": "A thread of #MLK speeches and sermons in which he speaks truth to power, shares about his philosophy of nonviolence, and expounds on issues of injustice and what our righteous, rigorous response should be. Relevant. Revelatory. Revolutionary. #MLKDay #BelovedCommunity https://t.co/lqyNbBPiym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MLK",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "MLKDay",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "BelovedCommunity",
+					"indices": [
+						251,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351167006511284200,
+					"id_str": "1351167006511284224",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EsBPO89VQAAc6PJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsBPO89VQAAc6PJ.jpg",
+					"url": "https://t.co/lqyNbBPiym",
+					"display_url": "pic.twitter.com/lqyNbBPiym",
+					"expanded_url": "https://twitter.com/TheKingCenter/status/1351167010516967436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351167006511284200,
+					"id_str": "1351167006511284224",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EsBPO89VQAAc6PJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsBPO89VQAAc6PJ.jpg",
+					"url": "https://t.co/lqyNbBPiym",
+					"display_url": "pic.twitter.com/lqyNbBPiym",
+					"expanded_url": "https://twitter.com/TheKingCenter/status/1351167010516967436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39547629,
+			"id_str": "39547629",
+			"name": "The Martin Luther King, Jr. Center",
+			"screen_name": "TheKingCenter",
+			"location": "Atlanta, GA",
+			"description": "The official living memorial to #MLK, founded by #CorettaScottKing to educate on nonviolence and build the #BelovedCommunity. #Nonviolence365",
+			"url": "https://t.co/QI2LaNL971",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QI2LaNL971",
+							"expanded_url": "https://thekingcenter.org",
+							"display_url": "thekingcenter.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180801,
+			"friends_count": 499,
+			"listed_count": 1083,
+			"created_at": "Tue May 12 17:26:01 +0000 2009",
+			"favourites_count": 12514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349369077551288320/01vL37Pd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349369077551288320/01vL37Pd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39547629/1610909318",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0B540C",
+			"profile_text_color": "97A39A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11654,
+		"favorite_count": 29698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A thread of #MLK speeches and sermons in which he speaks truth to power, shares about his philosophy of nonviolence, and expounds on issues of injustice and what our righteous, rigorous response should be. Relevant. Revelatory. Revolutionary. #MLKDay #BelovedCommunity https://t.co/lqyNbBPiym"
+	},
+	{
+		"created_at": "Mon Jan 18 19:08:45 +0000 2021",
+		"id": 1351245159158214700,
+		"id_str": "1351245159158214664",
+		"full_text": "In past few days, OCR in the U.S. Department of Education issued several new Title IX guidance documents--it is almost as if they realize the administration is coming to a close and new leadership is coming...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In past few days, OCR in the U.S. Department of Education issued several new Title IX guidance documents--it is almost as if they realize the administration is coming to a close and new leadership is coming..."
+	},
+	{
+		"created_at": "Mon Jan 18 17:46:04 +0000 2021",
+		"id": 1350229575192744000,
+		"id_str": "1351224349890633729",
+		"full_text": "The DOE sure has been busy. New Q&amp;A re the Title IX regs released today. https://t.co/AiXFY5B1KD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AiXFY5B1KD",
+					"expanded_url": "https://www2.ed.gov/about/offices/list/ocr/docs/qa-titleix-part1-20210115.pdf?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term",
+					"display_url": "www2.ed.gov/about/offices/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 905809056580997100,
+			"id_str": "905809056580997120",
+			"name": "Courtney Bullard",
+			"screen_name": "ICSLawyer",
+			"location": "",
+			"description": "Higher Education attorney specializing in compliance with Title IX/Clery/VAWA. Rule 31 mediator and trained investigator. Expert witness. Owner of ICS.",
+			"url": "https://t.co/H0q3LCCkf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H0q3LCCkf8",
+							"expanded_url": "http://www.icslawyer.com",
+							"display_url": "icslawyer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 278,
+			"listed_count": 1,
+			"created_at": "Thu Sep 07 15:04:43 +0000 2017",
+			"favourites_count": 2297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905809972843487232/jT9xRnDr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905809972843487232/jT9xRnDr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/905809056580997120/1569935077",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The DOE sure has been busy. New Q&amp;A re the Title IX regs released today. https://t.co/AiXFY5B1KD"
+	},
+	{
+		"created_at": "Mon Jan 18 17:45:11 +0000 2021",
+		"id": 1350463760713064400,
+		"id_str": "1351224127735136257",
+		"full_text": "Someone at @usedgov seems happy to see Diane Auer Jones go. Politico's @mstratford reports on preliminary IG finding that Jones exceeded her authority in her botched handling of the Dream Center debacle &amp; Jones attacked the finding as \"outrageous\" on a \"heated call\" in December.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "usedgov",
+					"name": "U.S. Department of Education",
+					"id": 20437286,
+					"id_str": "20437286",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "mstratford",
+					"name": "Michael Stratford",
+					"id": 11884102,
+					"id_str": "11884102",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216425548,
+			"id_str": "216425548",
+			"name": "David Halperin",
+			"screen_name": "DaHalperin",
+			"location": "Washington DC",
+			"description": "Person",
+			"url": "https://t.co/GvAsr0uFiN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GvAsr0uFiN",
+							"expanded_url": "https://www.republicreport.org/about/",
+							"display_url": "republicreport.org/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4673,
+			"friends_count": 1389,
+			"listed_count": 155,
+			"created_at": "Tue Nov 16 17:58:41 +0000 2010",
+			"favourites_count": 4774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337953986188546049/qTWgoFt9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337953986188546049/qTWgoFt9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216425548/1605743300",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Someone at @usedgov seems happy to see Diane Auer Jones go. Politico's @mstratford reports on preliminary IG finding that Jones exceeded her authority in her botched handling of the Dream Center debacle &amp; Jones attacked the finding as \"outrageous\" on a \"heated call\" in December."
+	},
+	{
+		"created_at": "Mon Jan 18 17:06:56 +0000 2021",
+		"id": 1351214502826619000,
+		"id_str": "1351214502826618882",
+		"full_text": "7 inconvenient truths white people must understand about Martin Luther King Jr. by @DrShaunHarper https://t.co/XyoYwNhIH1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrShaunHarper",
+					"name": "Shaun R. Harper",
+					"id": 39573232,
+					"id_str": "39573232",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XyoYwNhIH1",
+					"expanded_url": "https://thegrio.com/2021/01/18/martin-luther-king-inconvenient-truths-white-people/",
+					"display_url": "thegrio.com/2021/01/18/mar…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7 inconvenient truths white people must understand about Martin Luther King Jr. by @DrShaunHarper https://t.co/XyoYwNhIH1"
+	},
+	{
+		"created_at": "Mon Jan 18 16:45:05 +0000 2021",
+		"id": 1351209003372712000,
+		"id_str": "1351209003372711939",
+		"full_text": "The History of Martin Luther King, Jr. and Raphael Warnock's Church | Time #HistSAHE  https://t.co/A8wOloopEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A8wOloopEM",
+					"expanded_url": "https://time.com/5927777/martin-luther-king-warnock-history/",
+					"display_url": "time.com/5927777/martin…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The History of Martin Luther King, Jr. and Raphael Warnock's Church | Time #HistSAHE  https://t.co/A8wOloopEM"
+	},
+	{
+		"created_at": "Mon Jan 18 16:43:56 +0000 2021",
+		"id": 1351208713152049200,
+		"id_str": "1351208713152049152",
+		"full_text": "One Night in Miami Blends Fact and Fiction to Bring Civil Rights-Era Luminaries to Life | Time https://t.co/x2rbakDC8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x2rbakDC8t",
+					"expanded_url": "https://time.com/5930106/one-night-in-miami-review/",
+					"display_url": "time.com/5930106/one-ni…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One Night in Miami Blends Fact and Fiction to Bring Civil Rights-Era Luminaries to Life | Time https://t.co/x2rbakDC8t"
+	},
+	{
+		"created_at": "Mon Jan 18 14:42:12 +0000 2021",
+		"id": 1351178080929386500,
+		"id_str": "1351178080929386506",
+		"full_text": "Reading or re-reading Dr. King's Letter from a Birmingham Jail [King, Jr.] is a fitting way to spend some time today in his honor and memory.  https://t.co/OSXDueSXQf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OSXDueSXQf",
+					"expanded_url": "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html",
+					"display_url": "africa.upenn.edu/Articles_Gen/L…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1200,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reading or re-reading Dr. King's Letter from a Birmingham Jail [King, Jr.] is a fitting way to spend some time today in his honor and memory.  https://t.co/OSXDueSXQf"
+	},
+	{
 		"created_at": "Sat Jan 16 01:12:56 +0000 2021",
 		"id": 1350140699421913000,
 		"id_str": "1350249645902094336",
