@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 16:18:11 +0000 2021",
+		"id": 1352289398419808300,
+		"id_str": "1352289398419808259",
+		"full_text": "Starting the spring semester off with some new decorations for the office bookcase! https://t.co/Hy0zsagff0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352289394607194000,
+					"id_str": "1352289394607194112",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EsRMCicXAAAgrn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsRMCicXAAAgrn3.jpg",
+					"url": "https://t.co/Hy0zsagff0",
+					"display_url": "pic.twitter.com/Hy0zsagff0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1352289398419808259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352289394607194000,
+					"id_str": "1352289394607194112",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EsRMCicXAAAgrn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsRMCicXAAAgrn3.jpg",
+					"url": "https://t.co/Hy0zsagff0",
+					"display_url": "pic.twitter.com/Hy0zsagff0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1352289398419808259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1201,
+			"listed_count": 91,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting the spring semester off with some new decorations for the office bookcase! https://t.co/Hy0zsagff0"
+	},
+	{
 		"created_at": "Thu Jan 21 01:04:11 +0000 2021",
 		"id": 1352059380519366700,
 		"id_str": "1352059380519366656",
@@ -351,7 +525,7 @@ Grailbird.data.tweets_2021_01 =
 		"created_at": "Wed Jan 20 18:48:52 +0000 2021",
 		"id": 1351964930346524700,
 		"id_str": "1351964930346524672",
-		"full_text": "As usual, ⁦@KevinMKruse⁩ pulls no punches! The Trump administration's thinly-veiled rebuke of 'The 1619 Project' is a sloppy, racist mess #HistSAHE  https://t.co/Zw5StxJueQ",
+		"full_text": "As usual, @KevinMKruse pulls no punches! The Trump administration's thinly-veiled rebuke of 'The 1619 Project' is a sloppy, racist mess #HistSAHE  https://t.co/Zw5StxJueQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -470,7 +644,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "As usual, ⁦@KevinMKruse⁩ pulls no punches! The Trump administration's thinly-veiled rebuke of 'The 1619 Project' is a sloppy, racist mess #HistSAHE  https://t.co/Zw5StxJueQ"
+		"text": "As usual, @KevinMKruse pulls no punches! The Trump administration's thinly-veiled rebuke of 'The 1619 Project' is a sloppy, racist mess #HistSAHE  https://t.co/Zw5StxJueQ"
 	},
 	{
 		"created_at": "Wed Jan 20 18:41:15 +0000 2021",
