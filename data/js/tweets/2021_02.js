@@ -1,6 +1,1668 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 21:47:02 +0000 2021",
+		"id": 1359982300159697000,
+		"id_str": "1359982300159696897",
+		"full_text": "@NikiMessmore Another option is Snap Cam, but your mileage may vary. It was really causing problems on my laptop.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikiMessmore",
+					"name": "Niki Messmore",
+					"id": 180090316,
+					"id_str": "180090316",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359981095719235600,
+		"in_reply_to_status_id_str": "1359981095719235590",
+		"in_reply_to_user_id": 180090316,
+		"in_reply_to_user_id_str": "180090316",
+		"in_reply_to_screen_name": "NikiMessmore",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NikiMessmore Another option is Snap Cam, but your mileage may vary. It was really causing problems on my laptop."
+	},
+	{
+		"created_at": "Thu Feb 11 19:06:00 +0000 2021",
+		"id": 1359941774811295700,
+		"id_str": "1359941774811295747",
+		"full_text": "@TheASCA @SACSAtweets @NASPAtweets @ACPA In many ways, @TheASCA's Summer Institute exists because Don Gehring willed it into being. He chaired &amp; hosted the 1st two institutes at @bgsu &amp; continued to support the academy even after his retirement. In 1994, it was named in his honor. Don passed away on February. 11, 2020. https://t.co/8tUDa3lmbu",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			328
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SACSAtweets",
+					"name": "SACSA",
+					"id": 297614723,
+					"id_str": "297614723",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "ACPA",
+					"name": "ACPA",
+					"id": 24181339,
+					"id_str": "24181339",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"screen_name": "bgsu",
+					"name": "BGSU",
+					"id": 17388662,
+					"id_str": "17388662",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359906545912397800,
+					"id_str": "1359906545912397825",
+					"indices": [
+						329,
+						352
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9bzGTWQAE8dAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9bzGTWQAE8dAu.jpg",
+					"url": "https://t.co/8tUDa3lmbu",
+					"display_url": "pic.twitter.com/8tUDa3lmbu",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359941774811295747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 522,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359906545912397800,
+					"id_str": "1359906545912397825",
+					"indices": [
+						329,
+						352
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9bzGTWQAE8dAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9bzGTWQAE8dAu.jpg",
+					"url": "https://t.co/8tUDa3lmbu",
+					"display_url": "pic.twitter.com/8tUDa3lmbu",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359941774811295747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 522,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359906308493881300,
+		"in_reply_to_status_id_str": "1359906308493881347",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TheASCA @SACSAtweets @NASPAtweets @ACPA In many ways, @TheASCA's Summer Institute exists because Don Gehring willed it into being. He chaired &amp; hosted the 1st two institutes at @bgsu &amp; continued to support the academy even after his retirement. In 1994, it was named in his honor. Don passed away on February. 11, 2020. https://t.co/8tUDa3lmbu"
+	},
+	{
+		"created_at": "Thu Feb 11 18:26:12 +0000 2021",
+		"id": 1359931759094341600,
+		"id_str": "1359931759094341638",
+		"full_text": "@Dcollier74 Is the fall and spring? https://t.co/ETADDT23ac",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dcollier74",
+					"name": "Dan Collier, Ph.D.",
+					"id": 24624258,
+					"id_str": "24624258",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359931748960919600,
+					"id_str": "1359931748960919558",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et9yuG-XYAYZ-6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et9yuG-XYAYZ-6L.jpg",
+					"url": "https://t.co/ETADDT23ac",
+					"display_url": "pic.twitter.com/ETADDT23ac",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359931759094341638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359931748960919600,
+					"id_str": "1359931748960919558",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et9yuG-XYAYZ-6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et9yuG-XYAYZ-6L.jpg",
+					"url": "https://t.co/ETADDT23ac",
+					"display_url": "pic.twitter.com/ETADDT23ac",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359931759094341638/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							170
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Et9yuG-XYAYZ-6L.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359915286535749600,
+		"in_reply_to_status_id_str": "1359915286535749639",
+		"in_reply_to_user_id": 24624258,
+		"in_reply_to_user_id_str": "24624258",
+		"in_reply_to_screen_name": "Dcollier74",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Dcollier74 Is the fall and spring? https://t.co/ETADDT23ac"
+	},
+	{
+		"created_at": "Thu Feb 11 17:16:10 +0000 2021",
+		"id": 1359914134515691500,
+		"id_str": "1359914134515691521",
+		"full_text": "Groups Call for ‘New Deal for Higher Education’ \n\nAFT &amp; @AAUP unveiled a campaign calling for a “New Deal for Higher Education,” including a massive federal investment in colleges and universities as well as reauthorization of the Higher Ed. Act.\nhttps://t.co/F5LjTomjyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AAUP",
+					"name": "American Association of University Professors",
+					"id": 108943700,
+					"id_str": "108943700",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F5LjTomjyX",
+					"expanded_url": "https://www.insidehighered.com/quicktakes/2021/02/11/groups-call-%E2%80%98new-deal-higher-education%E2%80%99#.YCVmFXZ2cYY.twitter",
+					"display_url": "insidehighered.com/quicktakes/202…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Groups Call for ‘New Deal for Higher Education’ \n\nAFT &amp; @AAUP unveiled a campaign calling for a “New Deal for Higher Education,” including a massive federal investment in colleges and universities as well as reauthorization of the Higher Ed. Act.\nhttps://t.co/F5LjTomjyX"
+	},
+	{
+		"created_at": "Thu Feb 11 17:13:54 +0000 2021",
+		"id": 1359913566854348800,
+		"id_str": "1359913566854348808",
+		"full_text": "Open Season on the Faculty\n\nIt's a jungle out there for faculty members this legislative session, with state bills banning certain courses and content and, in Iowa, seeking to survey faculty members on their political beliefs. https://t.co/YkFrCPKLZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkFrCPKLZU",
+					"expanded_url": "https://www.insidehighered.com/news/2021/02/11/open-legislative-season-faculty-iowa-and-elsewhere#.YCVlzK9-f0g.twitter",
+					"display_url": "insidehighered.com/news/2021/02/1…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Open Season on the Faculty\n\nIt's a jungle out there for faculty members this legislative session, with state bills banning certain courses and content and, in Iowa, seeking to survey faculty members on their political beliefs. https://t.co/YkFrCPKLZU"
+	},
+	{
+		"created_at": "Thu Feb 11 16:54:36 +0000 2021",
+		"id": 1359908706373230600,
+		"id_str": "1359908706373230592",
+		"full_text": "@ChrisMarsicano https://t.co/bEHAqrpVVK",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMarsicano",
+					"name": "Chris Marsicano",
+					"id": 62824122,
+					"id_str": "62824122",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359908700501250000,
+					"id_str": "1359908700501250051",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et9dwgxXEAM1ka8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et9dwgxXEAM1ka8.jpg",
+					"url": "https://t.co/bEHAqrpVVK",
+					"display_url": "pic.twitter.com/bEHAqrpVVK",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359908706373230592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359908700501250000,
+					"id_str": "1359908700501250051",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Et9dwgxXEAM1ka8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Et9dwgxXEAM1ka8.jpg",
+					"url": "https://t.co/bEHAqrpVVK",
+					"display_url": "pic.twitter.com/bEHAqrpVVK",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359908706373230592/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 232,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							60,
+							29
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Et9dwgxXEAM1ka8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359869025048748000,
+		"in_reply_to_status_id_str": "1359869025048748035",
+		"in_reply_to_user_id": 62824122,
+		"in_reply_to_user_id_str": "62824122",
+		"in_reply_to_screen_name": "ChrisMarsicano",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ChrisMarsicano https://t.co/bEHAqrpVVK"
+	},
+	{
+		"created_at": "Thu Feb 11 16:45:04 +0000 2021",
+		"id": 1359906308493881300,
+		"id_str": "1359906308493881347",
+		"full_text": "@TheASCA @SACSAtweets @NASPAtweets @ACPA Dr. Don Gehring and I presented a legislative update at @TheASCA conference for the first time in 1999 as a concurrent session and continued to offer it together as a plenary session until 2003. Don passed away on Tuesday, February 11, 2020 at the age of 82. #StuConduct #SAHElaw https://t.co/NvYmKLXb32",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			320
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StuConduct",
+					"indices": [
+						300,
+						311
+					]
+				},
+				{
+					"text": "SAHElaw",
+					"indices": [
+						312,
+						320
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SACSAtweets",
+					"name": "SACSA",
+					"id": 297614723,
+					"id_str": "297614723",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "ACPA",
+					"name": "ACPA",
+					"id": 24181339,
+					"id_str": "24181339",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359906160460124200,
+					"id_str": "1359906160460124161",
+					"indices": [
+						321,
+						344
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9bcqYXUAE9wrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9bcqYXUAE9wrB.jpg",
+					"url": "https://t.co/NvYmKLXb32",
+					"display_url": "pic.twitter.com/NvYmKLXb32",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359906308493881347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 955,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 955,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359906160460124200,
+					"id_str": "1359906160460124161",
+					"indices": [
+						321,
+						344
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9bcqYXUAE9wrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9bcqYXUAE9wrB.jpg",
+					"url": "https://t.co/NvYmKLXb32",
+					"display_url": "pic.twitter.com/NvYmKLXb32",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1359906308493881347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 955,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 955,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359861913136619500,
+		"in_reply_to_status_id_str": "1359861913136619527",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TheASCA @SACSAtweets @NASPAtweets @ACPA Dr. Don Gehring and I presented a legislative update at @TheASCA conference for the first time in 1999 as a concurrent session and continued to offer it together as a plenary session until 2003. Don passed away on Tuesday, February 11, 2020 at the age of 82. #StuConduct #SAHElaw https://t.co/NvYmKLXb32"
+	},
+	{
+		"created_at": "Thu Feb 11 16:02:00 +0000 2021",
+		"id": 1359895469938327600,
+		"id_str": "1359895469938327553",
+		"full_text": "Inversion: The Reframing Technique of Top Thinkers — Dickie Bush https://t.co/GJfdmdOmNK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJfdmdOmNK",
+					"expanded_url": "https://www.dickiebush.com/articles/inversion-mental-model-munger",
+					"display_url": "dickiebush.com/articles/inver…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inversion: The Reframing Technique of Top Thinkers — Dickie Bush https://t.co/GJfdmdOmNK"
+	},
+	{
+		"created_at": "Thu Feb 11 13:48:39 +0000 2021",
+		"id": 1359861913136619500,
+		"id_str": "1359861913136619527",
+		"full_text": "Don was a teacher &amp; mentor to countless students &amp; professionals, president of both @TheASCA &amp; @SACSAtweets, &amp; was active in @NASPAtweets &amp; @ACPA as well. \n\nHis influence was further extended by his many publications &amp; College Administration Publications which he co-founded.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"screen_name": "SACSAtweets",
+					"name": "SACSA",
+					"id": 297614723,
+					"id_str": "297614723",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"screen_name": "ACPA",
+					"name": "ACPA",
+					"id": 24181339,
+					"id_str": "24181339",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359859851178967000,
+		"in_reply_to_status_id_str": "1359859851178967040",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Don was a teacher &amp; mentor to countless students &amp; professionals, president of both @TheASCA &amp; @SACSAtweets, &amp; was active in @NASPAtweets &amp; @ACPA as well. \n\nHis influence was further extended by his many publications &amp; College Administration Publications which he co-founded."
+	},
+	{
+		"created_at": "Thu Feb 11 13:40:28 +0000 2021",
+		"id": 1359859851178967000,
+		"id_str": "1359859851178967040",
+		"full_text": "One year ago today on February 11, 2020, Dr. Donald D. Gehring passed away at the age of 82. Dr. Gehring was a founder and first president of @TheASCA as well as the first chair of the summer academy which bears his name. #ASCA21ISVIRTUAL\nhttps://t.co/9TrqkszyH1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASCA21ISVIRTUAL",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheASCA",
+					"name": "ASCA",
+					"id": 223973635,
+					"id_str": "223973635",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9TrqkszyH1",
+					"expanded_url": "https://youtu.be/lbUlzsgeyDA",
+					"display_url": "youtu.be/lbUlzsgeyDA",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One year ago today on February 11, 2020, Dr. Donald D. Gehring passed away at the age of 82. Dr. Gehring was a founder and first president of @TheASCA as well as the first chair of the summer academy which bears his name. #ASCA21ISVIRTUAL\nhttps://t.co/9TrqkszyH1"
+	},
+	{
+		"created_at": "Thu Feb 11 01:37:39 +0000 2021",
+		"id": 1359677949625172000,
+		"id_str": "1359677949625171977",
+		"full_text": "A statement cannot support a defamation claim if it is an expression of opinion, or if it is “substantially true.” Susan B. Anthony List v. Driehaus, 779 F.3d 628, 633 (6th Cir. 2015).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359677407993725000,
+		"in_reply_to_status_id_str": "1359677407993724931",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1213,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A statement cannot support a defamation claim if it is an expression of opinion, or if it is “substantially true.” Susan B. Anthony List v. Driehaus, 779 F.3d 628, 633 (6th Cir. 2015)."
+	},
+	{
 		"created_at": "Thu Feb 11 00:16:46 +0000 2021",
 		"id": 1359657594923741200,
 		"id_str": "1359657594923741185",
@@ -546,7 +2208,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Wed Feb 10 13:03:38 +0000 2021",
 		"id": 1359488196195795000,
 		"id_str": "1359488196195794955",
-		"full_text": "Hey ⁦@APA_Style⁩, the 7th edition is inconsistent on Secondary sources. This section says use a comma after the year of the original work, but the sample paper clearly shows a semicolon on page 63. Which is it? Or is it either? https://t.co/zytfxlLVu8",
+		"full_text": "Hey @APA_Style, the 7th edition is inconsistent on Secondary sources. This section says use a comma after the year of the original work, but the sample paper clearly shows a semicolon on page 63. Which is it? Or is it either? https://t.co/zytfxlLVu8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -657,7 +2319,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Hey ⁦@APA_Style⁩, the 7th edition is inconsistent on Secondary sources. This section says use a comma after the year of the original work, but the sample paper clearly shows a semicolon on page 63. Which is it? Or is it either? https://t.co/zytfxlLVu8"
+		"text": "Hey @APA_Style, the 7th edition is inconsistent on Secondary sources. This section says use a comma after the year of the original work, but the sample paper clearly shows a semicolon on page 63. Which is it? Or is it either? https://t.co/zytfxlLVu8"
 	},
 	{
 		"created_at": "Tue Feb 09 21:12:24 +0000 2021",
