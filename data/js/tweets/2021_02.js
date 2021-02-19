@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 23:00:31 +0000 2021",
+		"id": 1362537508249174000,
+		"id_str": "1362537508249174021",
+		"full_text": "@chrisconzen @Crude_Chronicle That hashtag-readytowork sounds as useful as an objective.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrisconzen",
+					"name": "Dr. Christopher Conzen",
+					"id": 15786533,
+					"id_str": "15786533",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Crude_Chronicle",
+					"name": "Cullen ❄️🥶⛄️Rude",
+					"id": 1128742255,
+					"id_str": "1128742255",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1362399832334348300,
+		"in_reply_to_status_id_str": "1362399832334348292",
+		"in_reply_to_user_id": 15786533,
+		"in_reply_to_user_id_str": "15786533",
+		"in_reply_to_screen_name": "chrisconzen",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1218,
+			"listed_count": 89,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chrisconzen @Crude_Chronicle That hashtag-readytowork sounds as useful as an objective."
+	},
+	{
 		"created_at": "Wed Feb 17 17:18:00 +0000 2021",
 		"id": 1362088923082551300,
 		"id_str": "1362088923082551296",
@@ -178,7 +294,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Wed Feb 17 13:06:18 +0000 2021",
 		"id": 1362025580791750700,
 		"id_str": "1362025580791750656",
-		"full_text": "The future approach of the Biden ⁦@usedgov⁩ to these programs and related Tittle IX complaints is certainly an issue to watch. \n\nCornell’s BOLD program under federal investigation for Title IX complaint | The Ithacan https://t.co/SAahGdKTYY",
+		"full_text": "The future approach of the Biden @usedgov to these programs and related Tittle IX complaints is certainly an issue to watch. \n\nCornell’s BOLD program under federal investigation for Title IX complaint | The Ithacan https://t.co/SAahGdKTYY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -289,7 +405,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The future approach of the Biden ⁦@usedgov⁩ to these programs and related Tittle IX complaints is certainly an issue to watch. \n\nCornell’s BOLD program under federal investigation for Title IX complaint | The Ithacan https://t.co/SAahGdKTYY"
+		"text": "The future approach of the Biden @usedgov to these programs and related Tittle IX complaints is certainly an issue to watch. \n\nCornell’s BOLD program under federal investigation for Title IX complaint | The Ithacan https://t.co/SAahGdKTYY"
 	},
 	{
 		"created_at": "Wed Feb 17 13:02:58 +0000 2021",
