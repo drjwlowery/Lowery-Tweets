@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 17:15:14 +0000 2021",
+		"id": 1364262554609066000,
+		"id_str": "1364262554609065985",
+		"full_text": "Will the Supreme Court agree to hear the Gavin Grimm case again? They punted a few years ago. #SAHElaw https://t.co/ER9nKB6Vdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ER9nKB6Vdw",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464",
+					"display_url": "twitter.com/JakeHigherEdLa…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 1218,
+			"listed_count": 89,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364234037036990500,
+		"quoted_status_id_str": "1364234037036990464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ER9nKB6Vdw",
+			"expanded": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464",
+			"display": "twitter.com/JakeHigherEdLa…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 15:21:55 +0000 2021",
+			"id": 1364234037036990500,
+			"id_str": "1364234037036990464",
+			"full_text": "VA. School Board submits a Writ of Cert. in Gavin Grimm case asking Supreme Court to decide whether #TitleIX &amp;/or the Equal Protection Clause requires schools to allow students to use restrooms that match Gender Identity instead of Biological Sex. #TransgenderLaw #EdLaw #Bostock? https://t.co/S6wMnC9eqz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TitleIX",
+						"indices": [
+							100,
+							108
+						]
+					},
+					{
+						"text": "TransgenderLaw",
+						"indices": [
+							252,
+							267
+						]
+					},
+					{
+						"text": "EdLaw",
+						"indices": [
+							268,
+							274
+						]
+					},
+					{
+						"text": "Bostock",
+						"indices": [
+							275,
+							283
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1364234031097856000,
+						"id_str": "1364234031097856007",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu67n44WQAcO-bX.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu67n44WQAcO-bX.png",
+						"url": "https://t.co/S6wMnC9eqz",
+						"display_url": "pic.twitter.com/S6wMnC9eqz",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1004,
+								"h": 346,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 234,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1004,
+								"h": 346,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364234031097856000,
+						"id_str": "1364234031097856007",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu67n44WQAcO-bX.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu67n44WQAcO-bX.png",
+						"url": "https://t.co/S6wMnC9eqz",
+						"display_url": "pic.twitter.com/S6wMnC9eqz",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1004,
+								"h": 346,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 234,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1004,
+								"h": 346,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1364234031097929700,
+						"id_str": "1364234031097929734",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu67n44XYAY3wUV.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu67n44XYAY3wUV.png",
+						"url": "https://t.co/S6wMnC9eqz",
+						"display_url": "pic.twitter.com/S6wMnC9eqz",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1020,
+								"h": 918,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 918,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1364234031097864200,
+						"id_str": "1364234031097864193",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu67n44WYAEEc5Y.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu67n44WYAEEc5Y.png",
+						"url": "https://t.co/S6wMnC9eqz",
+						"display_url": "pic.twitter.com/S6wMnC9eqz",
+						"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1364234037036990464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 569,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 748,
+								"h": 894,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 748,
+								"h": 894,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893633585944703000,
+				"id_str": "893633585944702977",
+				"name": "Jake G., JD",
+				"screen_name": "JakeHigherEdLaw",
+				"location": "Texas, USA",
+				"description": "Deputy Title IX Coordinator & Compliance Officer + Legal Researcher & Presenter on Title IX Litigation. YNWA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 278,
+				"friends_count": 7,
+				"listed_count": 0,
+				"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+				"favourites_count": 681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 495,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1585580553",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will the Supreme Court agree to hear the Gavin Grimm case again? They punted a few years ago. #SAHElaw https://t.co/ER9nKB6Vdw"
+	},
+	{
+		"created_at": "Tue Feb 23 17:14:33 +0000 2021",
+		"id": 1364262384211292200,
+		"id_str": "1364262384211292162",
+		"full_text": "@kevinrmcclure If they are a faculty member (especially junior faculty), consider a formal letter than can be used in evaluation processes.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinrmcclure",
+					"name": "Kevin R. McClure",
+					"id": 2397025926,
+					"id_str": "2397025926",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364183177229664300,
+		"in_reply_to_status_id_str": "1364183177229664257",
+		"in_reply_to_user_id": 2397025926,
+		"in_reply_to_user_id_str": "2397025926",
+		"in_reply_to_screen_name": "kevinrmcclure",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 1218,
+			"listed_count": 89,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kevinrmcclure If they are a faculty member (especially junior faculty), consider a formal letter than can be used in evaluation processes."
+	},
+	{
 		"created_at": "Mon Feb 22 23:14:35 +0000 2021",
 		"id": 1363990599746150400,
 		"id_str": "1363990599746150410",
