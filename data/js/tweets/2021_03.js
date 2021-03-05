@@ -1,6 +1,1452 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 00:04:18 +0000 2021",
+		"id": 1367626989239156700,
+		"id_str": "1367626989239156743",
+		"full_text": "BB coach John Wooden, winner of 10 championships, on giving:\n\"There is a wonderful, almost mystical, law of nature that says three of the things we want most—happiness, freedom, and peace of mind—are always attained when we give them to others. Give it away to get it back.\" https://t.co/G2CcnjFIYS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367626986231857200,
+					"id_str": "1367626986231857152",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EvrJf3uWgAAvS0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvrJf3uWgAAvS0G.jpg",
+					"url": "https://t.co/G2CcnjFIYS",
+					"display_url": "pic.twitter.com/G2CcnjFIYS",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1367626989239156743/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367626986231857200,
+					"id_str": "1367626986231857152",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EvrJf3uWgAAvS0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvrJf3uWgAAvS0G.jpg",
+					"url": "https://t.co/G2CcnjFIYS",
+					"display_url": "pic.twitter.com/G2CcnjFIYS",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1367626989239156743/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1224,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BB coach John Wooden, winner of 10 championships, on giving:\n\"There is a wonderful, almost mystical, law of nature that says three of the things we want most—happiness, freedom, and peace of mind—are always attained when we give them to others. Give it away to get it back.\" https://t.co/G2CcnjFIYS"
+	},
+	{
+		"created_at": "Thu Mar 04 23:30:45 +0000 2021",
+		"id": 1367618545677394000,
+		"id_str": "1367618545677393920",
+		"full_text": "Writer James Baldwin on hate as a defense mechanism:\n\n\"I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain.\"\nSource: Me and My House https://t.co/L0GIRJAfGN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367618540338114600,
+					"id_str": "1367618540338114577",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/EvrB0QUXcBEiYIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvrB0QUXcBEiYIQ.jpg",
+					"url": "https://t.co/L0GIRJAfGN",
+					"display_url": "pic.twitter.com/L0GIRJAfGN",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1367618545677393920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367618540338114600,
+					"id_str": "1367618540338114577",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/EvrB0QUXcBEiYIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvrB0QUXcBEiYIQ.jpg",
+					"url": "https://t.co/L0GIRJAfGN",
+					"display_url": "pic.twitter.com/L0GIRJAfGN",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1367618545677393920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1224,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Writer James Baldwin on hate as a defense mechanism:\n\n\"I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain.\"\nSource: Me and My House https://t.co/L0GIRJAfGN"
+	},
+	{
+		"created_at": "Thu Mar 04 21:49:22 +0000 2021",
+		"id": 1367468037020946400,
+		"id_str": "1367593032359448577",
+		"full_text": "Where does the money go?\nBasketball athletes are subsidizing the NCAA’s legal case in NCAA v Alston.\nWhat are basketball athletes paying for? The NCAA’s fight to preserve a restraint on compensation, and in this case, for increased educational benefits https://t.co/1XUS9yyOWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367468033824891000,
+					"id_str": "1367468033824890880",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Evo47n3VoAAiBF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evo47n3VoAAiBF7.jpg",
+					"url": "https://t.co/1XUS9yyOWH",
+					"display_url": "pic.twitter.com/1XUS9yyOWH",
+					"expanded_url": "https://twitter.com/HistoryRunner/status/1367468037020946435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 827,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367468033824891000,
+					"id_str": "1367468033824890880",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Evo47n3VoAAiBF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evo47n3VoAAiBF7.jpg",
+					"url": "https://t.co/1XUS9yyOWH",
+					"display_url": "pic.twitter.com/1XUS9yyOWH",
+					"expanded_url": "https://twitter.com/HistoryRunner/status/1367468037020946435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 827,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1367468033824809000,
+					"id_str": "1367468033824808961",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Evo47n3UYAEZ7O7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evo47n3UYAEZ7O7.jpg",
+					"url": "https://t.co/1XUS9yyOWH",
+					"display_url": "pic.twitter.com/1XUS9yyOWH",
+					"expanded_url": "https://twitter.com/HistoryRunner/status/1367468037020946435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702234998,
+			"id_str": "702234998",
+			"name": "Victoria Jackson",
+			"screen_name": "HistoryRunner",
+			"location": "Arizona, USA",
+			"description": "Sports historian @ASU_SHPRS. Faculty affiliate @GlobalSportASU. Former NCAA champ & retired pro. Forever Runner. I care about the wellbeing of college athletes.",
+			"url": "https://t.co/jkPhbdl5cW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jkPhbdl5cW",
+							"expanded_url": "https://isearch.asu.edu/profile/681252",
+							"display_url": "isearch.asu.edu/profile/681252",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4124,
+			"friends_count": 1005,
+			"listed_count": 80,
+			"created_at": "Wed Jul 18 02:58:14 +0000 2012",
+			"favourites_count": 25026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148444690779258880/w3xO7K0m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148444690779258880/w3xO7K0m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702234998/1530241610",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0a0de7bd49ef942d",
+			"url": "https://api.twitter.com/1.1/geo/id/0a0de7bd49ef942d.json",
+			"place_type": "city",
+			"name": "Scottsdale",
+			"full_name": "Scottsdale, AZ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-111.960775,
+							33.4358637
+						],
+						[
+							-111.756022,
+							33.4358637
+						],
+						[
+							-111.756022,
+							33.842816
+						],
+						[
+							-111.960775,
+							33.842816
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where does the money go?\nBasketball athletes are subsidizing the NCAA’s legal case in NCAA v Alston.\nWhat are basketball athletes paying for? The NCAA’s fight to preserve a restraint on compensation, and in this case, for increased educational benefits https://t.co/1XUS9yyOWH"
+	},
+	{
+		"created_at": "Thu Mar 04 21:46:17 +0000 2021",
+		"id": 1367478535011651600,
+		"id_str": "1367592256656474114",
+		"full_text": "We (Drs. LaWanda Ward, @LoriPattonDavis, &amp; I) are examining the Economic Impact of COVID-19.\n\nParticipants Needed: Black women graduate and professional students at U.S. institutions, &amp; student affairs/higher education practitioners who have been in the field for 1-5 years.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LoriPattonDavis",
+					"name": "LoriTheeBuckeye",
+					"id": 867070513,
+					"id_str": "867070513",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950240444,
+			"id_str": "950240444",
+			"name": "Dr. Christa J. Porter",
+			"screen_name": "CJPPhD",
+			"location": "",
+			"description": "Scholar-Momma, Asst Prof studying Black women in higher ed, College student development, Research & praxis in HESA",
+			"url": "https://t.co/ynD27EZ8Qa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ynD27EZ8Qa",
+							"expanded_url": "https://works.bepress.com/christaj-porter/",
+							"display_url": "works.bepress.com/christaj-porte…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192,
+			"friends_count": 454,
+			"listed_count": 20,
+			"created_at": "Thu Nov 15 18:27:56 +0000 2012",
+			"favourites_count": 12255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166767269000560640/idxiSrfq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166767269000560640/idxiSrfq_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We (Drs. LaWanda Ward, @LoriPattonDavis, &amp; I) are examining the Economic Impact of COVID-19.\n\nParticipants Needed: Black women graduate and professional students at U.S. institutions, &amp; student affairs/higher education practitioners who have been in the field for 1-5 years."
+	},
+	{
+		"created_at": "Thu Mar 04 21:22:02 +0000 2021",
+		"id": 1367586152878805000,
+		"id_str": "1367586152878804994",
+		"full_text": "@threadreaderapp Unroll again https://t.co/fRba32EIu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fRba32EIu0",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162",
+					"display_url": "twitter.com/NASPAhistory/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 895814938995957800,
+		"in_reply_to_user_id_str": "895814938995957760",
+		"in_reply_to_screen_name": "threadreaderapp",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1224,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367512661836124200,
+		"quoted_status_id_str": "1367512661836124162",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fRba32EIu0",
+			"expanded": "https://twitter.com/NASPAhistory/status/1367512661836124162",
+			"display": "twitter.com/NASPAhistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 04 16:30:00 +0000 2021",
+			"id": 1367512661836124200,
+			"id_str": "1367512661836124162",
+			"full_text": "Congratulations to Dr. Kimberly Lowry who is one of @NASPAtweets' 2020-21 recipients of the Scott Goodnight Award for Outstanding Performance as a Dean. Dr. @KimberlyMLowry is the Vice President of Instruction and Student Services for the Lone Star College System. https://t.co/knDO6dTuEF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							52,
+							64
+						]
+					},
+					{
+						"screen_name": "KimberlyMLowry",
+						"name": "Kimberly Lowry",
+						"id": 2576215432,
+						"id_str": "2576215432",
+						"indices": [
+							157,
+							172
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1367472478885449700,
+						"id_str": "1367472478885449729",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"url": "https://t.co/knDO6dTuEF",
+						"display_url": "pic.twitter.com/knDO6dTuEF",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367472478885449700,
+						"id_str": "1367472478885449729",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"url": "https://t.co/knDO6dTuEF",
+						"display_url": "pic.twitter.com/knDO6dTuEF",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/jDWkdGdBnt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jDWkdGdBnt",
+								"expanded_url": "http://naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248,
+				"friends_count": 27,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 70,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@threadreaderapp Unroll again https://t.co/fRba32EIu0"
+	},
+	{
+		"created_at": "Thu Mar 04 21:05:00 +0000 2021",
+		"id": 1367581867529048000,
+		"id_str": "1367581867529048064",
+		"full_text": "@threadreaderapp Unroll https://t.co/fRba32EIu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fRba32EIu0",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162",
+					"display_url": "twitter.com/NASPAhistory/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 895814938995957800,
+		"in_reply_to_user_id_str": "895814938995957760",
+		"in_reply_to_screen_name": "threadreaderapp",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1224,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367512661836124200,
+		"quoted_status_id_str": "1367512661836124162",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fRba32EIu0",
+			"expanded": "https://twitter.com/NASPAhistory/status/1367512661836124162",
+			"display": "twitter.com/NASPAhistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 04 16:30:00 +0000 2021",
+			"id": 1367512661836124200,
+			"id_str": "1367512661836124162",
+			"full_text": "Congratulations to Dr. Kimberly Lowry who is one of @NASPAtweets' 2020-21 recipients of the Scott Goodnight Award for Outstanding Performance as a Dean. Dr. @KimberlyMLowry is the Vice President of Instruction and Student Services for the Lone Star College System. https://t.co/knDO6dTuEF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							52,
+							64
+						]
+					},
+					{
+						"screen_name": "KimberlyMLowry",
+						"name": "Kimberly Lowry",
+						"id": 2576215432,
+						"id_str": "2576215432",
+						"indices": [
+							157,
+							172
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1367472478885449700,
+						"id_str": "1367472478885449729",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"url": "https://t.co/knDO6dTuEF",
+						"display_url": "pic.twitter.com/knDO6dTuEF",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367472478885449700,
+						"id_str": "1367472478885449729",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Evo8-XAXEAEJCE7.jpg",
+						"url": "https://t.co/knDO6dTuEF",
+						"display_url": "pic.twitter.com/knDO6dTuEF",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1367512661836124162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/jDWkdGdBnt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jDWkdGdBnt",
+								"expanded_url": "http://naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248,
+				"friends_count": 27,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 70,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@threadreaderapp Unroll https://t.co/fRba32EIu0"
+	},
+	{
+		"created_at": "Thu Mar 04 12:07:51 +0000 2021",
+		"id": 1367446688051396600,
+		"id_str": "1367446688051396608",
+		"full_text": "The Cost of Insuring Colleges Continues to Rise. And Covid’s Not the Reason. #SAHElaw  https://t.co/77KIusVO6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/77KIusVO6o",
+					"expanded_url": "https://www.chronicle.com/article/the-cost-of-insuring-colleges-continues-to-rise-and-covids-not-the-reason",
+					"display_url": "chronicle.com/article/the-co…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1224,
+			"listed_count": 90,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cost of Insuring Colleges Continues to Rise. And Covid’s Not the Reason. #SAHElaw  https://t.co/77KIusVO6o"
+	},
+	{
 		"created_at": "Wed Mar 03 23:20:13 +0000 2021",
 		"id": 1367253507250782200,
 		"id_str": "1367253507250782209",
@@ -387,7 +1833,7 @@ Grailbird.data.tweets_2021_03 =
 		"created_at": "Wed Mar 03 13:16:50 +0000 2021",
 		"id": 1367101662712787000,
 		"id_str": "1367101662712786953",
-		"full_text": "‘The report will speak for itself’: Husch Blackwell concluding Title IX investigation at LSU led by ⁦@EdLawDude⁩ | News | https://t.co/4CvhkZA0YD #SAHElaw  https://t.co/IVMiCydhPb",
+		"full_text": "‘The report will speak for itself’: Husch Blackwell concluding Title IX investigation at LSU led by @EdLawDude | News | https://t.co/4CvhkZA0YD #SAHElaw  https://t.co/IVMiCydhPb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -515,7 +1961,7 @@ Grailbird.data.tweets_2021_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "‘The report will speak for itself’: Husch Blackwell concluding Title IX investigation at LSU led by ⁦@EdLawDude⁩ | News | https://t.co/4CvhkZA0YD #SAHElaw  https://t.co/IVMiCydhPb"
+		"text": "‘The report will speak for itself’: Husch Blackwell concluding Title IX investigation at LSU led by @EdLawDude | News | https://t.co/4CvhkZA0YD #SAHElaw  https://t.co/IVMiCydhPb"
 	},
 	{
 		"created_at": "Wed Mar 03 01:13:03 +0000 2021",
