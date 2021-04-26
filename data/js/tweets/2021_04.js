@@ -1,10 +1,117 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 03:44:32 +0000 2021",
+		"id": 1386164195864031200,
+		"id_str": "1386164195864031233",
+		"full_text": "Deep in the Swamps, Archaeologists Are Finding How Fugitive Slaves Kept Their Freedom https://t.co/3isnBrj5ZV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3isnBrj5ZV",
+					"expanded_url": "https://www.smithsonianmag.com/history/deep-swamps-archaeologists-fugitive-slaves-kept-freedom-180960122/#.YITlnM7SoyI.twitter",
+					"display_url": "smithsonianmag.com/history/deep-s…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1256,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deep in the Swamps, Archaeologists Are Finding How Fugitive Slaves Kept Their Freedom https://t.co/3isnBrj5ZV"
+	},
+	{
 		"created_at": "Fri Apr 23 17:15:01 +0000 2021",
 		"id": 1385643384228958200,
 		"id_str": "1385643384228958215",
-		"full_text": "Opinion | Howard University’s removal of classics is a spiritual catastrophe by ⁦@CornelWest⁩ - The Washington Post #HistSAHE  https://t.co/Ev96EK29RV",
+		"full_text": "Opinion | Howard University’s removal of classics is a spiritual catastrophe by @CornelWest - The Washington Post #HistSAHE  https://t.co/Ev96EK29RV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -124,7 +231,7 @@ Grailbird.data.tweets_2021_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Opinion | Howard University’s removal of classics is a spiritual catastrophe by ⁦@CornelWest⁩ - The Washington Post #HistSAHE  https://t.co/Ev96EK29RV"
+		"text": "Opinion | Howard University’s removal of classics is a spiritual catastrophe by @CornelWest - The Washington Post #HistSAHE  https://t.co/Ev96EK29RV"
 	},
 	{
 		"created_at": "Fri Apr 23 15:58:00 +0000 2021",
