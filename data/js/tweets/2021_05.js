@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 06 18:35:04 +0000 2021",
+		"id": 1375247551138386000,
+		"id_str": "1390374571312750593",
+		"full_text": "How much of what you did today was simply due to inertia?\n\nNever get so busy that you forget to actively design your life.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 626691391,
+			"id_str": "626691391",
+			"name": "Steph Smith",
+			"screen_name": "stephsmithio",
+			"location": "World",
+			"description": "Leading https://t.co/SvHQExODeF @TheHustle (acq. by @HubSpot)\n\nMaker @ https://t.co/emwUX1UjJy, Writer @ https://t.co/ccjJzEVTVh | Dev | Nomad 🇨🇦\n\nLatest project 👉 https://t.co/w1DBDrwPZA",
+			"url": "https://t.co/mR4DwcWrTY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mR4DwcWrTY",
+							"expanded_url": "http://stephsmith.io",
+							"display_url": "stephsmith.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SvHQExODeF",
+							"expanded_url": "http://Trends.co",
+							"display_url": "Trends.co",
+							"indices": [
+								8,
+								31
+							]
+						},
+						{
+							"url": "https://t.co/emwUX1UjJy",
+							"expanded_url": "http://eunoia.world",
+							"display_url": "eunoia.world",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/ccjJzEVTVh",
+							"expanded_url": "http://blog.stephsmith.io",
+							"display_url": "blog.stephsmith.io",
+							"indices": [
+								105,
+								128
+							]
+						},
+						{
+							"url": "https://t.co/w1DBDrwPZA",
+							"expanded_url": "http://doingcontentright.com",
+							"display_url": "doingcontentright.com",
+							"indices": [
+								164,
+								187
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20242,
+			"friends_count": 99,
+			"listed_count": 440,
+			"created_at": "Wed Jul 04 18:46:47 +0000 2012",
+			"favourites_count": 13425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079803857264205835/T2ZDra6d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079803857264205835/T2ZDra6d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/626691391/1541345077",
+			"profile_link_color": "68A0F9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 592,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How much of what you did today was simply due to inertia?\n\nNever get so busy that you forget to actively design your life."
+	},
+	{
+		"created_at": "Thu May 06 18:32:31 +0000 2021",
+		"id": 1390373931916267500,
+		"id_str": "1390373931916267520",
+		"full_text": "\"More effort is wasted doing things that don’t matter than is wasted doing things inefficiently. \n\nElimination is the highest form of optimization.\"\n\n–@JamesClear https://t.co/jwAuWpLVmR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390373924739817500,
+					"id_str": "1390373924739817472",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E0uZt9EVIAAni-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0uZt9EVIAAni-3.jpg",
+					"url": "https://t.co/jwAuWpLVmR",
+					"display_url": "pic.twitter.com/jwAuWpLVmR",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1390373931916267520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1304,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390373924739817500,
+					"id_str": "1390373924739817472",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E0uZt9EVIAAni-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0uZt9EVIAAni-3.jpg",
+					"url": "https://t.co/jwAuWpLVmR",
+					"display_url": "pic.twitter.com/jwAuWpLVmR",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1390373931916267520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1304,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2184,
+			"friends_count": 1256,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"More effort is wasted doing things that don’t matter than is wasted doing things inefficiently. \n\nElimination is the highest form of optimization.\"\n\n–@JamesClear https://t.co/jwAuWpLVmR"
+	},
+	{
+		"created_at": "Thu May 06 11:02:37 +0000 2021",
+		"id": 1390260708500181000,
+		"id_str": "1390260708500180992",
+		"full_text": "Courts Skeptical on COVID-19 Tuition Lawsuits\n\nJudges have dismissed many of the cases seeking refunds for shifts to virtual learning, but some are going to trial, and at least two colleges have settled. #SAHElaw  https://t.co/JMrql9C9WJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						204,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JMrql9C9WJ",
+					"expanded_url": "https://www.insidehighered.com/news/2021/05/06/courts-view-covid-19-tuition-refund-lawsuits-skeptically",
+					"display_url": "insidehighered.com/news/2021/05/0…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2184,
+			"friends_count": 1256,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Courts Skeptical on COVID-19 Tuition Lawsuits\n\nJudges have dismissed many of the cases seeking refunds for shifts to virtual learning, but some are going to trial, and at least two colleges have settled. #SAHElaw  https://t.co/JMrql9C9WJ"
+	},
+	{
+		"created_at": "Thu May 06 10:59:34 +0000 2021",
+		"id": 1390259943299813400,
+		"id_str": "1390259943299813378",
+		"full_text": "Nova Southeastern Drops COVID Vaccine Requirement, Cites Fla. Law #SAHElaw  https://t.co/sdEAPDgXvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sdEAPDgXvL",
+					"expanded_url": "https://www.insidehighered.com/quicktakes/2021/05/06/nova-southeastern-drops-covid-vaccine-requirement-cites-fla-law",
+					"display_url": "insidehighered.com/quicktakes/202…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2184,
+			"friends_count": 1256,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nova Southeastern Drops COVID Vaccine Requirement, Cites Fla. Law #SAHElaw  https://t.co/sdEAPDgXvL"
+	},
+	{
 		"created_at": "Wed May 05 22:15:20 +0000 2021",
 		"id": 1390067617298321400,
 		"id_str": "1390067617298321413",
