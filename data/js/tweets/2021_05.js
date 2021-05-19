@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 18:26:00 +0000 2021",
+		"id": 1394720943470174200,
+		"id_str": "1394720943470174209",
+		"full_text": "A theme explored by In God We Lust is Jerry Falwell, Jr.'s connection to Donald Trump, Jr.. This includes Falwell's decision to endorse Trump over Ted Cruz. Giancarlo Granda, the Falwells' pool boy, even met Trump.\n\nIn God We Lust is a production of @WonderyMedia https://t.co/iOyHONn40K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WonderyMedia",
+					"name": "Wondery",
+					"id": 4785375981,
+					"id_str": "4785375981",
+					"indices": [
+						250,
+						263
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394353540206899200,
+					"id_str": "1394353540206899200",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E1m9KD9XMAAkPjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1m9KD9XMAAkPjM.jpg",
+					"url": "https://t.co/iOyHONn40K",
+					"display_url": "pic.twitter.com/iOyHONn40K",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1394720943470174209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394353540206899200,
+					"id_str": "1394353540206899200",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E1m9KD9XMAAkPjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1m9KD9XMAAkPjM.jpg",
+					"url": "https://t.co/iOyHONn40K",
+					"display_url": "pic.twitter.com/iOyHONn40K",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1394720943470174209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A theme explored by In God We Lust is Jerry Falwell, Jr.'s connection to Donald Trump, Jr.. This includes Falwell's decision to endorse Trump over Ted Cruz. Giancarlo Granda, the Falwells' pool boy, even met Trump.\n\nIn God We Lust is a production of @WonderyMedia https://t.co/iOyHONn40K"
+	},
+	{
+		"created_at": "Tue May 18 15:14:45 +0000 2021",
+		"id": 1394672816394543000,
+		"id_str": "1394672816394543108",
+		"full_text": "True in any culture! #SAHElaw https://t.co/194bbqHxM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/194bbqHxM4",
+					"expanded_url": "https://twitter.com/maccocktail/status/1394671578730745859",
+					"display_url": "twitter.com/maccocktail/st…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394671578730745900,
+		"quoted_status_id_str": "1394671578730745859",
+		"quoted_status_permalink": {
+			"url": "https://t.co/194bbqHxM4",
+			"expanded": "https://twitter.com/maccocktail/status/1394671578730745859",
+			"display": "twitter.com/maccocktail/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 15:09:50 +0000 2021",
+			"id": 1394671578730745900,
+			"id_str": "1394671578730745859",
+			"full_text": "\"Without freedom of speech there is no modern world, just a barbaric one.\"\n― 艾未未 Ai Weiwei (@aiww) (born this day, May 18, 1957) https://t.co/7GhN2tL0hu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aiww",
+						"name": "艾未未  Ai Weiwei",
+						"id": 43654274,
+						"id_str": "43654274",
+						"indices": [
+							92,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394671576885256200,
+						"id_str": "1394671576885256192",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/E1reaO6UYAAr6ST.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1reaO6UYAAr6ST.jpg",
+						"url": "https://t.co/7GhN2tL0hu",
+						"display_url": "pic.twitter.com/7GhN2tL0hu",
+						"expanded_url": "https://twitter.com/MacCocktail/status/1394671578730745859/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 455,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394671576885256200,
+						"id_str": "1394671576885256192",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/E1reaO6UYAAr6ST.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1reaO6UYAAr6ST.jpg",
+						"url": "https://t.co/7GhN2tL0hu",
+						"display_url": "pic.twitter.com/7GhN2tL0hu",
+						"expanded_url": "https://twitter.com/MacCocktail/status/1394671578730745859/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 455,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 483195215,
+				"id_str": "483195215",
+				"name": "MacCocktail",
+				"screen_name": "MacCocktail",
+				"location": "New Orleans, LA",
+				"description": "Pop Culture ― Food ― History ― Sports ― Books ― And all the news that's fit to drink: Spirits, Wine, & Beer! Data Analytics Pro. @ThinkAgave Believer!",
+				"url": "https://t.co/aWulIafSqS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aWulIafSqS",
+								"expanded_url": "http://TequilaInterchangeProject.org",
+								"display_url": "TequilaInterchangeProject.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 271232,
+				"friends_count": 48981,
+				"listed_count": 3301,
+				"created_at": "Sat Feb 04 18:58:01 +0000 2012",
+				"favourites_count": 186285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 469533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516837507145535489/XXcjBI91_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516837507145535489/XXcjBI91_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/483195215/1398465871",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "True in any culture! #SAHElaw https://t.co/194bbqHxM4"
+	},
+	{
+		"created_at": "Tue May 18 12:56:27 +0000 2021",
+		"id": 1394638011841851400,
+		"id_str": "1394638011841851401",
+		"full_text": "Montana Board of Regents to consider seeking judicial review of campus firearm law | Montana State University | https://t.co/097Vk6YQNn #SAHElaw https://t.co/RjpMHVw5wH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/097Vk6YQNn",
+					"expanded_url": "http://bozemandailychronicle.com",
+					"display_url": "bozemandailychronicle.com",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/RjpMHVw5wH",
+					"expanded_url": "https://www.bozemandailychronicle.com/news/montana_state_university/montana-board-of-regents-to-consider-seeking-judicial-review-of-campus-firearm-law/article_703fed10-f667-5eaa-9447-909ea2bb7ded.html",
+					"display_url": "bozemandailychronicle.com/news/montana_s…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Montana Board of Regents to consider seeking judicial review of campus firearm law | Montana State University | https://t.co/097Vk6YQNn #SAHElaw https://t.co/RjpMHVw5wH"
+	},
+	{
+		"created_at": "Tue May 18 11:14:30 +0000 2021",
+		"id": 1394612354554474500,
+		"id_str": "1394612354554474496",
+		"full_text": "1904 World's Fair Revised: One Artist Memorializes Filipino And Indigenous People  https://t.co/g6epS8OGP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g6epS8OGP5",
+					"expanded_url": "https://news.stlpublicradio.org/2021-05-16/1904-worlds-fair-revised-one-artist-memorializes-filipino-and-indigenous-people",
+					"display_url": "news.stlpublicradio.org/2021-05-16/190…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1904 World's Fair Revised: One Artist Memorializes Filipino And Indigenous People  https://t.co/g6epS8OGP5"
+	},
+	{
 		"created_at": "Mon May 17 22:00:43 +0000 2021",
 		"id": 1394412592811200500,
 		"id_str": "1394412592811200513",
