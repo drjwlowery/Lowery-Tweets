@@ -1,6 +1,1310 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 20:37:16 +0000 2021",
+		"id": 1395116368471761000,
+		"id_str": "1395116368471760904",
+		"full_text": "A 1887 Kansas law allows citizens to go around reluctant prosecutors to seek an indictment on their own. #FrontierJustice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrontierJustice",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1395115484001996800,
+		"in_reply_to_status_id_str": "1395115484001996806",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A 1887 Kansas law allows citizens to go around reluctant prosecutors to seek an indictment on their own. #FrontierJustice"
+	},
+	{
+		"created_at": "Wed May 19 20:33:46 +0000 2021",
+		"id": 1395115484001996800,
+		"id_str": "1395115484001996806",
+		"full_text": "A prosecutor says no to a rape charge, so a college student calls her own grand jury - The Washington Post #SAHElaw  https://t.co/hFpXbi6EYI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hFpXbi6EYI",
+					"expanded_url": "https://www.washingtonpost.com/national/a-prosecutor-says-no-to-a-rape-charge-so-a-college-student-calls-her-own-grand-jury/2021/05/18/2ea9a130-b766-11eb-a5fe-bb49dc89a248_story.html",
+					"display_url": "washingtonpost.com/national/a-pro…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A prosecutor says no to a rape charge, so a college student calls her own grand jury - The Washington Post #SAHElaw  https://t.co/hFpXbi6EYI"
+	},
+	{
+		"created_at": "Wed May 19 19:38:27 +0000 2021",
+		"id": 1395101564906483700,
+		"id_str": "1395101564906483719",
+		"full_text": "Why We Should Abolish the Campus Police\nTheir power, reach, and misplaced interests make them a threat to our communities. #HistSAHE #SAHElaw  https://t.co/fw0vUKrlUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "SAHElaw",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fw0vUKrlUN",
+					"expanded_url": "https://www.chronicle.com/article/why-we-should-abolish-campus-police",
+					"display_url": "chronicle.com/article/why-we…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why We Should Abolish the Campus Police\nTheir power, reach, and misplaced interests make them a threat to our communities. #HistSAHE #SAHElaw  https://t.co/fw0vUKrlUN"
+	},
+	{
+		"created_at": "Wed May 19 19:20:54 +0000 2021",
+		"id": 1394893111998836700,
+		"id_str": "1395097150393102336",
+		"full_text": "Native culture and heritage being used for sports teams is wrong, harmful- and largely not supported by Fans.  Take a look at our latest work in collaboration with @_IllumiNatives and @CrystalEchoHawk   #morethanmascots @nielsen https://t.co/K6TOmrLDD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "morethanmascots",
+					"indices": [
+						203,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IllumiNatives",
+					"name": "IllumiNative",
+					"id": 1055967291169488900,
+					"id_str": "1055967291169488898",
+					"indices": [
+						164,
+						179
+					]
+				},
+				{
+					"screen_name": "CrystalEchoHawk",
+					"name": "Crystal EchoHawk",
+					"id": 48177931,
+					"id_str": "48177931",
+					"indices": [
+						184,
+						200
+					]
+				},
+				{
+					"screen_name": "nielsen",
+					"name": "Nielsen",
+					"id": 15996830,
+					"id_str": "15996830",
+					"indices": [
+						220,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K6TOmrLDD4",
+					"expanded_url": "https://twitter.com/nielsen/status/1394684218890928130",
+					"display_url": "twitter.com/nielsen/status…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85430336,
+			"id_str": "85430336",
+			"name": "Stacie M. de Armas",
+			"screen_name": "StaciedeArmas",
+			"location": "Los Angeles",
+			"description": "Latina Mom/researcher/storyteller/behaviorist/mythbuster/datalover: 1 green & 1 brown eye, DE& I, IG@staciedearmas 🇨🇺#Cubana @Nielsen https://t.co/EVTXTTrSe1",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EVTXTTrSe1",
+							"expanded_url": "http://Seedisclaimer.com",
+							"display_url": "Seedisclaimer.com",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1420,
+			"friends_count": 1760,
+			"listed_count": 31,
+			"created_at": "Mon Oct 26 22:07:37 +0000 2009",
+			"favourites_count": 6616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075063767833096193/FOeM0FMh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075063767833096193/FOeM0FMh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85430336/1538281301",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394684218890928000,
+		"quoted_status_id_str": "1394684218890928130",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K6TOmrLDD4",
+			"expanded": "https://twitter.com/nielsen/status/1394684218890928130",
+			"display": "twitter.com/nielsen/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 16:00:04 +0000 2021",
+			"id": 1394684218890928000,
+			"id_str": "1394684218890928130",
+			"full_text": "Sports mascots are one of the main ways that Native American cultures are depicted on TV. \n\nOur data shows that many sports fans are ready to embrace change on their favorite teams to deliver fairer, more equitable representation. ⚾🏈🏀\n\nLearn more:https://t.co/1QVG2hPdbM https://t.co/h72PoOYS3d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1QVG2hPdbM",
+						"expanded_url": "http://nlsn.co/6011yDbUJ",
+						"display_url": "nlsn.co/6011yDbUJ",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1394684217347412000,
+						"id_str": "1394684217347411981",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E1rp6ATWEA03srP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1rp6ATWEA03srP.jpg",
+						"url": "https://t.co/h72PoOYS3d",
+						"display_url": "pic.twitter.com/h72PoOYS3d",
+						"expanded_url": "https://twitter.com/nielsen/status/1394684218890928130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 612,
+								"h": 835,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 835,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394684217347412000,
+						"id_str": "1394684217347411981",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E1rp6ATWEA03srP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1rp6ATWEA03srP.jpg",
+						"url": "https://t.co/h72PoOYS3d",
+						"display_url": "pic.twitter.com/h72PoOYS3d",
+						"expanded_url": "https://twitter.com/nielsen/status/1394684218890928130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 612,
+								"h": 835,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 835,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15996830,
+				"id_str": "15996830",
+				"name": "Nielsen",
+				"screen_name": "nielsen",
+				"location": "New York, NY",
+				"description": "Helping the world understand media insights. 📺",
+				"url": "https://t.co/kIVPPYI4xV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kIVPPYI4xV",
+								"expanded_url": "http://www.nielsen.com",
+								"display_url": "nielsen.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196964,
+				"friends_count": 1510,
+				"listed_count": 7199,
+				"created_at": "Tue Aug 26 14:21:54 +0000 2008",
+				"favourites_count": 13715,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278300136804884481/L-qXnsyd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278300136804884481/L-qXnsyd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15996830/1607519188",
+				"profile_link_color": "009CD9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F8F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Native culture and heritage being used for sports teams is wrong, harmful- and largely not supported by Fans.  Take a look at our latest work in collaboration with @_IllumiNatives and @CrystalEchoHawk   #morethanmascots @nielsen https://t.co/K6TOmrLDD4"
+	},
+	{
+		"created_at": "Wed May 19 19:17:09 +0000 2021",
+		"id": 1395090986263515100,
+		"id_str": "1395096205919756293",
+		"full_text": "it's hard to see UNC's decision to deny tenure to Nikole Hannah Jones as anything other than an attack on press freedom -- she is being penalized for producing journalism that powerful people do not like and have worked for years to silence.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14849562,
+			"id_str": "14849562",
+			"name": "Wesley",
+			"screen_name": "WesleyLowery",
+			"location": "Washington DC",
+			"description": "Correspondent @60Minutes+/@CBSNews, Sometimes writer @GQMagazine and elsewhere, Contributing editor @MarshallProj\n\nwes.j.lowery@gmail.com // loweryw@cbsnews.com",
+			"url": "https://t.co/n8LOVO8WYO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n8LOVO8WYO",
+							"expanded_url": "http://instagram.com/wesleylowery",
+							"display_url": "instagram.com/wesleylowery",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658476,
+			"friends_count": 9601,
+			"listed_count": 4938,
+			"created_at": "Tue May 20 22:42:46 +0000 2008",
+			"favourites_count": 33153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "220907",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139252451142459393/eWkGvoVy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139252451142459393/eWkGvoVy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14849562/1404225034",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1496,
+		"favorite_count": 7045,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "it's hard to see UNC's decision to deny tenure to Nikole Hannah Jones as anything other than an attack on press freedom -- she is being penalized for producing journalism that powerful people do not like and have worked for years to silence."
+	},
+	{
+		"created_at": "Wed May 19 19:16:49 +0000 2021",
+		"id": 1395074110829600800,
+		"id_str": "1395096120586555394",
+		"full_text": "So around midnight 11 white male Davidson alum hijacked the Davidson alumni email list, posed as the official school alumni email account and sent a manifesto about how the school is wrong to have allowed religious diversity on the Board of Trustees. @DavidsonAlums @carolquillen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidsonAlums",
+					"name": "Davidson Alumni",
+					"id": 961273855,
+					"id_str": "961273855",
+					"indices": [
+						251,
+						265
+					]
+				},
+				{
+					"screen_name": "carolquillen",
+					"name": "Carol Quillen",
+					"id": 2279190380,
+					"id_str": "2279190380",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16173435,
+			"id_str": "16173435",
+			"name": "David Dennis Jr.",
+			"screen_name": "DavidDTSS",
+			"location": "Atlanta, GA",
+			"description": "Go Season Some Food apparel available here: https://t.co/EHa5X46CXE",
+			"url": "https://t.co/xpGIqLI8UD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xpGIqLI8UD",
+							"expanded_url": "https://www.clippings.me/davidddennisjr",
+							"display_url": "clippings.me/davidddennisjr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EHa5X46CXE",
+							"expanded_url": "https://teespring.com/go-season-some-food#pid=2&cid=2397&sid=front",
+							"display_url": "teespring.com/go-season-some…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34133,
+			"friends_count": 1541,
+			"listed_count": 500,
+			"created_at": "Sun Sep 07 20:37:40 +0000 2008",
+			"favourites_count": 5858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394708444209364998/wDAe9TBp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394708444209364998/wDAe9TBp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16173435/1591382369",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 391,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So around midnight 11 white male Davidson alum hijacked the Davidson alumni email list, posed as the official school alumni email account and sent a manifesto about how the school is wrong to have allowed religious diversity on the Board of Trustees. @DavidsonAlums @carolquillen"
+	},
+	{
+		"created_at": "Wed May 19 19:12:20 +0000 2021",
+		"id": 1395071995159715800,
+		"id_str": "1395094994269134850",
+		"full_text": "Briefly breaking my Twitter fast because there's a lot of context to this @nhannahjones story that people should be aware of. Namely, the degree of absolute unhinged-ness within the UNC Board of Governors.\n\nhttps://t.co/gN6bHQlEok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nhannahjones",
+					"name": "Ida Bae Wells",
+					"id": 25598396,
+					"id_str": "25598396",
+					"indices": [
+						74,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gN6bHQlEok",
+					"expanded_url": "http://www.ncpolicywatch.com/2021/05/19/pw-special-report-after-conservative-criticism-unc-backs-down-from-offering-acclaimed-journalist-a-tenured-position/",
+					"display_url": "ncpolicywatch.com/2021/05/19/pw-…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2579133678,
+			"id_str": "2579133678",
+			"name": "Jeffrey Sachs",
+			"screen_name": "JeffreyASachs",
+			"location": "Wolfville, Nova Scotia",
+			"description": "Lecturer at Acadia University. Judicial politics, authoritarianism, Islamic law. Specializing in Sudan/Egypt. Occasionally free speech on campus issues as well.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18070,
+			"friends_count": 1115,
+			"listed_count": 224,
+			"created_at": "Fri Jun 20 19:30:40 +0000 2014",
+			"favourites_count": 18769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173951136312770560/NFbGbvIL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173951136312770560/NFbGbvIL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2579133678/1563745626",
+			"profile_link_color": "0080B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Briefly breaking my Twitter fast because there's a lot of context to this @nhannahjones story that people should be aware of. Namely, the degree of absolute unhinged-ness within the UNC Board of Governors.\n\nhttps://t.co/gN6bHQlEok"
+	},
+	{
+		"created_at": "Wed May 19 18:25:00 +0000 2021",
+		"id": 1395083079899828200,
+		"id_str": "1395083079899828234",
+		"full_text": "Episode 5 of In God We Lust explores the growing discomfort at Liberty with Jerry Falwell, Jr.'s actions. These include Falwell personally editing the \"student\" newspaper.\n\nIn God We Lust is hosted by Brooke Siffrinn and @ariciaskiddubs. https://t.co/MOSytJ4sIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ariciaskiddubs",
+					"name": "Aricia Skidmore-Williams",
+					"id": 39306475,
+					"id_str": "39306475",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394353226548404200,
+					"id_str": "1394353226548404229",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E1m83zfWYAUy72J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1m83zfWYAUy72J.jpg",
+					"url": "https://t.co/MOSytJ4sIo",
+					"display_url": "pic.twitter.com/MOSytJ4sIo",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1395083079899828234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394353226548404200,
+					"id_str": "1394353226548404229",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E1m83zfWYAUy72J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1m83zfWYAUy72J.jpg",
+					"url": "https://t.co/MOSytJ4sIo",
+					"display_url": "pic.twitter.com/MOSytJ4sIo",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1395083079899828234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 5 of In God We Lust explores the growing discomfort at Liberty with Jerry Falwell, Jr.'s actions. These include Falwell personally editing the \"student\" newspaper.\n\nIn God We Lust is hosted by Brooke Siffrinn and @ariciaskiddubs. https://t.co/MOSytJ4sIo"
+	},
+	{
+		"created_at": "Wed May 19 11:12:52 +0000 2021",
+		"id": 1394974332829511700,
+		"id_str": "1394974332829511681",
+		"full_text": "AAUP to Investigate Linfield U and Collin College https://t.co/QBUSRRDkkv #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QBUSRRDkkv",
+					"expanded_url": "https://www.insidehighered.com/quicktakes/2021/05/19/aaup-investigate-linfield-u-and-collin-college#.YKTypwbEauU.twitter",
+					"display_url": "insidehighered.com/quicktakes/202…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 1254,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AAUP to Investigate Linfield U and Collin College https://t.co/QBUSRRDkkv #SAHElaw"
+	},
+	{
 		"created_at": "Tue May 18 18:26:00 +0000 2021",
 		"id": 1394720943470174200,
 		"id_str": "1394720943470174209",
