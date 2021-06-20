@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 00:52:48 +0000 2021",
+		"id": 1406364966014406700,
+		"id_str": "1406414699730722818",
+		"full_text": "Among other things, the history of Juneteenth should serve as a reminder of just how important the Union army was in the process of emancipation during the final two years of the war. Union forces--regardless of the beliefs of its officers--functioned as liberating armies. https://t.co/HhWSEm0eha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406364647075238000,
+					"id_str": "1406364647075237895",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4RpMf2WUAcfvfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4RpMf2WUAcfvfD.jpg",
+					"url": "https://t.co/HhWSEm0eha",
+					"display_url": "pic.twitter.com/HhWSEm0eha",
+					"expanded_url": "https://twitter.com/KevinLevin/status/1406364966014406656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 690,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 690,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406364647075238000,
+					"id_str": "1406364647075237895",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4RpMf2WUAcfvfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4RpMf2WUAcfvfD.jpg",
+					"url": "https://t.co/HhWSEm0eha",
+					"display_url": "pic.twitter.com/HhWSEm0eha",
+					"expanded_url": "https://twitter.com/KevinLevin/status/1406364966014406656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 690,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 690,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14512716,
+			"id_str": "14512716",
+			"name": "Kevin M. Levin",
+			"screen_name": "KevinLevin",
+			"location": "Boston, MA",
+			"description": "Educator. Historian, Civil War Era/Reconstruction. Public Speaker, Confederate Monuments Controversy. Author, Searching for Black Confederates https://t.co/p2zV4tO4xc",
+			"url": "http://t.co/wf1ufSAapO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wf1ufSAapO",
+							"expanded_url": "http://cwmemory.com",
+							"display_url": "cwmemory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p2zV4tO4xc",
+							"expanded_url": "http://bit.ly/3fmtRhk",
+							"display_url": "bit.ly/3fmtRhk",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37562,
+			"friends_count": 551,
+			"listed_count": 578,
+			"created_at": "Thu Apr 24 15:04:27 +0000 2008",
+			"favourites_count": 14074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323032028921606148/oxQXm9Ry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323032028921606148/oxQXm9Ry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14512716/1562702827",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 474,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Among other things, the history of Juneteenth should serve as a reminder of just how important the Union army was in the process of emancipation during the final two years of the war. Union forces--regardless of the beliefs of its officers--functioned as liberating armies. https://t.co/HhWSEm0eha"
+	},
+	{
+		"created_at": "Sun Jun 20 00:23:30 +0000 2021",
+		"id": 1406407323413844000,
+		"id_str": "1406407323413843971",
+		"full_text": "The Supreme Court’s Newest Justices Produce Some Unexpected Results https://t.co/tE0pKK28k4 #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tE0pKK28k4",
+					"expanded_url": "https://www.nytimes.com/2021/06/18/us/politics/supreme-court-conservatives-liberals.html?smid=tw-share",
+					"display_url": "nytimes.com/2021/06/18/us/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 1261,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Supreme Court’s Newest Justices Produce Some Unexpected Results https://t.co/tE0pKK28k4 #SAHElaw"
+	},
+	{
+		"created_at": "Sat Jun 19 21:15:41 +0000 2021",
+		"id": 1406360059240718300,
+		"id_str": "1406360059240718339",
+		"full_text": "Activist Christopher Rufo fuels GOP’s critical race theory fight - The Washington Post https://t.co/pIsj0gUWB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pIsj0gUWB0",
+					"expanded_url": "https://www.washingtonpost.com/education/2021/06/19/critical-race-theory-rufo-republicans/",
+					"display_url": "washingtonpost.com/education/2021…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 1261,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Activist Christopher Rufo fuels GOP’s critical race theory fight - The Washington Post https://t.co/pIsj0gUWB0"
+	},
+	{
 		"created_at": "Sat Jun 19 01:05:44 +0000 2021",
 		"id": 1405865172720357400,
 		"id_str": "1406055565135069184",
