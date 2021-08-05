@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 01:11:00 +0000 2021",
+		"id": 1423003919479885800,
+		"id_str": "1423089118591033347",
+		"full_text": "1. ARRC is committed to putting regional colleges on the radar of policymakers, journalists, and philanthropists with accessible research and resources.\n\nTo make this happen, we needed to build our organizational capacity. We’re excited to share a few big moves in that direction.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1298626945131982800,
+			"id_str": "1298626945131982849",
+			"name": "Alliance for Research on Regional Colleges",
+			"screen_name": "ARRC_Research",
+			"location": "",
+			"description": "A research collaborative and resource hub with the mission of building understanding and appreciation for regional colleges",
+			"url": "https://t.co/6XbuQTgU5P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6XbuQTgU5P",
+							"expanded_url": "https://www.regionalcolleges.org/",
+							"display_url": "regionalcolleges.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 594,
+			"listed_count": 6,
+			"created_at": "Wed Aug 26 14:23:09 +0000 2020",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311725380752027649/l63j905Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311725380752027649/l63j905Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1298626945131982849/1603221537",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1. ARRC is committed to putting regional colleges on the radar of policymakers, journalists, and philanthropists with accessible research and resources.\n\nTo make this happen, we needed to build our organizational capacity. We’re excited to share a few big moves in that direction."
+	},
+	{
+		"created_at": "Wed Aug 04 17:10:00 +0000 2021",
+		"id": 1422968070784667600,
+		"id_str": "1422968070784667651",
+		"full_text": "\"You can usually accomplish more by giving something your full effort for a few years rather than giving it a lukewarm effort for fifty years. \n\nPick a priority for this season of your life and do it to the best of your ability.\"\n\n–@JamesClear https://t.co/AXXpgpoZUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420848996650729500,
+					"id_str": "1420848996650729473",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E7feomzWQAE5jgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7feomzWQAE5jgz.jpg",
+					"url": "https://t.co/AXXpgpoZUT",
+					"display_url": "pic.twitter.com/AXXpgpoZUT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1422968070784667651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420848996650729500,
+					"id_str": "1420848996650729473",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E7feomzWQAE5jgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7feomzWQAE5jgz.jpg",
+					"url": "https://t.co/AXXpgpoZUT",
+					"display_url": "pic.twitter.com/AXXpgpoZUT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1422968070784667651/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E7feomzWQAE5jgz.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1295,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"You can usually accomplish more by giving something your full effort for a few years rather than giving it a lukewarm effort for fifty years. \n\nPick a priority for this season of your life and do it to the best of your ability.\"\n\n–@JamesClear https://t.co/AXXpgpoZUT"
+	},
+	{
+		"created_at": "Wed Aug 04 14:18:06 +0000 2021",
+		"id": 1422924813346214000,
+		"id_str": "1422924813346213895",
+		"full_text": "They Were Accused of Wearing Blackface. Now They’re Suing Their College. \n\nThere is definitely a lot to unpack here. The players are argue that they did not wear literal blackface, but Cal Lutheran says it meant something broader.  https://t.co/SycTFtzouC #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						256,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SycTFtzouC",
+					"expanded_url": "https://www.chronicle.com/article/they-were-accused-of-wearing-blackface-now-theyre-suing-their-college",
+					"display_url": "chronicle.com/article/they-w…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1295,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They Were Accused of Wearing Blackface. Now They’re Suing Their College. \n\nThere is definitely a lot to unpack here. The players are argue that they did not wear literal blackface, but Cal Lutheran says it meant something broader.  https://t.co/SycTFtzouC #SAHElaw"
+	},
+	{
 		"created_at": "Wed Aug 04 00:46:06 +0000 2021",
 		"id": 1422720465483833300,
 		"id_str": "1422720465483833345",
