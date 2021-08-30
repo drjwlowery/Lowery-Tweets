@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 21:10:00 +0000 2021",
+		"id": 1432088165527920600,
+		"id_str": "1432088165527920640",
+		"full_text": "“This was a world in which silences distorted lives,” Drew Gilpin Faust writes of the Virginia of her childhood, “and falsehoods perpetuated structures of power rooted in centuries of injustices.” https://t.co/AJ88nr7NsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJ88nr7NsE",
+					"expanded_url": "https://www.theatlantic.com/magazine/archive/2019/08/drew-gilpin-faust-race-in-virginia/592801/?utm_source=twitter&utm_medium=social&utm_campaign=share",
+					"display_url": "theatlantic.com/magazine/archi…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 1299,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“This was a world in which silences distorted lives,” Drew Gilpin Faust writes of the Virginia of her childhood, “and falsehoods perpetuated structures of power rooted in centuries of injustices.” https://t.co/AJ88nr7NsE"
+	},
+	{
+		"created_at": "Sun Aug 29 20:00:33 +0000 2021",
+		"id": 1432067199997460500,
+		"id_str": "1432070689956184071",
+		"full_text": "When Evangelicals pursue the “freedom” to make their neighbors sick, they violate the social compact and undermine their moral standing in politics, law, and culture. Christian libertinism thus becomes a long-term threat to religious liberty itself: https://t.co/q1Kb9ynOjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1Kb9ynOjC",
+					"expanded_url": "https://frenchpress.thedispatch.com/p/its-time-to-stop-rationalizing-christian",
+					"display_url": "frenchpress.thedispatch.com/p/its-time-to-…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240107748,
+			"id_str": "240107748",
+			"name": "David French",
+			"screen_name": "DavidAFrench",
+			"location": "Franklin, TN",
+			"description": "Senior Editor @TheDispatch, Columnist @Time, Senior Fellow @TrinityForum, Co-host, Advisory Opinions, Iraq vet, married to @NancyAFrench. \"Possibly possessed.\"",
+			"url": "https://t.co/33pvGyUzax",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/33pvGyUzax",
+							"expanded_url": "https://frenchpress.thedispatch.com/",
+							"display_url": "frenchpress.thedispatch.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257720,
+			"friends_count": 942,
+			"listed_count": 3537,
+			"created_at": "Wed Jan 19 04:58:15 +0000 2011",
+			"favourites_count": 45931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1393322290146910215/O5bNiN6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393322290146910215/O5bNiN6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240107748/1592331473",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 1010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When Evangelicals pursue the “freedom” to make their neighbors sick, they violate the social compact and undermine their moral standing in politics, law, and culture. Christian libertinism thus becomes a long-term threat to religious liberty itself: https://t.co/q1Kb9ynOjC"
+	},
+	{
+		"created_at": "Sun Aug 29 19:00:01 +0000 2021",
+		"id": 1432055454289612800,
+		"id_str": "1432055454289612805",
+		"full_text": "Not a scholarly source, but so funny (and at least partially true) from Sarah Vowell! #HistSAHE https://t.co/uc449phz65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 890374069723385900,
+					"id_str": "890374069723385858",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DFs-f78U0AIT-Jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFs-f78U0AIT-Jx.jpg",
+					"url": "https://t.co/uc449phz65",
+					"display_url": "pic.twitter.com/uc449phz65",
+					"expanded_url": "https://twitter.com/drjwlowery/status/890374141513273344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890374141513273300,
+					"source_status_id_str": "890374141513273344",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 890374069723385900,
+					"id_str": "890374069723385858",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DFs-f78U0AIT-Jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFs-f78U0AIT-Jx.jpg",
+					"url": "https://t.co/uc449phz65",
+					"display_url": "pic.twitter.com/uc449phz65",
+					"expanded_url": "https://twitter.com/drjwlowery/status/890374141513273344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890374141513273300,
+					"source_status_id_str": "890374141513273344",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 1299,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not a scholarly source, but so funny (and at least partially true) from Sarah Vowell! #HistSAHE https://t.co/uc449phz65"
+	},
+	{
+		"created_at": "Sun Aug 29 13:30:12 +0000 2021",
+		"id": 1431972453270671400,
+		"id_str": "1431972453270671364",
+		"full_text": "Introducing Pembroke University and its Evolving English Department https://t.co/T5vWtgmMSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T5vWtgmMSn",
+					"expanded_url": "https://www.usnewsbrandfuse.com/Netflix/THE_CHAIR/Pembroke_University/index.html?fbclid=IwAR2YXDhYzrCaRqMfgjn_G9hZT0zVhgZrl_0uv3PAxgVtCXqkPKTN-RdJoKE_aem_ASg5w0UyWaK9fVD0wM84HPsRoP2YzZVvlL7ZN3pXSc3Kd5j8ULVNN2UkdETvJFH_IBYVDXnzYyVUWfU7phmc2sNA4Jp8RcCIMd6Ct5UXbwbPzF_j55nsfd_xB5_MY9QRxQU",
+					"display_url": "usnewsbrandfuse.com/Netflix/THE_CH…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 1299,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introducing Pembroke University and its Evolving English Department https://t.co/T5vWtgmMSn"
+	},
+	{
 		"created_at": "Sun Aug 29 00:31:11 +0000 2021",
 		"id": 1431776407760289800,
 		"id_str": "1431776407760289794",
