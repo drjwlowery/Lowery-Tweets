@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 00:27:52 +0000 2021",
+		"id": 1435034006467268600,
+		"id_str": "1435037065603911693",
+		"full_text": "Today in 1804 Nicholas Brown’s gift of $5,000 resulted in Rhode Island College being renamed @BrownUniversity.\nhttps://t.co/v4KF9xECvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrownUniversity",
+					"name": "Brown University",
+					"id": 14884486,
+					"id_str": "14884486",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v4KF9xECvj",
+					"expanded_url": "https://www.brown.edu/about/history/timeline/",
+					"display_url": "brown.edu/about/history/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357705824,
+			"id_str": "357705824",
+			"name": "Larry Ladd",
+			"screen_name": "LarryLadd1",
+			"location": "Falmouth, MA",
+			"description": "Helping higher ed and not-for-profit organizations become more successful and adapt to change. Experienced trustee and senior executive. http://t.co/o6y05xz7",
+			"url": "https://t.co/B7j2YfvdIb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B7j2YfvdIb",
+							"expanded_url": "https://agb.org/lawrence-r-ladd/",
+							"display_url": "agb.org/lawrence-r-lad…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/o6y05xz7",
+							"expanded_url": "http://www.linkedin.com/in/larryladd",
+							"display_url": "linkedin.com/in/larryladd",
+							"indices": [
+								137,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 924,
+			"friends_count": 579,
+			"listed_count": 80,
+			"created_at": "Thu Aug 18 19:46:29 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906163136348258304/gvLz1F-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906163136348258304/gvLz1F-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357705824/1357172065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in 1804 Nicholas Brown’s gift of $5,000 resulted in Rhode Island College being renamed @BrownUniversity.\nhttps://t.co/v4KF9xECvj"
+	},
+	{
+		"created_at": "Tue Sep 07 00:25:33 +0000 2021",
+		"id": 1434998819662536700,
+		"id_str": "1435036479890333696",
+		"full_text": "Your absence is already\nSo great\nBut your presence\nElsewhere was needed\nYou taught us\nSo much\nYour work\nHelped us teach others, about Love\nPower\nVulnerability\nand Redemption\nYou gave of yourself\nSo we could be better\nAnd we are\nBetter\nBecause of you\n#RIP #MichaelKWilliams https://t.co/arnRnfgjPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIP",
+					"indices": [
+						250,
+						254
+					]
+				},
+				{
+					"text": "MichaelKWilliams",
+					"indices": [
+						255,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434998815111667700,
+					"id_str": "1434998815111667713",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E-oj0cPWYAE2GEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-oj0cPWYAE2GEj.jpg",
+					"url": "https://t.co/arnRnfgjPd",
+					"display_url": "pic.twitter.com/arnRnfgjPd",
+					"expanded_url": "https://twitter.com/hfdavis/status/1434998819662536708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434998815111667700,
+					"id_str": "1434998815111667713",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E-oj0cPWYAE2GEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-oj0cPWYAE2GEj.jpg",
+					"url": "https://t.co/arnRnfgjPd",
+					"display_url": "pic.twitter.com/arnRnfgjPd",
+					"expanded_url": "https://twitter.com/hfdavis/status/1434998819662536708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18350031,
+			"id_str": "18350031",
+			"name": "Charles H.F. Davis III",
+			"screen_name": "hfdavis",
+			"location": "Occupied Anishinaabe Territory",
+			"description": "Professor (he/him) and creator committed to the “lives, love, liberation, memories, and imaginations of Black people”; Founder @s4blcollective",
+			"url": "https://t.co/U0dBpu41vj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U0dBpu41vj",
+							"expanded_url": "https://linktr.ee/hfdavis",
+							"display_url": "linktr.ee/hfdavis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9798,
+			"friends_count": 4307,
+			"listed_count": 147,
+			"created_at": "Wed Dec 24 03:50:43 +0000 2008",
+			"favourites_count": 45134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 115532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389651250132787205/StqVKlrc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389651250132787205/StqVKlrc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18350031/1629558801",
+			"profile_link_color": "C2A95F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "181E20",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your absence is already\nSo great\nBut your presence\nElsewhere was needed\nYou taught us\nSo much\nYour work\nHelped us teach others, about Love\nPower\nVulnerability\nand Redemption\nYou gave of yourself\nSo we could be better\nAnd we are\nBetter\nBecause of you\n#RIP #MichaelKWilliams https://t.co/arnRnfgjPd"
+	},
+	{
+		"created_at": "Mon Sep 06 23:45:13 +0000 2021",
+		"id": 1435026331499208700,
+		"id_str": "1435026331499208704",
+		"full_text": "The first rule is… https://t.co/GZUx907i5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435026328428875800,
+					"id_str": "1435026328428875782",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E-o817VWEAYFG45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-o817VWEAYFG45.jpg",
+					"url": "https://t.co/GZUx907i5h",
+					"display_url": "pic.twitter.com/GZUx907i5h",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1435026331499208704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435026328428875800,
+					"id_str": "1435026328428875782",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E-o817VWEAYFG45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-o817VWEAYFG45.jpg",
+					"url": "https://t.co/GZUx907i5h",
+					"display_url": "pic.twitter.com/GZUx907i5h",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1435026331499208704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1303,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The first rule is… https://t.co/GZUx907i5h"
+	},
+	{
 		"created_at": "Sat Sep 04 22:27:08 +0000 2021",
 		"id": 1434238456775917600,
 		"id_str": "1434281906665893899",
