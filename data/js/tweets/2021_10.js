@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 19:49:00 +0000 2021",
+		"id": 1453086277360828400,
+		"id_str": "1453086277360828422",
+		"full_text": "For #Halloween, I'll be tweeting out some of my favorite higher ed. horror films! \n\nBlack Christmas (1974,  2006, &amp; 2019). I like the original. Simple plot: During their Xmas break, a group of sorority girls are stalked by a stranger. #HistSAHE #SAchat https://t.co/8yjrt7GEHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Halloween",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "HistSAHE",
+					"indices": [
+						239,
+						248
+					]
+				},
+				{
+					"text": "SAchat",
+					"indices": [
+						249,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187783962304962600,
+					"id_str": "1187783962304962562",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvbOHcX4AIN7TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvbOHcX4AIN7TZ.jpg",
+					"url": "https://t.co/8yjrt7GEHi",
+					"display_url": "pic.twitter.com/8yjrt7GEHi",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1189906873241219072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1189906873241219000,
+					"source_status_id_str": "1189906873241219072",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187783962304962600,
+					"id_str": "1187783962304962562",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvbOHcX4AIN7TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvbOHcX4AIN7TZ.jpg",
+					"url": "https://t.co/8yjrt7GEHi",
+					"display_url": "pic.twitter.com/8yjrt7GEHi",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1189906873241219072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1189906873241219000,
+					"source_status_id_str": "1189906873241219072",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1312,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For #Halloween, I'll be tweeting out some of my favorite higher ed. horror films! \n\nBlack Christmas (1974,  2006, &amp; 2019). I like the original. Simple plot: During their Xmas break, a group of sorority girls are stalked by a stranger. #HistSAHE #SAchat https://t.co/8yjrt7GEHi"
+	},
+	{
+		"created_at": "Tue Oct 26 16:27:43 +0000 2021",
+		"id": 1453035623518978000,
+		"id_str": "1453035623518978050",
+		"full_text": "One of my favorite higher ed. horror films is Urban Legend (1998). It combines two of my interests! Trailer: https://t.co/Ncg96BfNe3 https://t.co/ySp21nZ6jO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ncg96BfNe3",
+					"expanded_url": "http://ow.ly/pS8K30gefbW",
+					"display_url": "ow.ly/pS8K30gefbW",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1057633974560931800,
+					"id_str": "1057633974560931840",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq14fwwWwAAGJmz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq14fwwWwAAGJmz.jpg",
+					"url": "https://t.co/ySp21nZ6jO",
+					"display_url": "pic.twitter.com/ySp21nZ6jO",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1057633976112812032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1057633976112812000,
+					"source_status_id_str": "1057633976112812032",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057633974560931800,
+					"id_str": "1057633974560931840",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq14fwwWwAAGJmz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq14fwwWwAAGJmz.jpg",
+					"url": "https://t.co/ySp21nZ6jO",
+					"display_url": "pic.twitter.com/ySp21nZ6jO",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1057633976112812032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 187,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1057633976112812000,
+					"source_status_id_str": "1057633976112812032",
+					"source_user_id": 120855168,
+					"source_user_id_str": "120855168"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1312,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my favorite higher ed. horror films is Urban Legend (1998). It combines two of my interests! Trailer: https://t.co/Ncg96BfNe3 https://t.co/ySp21nZ6jO"
+	},
+	{
+		"created_at": "Tue Oct 26 16:10:53 +0000 2021",
+		"id": 1453031387653709800,
+		"id_str": "1453031387653709840",
+		"full_text": "@ReaiahE The deans of old (pre-Dixon) would meet with students and literally say, there is a train going back to your town at 5:00 pm., I suggest that you be on it. Your parents will meet you at the train station. #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReaiahE",
+					"name": "Reaiah Elisabeth",
+					"id": 1434919093388423200,
+					"id_str": "1434919093388423171",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452843544272687000,
+		"in_reply_to_status_id_str": "1452843544272687111",
+		"in_reply_to_user_id": 1434919093388423200,
+		"in_reply_to_user_id_str": "1434919093388423171",
+		"in_reply_to_screen_name": "ReaiahE",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1312,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ReaiahE The deans of old (pre-Dixon) would meet with students and literally say, there is a train going back to your town at 5:00 pm., I suggest that you be on it. Your parents will meet you at the train station. #SAHElaw"
+	},
+	{
+		"created_at": "Tue Oct 26 16:07:28 +0000 2021",
+		"id": 1453030529050288000,
+		"id_str": "1453030529050288132",
+		"full_text": "@LucyEllenArcher Can we possible do better, YES! Would I rely on Johnson and Harris to say what that would look like, NO! #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyEllenArcher",
+					"name": "Lucy Archer",
+					"id": 1432408081271492600,
+					"id_str": "1432408081271492611",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452975028312621000,
+		"in_reply_to_status_id_str": "1452975028312621062",
+		"in_reply_to_user_id": 1432408081271492600,
+		"in_reply_to_user_id_str": "1432408081271492611",
+		"in_reply_to_screen_name": "LucyEllenArcher",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1312,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyEllenArcher Can we possible do better, YES! Would I rely on Johnson and Harris to say what that would look like, NO! #SAHElaw"
+	},
+	{
 		"created_at": "Mon Oct 25 16:39:00 +0000 2021",
 		"id": 1452676074450481200,
 		"id_str": "1452676074450481152",
