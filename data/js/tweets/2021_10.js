@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 21:36:43 +0000 2021",
+		"id": 1454925327076057000,
+		"id_str": "1454925327076057088",
+		"full_text": "The Surprising Power of Simply Asking Coworkers How They’re Doing https://t.co/0E0TZJsFuX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0E0TZJsFuX",
+					"expanded_url": "https://hbr.org/2019/02/the-surprising-power-of-simply-asking-coworkers-how-theyre-doing",
+					"display_url": "hbr.org/2019/02/the-su…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1313,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Surprising Power of Simply Asking Coworkers How They’re Doing https://t.co/0E0TZJsFuX"
+	},
+	{
+		"created_at": "Sun Oct 31 16:20:18 +0000 2021",
+		"id": 1454845697413558300,
+		"id_str": "1454845697413558275",
+		"full_text": "Why the Vampire Myth Won’t Die\n\nBloodsucking monsters are avatars for our cultural anxieties. Especially now. https://t.co/pzZFNbWmRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pzZFNbWmRQ",
+					"expanded_url": "https://www.nytimes.com/2021/10/30/style/vampires-coronavirus.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2021/10/30/sty…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 1313,
+			"listed_count": 93,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why the Vampire Myth Won’t Die\n\nBloodsucking monsters are avatars for our cultural anxieties. Especially now. https://t.co/pzZFNbWmRQ"
+	},
+	{
+		"created_at": "Sun Oct 31 12:51:16 +0000 2021",
+		"id": 1454468455911108600,
+		"id_str": "1454793089776766984",
+		"full_text": "By now, many #HigherEd faculty and #SApros have seen that trash piece on the @AAUP website about an alleged student affairs \"shadow curriculum.\" Because the authors are both faculty members on my campus, I felt the need to respond. Here is what I said. https://t.co/dND7e6MLJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HigherEd",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "SApros",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AAUP",
+					"name": "American Association of University Professors",
+					"id": 108943700,
+					"id_str": "108943700",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1454468212448444400,
+					"id_str": "1454468212448444423",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FC9PIhQWQAcnftq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC9PIhQWQAcnftq.png",
+					"url": "https://t.co/dND7e6MLJs",
+					"display_url": "pic.twitter.com/dND7e6MLJs",
+					"expanded_url": "https://twitter.com/Dr_AndrewK/status/1454468455911108612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1887,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454468212448444400,
+					"id_str": "1454468212448444423",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FC9PIhQWQAcnftq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC9PIhQWQAcnftq.png",
+					"url": "https://t.co/dND7e6MLJs",
+					"display_url": "pic.twitter.com/dND7e6MLJs",
+					"expanded_url": "https://twitter.com/Dr_AndrewK/status/1454468455911108612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1887,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1454468274213855200,
+					"id_str": "1454468274213855238",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FC9PMHWXoAYKUBW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC9PMHWXoAYKUBW.png",
+					"url": "https://t.co/dND7e6MLJs",
+					"display_url": "pic.twitter.com/dND7e6MLJs",
+					"expanded_url": "https://twitter.com/Dr_AndrewK/status/1454468455911108612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1872,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454468310284882000,
+					"id_str": "1454468310284881929",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FC9PONuX0AkiaM5.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC9PONuX0AkiaM5.png",
+					"url": "https://t.co/dND7e6MLJs",
+					"display_url": "pic.twitter.com/dND7e6MLJs",
+					"expanded_url": "https://twitter.com/Dr_AndrewK/status/1454468455911108612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1879,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2598262352,
+			"id_str": "2598262352",
+			"name": "Andrew Koricich",
+			"screen_name": "Dr_AndrewK",
+			"location": "Boone, North Carolina, USA",
+			"description": "Executive Director @ARRC_Research @appstate | Assoc. Prof. of Higher Ed @AppstateRCOE | Ask me why #rural matters | Dog-lover | Explorer | he/him🏳️‍🌈",
+			"url": "https://t.co/cvGQXUneuy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cvGQXUneuy",
+							"expanded_url": "http://regionalcolleges.org",
+							"display_url": "regionalcolleges.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 1203,
+			"listed_count": 15,
+			"created_at": "Tue Jul 01 16:52:58 +0000 2014",
+			"favourites_count": 8994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422271497905729536/yhJVYKNL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422271497905729536/yhJVYKNL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2598262352/1467597698",
+			"profile_link_color": "0E3BAD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By now, many #HigherEd faculty and #SApros have seen that trash piece on the @AAUP website about an alleged student affairs \"shadow curriculum.\" Because the authors are both faculty members on my campus, I felt the need to respond. Here is what I said. https://t.co/dND7e6MLJs"
+	},
+	{
 		"created_at": "Sat Oct 30 23:56:24 +0000 2021",
 		"id": 1454598091210903600,
 		"id_str": "1454598091210903555",
