@@ -1,6 +1,1781 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 00:05:44 +0000 2021",
+		"id": 1458224318647869400,
+		"id_str": "1458224318647869447",
+		"full_text": "The 1619 Project and the Long Battle Over U.S. History\nFights over how we tell our national story go back more than a century — and have a great deal to teach us about our current divisions. via @NYTimes #HistSAHE  https://t.co/kSIaOQWdw0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						204,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kSIaOQWdw0",
+					"expanded_url": "https://www.nytimes.com/2021/11/09/magazine/1619-project-us-history.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2021/11/09/mag…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1619 Project and the Long Battle Over U.S. History\nFights over how we tell our national story go back more than a century — and have a great deal to teach us about our current divisions. via @NYTimes #HistSAHE  https://t.co/kSIaOQWdw0"
+	},
+	{
+		"created_at": "Tue Nov 09 23:34:52 +0000 2021",
+		"id": 1458091338134663200,
+		"id_str": "1458216549077196800",
+		"full_text": "Join us (virtually) at @UofSCEducation @UofSC_CIHE  on 11/17 at 3 pm to talk college football! Link below 👇 #CollegeFootballHistory https://t.co/AuHFh919zw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CollegeFootballHistory",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UofSCEducation",
+					"name": "UofSC Education",
+					"id": 1269656353,
+					"id_str": "1269656353",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "UofSC_CIHE",
+					"name": "UofSC Center for Innovation in Higher Education",
+					"id": 1053326814838288400,
+					"id_str": "1053326814838288384",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458090853168259000,
+					"id_str": "1458090853168259073",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwt59lXIAEtwto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwt59lXIAEtwto.jpg",
+					"url": "https://t.co/AuHFh919zw",
+					"display_url": "pic.twitter.com/AuHFh919zw",
+					"expanded_url": "https://twitter.com/uofschesa/status/1458091338134663169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458090853168259000,
+					"id_str": "1458090853168259073",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwt59lXIAEtwto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwt59lXIAEtwto.jpg",
+					"url": "https://t.co/AuHFh919zw",
+					"display_url": "pic.twitter.com/AuHFh919zw",
+					"expanded_url": "https://twitter.com/uofschesa/status/1458091338134663169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171466422515404800,
+			"id_str": "1171466422515404800",
+			"name": "UofSC HESA",
+			"screen_name": "uofschesa",
+			"location": "Columbia, SC",
+			"description": "The official Twitter of the M.Ed in Higher Education and Student Affairs (HESA) program at @uofsc. #UofSCHESA",
+			"url": "https://t.co/ghF60JxQq1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ghF60JxQq1",
+							"expanded_url": "https://bit.ly/2lYcpt0",
+							"display_url": "bit.ly/2lYcpt0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 181,
+			"listed_count": 2,
+			"created_at": "Tue Sep 10 16:52:24 +0000 2019",
+			"favourites_count": 577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201549914645442561/Zvne4Uqk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201549914645442561/Zvne4Uqk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171466422515404800/1570048603",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us (virtually) at @UofSCEducation @UofSC_CIHE  on 11/17 at 3 pm to talk college football! Link below 👇 #CollegeFootballHistory https://t.co/AuHFh919zw"
+	},
+	{
+		"created_at": "Tue Nov 09 23:30:18 +0000 2021",
+		"id": 1458204599102361600,
+		"id_str": "1458215399439302659",
+		"full_text": "Link to Letter: https://t.co/ZslLnxXExQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZslLnxXExQ",
+					"expanded_url": "https://maloney.house.gov/sites/maloney.house.gov/files/Final%20Campus%20Climate%20Letter.pdf",
+					"display_url": "maloney.house.gov/sites/maloney.…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1458204257715433500,
+		"in_reply_to_status_id_str": "1458204257715433480",
+		"in_reply_to_user_id": 893633585944703000,
+		"in_reply_to_user_id_str": "893633585944702977",
+		"in_reply_to_screen_name": "JakeHigherEdLaw",
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., JD",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on Title IX & Education Law. TX Title IX & Compliance Admin. All statements are my own, or a Court's. YNWA.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1617719529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Link to Letter: https://t.co/ZslLnxXExQ"
+	},
+	{
+		"created_at": "Tue Nov 09 23:30:14 +0000 2021",
+		"id": 1458204257715433500,
+		"id_str": "1458215384386084870",
+		"full_text": "79 members of Congress send a letter to @SecCardona requesting that the @usedgov require standardized biennial sexual misconduct climate surveys &amp; include \"stealthing\" as a form of sexual violence. #TitleIX #EdLaw https://t.co/ztPmltvj1k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TitleIX",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "EdLaw",
+					"indices": [
+						211,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SecCardona",
+					"name": "Secretary Miguel Cardona",
+					"id": 1364259892299767800,
+					"id_str": "1364259892299767810",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "usedgov",
+					"name": "U.S. Department of Education",
+					"id": 20437286,
+					"id_str": "20437286",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458203938277187600,
+					"id_str": "1458203938277187593",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyUwYcWYAkT2og.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDyUwYcWYAkT2og.jpg",
+					"url": "https://t.co/ztPmltvj1k",
+					"display_url": "pic.twitter.com/ztPmltvj1k",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1458204257715433480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1956,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458203938277187600,
+					"id_str": "1458203938277187593",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyUwYcWYAkT2og.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDyUwYcWYAkT2og.jpg",
+					"url": "https://t.co/ztPmltvj1k",
+					"display_url": "pic.twitter.com/ztPmltvj1k",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1458204257715433480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1956,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458203938302398500,
+					"id_str": "1458203938302398468",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyUwYiXEAQrr8I.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDyUwYiXEAQrr8I.png",
+					"url": "https://t.co/ztPmltvj1k",
+					"display_url": "pic.twitter.com/ztPmltvj1k",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1458204257715433480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 902,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458203938294050800,
+					"id_str": "1458203938294050818",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyUwYgXsAIY4nj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDyUwYgXsAIY4nj.png",
+					"url": "https://t.co/ztPmltvj1k",
+					"display_url": "pic.twitter.com/ztPmltvj1k",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1458204257715433480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 892,
+							"h": 948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., JD",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on Title IX & Education Law. TX Title IX & Compliance Admin. All statements are my own, or a Court's. YNWA.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1617719529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "79 members of Congress send a letter to @SecCardona requesting that the @usedgov require standardized biennial sexual misconduct climate surveys &amp; include \"stealthing\" as a form of sexual violence. #TitleIX #EdLaw https://t.co/ztPmltvj1k"
+	},
+	{
+		"created_at": "Tue Nov 09 19:20:00 +0000 2021",
+		"id": 1458152409633411000,
+		"id_str": "1458152409633411076",
+		"full_text": "\"The biggest risk to productivity is always the same: working on the wrong thing.\"\n\n–@JamesClear https://t.co/rf2ITHUtox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456320360555683800,
+					"id_str": "1456320360555683841",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXjpuoXIAEhynb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXjpuoXIAEhynb.jpg",
+					"url": "https://t.co/rf2ITHUtox",
+					"display_url": "pic.twitter.com/rf2ITHUtox",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1458152409633411076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456320360555683800,
+					"id_str": "1456320360555683841",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXjpuoXIAEhynb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXjpuoXIAEhynb.jpg",
+					"url": "https://t.co/rf2ITHUtox",
+					"display_url": "pic.twitter.com/rf2ITHUtox",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1458152409633411076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The biggest risk to productivity is always the same: working on the wrong thing.\"\n\n–@JamesClear https://t.co/rf2ITHUtox"
+	},
+	{
+		"created_at": "Tue Nov 09 17:56:42 +0000 2021",
+		"id": 1458121290372554800,
+		"id_str": "1458131448964255744",
+		"full_text": "Congratulations to the 2022 John L. Blackburn Distinguished Pillars of the Profession: Karen L. Pennington and Mike Segawa who both served NASPA in a variety of roles, including as president. https://t.co/ip4xY74fIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458121269862350800,
+					"id_str": "1458121269862350849",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxJkcmWQAExUmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxJkcmWQAExUmb.jpg",
+					"url": "https://t.co/ip4xY74fIs",
+					"display_url": "pic.twitter.com/ip4xY74fIs",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1458121290372554762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 755,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458121269862350800,
+					"id_str": "1458121269862350849",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxJkcmWQAExUmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxJkcmWQAExUmb.jpg",
+					"url": "https://t.co/ip4xY74fIs",
+					"display_url": "pic.twitter.com/ip4xY74fIs",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1458121290372554762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 755,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to the 2022 John L. Blackburn Distinguished Pillars of the Profession: Karen L. Pennington and Mike Segawa who both served NASPA in a variety of roles, including as president. https://t.co/ip4xY74fIs"
+	},
+	{
+		"created_at": "Tue Nov 09 15:14:17 +0000 2021",
+		"id": 1457822258798334000,
+		"id_str": "1458090572493869074",
+		"full_text": "Shared by @BreneBrown at #AAMC21 https://t.co/MLZVAifUtV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AAMC21",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BreneBrown",
+					"name": "Brené Brown",
+					"id": 14717311,
+					"id_str": "14717311",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457822053180924000,
+					"id_str": "1457822053180923908",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FDs5bvmUYAQ5law.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDs5bvmUYAQ5law.png",
+					"url": "https://t.co/MLZVAifUtV",
+					"display_url": "pic.twitter.com/MLZVAifUtV",
+					"expanded_url": "https://twitter.com/DrJohn5885/status/1457822258798333952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457822053180924000,
+					"id_str": "1457822053180923908",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FDs5bvmUYAQ5law.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDs5bvmUYAQ5law.png",
+					"url": "https://t.co/MLZVAifUtV",
+					"display_url": "pic.twitter.com/MLZVAifUtV",
+					"expanded_url": "https://twitter.com/DrJohn5885/status/1457822258798333952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877150563724558300,
+			"id_str": "877150563724558337",
+			"name": "John Lowry",
+			"screen_name": "DrJohn5885",
+			"location": "Michigan, USA",
+			"description": "Sports Fan | Medical Educator | Developer of Faculty | Change agent | #meded | Opinions are mine alone.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 1892,
+			"listed_count": 6,
+			"created_at": "Tue Jun 20 13:06:05 +0000 2017",
+			"favourites_count": 5833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113796204045963264/mpd0WvRB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113796204045963264/mpd0WvRB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877150563724558337/1548541503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shared by @BreneBrown at #AAMC21 https://t.co/MLZVAifUtV"
+	},
+	{
+		"created_at": "Tue Nov 09 14:58:49 +0000 2021",
+		"id": 1458086682335580200,
+		"id_str": "1458086682335580163",
+		"full_text": "Even @WIRED understands! #PowertothePen https://t.co/vaoJ83JMPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PowertothePen",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458086679084941300,
+					"id_str": "1458086679084941321",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwqG_6WQAk-KPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwqG_6WQAk-KPE.jpg",
+					"url": "https://t.co/vaoJ83JMPm",
+					"display_url": "pic.twitter.com/vaoJ83JMPm",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1458086682335580163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 989,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458086679084941300,
+					"id_str": "1458086679084941321",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwqG_6WQAk-KPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwqG_6WQAk-KPE.jpg",
+					"url": "https://t.co/vaoJ83JMPm",
+					"display_url": "pic.twitter.com/vaoJ83JMPm",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1458086682335580163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 989,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even @WIRED understands! #PowertothePen https://t.co/vaoJ83JMPm"
+	},
+	{
+		"created_at": "Tue Nov 09 14:39:08 +0000 2021",
+		"id": 1458081726866071600,
+		"id_str": "1458081726866071558",
+		"full_text": "Civil Rights Advocates Bring Federal Court Challenge to Tennessee Law Banning Trans Students in School Sports https://t.co/XSfsusqGWh #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSfsusqGWh",
+					"expanded_url": "https://www.aclu.org/press-releases/civil-rights-advocates-bring-federal-court-challenge-tennessee-law-banning-trans",
+					"display_url": "aclu.org/press-releases…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Civil Rights Advocates Bring Federal Court Challenge to Tennessee Law Banning Trans Students in School Sports https://t.co/XSfsusqGWh #SAHElaw"
+	},
+	{
+		"created_at": "Tue Nov 09 14:35:40 +0000 2021",
+		"id": 1458080856975843300,
+		"id_str": "1458080856975843338",
+		"full_text": "What he ignores is that campuses are simply working within the framework that Trump/DeVos' regulations created. \n\nOpinion/Grasso: Title IX and canceling the accused on college campuses. #SAHElaw  https://t.co/4A6zgtN2N2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4A6zgtN2N2",
+					"expanded_url": "https://www.providencejournal.com/story/opinion/2021/10/28/opinion-grasso-title-ix-and-canceling-accused-college-campuses/8524800002/",
+					"display_url": "providencejournal.com/story/opinion/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What he ignores is that campuses are simply working within the framework that Trump/DeVos' regulations created. \n\nOpinion/Grasso: Title IX and canceling the accused on college campuses. #SAHElaw  https://t.co/4A6zgtN2N2"
+	},
+	{
+		"created_at": "Tue Nov 09 14:33:17 +0000 2021",
+		"id": 1458080256317923300,
+		"id_str": "1458080256317923336",
+		"full_text": "Why Colleges Struggle to Root Out Professor Misconduct, in One Deposition https://t.co/bh59jvwTZ5 #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bh59jvwTZ5",
+					"expanded_url": "https://www.chronicle.com/article/why-colleges-struggle-to-root-out-professor-misconduct-in-one-deposition",
+					"display_url": "chronicle.com/article/why-co…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 1314,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Colleges Struggle to Root Out Professor Misconduct, in One Deposition https://t.co/bh59jvwTZ5 #SAHElaw"
+	},
+	{
 		"created_at": "Mon Nov 08 19:58:54 +0000 2021",
 		"id": 1457799810535157800,
 		"id_str": "1457799810535157760",
