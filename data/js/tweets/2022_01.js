@@ -1,6 +1,1598 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 21:54:05 +0000 2022",
+		"id": 1486457441676107800,
+		"id_str": "1486457441676107790",
+		"full_text": "Alcohol, Other Drugs, and Counseling: Does Administration Bear Responsibility for Burnout in Collegiate Student Affairs Professionals? https://t.co/qtiFrh3fCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qtiFrh3fCx",
+					"expanded_url": "https://robertchapman.blogspot.com/2021/12/does-administration-bear-responsibility.html",
+					"display_url": "robertchapman.blogspot.com/2021/12/does-a…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alcohol, Other Drugs, and Counseling: Does Administration Bear Responsibility for Burnout in Collegiate Student Affairs Professionals? https://t.co/qtiFrh3fCx"
+	},
+	{
+		"created_at": "Wed Jan 26 20:43:29 +0000 2022",
+		"id": 1486439673157333000,
+		"id_str": "1486439673157332996",
+		"full_text": ".@UNLVLaw prof @LeslieCGriffin comments on possible showdown between Establishment and Free Exercise Clauses in Kennedy v. Bremerton School District https://t.co/YngwigZKuD #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNLVLaw",
+					"name": "UNLV William S. Boyd School of Law",
+					"id": 48039573,
+					"id_str": "48039573",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"screen_name": "LeslieCGriffin",
+					"name": "Leslie Griffin",
+					"id": 864623447787282400,
+					"id_str": "864623447787282432",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YngwigZKuD",
+					"expanded_url": "https://j.st/51W9",
+					"display_url": "j.st/51W9",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@UNLVLaw prof @LeslieCGriffin comments on possible showdown between Establishment and Free Exercise Clauses in Kennedy v. Bremerton School District https://t.co/YngwigZKuD #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jan 26 19:34:01 +0000 2022",
+		"id": 1486422190249681000,
+		"id_str": "1486422190249680896",
+		"full_text": "Federal Disability Law Likely Requires Schools to Mandate Masks the 8th Circuit rules https://t.co/yTfHmAoo8h via @reason #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reason",
+					"name": "reason",
+					"id": 16467567,
+					"id_str": "16467567",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yTfHmAoo8h",
+					"expanded_url": "https://reason.com/volokh/2022/01/25/federal-disability-law-likely-requires-schools-to-mandate-masks/",
+					"display_url": "reason.com/volokh/2022/01…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Federal Disability Law Likely Requires Schools to Mandate Masks the 8th Circuit rules https://t.co/yTfHmAoo8h via @reason #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jan 26 17:27:54 +0000 2022",
+		"id": 1486390454421753900,
+		"id_str": "1486390454421753865",
+		"full_text": "Florida law current demands a lot public information about presidential searches, but some in want to change that. The Sunshine State has a strong sunshine law...for now. Faculty groups blast Florida bill to make presidential searches more secret  https://t.co/kdTBl6Ukw4 #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						272,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kdTBl6Ukw4",
+					"expanded_url": "https://www.tampabay.com/news/education/2022/01/25/faculty-groups-blast-florida-bill-to-make-presidential-searches-more-secret/",
+					"display_url": "tampabay.com/news/education…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Florida law current demands a lot public information about presidential searches, but some in want to change that. The Sunshine State has a strong sunshine law...for now. Faculty groups blast Florida bill to make presidential searches more secret  https://t.co/kdTBl6Ukw4 #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jan 26 17:22:55 +0000 2022",
+		"id": 1486389201025347600,
+		"id_str": "1486389201025347590",
+		"full_text": "Biden’s Ambitious Higher Ed Agenda Has Stalled Out via @forbes https://t.co/QccCF1Zvbe #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QccCF1Zvbe",
+					"expanded_url": "https://www.forbes.com/sites/frederickhess/2022/01/26/bidens-ambitious-higher-ed-agenda-has-stalled-out/",
+					"display_url": "forbes.com/sites/frederic…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Biden’s Ambitious Higher Ed Agenda Has Stalled Out via @forbes https://t.co/QccCF1Zvbe #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jan 26 16:56:24 +0000 2022",
+		"id": 1486074646281678800,
+		"id_str": "1486382525526196225",
+		"full_text": "On January 25, 1919, the first NASPA conference concluded at the University of Wisconsin hosted by Scott Goodnight. \n\nYou can read the notes from the 1919 meeting prepared by Professor Louis Strauss of the University of Michigan here: https://t.co/tSvReKlp9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tSvReKlp9J",
+					"expanded_url": "https://archive.org/details/1919-secretarys-report-of-conference",
+					"display_url": "archive.org/details/1919-s…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On January 25, 1919, the first NASPA conference concluded at the University of Wisconsin hosted by Scott Goodnight. \n\nYou can read the notes from the 1919 meeting prepared by Professor Louis Strauss of the University of Michigan here: https://t.co/tSvReKlp9J"
+	},
+	{
+		"created_at": "Wed Jan 26 16:49:11 +0000 2022",
+		"id": 1486369061495734300,
+		"id_str": "1486380711804391425",
+		"full_text": "Congrats to the many ASHE members recognized: @MarileeLudvik @DrBreeden @DrDLStewart @ant_duran @LeslieJoShelton @RobertTPalmer @OrkidehM @wilson_okello @AmandaMollet Pat King, Ellen Broido, &amp; Stacey Garrett #ACPA22 #ASHE22 https://t.co/tneZncT1F8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACPA22",
+					"indices": [
+						212,
+						219
+					]
+				},
+				{
+					"text": "ASHE22",
+					"indices": [
+						220,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarileeLudvik",
+					"name": "Marilee Bresciani Ludvik",
+					"id": 981282886975332400,
+					"id_str": "981282886975332352",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"screen_name": "DrBreeden",
+					"name": "Roshaunda Breeden",
+					"id": 80179198,
+					"id_str": "80179198",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "DrDLStewart",
+					"name": "the red pill always",
+					"id": 3091031607,
+					"id_str": "3091031607",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "ant_duran",
+					"name": "Antonio Duran, Ph.D.",
+					"id": 93060154,
+					"id_str": "93060154",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "LeslieJoShelton",
+					"name": "LJ",
+					"id": 35890812,
+					"id_str": "35890812",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"screen_name": "RobertTPalmer",
+					"name": "Robert T. Palmer",
+					"id": 2892407537,
+					"id_str": "2892407537",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"screen_name": "OrkidehM",
+					"name": "Orkideh Mohajeri",
+					"id": 986961096547471400,
+					"id_str": "986961096547471366",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"screen_name": "wilson_okello",
+					"name": "Wilson Kwamogi Okello, Ph.D.",
+					"id": 253377617,
+					"id_str": "253377617",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"screen_name": "AmandaMollet",
+					"name": "Amanda Mollet",
+					"id": 289355226,
+					"id_str": "289355226",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tneZncT1F8",
+					"expanded_url": "https://twitter.com/ACPA/status/1486063299930247174",
+					"display_url": "twitter.com/ACPA/status/14…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39674065,
+			"id_str": "39674065",
+			"name": "ASHE",
+			"screen_name": "ASHEoffice",
+			"location": "Las Vegas, NV",
+			"description": "The Association for the Study of Higher Education promotes collaboration among those engaged in the study of higher education.",
+			"url": "https://t.co/LcVLkt6sTp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LcVLkt6sTp",
+							"expanded_url": "http://www.ashe.ws/",
+							"display_url": "ashe.ws",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13244,
+			"friends_count": 1172,
+			"listed_count": 313,
+			"created_at": "Wed May 13 03:08:58 +0000 2009",
+			"favourites_count": 10787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937986078266425346/uAPTDad6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937986078266425346/uAPTDad6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39674065/1638223315",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1486063299930247200,
+		"quoted_status_id_str": "1486063299930247174",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tneZncT1F8",
+			"expanded": "https://twitter.com/ACPA/status/1486063299930247174",
+			"display": "twitter.com/ACPA/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 25 19:47:55 +0000 2022",
+			"id": 1486063299930247200,
+			"id_str": "1486063299930247174",
+			"full_text": "CONGRATULATIONS to the 2022 Association Award Recipients! Join us in celebrating their success at #ACPA22 on 7 March! @MarileeLudvik @jimbreslin @DrBreeden @DrDLStewart @benjamin_mimi @MaureenEWilson @AmandaMollet @wilson_okello @ant_duran @LeslieJoShelton @AngelaDelfine24 https://t.co/51Nkd9sVO6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ACPA22",
+						"indices": [
+							98,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarileeLudvik",
+						"name": "Marilee Bresciani Ludvik",
+						"id": 981282886975332400,
+						"id_str": "981282886975332352",
+						"indices": [
+							118,
+							132
+						]
+					},
+					{
+						"screen_name": "jimbreslin",
+						"name": "Jim Breslin, Ph.D.",
+						"id": 51586891,
+						"id_str": "51586891",
+						"indices": [
+							133,
+							144
+						]
+					},
+					{
+						"screen_name": "DrBreeden",
+						"name": "Roshaunda Breeden",
+						"id": 80179198,
+						"id_str": "80179198",
+						"indices": [
+							145,
+							155
+						]
+					},
+					{
+						"screen_name": "DrDLStewart",
+						"name": "the red pill always",
+						"id": 3091031607,
+						"id_str": "3091031607",
+						"indices": [
+							156,
+							168
+						]
+					},
+					{
+						"screen_name": "benjamin_mimi",
+						"name": "Mimi Benjamin",
+						"id": 3065224748,
+						"id_str": "3065224748",
+						"indices": [
+							169,
+							183
+						]
+					},
+					{
+						"screen_name": "MaureenEWilson",
+						"name": "Maureen E. Wilson",
+						"id": 534403891,
+						"id_str": "534403891",
+						"indices": [
+							184,
+							199
+						]
+					},
+					{
+						"screen_name": "AmandaMollet",
+						"name": "Amanda Mollet",
+						"id": 289355226,
+						"id_str": "289355226",
+						"indices": [
+							200,
+							213
+						]
+					},
+					{
+						"screen_name": "wilson_okello",
+						"name": "Wilson Kwamogi Okello, Ph.D.",
+						"id": 253377617,
+						"id_str": "253377617",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "ant_duran",
+						"name": "Antonio Duran, Ph.D.",
+						"id": 93060154,
+						"id_str": "93060154",
+						"indices": [
+							229,
+							239
+						]
+					},
+					{
+						"screen_name": "LeslieJoShelton",
+						"name": "LJ",
+						"id": 35890812,
+						"id_str": "35890812",
+						"indices": [
+							240,
+							256
+						]
+					},
+					{
+						"screen_name": "AngelaDelfine24",
+						"name": "Angela Delfine-Mechler, M.A.",
+						"id": 4062908727,
+						"id_str": "4062908727",
+						"indices": [
+							257,
+							273
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1486060656126218200,
+						"id_str": "1486060656126218242",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FJ-MSxMWUAIszNo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJ-MSxMWUAIszNo.jpg",
+						"url": "https://t.co/51Nkd9sVO6",
+						"display_url": "pic.twitter.com/51Nkd9sVO6",
+						"expanded_url": "https://twitter.com/ACPA/status/1486063299930247174/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1486060656126218200,
+						"id_str": "1486060656126218242",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FJ-MSxMWUAIszNo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJ-MSxMWUAIszNo.jpg",
+						"url": "https://t.co/51Nkd9sVO6",
+						"display_url": "pic.twitter.com/51Nkd9sVO6",
+						"expanded_url": "https://twitter.com/ACPA/status/1486063299930247174/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1486060656134656000,
+						"id_str": "1486060656134656005",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FJ-MSxOXEAUcC1k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJ-MSxOXEAUcC1k.jpg",
+						"url": "https://t.co/51Nkd9sVO6",
+						"display_url": "pic.twitter.com/51Nkd9sVO6",
+						"expanded_url": "https://twitter.com/ACPA/status/1486063299930247174/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1486060656130465800,
+						"id_str": "1486060656130465797",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FJ-MSxNXIAUdVIh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJ-MSxNXIAUdVIh.jpg",
+						"url": "https://t.co/51Nkd9sVO6",
+						"display_url": "pic.twitter.com/51Nkd9sVO6",
+						"expanded_url": "https://twitter.com/ACPA/status/1486063299930247174/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24181339,
+				"id_str": "24181339",
+				"name": "ACPA",
+				"screen_name": "ACPA",
+				"location": "Washington, DC",
+				"description": "ACPA creates and shares influential scholarship, shapes critically reflective practice, and advocates for equitable and inclusive learning environments",
+				"url": "https://t.co/101Ooojjrn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/101Ooojjrn",
+								"expanded_url": "http://www.myacpa.org/",
+								"display_url": "myacpa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21498,
+				"friends_count": 2917,
+				"listed_count": 524,
+				"created_at": "Fri Mar 13 14:42:49 +0000 2009",
+				"favourites_count": 8210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10805,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "008066",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1147311338328416256/t3oMbGz5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147311338328416256/t3oMbGz5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24181339/1559753825",
+				"profile_link_color": "219091",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to the many ASHE members recognized: @MarileeLudvik @DrBreeden @DrDLStewart @ant_duran @LeslieJoShelton @RobertTPalmer @OrkidehM @wilson_okello @AmandaMollet Pat King, Ellen Broido, &amp; Stacey Garrett #ACPA22 #ASHE22 https://t.co/tneZncT1F8"
+	},
+	{
+		"created_at": "Wed Jan 26 16:46:41 +0000 2022",
+		"id": 1486092010519863300,
+		"id_str": "1486380082008576005",
+		"full_text": "Today, NASPA is the oldest existing student affairs organization and conference. From that first conference attended by 6 deans of men and faculty, the NASPA conference has grown to more 7,600 attendees at the 2019 conference in Los Angeles. https://t.co/Ftffb7pSEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484577217141223400,
+					"id_str": "1484577217141223424",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"url": "https://t.co/Ftffb7pSEv",
+					"display_url": "pic.twitter.com/Ftffb7pSEv",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486092010519863296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484577217141223400,
+					"id_str": "1484577217141223424",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"url": "https://t.co/Ftffb7pSEv",
+					"display_url": "pic.twitter.com/Ftffb7pSEv",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486092010519863296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, NASPA is the oldest existing student affairs organization and conference. From that first conference attended by 6 deans of men and faculty, the NASPA conference has grown to more 7,600 attendees at the 2019 conference in Los Angeles. https://t.co/Ftffb7pSEv"
+	},
+	{
+		"created_at": "Wed Jan 26 11:41:36 +0000 2022",
+		"id": 1486303304892178400,
+		"id_str": "1486303304892178435",
+		"full_text": "Fewer Students See Freedom of Speech as Secure https://t.co/ZHLMzHlvkZ #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZHLMzHlvkZ",
+					"expanded_url": "https://www.insidehighered.com/news/2022/01/26/fewer-students-see-freedom-speech-secure#.YfEzZ5aZkBo.twitter",
+					"display_url": "insidehighered.com/news/2022/01/2…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1325,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fewer Students See Freedom of Speech as Secure https://t.co/ZHLMzHlvkZ #SAHElaw"
+	},
+	{
 		"created_at": "Tue Jan 25 20:14:22 +0000 2022",
 		"id": 1486049543124832300,
 		"id_str": "1486069957704179714",
