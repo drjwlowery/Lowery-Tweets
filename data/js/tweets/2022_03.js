@@ -1,6 +1,941 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 09 23:29:26 +0000 2022",
+		"id": 1501701725723537400,
+		"id_str": "1501701725723537410",
+		"full_text": "@hholdenthorp @jarobinson1 https://t.co/5HMBEvHFYC",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hholdenthorp",
+					"name": "Holden Thorp, Science EIC",
+					"id": 223170394,
+					"id_str": "223170394",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jarobinson1",
+					"name": "Jenna A. Robinson",
+					"id": 26760147,
+					"id_str": "26760147",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501701719369134000,
+					"id_str": "1501701719369134082",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNcdweWXMAIqIrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNcdweWXMAIqIrr.jpg",
+					"url": "https://t.co/5HMBEvHFYC",
+					"display_url": "pic.twitter.com/5HMBEvHFYC",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501701725723537410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501701719369134000,
+					"id_str": "1501701719369134082",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FNcdweWXMAIqIrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNcdweWXMAIqIrr.jpg",
+					"url": "https://t.co/5HMBEvHFYC",
+					"display_url": "pic.twitter.com/5HMBEvHFYC",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501701725723537410/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							181,
+							249
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FNcdweWXMAIqIrr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501701117444595700,
+		"in_reply_to_status_id_str": "1501701117444595713",
+		"in_reply_to_user_id": 223170394,
+		"in_reply_to_user_id_str": "223170394",
+		"in_reply_to_screen_name": "hholdenthorp",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1347,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@hholdenthorp @jarobinson1 https://t.co/5HMBEvHFYC"
+	},
+	{
+		"created_at": "Wed Mar 09 23:20:06 +0000 2022",
+		"id": 1501699376267337700,
+		"id_str": "1501699376267337734",
+		"full_text": "@ACReviewofBooks Or Professor Terguson https://t.co/4GSkdTqFmz",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ACReviewofBooks",
+					"name": "AC Review of Books",
+					"id": 1179175947817422800,
+					"id_str": "1179175947817422848",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501699368520491000,
+					"id_str": "1501699368520491010",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FNcbnowXoAIe4Jz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNcbnowXoAIe4Jz.jpg",
+					"url": "https://t.co/4GSkdTqFmz",
+					"display_url": "pic.twitter.com/4GSkdTqFmz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501699376267337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501699368520491000,
+					"id_str": "1501699368520491010",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FNcbnowXoAIe4Jz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNcbnowXoAIe4Jz.jpg",
+					"url": "https://t.co/4GSkdTqFmz",
+					"display_url": "pic.twitter.com/4GSkdTqFmz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501699376267337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501698643430097000,
+		"in_reply_to_status_id_str": "1501698643430096897",
+		"in_reply_to_user_id": 120855168,
+		"in_reply_to_user_id_str": "120855168",
+		"in_reply_to_screen_name": "drjwlowery",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1347,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "@ACReviewofBooks Or Professor Terguson https://t.co/4GSkdTqFmz"
+	},
+	{
+		"created_at": "Wed Mar 09 23:18:03 +0000 2022",
+		"id": 1501698777077350400,
+		"id_str": "1501698862876090370",
+		"full_text": "The guests on today's episode did an incredible job being clear and helpful about legal foundations and emerging issues for student affairs and higher ed pros. Thanks @drjwlowery @rc_holmes and Jessica Salazar.\nhttps://t.co/kW87U8ZbWG https://t.co/OlVeRyTCSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drjwlowery",
+					"name": "John Wesley Lowery",
+					"id": 120855168,
+					"id_str": "120855168",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"screen_name": "rc_holmes",
+					"name": "Dr. R. C. Holmes",
+					"id": 154194387,
+					"id_str": "154194387",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kW87U8ZbWG",
+					"expanded_url": "https://studentaffairsnow.com/legal-issues/",
+					"display_url": "studentaffairsnow.com/legal-issues/",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501698214281556000,
+					"id_str": "1501698214281555973",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501698214281555973/pu/img/u9T-n4udnho5Iq2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501698214281555973/pu/img/u9T-n4udnho5Iq2U.jpg",
+					"url": "https://t.co/OlVeRyTCSf",
+					"display_url": "pic.twitter.com/OlVeRyTCSf",
+					"expanded_url": "https://twitter.com/StuAffairsNOW/status/1501698777077350400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501698214281556000,
+					"id_str": "1501698214281555973",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501698214281555973/pu/img/u9T-n4udnho5Iq2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501698214281555973/pu/img/u9T-n4udnho5Iq2U.jpg",
+					"url": "https://t.co/OlVeRyTCSf",
+					"display_url": "pic.twitter.com/OlVeRyTCSf",
+					"expanded_url": "https://twitter.com/StuAffairsNOW/status/1501698777077350400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36388,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1501698214281555973/pu/pl/7-Utx6UWVNLxuOtC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501698214281555973/pu/vid/640x360/M7JCuz9PaDhinSeS.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501698214281555973/pu/vid/480x270/kvrzUdJsLVtvtgda.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501698214281555973/pu/vid/1280x720/Bkk8W4W1JoyNkP3D.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1292518983002919000,
+			"id_str": "1292518983002918916",
+			"name": "StudentAffairsNOW",
+			"screen_name": "StuAffairsNOW",
+			"location": "",
+			"description": "Student Affairs NOW is the premier podcast, web show, & learning community for student affairs. Get latest episodes each week: https://t.co/0E3IMNh2SI",
+			"url": "https://t.co/4W8R8phmkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4W8R8phmkZ",
+							"expanded_url": "http://studentaffairsnow.com",
+							"display_url": "studentaffairsnow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0E3IMNh2SI",
+							"expanded_url": "http://eepurl.com/hcMxzz",
+							"display_url": "eepurl.com/hcMxzz",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 526,
+			"listed_count": 3,
+			"created_at": "Sun Aug 09 17:52:35 +0000 2020",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292519282883133441/aLc2LGOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292519282883133441/aLc2LGOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1292518983002918916/1621441079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The guests on today's episode did an incredible job being clear and helpful about legal foundations and emerging issues for student affairs and higher ed pros. Thanks @drjwlowery @rc_holmes and Jessica Salazar.\nhttps://t.co/kW87U8ZbWG https://t.co/OlVeRyTCSf"
+	},
+	{
+		"created_at": "Wed Mar 09 23:17:11 +0000 2022",
+		"id": 1501698643430097000,
+		"id_str": "1501698643430096897",
+		"full_text": "@ACReviewofBooks Professor Jennings. https://t.co/NYEp2xrv0m",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ACReviewofBooks",
+					"name": "AC Review of Books",
+					"id": 1179175947817422800,
+					"id_str": "1179175947817422848",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501698640393478100,
+					"id_str": "1501698640393478144",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FNca9QRXIAASOV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNca9QRXIAASOV7.jpg",
+					"url": "https://t.co/NYEp2xrv0m",
+					"display_url": "pic.twitter.com/NYEp2xrv0m",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501698643430096897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501698640393478100,
+					"id_str": "1501698640393478144",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FNca9QRXIAASOV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNca9QRXIAASOV7.jpg",
+					"url": "https://t.co/NYEp2xrv0m",
+					"display_url": "pic.twitter.com/NYEp2xrv0m",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1501698643430096897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 283,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501500779882061800,
+		"in_reply_to_status_id_str": "1501500779882061824",
+		"in_reply_to_user_id": 1179175947817422800,
+		"in_reply_to_user_id_str": "1179175947817422848",
+		"in_reply_to_screen_name": "ACReviewofBooks",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1347,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "@ACReviewofBooks Professor Jennings. https://t.co/NYEp2xrv0m"
+	},
+	{
+		"created_at": "Wed Mar 09 23:13:57 +0000 2022",
+		"id": 1501697828652998700,
+		"id_str": "1501697828652998656",
+		"full_text": "@tvparrot The old do as I say, not as I have ever had to do!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tvparrot",
+					"name": "Teresa Valerio Parrot",
+					"id": 25148313,
+					"id_str": "25148313",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501427495580496000,
+		"in_reply_to_status_id_str": "1501427495580495873",
+		"in_reply_to_user_id": 25148313,
+		"in_reply_to_user_id_str": "25148313",
+		"in_reply_to_screen_name": "tvparrot",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1347,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tvparrot The old do as I say, not as I have ever had to do!"
+	},
+	{
 		"created_at": "Wed Mar 09 00:14:02 +0000 2022",
 		"id": 1501350564231319600,
 		"id_str": "1501350564231319553",
