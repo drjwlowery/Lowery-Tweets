@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 20:38:31 +0000 2022",
+		"id": 1502383487973838800,
+		"id_str": "1502383487973838852",
+		"full_text": "Education Dept. Warns Florida: Forcing Colleges to Change Accreditors Jeopardizes Federal Aid https://t.co/jhU70rMflS #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jhU70rMflS",
+					"expanded_url": "https://www.chronicle.com/article/education-dept-warns-florida-forcing-colleges-to-change-accreditors-jeopardizes-federal-aid",
+					"display_url": "chronicle.com/article/educat…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1346,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Education Dept. Warns Florida: Forcing Colleges to Change Accreditors Jeopardizes Federal Aid https://t.co/jhU70rMflS #SAHElaw"
+	},
+	{
+		"created_at": "Fri Mar 11 20:00:19 +0000 2022",
+		"id": 1501558961434243000,
+		"id_str": "1502373875866386439",
+		"full_text": "Legal Issues in Higher Education [Today's New Episode on Student Affairs NOW] - https://t.co/9Ado3uGUKQ https://t.co/5rthIOXKpR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Ado3uGUKQ",
+					"expanded_url": "https://mailchi.mp/ff6a300af14a/what-is-happening-in-student-affairs-now-weekly-newsletter-13605458",
+					"display_url": "mailchi.mp/ff6a300af14a/w…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501558957508374500,
+					"id_str": "1501558957508374534",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FNab6o-XsAYqUQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNab6o-XsAYqUQO.jpg",
+					"url": "https://t.co/5rthIOXKpR",
+					"display_url": "pic.twitter.com/5rthIOXKpR",
+					"expanded_url": "https://twitter.com/StuAffairsNOW/status/1501558961434243079/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501558957508374500,
+					"id_str": "1501558957508374534",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FNab6o-XsAYqUQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNab6o-XsAYqUQO.jpg",
+					"url": "https://t.co/5rthIOXKpR",
+					"display_url": "pic.twitter.com/5rthIOXKpR",
+					"expanded_url": "https://twitter.com/StuAffairsNOW/status/1501558961434243079/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1292518983002919000,
+			"id_str": "1292518983002918916",
+			"name": "StudentAffairsNOW",
+			"screen_name": "StuAffairsNOW",
+			"location": "",
+			"description": "Student Affairs NOW is the premier podcast, web show, & learning community for student affairs. Get latest episodes each week: https://t.co/0E3IMNh2SI",
+			"url": "https://t.co/4W8R8phmkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4W8R8phmkZ",
+							"expanded_url": "http://studentaffairsnow.com",
+							"display_url": "studentaffairsnow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0E3IMNh2SI",
+							"expanded_url": "http://eepurl.com/hcMxzz",
+							"display_url": "eepurl.com/hcMxzz",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 529,
+			"listed_count": 3,
+			"created_at": "Sun Aug 09 17:52:35 +0000 2020",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292519282883133441/aLc2LGOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292519282883133441/aLc2LGOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1292518983002918916/1621441079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Legal Issues in Higher Education [Today's New Episode on Student Affairs NOW] - https://t.co/9Ado3uGUKQ https://t.co/5rthIOXKpR"
+	},
+	{
+		"created_at": "Fri Mar 11 19:44:34 +0000 2022",
+		"id": 1502369911066271700,
+		"id_str": "1502369911066271744",
+		"full_text": "\"What starts as an excuse can easily become a habit.\n\nDon't let a bad day become a lifestyle.\"\n\n–@JamesClear https://t.co/vKFQoymUah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502369903210291200,
+					"id_str": "1502369903210291208",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FNl9d5IWYAgGVX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNl9d5IWYAgGVX7.jpg",
+					"url": "https://t.co/vKFQoymUah",
+					"display_url": "pic.twitter.com/vKFQoymUah",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1502369911066271744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502369903210291200,
+					"id_str": "1502369903210291208",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FNl9d5IWYAgGVX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNl9d5IWYAgGVX7.jpg",
+					"url": "https://t.co/vKFQoymUah",
+					"display_url": "pic.twitter.com/vKFQoymUah",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1502369911066271744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1346,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What starts as an excuse can easily become a habit.\n\nDon't let a bad day become a lifestyle.\"\n\n–@JamesClear https://t.co/vKFQoymUah"
+	},
+	{
+		"created_at": "Fri Mar 11 18:49:43 +0000 2022",
+		"id": 1481374853647192000,
+		"id_str": "1502356109494996995",
+		"full_text": "I’m happy to share that I have a book in production due out this year &amp; published by Routledge titled: “Sex Work On Campus” \n\nThat I could honor my study collaborators’ request to share their stories with the world in book form leaves me breathless. Ase. Amen.\n\n#SWOnCampus https://t.co/Zkk5fbyVTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SWOnCampus",
+					"indices": [
+						266,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481374846554722300,
+					"id_str": "1481374846554722304",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FI7mkwQX0AAz3xM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI7mkwQX0AAz3xM.jpg",
+					"url": "https://t.co/Zkk5fbyVTz",
+					"display_url": "pic.twitter.com/Zkk5fbyVTz",
+					"expanded_url": "https://twitter.com/TerahJay/status/1481374853647192071/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481374846554722300,
+					"id_str": "1481374846554722304",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FI7mkwQX0AAz3xM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI7mkwQX0AAz3xM.jpg",
+					"url": "https://t.co/Zkk5fbyVTz",
+					"display_url": "pic.twitter.com/Zkk5fbyVTz",
+					"expanded_url": "https://twitter.com/TerahJay/status/1481374853647192071/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83617926,
+			"id_str": "83617926",
+			"name": "TJ",
+			"screen_name": "TerahJay",
+			"location": "433 Prospect Place",
+			"description": "Assistant Professor | Higher Ed/Student Affairs | Research: sex work/erotic labor, fatphobia, antiblackness, & student activism | Loving Black people fiercely.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8619,
+			"friends_count": 671,
+			"listed_count": 45,
+			"created_at": "Mon Oct 19 15:00:11 +0000 2009",
+			"favourites_count": 6268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488210253498003458/qp4TSo7g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488210253498003458/qp4TSo7g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83617926/1622304303",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "E60E20",
+			"profile_sidebar_fill_color": "F2F3FA",
+			"profile_text_color": "0A0101",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 265,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m happy to share that I have a book in production due out this year &amp; published by Routledge titled: “Sex Work On Campus” \n\nThat I could honor my study collaborators’ request to share their stories with the world in book form leaves me breathless. Ase. Amen.\n\n#SWOnCampus https://t.co/Zkk5fbyVTz"
+	},
+	{
 		"created_at": "Thu Mar 10 02:59:44 +0000 2022",
 		"id": 1501754651724681200,
 		"id_str": "1501754651724681218",
