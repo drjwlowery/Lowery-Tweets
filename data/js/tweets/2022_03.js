@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 20:59:19 +0000 2022",
+		"id": 1507425078585307100,
+		"id_str": "1508549319686864902",
+		"full_text": "President Biden Signs Most Consequential Campus Sexual Violence Legislation In A Decade #TitleIX #CleryAct https://t.co/olnzLiMRaJ via @SAFECampusesLLC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TitleIX",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "CleryAct",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SAFECampusesLLC",
+					"name": "SAFE Campuses, LLC",
+					"id": 866046385019387900,
+					"id_str": "866046385019387905",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/olnzLiMRaJ",
+					"expanded_url": "https://safecampuses.biz/president-biden-signs-most-consequential-campus-sexual-violence-legislation-in-a-decade/",
+					"display_url": "safecampuses.biz/president-bide…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713450652903473200,
+			"id_str": "713450652903473152",
+			"name": "S. Daniel Carter (The Clery Guy)",
+			"screen_name": "TheCleryGuy",
+			"location": "Thomson, GA",
+			"description": "Your source for information about the Jeanne Clery Act & all things campus safety. Operated by @sdccampussafety Pres. of @SAFECampusesLLC. He | Him | His",
+			"url": "https://t.co/ESDCIZZVoL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ESDCIZZVoL",
+							"expanded_url": "http://safecampuses.biz/clery-act/",
+							"display_url": "safecampuses.biz/clery-act/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 159,
+			"listed_count": 1,
+			"created_at": "Fri Mar 25 19:41:05 +0000 2016",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507423422795685889/hQng6Jlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507423422795685889/hQng6Jlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713450652903473152/1648234556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "18ec9eacecff7e26",
+			"url": "https://api.twitter.com/1.1/geo/id/18ec9eacecff7e26.json",
+			"place_type": "city",
+			"name": "Thomson",
+			"full_name": "Thomson, GA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-82.540651,
+							33.444493
+						],
+						[
+							-82.475439,
+							33.444493
+						],
+						[
+							-82.475439,
+							33.509592
+						],
+						[
+							-82.540651,
+							33.509592
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "President Biden Signs Most Consequential Campus Sexual Violence Legislation In A Decade #TitleIX #CleryAct https://t.co/olnzLiMRaJ via @SAFECampusesLLC"
+	},
+	{
+		"created_at": "Mon Mar 28 20:58:36 +0000 2022",
+		"id": 1508539181861068800,
+		"id_str": "1508549137322676234",
+		"full_text": "The Office of Management and Budget has EO 12866 review meetings with the public for the new Title IX Rule scheduled through April 19th. While OMB can conclude review at any time, this may delay the expected April publication of the new regulations. https://t.co/MXk3nWM7rF https://t.co/TiGtHb0Ds5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MXk3nWM7rF",
+					"expanded_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202110&RIN=1870-AA16",
+					"display_url": "reginfo.gov/public/do/eAge…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508539048800968700,
+					"id_str": "1508539048800968704",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FO9oRbWWYAAsOCS.png",
+					"media_url_https": "https://pbs.twimg.com/media/FO9oRbWWYAAsOCS.png",
+					"url": "https://t.co/TiGtHb0Ds5",
+					"display_url": "pic.twitter.com/TiGtHb0Ds5",
+					"expanded_url": "https://twitter.com/TheCleryGuy/status/1508539181861068809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 753,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 753,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508539048800968700,
+					"id_str": "1508539048800968704",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FO9oRbWWYAAsOCS.png",
+					"media_url_https": "https://pbs.twimg.com/media/FO9oRbWWYAAsOCS.png",
+					"url": "https://t.co/TiGtHb0Ds5",
+					"display_url": "pic.twitter.com/TiGtHb0Ds5",
+					"expanded_url": "https://twitter.com/TheCleryGuy/status/1508539181861068809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 753,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 753,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713450652903473200,
+			"id_str": "713450652903473152",
+			"name": "S. Daniel Carter (The Clery Guy)",
+			"screen_name": "TheCleryGuy",
+			"location": "Thomson, GA",
+			"description": "Your source for information about the Jeanne Clery Act & all things campus safety. Operated by @sdccampussafety Pres. of @SAFECampusesLLC. He | Him | His",
+			"url": "https://t.co/ESDCIZZVoL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ESDCIZZVoL",
+							"expanded_url": "http://safecampuses.biz/clery-act/",
+							"display_url": "safecampuses.biz/clery-act/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 159,
+			"listed_count": 1,
+			"created_at": "Fri Mar 25 19:41:05 +0000 2016",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507423422795685889/hQng6Jlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507423422795685889/hQng6Jlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713450652903473152/1648234556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "18ec9eacecff7e26",
+			"url": "https://api.twitter.com/1.1/geo/id/18ec9eacecff7e26.json",
+			"place_type": "city",
+			"name": "Thomson",
+			"full_name": "Thomson, GA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-82.540651,
+							33.444493
+						],
+						[
+							-82.475439,
+							33.444493
+						],
+						[
+							-82.475439,
+							33.509592
+						],
+						[
+							-82.540651,
+							33.509592
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Office of Management and Budget has EO 12866 review meetings with the public for the new Title IX Rule scheduled through April 19th. While OMB can conclude review at any time, this may delay the expected April publication of the new regulations. https://t.co/MXk3nWM7rF https://t.co/TiGtHb0Ds5"
+	},
+	{
 		"created_at": "Sun Mar 27 23:10:38 +0000 2022",
 		"id": 1508219978092327000,
 		"id_str": "1508219978092326913",
