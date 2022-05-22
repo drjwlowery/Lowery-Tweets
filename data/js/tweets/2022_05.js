@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 02:03:26 +0000 2022",
+		"id": 1527832408610984000,
+		"id_str": "1527832408610983937",
+		"full_text": "After Campus Uproar, Princeton Proposes to Fire Tenured Professor\nJoshua Katz says he was targeted because of his criticism of a campus protest group. A report says the concerns are related to his inappropriate conduct with a female student. #SAHElaw  https://t.co/tzGmM2B9YB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						242,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tzGmM2B9YB",
+					"expanded_url": "https://www.nytimes.com/2022/05/19/us/princeton-professor-joshua-katz.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2022/05/19/us/…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/A3oM0uSiGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A3oM0uSiGi",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 1358,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1398374728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After Campus Uproar, Princeton Proposes to Fire Tenured Professor\nJoshua Katz says he was targeted because of his criticism of a campus protest group. A report says the concerns are related to his inappropriate conduct with a female student. #SAHElaw  https://t.co/tzGmM2B9YB"
+	},
+	{
 		"created_at": "Fri May 20 22:27:21 +0000 2022",
 		"id": 1527778029371641900,
 		"id_str": "1527778029371641856",
@@ -203,7 +318,7 @@ Grailbird.data.tweets_2022_05 =
 		"created_at": "Fri May 20 11:16:45 +0000 2022",
 		"id": 1527609268744163300,
 		"id_str": "1527609268744163329",
-		"full_text": "Academic Freedom and the Mission of the University by ⁦⁦⁦@kewhittington⁩ #SAHElaw  https://t.co/S7wuixPQnU",
+		"full_text": "Academic Freedom and the Mission of the University by @kewhittington #SAHElaw  https://t.co/S7wuixPQnU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -323,7 +438,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Academic Freedom and the Mission of the University by ⁦⁦⁦@kewhittington⁩ #SAHElaw  https://t.co/S7wuixPQnU"
+		"text": "Academic Freedom and the Mission of the University by @kewhittington #SAHElaw  https://t.co/S7wuixPQnU"
 	},
 	{
 		"created_at": "Thu May 19 19:59:55 +0000 2022",
