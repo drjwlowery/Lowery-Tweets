@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 12:39:47 +0000 2022",
+		"id": 1534515532837310500,
+		"id_str": "1534515532837310465",
+		"full_text": "A Free-Speech Group Known for Campus Interventions, ⁦@TheFIREorg⁩, Wants to Be Bigger #SAHElaw  https://t.co/4uC8WdiVNu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheFIREorg",
+					"name": "FIRE",
+					"id": 17839988,
+					"id_str": "17839988",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4uC8WdiVNu",
+					"expanded_url": "https://www.chronicle.com/article/a-free-speech-group-known-for-campus-interventions-wants-to-be-bigger",
+					"display_url": "chronicle.com/article/a-free…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 1359,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Free-Speech Group Known for Campus Interventions, ⁦@TheFIREorg⁩, Wants to Be Bigger #SAHElaw  https://t.co/4uC8WdiVNu"
+	},
+	{
+		"created_at": "Wed Jun 08 12:36:26 +0000 2022",
+		"id": 1534514691321610200,
+		"id_str": "1534514691321610241",
+		"full_text": "Georgetown Reinstated Him After a Controversial Tweet. ⁦@ishapiro⁩ Quit Anyway. #SAHElaw  https://t.co/F52A2SFkz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ishapiro",
+					"name": "Ilya Shapiro",
+					"id": 16687344,
+					"id_str": "16687344",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F52A2SFkz2",
+					"expanded_url": "https://www.chronicle.com/article/georgetown-reinstated-him-after-a-controversial-tweet-he-quit-anyway",
+					"display_url": "chronicle.com/article/george…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 1359,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Georgetown Reinstated Him After a Controversial Tweet. ⁦@ishapiro⁩ Quit Anyway. #SAHElaw  https://t.co/F52A2SFkz2"
+	},
+	{
 		"created_at": "Tue Jun 07 22:36:44 +0000 2022",
 		"id": 1534303372962054100,
 		"id_str": "1534303372962054145",
@@ -1094,7 +1346,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Tue Jun 07 16:36:39 +0000 2022",
 		"id": 1534212752075632600,
 		"id_str": "1534212752075632647",
-		"full_text": "The Honors of Honor\nA LOOK AT FINAL EXERCISES PAST at ⁦@UVA⁩\n—VIRGINIA Magazine #HistSAHE  https://t.co/ynFnONMEj9",
+		"full_text": "The Honors of Honor\nA LOOK AT FINAL EXERCISES PAST at @UVA\n—VIRGINIA Magazine #HistSAHE  https://t.co/ynFnONMEj9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1214,13 +1466,13 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The Honors of Honor\nA LOOK AT FINAL EXERCISES PAST at ⁦@UVA⁩\n—VIRGINIA Magazine #HistSAHE  https://t.co/ynFnONMEj9"
+		"text": "The Honors of Honor\nA LOOK AT FINAL EXERCISES PAST at @UVA\n—VIRGINIA Magazine #HistSAHE  https://t.co/ynFnONMEj9"
 	},
 	{
 		"created_at": "Tue Jun 07 16:34:57 +0000 2022",
 		"id": 1534212327154897000,
 		"id_str": "1534212327154896897",
-		"full_text": "After 80 years, Maury Hall gets a new name at ⁦@UVA⁩ —VIRGINIA Magazine #HistSAHE  https://t.co/r4rp4wcfID",
+		"full_text": "After 80 years, Maury Hall gets a new name at @UVA —VIRGINIA Magazine #HistSAHE  https://t.co/r4rp4wcfID",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1340,7 +1592,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "After 80 years, Maury Hall gets a new name at ⁦@UVA⁩ —VIRGINIA Magazine #HistSAHE  https://t.co/r4rp4wcfID"
+		"text": "After 80 years, Maury Hall gets a new name at @UVA —VIRGINIA Magazine #HistSAHE  https://t.co/r4rp4wcfID"
 	},
 	{
 		"created_at": "Tue Jun 07 14:11:10 +0000 2022",
