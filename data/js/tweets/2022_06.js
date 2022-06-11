@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 19:42:05 +0000 2022",
+		"id": 1535252955321888800,
+		"id_str": "1535346581498634242",
+		"full_text": "10 chrome extensions for academics that you might not know exist 🤯\n\nI’ve been using these for my PhD - they’re game-changers.\n\nThread 🧵👇\n#AcademicChatter #phdchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicChatter",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"text": "phdchat",
+					"indices": [
+						154,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1072308240891801600,
+			"id_str": "1072308240891801601",
+			"name": "thoughtsofaphd",
+			"screen_name": "thoughtsofaphd",
+			"location": "",
+			"description": "Tweeting the things I wish I knew when I started my PhD 🧪🔬",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67900,
+			"friends_count": 3223,
+			"listed_count": 381,
+			"created_at": "Tue Dec 11 01:53:01 +0000 2018",
+			"favourites_count": 62161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310629242586255360/VpPepGRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310629242586255360/VpPepGRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072308240891801601/1604066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2773,
+		"favorite_count": 13180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "10 chrome extensions for academics that you might not know exist 🤯\n\nI’ve been using these for my PhD - they’re game-changers.\n\nThread 🧵👇\n#AcademicChatter #phdchat"
+	},
+	{
+		"created_at": "Fri Jun 10 19:26:56 +0000 2022",
+		"id": 1535342769232920600,
+		"id_str": "1535342769232920576",
+		"full_text": "“I would rather have questions that can’t be answered than answers that can’t be questioned.”\n— Richard Feynman, theoretical physicist and recipient of the Nobel Prize in Physics in 1965 https://t.co/Hy3UnUqqXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535342766829478000,
+					"id_str": "1535342766829477890",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FU6iHKFWIAIa3wU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU6iHKFWIAIa3wU.jpg",
+					"url": "https://t.co/Hy3UnUqqXT",
+					"display_url": "pic.twitter.com/Hy3UnUqqXT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1535342769232920576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535342766829478000,
+					"id_str": "1535342766829477890",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FU6iHKFWIAIa3wU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU6iHKFWIAIa3wU.jpg",
+					"url": "https://t.co/Hy3UnUqqXT",
+					"display_url": "pic.twitter.com/Hy3UnUqqXT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1535342769232920576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1359,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I would rather have questions that can’t be answered than answers that can’t be questioned.”\n— Richard Feynman, theoretical physicist and recipient of the Nobel Prize in Physics in 1965 https://t.co/Hy3UnUqqXT"
+	},
+	{
+		"created_at": "Fri Jun 10 16:00:08 +0000 2022",
+		"id": 1535290728439595000,
+		"id_str": "1535290728439595009",
+		"full_text": "Report Reveals Sharp Rise in Transgender Young People in the U.S.\nNew estimates based on C.D.C. health surveys point to a stark generational shift in the growth of the transgender population of the United States. via @NYTimes https://t.co/L4gu8KqhJd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L4gu8KqhJd",
+					"expanded_url": "https://www.nytimes.com/2022/06/10/science/transgender-teenagers-national-survey.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2022/06/10/sci…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1359,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Report Reveals Sharp Rise in Transgender Young People in the U.S.\nNew estimates based on C.D.C. health surveys point to a stark generational shift in the growth of the transgender population of the United States. via @NYTimes https://t.co/L4gu8KqhJd"
+	},
+	{
 		"created_at": "Thu Jun 09 18:45:46 +0000 2022",
 		"id": 1534970022078075000,
 		"id_str": "1534970022078074896",
