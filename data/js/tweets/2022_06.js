@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 18:55:55 +0000 2022",
+		"id": 1538937506380529700,
+		"id_str": "1538958843148963841",
+		"full_text": "North Carolina Fed. Dist. Ct. holds that a private high school may be liable under #TitleIX for Delib. Indiff. and Retaliation that occurred in the 2020 - 2021 year because it accepted a PPP loan which lasted during that time, satisfying the Fed. Financial assistance req. #Edlaw https://t.co/XTWIoh0V3Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TitleIX",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "Edlaw",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538937440567705600,
+					"id_str": "1538937440567705600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtnctSWQAALygr.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVtnctSWQAALygr.png",
+					"url": "https://t.co/XTWIoh0V3Q",
+					"display_url": "pic.twitter.com/XTWIoh0V3Q",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1538937506380529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 724,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538937440567705600,
+					"id_str": "1538937440567705600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtnctSWQAALygr.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVtnctSWQAALygr.png",
+					"url": "https://t.co/XTWIoh0V3Q",
+					"display_url": "pic.twitter.com/XTWIoh0V3Q",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1538937506380529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 724,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1538937440622231600,
+					"id_str": "1538937440622231553",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtnctfWQAEzG86.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVtnctfWQAEzG86.png",
+					"url": "https://t.co/XTWIoh0V3Q",
+					"display_url": "pic.twitter.com/XTWIoh0V3Q",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1538937506380529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 553,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 553,
+							"h": 657,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 553,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538937440626425900,
+					"id_str": "1538937440626425857",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtnctgWQAELNYe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVtnctgWQAELNYe.png",
+					"url": "https://t.co/XTWIoh0V3Q",
+					"display_url": "pic.twitter.com/XTWIoh0V3Q",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1538937506380529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 872,
+							"h": 784,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1538937440630620200,
+					"id_str": "1538937440630620160",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtncthWQAAqn7m.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVtncthWQAAqn7m.png",
+					"url": "https://t.co/XTWIoh0V3Q",
+					"display_url": "pic.twitter.com/XTWIoh0V3Q",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1538937506380529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 838,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., Esq.",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on Title IX & Education Law. EdLaw Civil Rights & Compliance Admin. All statements are my own, or a Court's. Texas Attorney. YNWA.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1617719529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "North Carolina Fed. Dist. Ct. holds that a private high school may be liable under #TitleIX for Delib. Indiff. and Retaliation that occurred in the 2020 - 2021 year because it accepted a PPP loan which lasted during that time, satisfying the Fed. Financial assistance req. #Edlaw https://t.co/XTWIoh0V3Q"
+	},
+	{
 		"created_at": "Sat Jun 18 18:19:02 +0000 2022",
 		"id": 1538224784949100500,
 		"id_str": "1538224784949100546",
