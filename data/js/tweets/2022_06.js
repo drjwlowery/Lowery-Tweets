@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 12:31:20 +0000 2022",
+		"id": 1540311612682342400,
+		"id_str": "1540311612682342402",
+		"full_text": "Most campuses have traditions associated with ensuring good luck on exams. One of the creepiest of those traditions from the past was at Washington &amp; Lee where students would carve their initials on Traveller’s skeleton (Lee’s horse) for good luck from @Ty_Seidule #HistSAHE https://t.co/svP9K2EaSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ty_Seidule",
+					"name": "Ty Seidule",
+					"id": 774610246350364700,
+					"id_str": "774610246350364672",
+					"indices": [
+						257,
+						268
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540311609851117600,
+					"id_str": "1540311609851117568",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FWBJP4yWAAAUh2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWBJP4yWAAAUh2N.jpg",
+					"url": "https://t.co/svP9K2EaSD",
+					"display_url": "pic.twitter.com/svP9K2EaSD",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1540311612682342402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 913,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540311609851117600,
+					"id_str": "1540311609851117568",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FWBJP4yWAAAUh2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWBJP4yWAAAUh2N.jpg",
+					"url": "https://t.co/svP9K2EaSD",
+					"display_url": "pic.twitter.com/svP9K2EaSD",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1540311612682342402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 913,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2191,
+			"friends_count": 1360,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most campuses have traditions associated with ensuring good luck on exams. One of the creepiest of those traditions from the past was at Washington &amp; Lee where students would carve their initials on Traveller’s skeleton (Lee’s horse) for good luck from @Ty_Seidule #HistSAHE https://t.co/svP9K2EaSD"
+	},
+	{
+		"created_at": "Fri Jun 24 10:34:42 +0000 2022",
+		"id": 1540282261022597000,
+		"id_str": "1540282261022597120",
+		"full_text": "How the 1960s Created the Colleges and Universities of Today | Higher Ed Gamma https://t.co/nTFbA3BPUO #HistSAHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTFbA3BPUO",
+					"expanded_url": "https://www.insidehighered.com/blogs/higher-ed-gamma/how-1960s-created-colleges-and-universities-today#.YrWTNy6QjYw.twitter",
+					"display_url": "insidehighered.com/blogs/higher-e…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2191,
+			"friends_count": 1360,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How the 1960s Created the Colleges and Universities of Today | Higher Ed Gamma https://t.co/nTFbA3BPUO #HistSAHE"
+	},
+	{
 		"created_at": "Fri Jun 24 01:09:24 +0000 2022",
 		"id": 1540139997969490000,
 		"id_str": "1540139997969489920",
@@ -370,7 +679,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Fri Jun 24 00:47:19 +0000 2022",
 		"id": 1540134441779085300,
 		"id_str": "1540134441779085312",
-		"full_text": "Biden Renews Obama’s Attack on Campus Due Process by ⁦@JoeatFIRE⁩ of ⁦@TheFIREorg⁩ - WSJ #SAHElaw  https://t.co/Vlwh5rUdG0",
+		"full_text": "Biden Renews Obama’s Attack on Campus Due Process by @JoeatFIRE of @TheFIREorg - WSJ #SAHElaw  https://t.co/Vlwh5rUdG0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -500,7 +809,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Biden Renews Obama’s Attack on Campus Due Process by ⁦@JoeatFIRE⁩ of ⁦@TheFIREorg⁩ - WSJ #SAHElaw  https://t.co/Vlwh5rUdG0"
+		"text": "Biden Renews Obama’s Attack on Campus Due Process by @JoeatFIRE of @TheFIREorg - WSJ #SAHElaw  https://t.co/Vlwh5rUdG0"
 	},
 	{
 		"created_at": "Thu Jun 23 16:06:12 +0000 2022",
