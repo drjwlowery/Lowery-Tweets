@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 19:37:20 +0000 2022",
+		"id": 1542229717725679600,
+		"id_str": "1542230758428999681",
+		"full_text": "New Special Issue of @DWCFeminist\nTitle IX &amp; Yellow-Zone Behavior \nedited by @Prof_TNR &amp; Callie Rennison\n\nhttps://t.co/9WNy4jqcVf\n\n1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DWCFeminist",
+					"name": "Feminist Criminology",
+					"id": 1049808179389902800,
+					"id_str": "1049808179389902848",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "Prof_TNR",
+					"name": "Tara Richards",
+					"id": 932304210762391600,
+					"id_str": "932304210762391552",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9WNy4jqcVf",
+					"expanded_url": "https://journals.sagepub.com/toc/fcxa/17/3",
+					"display_url": "journals.sagepub.com/toc/fcxa/17/3",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2378831018,
+			"id_str": "2378831018",
+			"name": "Dr. LB Klein",
+			"screen_name": "LB_Klein",
+			"location": "Madison, WI",
+			"description": "they/she. @UWMadSocialWork assistant professor. Interpersonal violence, prevention, LGBTQ+, systems change, & higher ed. Twin parent.🏳️‍⚧️🏳️‍🌈Views=own.",
+			"url": "https://t.co/gdb8wEUYeh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gdb8wEUYeh",
+							"expanded_url": "https://socwork.wisc.edu/staff/klein-lb/",
+							"display_url": "socwork.wisc.edu/staff/klein-lb/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949,
+			"friends_count": 1310,
+			"listed_count": 47,
+			"created_at": "Sat Mar 08 14:44:44 +0000 2014",
+			"favourites_count": 12130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1474050444938858498/9wR-8y7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474050444938858498/9wR-8y7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2378831018/1591182542",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Special Issue of @DWCFeminist\nTitle IX &amp; Yellow-Zone Behavior \nedited by @Prof_TNR &amp; Callie Rennison\n\nhttps://t.co/9WNy4jqcVf\n\n1/"
+	},
+	{
+		"created_at": "Wed Jun 29 19:37:06 +0000 2022",
+		"id": 1542230361345872000,
+		"id_str": "1542230698974650372",
+		"full_text": "@DWCFeminist @Prof_TNR The special issue is especially timely w/ the release of new regs. \n\nSee Richards &amp; Rennison's intro for context on yellow zone behavior &amp; thinking around behaviors that (maybe) don't violate policy but do cause harm.\n\nhttps://t.co/SPaISziMwT\n\n3/",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DWCFeminist",
+					"name": "Feminist Criminology",
+					"id": 1049808179389902800,
+					"id_str": "1049808179389902848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Prof_TNR",
+					"name": "Tara Richards",
+					"id": 932304210762391600,
+					"id_str": "932304210762391552",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SPaISziMwT",
+					"expanded_url": "https://journals.sagepub.com/doi/full/10.1177/15570851221088357",
+					"display_url": "journals.sagepub.com/doi/full/10.11…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1542229825674481700,
+		"in_reply_to_status_id_str": "1542229825674481665",
+		"in_reply_to_user_id": 2378831018,
+		"in_reply_to_user_id_str": "2378831018",
+		"in_reply_to_screen_name": "LB_Klein",
+		"user": {
+			"id": 2378831018,
+			"id_str": "2378831018",
+			"name": "Dr. LB Klein",
+			"screen_name": "LB_Klein",
+			"location": "Madison, WI",
+			"description": "they/she. @UWMadSocialWork assistant professor. Interpersonal violence, prevention, LGBTQ+, systems change, & higher ed. Twin parent.🏳️‍⚧️🏳️‍🌈Views=own.",
+			"url": "https://t.co/gdb8wEUYeh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gdb8wEUYeh",
+							"expanded_url": "https://socwork.wisc.edu/staff/klein-lb/",
+							"display_url": "socwork.wisc.edu/staff/klein-lb/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949,
+			"friends_count": 1310,
+			"listed_count": 47,
+			"created_at": "Sat Mar 08 14:44:44 +0000 2014",
+			"favourites_count": 12130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1474050444938858498/9wR-8y7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474050444938858498/9wR-8y7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2378831018/1591182542",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DWCFeminist @Prof_TNR The special issue is especially timely w/ the release of new regs. \n\nSee Richards &amp; Rennison's intro for context on yellow zone behavior &amp; thinking around behaviors that (maybe) don't violate policy but do cause harm.\n\nhttps://t.co/SPaISziMwT\n\n3/"
+	},
+	{
+		"created_at": "Wed Jun 29 12:40:59 +0000 2022",
+		"id": 1542125981292531700,
+		"id_str": "1542125981292531715",
+		"full_text": "‘Nobody called 911’: what can be done to change the culture of hazing at US colleges? https://t.co/taBm421Kjn #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/taBm421Kjn",
+					"expanded_url": "https://www.theguardian.com/us-news/2022/jun/23/us-colleges-university-hazing-fraternities-sororities?CMP=share_btn_tw",
+					"display_url": "theguardian.com/us-news/2022/j…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2191,
+			"friends_count": 1362,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Nobody called 911’: what can be done to change the culture of hazing at US colleges? https://t.co/taBm421Kjn #SAHElaw"
+	},
+	{
+		"created_at": "Wed Jun 29 10:39:31 +0000 2022",
+		"id": 1542095411724390400,
+		"id_str": "1542095411724390400",
+		"full_text": "Los Angeles County Votes to Return Beach Seized in 1924 From a Black Family\nOwnership of the property, known as Bruce’s Beach, will be transferred to descendants of Charles and Willa Bruce, who bought the land in 1912 and built a resort. via @NYTimes https://t.co/EGw5YoH3SX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						242,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EGw5YoH3SX",
+					"expanded_url": "https://www.nytimes.com/2022/06/28/us/bruces-beach-black-descendants.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2022/06/28/us/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2191,
+			"friends_count": 1362,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Los Angeles County Votes to Return Beach Seized in 1924 From a Black Family\nOwnership of the property, known as Bruce’s Beach, will be transferred to descendants of Charles and Willa Bruce, who bought the land in 1912 and built a resort. via @NYTimes https://t.co/EGw5YoH3SX"
+	},
+	{
+		"created_at": "Wed Jun 29 10:24:51 +0000 2022",
+		"id": 1542091721588236300,
+		"id_str": "1542091721588236288",
+		"full_text": "20 states again ask court to block Ed Dept's policy that Title IX protects LGBT students https://t.co/7EuoV3sMgw via @HigherEdDive #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HigherEdDive",
+					"name": "Higher Ed Dive",
+					"id": 1039716983959371800,
+					"id_str": "1039716983959371776",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7EuoV3sMgw",
+					"expanded_url": "https://www.highereddive.com/news/20-states-sue-education-department-over-title-ix-interpretation/606029/?:%202022-06-29%20Higher%20Ed%20Dive%20%5Bissue:42749%5D",
+					"display_url": "highereddive.com/news/20-states…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2191,
+			"friends_count": 1362,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "20 states again ask court to block Ed Dept's policy that Title IX protects LGBT students https://t.co/7EuoV3sMgw via @HigherEdDive #SAHElaw"
+	},
+	{
 		"created_at": "Tue Jun 28 20:09:20 +0000 2022",
 		"id": 1541876421165043700,
 		"id_str": "1541876421165043712",
