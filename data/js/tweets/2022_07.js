@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 30 01:08:33 +0000 2022",
+		"id": 1552788965769486300,
+		"id_str": "1553185747636817926",
+		"full_text": "I'm wrapping up teaching a summer \"writing for publication course\". One of the things students did all summer was to try out different writing practices and systems and write reflections about how it went. Tonight they shared what was most useful for them (short thread):",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2897933633,
+			"id_str": "2897933633",
+			"name": "Kamden Strunk",
+			"screen_name": "KamdenStrunk",
+			"location": "Richmond, VA",
+			"description": "Kamden Strunk is an Associate Professor at Virginia Commonwealth University. His research is in queer studies in education and critical quantitative methods.",
+			"url": "https://t.co/2CCcMiZXTX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2CCcMiZXTX",
+							"expanded_url": "https://bookshop.org/lists/books-by-kamden-strunk",
+							"display_url": "bookshop.org/lists/books-by…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2062,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Sat Nov 29 19:27:32 +0000 2014",
+			"favourites_count": 2235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205517670969425920/Zn8S_LVY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205517670969425920/Zn8S_LVY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2897933633/1639168066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm wrapping up teaching a summer \"writing for publication course\". One of the things students did all summer was to try out different writing practices and systems and write reflections about how it went. Tonight they shared what was most useful for them (short thread):"
+	},
+	{
+		"created_at": "Sat Jul 30 01:06:30 +0000 2022",
+		"id": 1553185230466457600,
+		"id_str": "1553185230466457603",
+		"full_text": "@katebellows This was an approach I don’t recall seeing before. https://t.co/4iiakOUFHU",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katebellows",
+					"name": "Kate Hidalgo Bellows",
+					"id": 860870843685105700,
+					"id_str": "860870843685105664",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4iiakOUFHU",
+					"expanded_url": "https://www.fox13now.com/news/local-news/university-of-utah-asks-alumni-to-help-house-students-during-semester?_amp=true",
+					"display_url": "fox13now.com/news/local-new…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1552705254818463700,
+		"in_reply_to_status_id_str": "1552705254818463746",
+		"in_reply_to_user_id": 860870843685105700,
+		"in_reply_to_user_id_str": "860870843685105664",
+		"in_reply_to_screen_name": "katebellows",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1369,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@katebellows This was an approach I don’t recall seeing before. https://t.co/4iiakOUFHU"
+	},
+	{
+		"created_at": "Sat Jul 30 01:04:56 +0000 2022",
+		"id": 1552772677458444300,
+		"id_str": "1553184838420660225",
+		"full_text": "I am conducting a study exploring the emotional, mental, physical and spiritual implications of teaching diversity and social justice courses that women of color experience! If interested please follow the link! @NASPAFaculty @NASPAtweet #AcademicTwitter https://t.co/IgAmvpoaKh https://t.co/JR0bQEwEQS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						238,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAFaculty",
+					"name": "NASPA Faculty",
+					"id": 2385373249,
+					"id_str": "2385373249",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IgAmvpoaKh",
+					"expanded_url": "https://wichitastate.co1.qualtrics.com/jfe/form/SV_bgw4TZZO9RHwrqu",
+					"display_url": "wichitastate.co1.qualtrics.com/jfe/form/SV_bg…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552771666262073300,
+					"id_str": "1552771666262073351",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FYyNmoDXoAcZv-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYyNmoDXoAcZv-F.jpg",
+					"url": "https://t.co/JR0bQEwEQS",
+					"display_url": "pic.twitter.com/JR0bQEwEQS",
+					"expanded_url": "https://twitter.com/VThompsonks/status/1552772677458444289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552771666262073300,
+					"id_str": "1552771666262073351",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FYyNmoDXoAcZv-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYyNmoDXoAcZv-F.jpg",
+					"url": "https://t.co/JR0bQEwEQS",
+					"display_url": "pic.twitter.com/JR0bQEwEQS",
+					"expanded_url": "https://twitter.com/VThompsonks/status/1552772677458444289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967327468058103800,
+			"id_str": "967327468058103810",
+			"name": "Valerie J. Thompson, Ph.D.",
+			"screen_name": "VThompsonks",
+			"location": "",
+			"description": "Asst Professor, Black Woman, Scholar-Pract,Womanist, Believer, SAPro, Daughter, Sestra, Lover of Movies, TV and 80s music. views=mine, Co-host @blkwomynvoices",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 400,
+			"listed_count": 0,
+			"created_at": "Sat Feb 24 09:16:55 +0000 2018",
+			"favourites_count": 3215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112127877540139011/gI3_Jfno_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112127877540139011/gI3_Jfno_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967327468058103810/1617041509",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am conducting a study exploring the emotional, mental, physical and spiritual implications of teaching diversity and social justice courses that women of color experience! If interested please follow the link! @NASPAFaculty @NASPAtweet #AcademicTwitter https://t.co/IgAmvpoaKh https://t.co/JR0bQEwEQS"
+	},
+	{
 		"created_at": "Thu Jul 28 12:22:27 +0000 2022",
 		"id": 1552630561734279200,
 		"id_str": "1552630561734279171",
