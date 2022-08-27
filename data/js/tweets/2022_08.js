@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 14:20:18 +0000 2022",
+		"id": 1563169470675562500,
+		"id_str": "1563169470675562496",
+		"full_text": "This is magical! https://t.co/AMLq8XB8z6 https://t.co/gsUGFDsOL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMLq8XB8z6",
+					"expanded_url": "https://twitter.com/mrssasser/status/1034118861354950656",
+					"display_url": "twitter.com/mrssasser/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1563169464639791000,
+					"id_str": "1563169464639791104",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF-WJeXoAAZltI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF-WJeXoAAZltI.jpg",
+					"url": "https://t.co/gsUGFDsOL6",
+					"display_url": "pic.twitter.com/gsUGFDsOL6",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563169470675562496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563169464639791000,
+					"id_str": "1563169464639791104",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF-WJeXoAAZltI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF-WJeXoAAZltI.jpg",
+					"url": "https://t.co/gsUGFDsOL6",
+					"display_url": "pic.twitter.com/gsUGFDsOL6",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563169470675562496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FbF-WJeXoAAZltI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2198,
+			"friends_count": 1375,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1034118861354950700,
+		"quoted_status_id_str": "1034118861354950656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AMLq8XB8z6",
+			"expanded": "https://twitter.com/mrssasser/status/1034118861354950656",
+			"display": "twitter.com/mrssasser/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 27 16:42:04 +0000 2018",
+			"id": 1034118861354950700,
+			"id_str": "1034118861354950656",
+			"full_text": "Two years ago, I was saying “do you have any questions?”. Last year I switched to “what questions do you have?” It made a difference. Today I tried “ask me two questions”. And they did! And those ?s led to more ?s. It amazes me that the littlest things have such a big impact!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 564822845,
+				"id_str": "564822845",
+				"name": "Andre Sasser",
+				"screen_name": "MrsSasser",
+				"location": "Louisiana",
+				"description": "Math Teacher and Educators Rising Teacher 👩🏻‍🏫 Chef Wife 👨🏻‍🍳 Twin Mom ❤️💙 Proud Boy Mom 👨‍👩‍👦‍👦 Secret to a happy life: 1 Thessalonians 4:11 ✝️",
+				"url": "https://t.co/AKYdEYXfJF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AKYdEYXfJF",
+								"expanded_url": "http://sassafracs.wordpress.com",
+								"display_url": "sassafracs.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3298,
+				"friends_count": 1096,
+				"listed_count": 28,
+				"created_at": "Fri Apr 27 18:36:40 +0000 2012",
+				"favourites_count": 5589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2546,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027237607514800128/NdXmLXUc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027237607514800128/NdXmLXUc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/564822845/1519185247",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53047,
+			"favorite_count": 295680,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is magical! https://t.co/AMLq8XB8z6 https://t.co/gsUGFDsOL6"
+	},
+	{
+		"created_at": "Fri Aug 26 14:19:56 +0000 2022",
+		"id": 1034118861354950700,
+		"id_str": "1563169377108668419",
+		"full_text": "Two years ago, I was saying “do you have any questions?”. Last year I switched to “what questions do you have?” It made a difference. Today I tried “ask me two questions”. And they did! And those ?s led to more ?s. It amazes me that the littlest things have such a big impact!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564822845,
+			"id_str": "564822845",
+			"name": "Andre Sasser",
+			"screen_name": "MrsSasser",
+			"location": "Louisiana",
+			"description": "Math Teacher and Educators Rising Teacher 👩🏻‍🏫 Chef Wife 👨🏻‍🍳 Twin Mom ❤️💙 Proud Boy Mom 👨‍👩‍👦‍👦 Secret to a happy life: 1 Thessalonians 4:11 ✝️",
+			"url": "https://t.co/AKYdEYXfJF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AKYdEYXfJF",
+							"expanded_url": "http://sassafracs.wordpress.com",
+							"display_url": "sassafracs.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3298,
+			"friends_count": 1096,
+			"listed_count": 28,
+			"created_at": "Fri Apr 27 18:36:40 +0000 2012",
+			"favourites_count": 5589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027237607514800128/NdXmLXUc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027237607514800128/NdXmLXUc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564822845/1519185247",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53047,
+		"favorite_count": 295680,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Two years ago, I was saying “do you have any questions?”. Last year I switched to “what questions do you have?” It made a difference. Today I tried “ask me two questions”. And they did! And those ?s led to more ?s. It amazes me that the littlest things have such a big impact!"
+	},
+	{
+		"created_at": "Fri Aug 26 14:19:52 +0000 2022",
+		"id": 1563169362487693300,
+		"id_str": "1563169362487693312",
+		"full_text": "@MrsSasser This is magic! https://t.co/hwegTcnDQM",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsSasser",
+					"name": "Andre Sasser",
+					"id": 564822845,
+					"id_str": "564822845",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563169356175089700,
+					"id_str": "1563169356175089664",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF-P1aXoAALyoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF-P1aXoAALyoo.jpg",
+					"url": "https://t.co/hwegTcnDQM",
+					"display_url": "pic.twitter.com/hwegTcnDQM",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563169362487693312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563169356175089700,
+					"id_str": "1563169356175089664",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF-P1aXoAALyoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF-P1aXoAALyoo.jpg",
+					"url": "https://t.co/hwegTcnDQM",
+					"display_url": "pic.twitter.com/hwegTcnDQM",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563169362487693312/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							36
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FbF-P1aXoAALyoo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1034118861354950700,
+		"in_reply_to_status_id_str": "1034118861354950656",
+		"in_reply_to_user_id": 564822845,
+		"in_reply_to_user_id_str": "564822845",
+		"in_reply_to_screen_name": "MrsSasser",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2198,
+			"friends_count": 1375,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MrsSasser This is magic! https://t.co/hwegTcnDQM"
+	},
+	{
+		"created_at": "Fri Aug 26 14:08:22 +0000 2022",
+		"id": 1563166467037663200,
+		"id_str": "1563166467037663235",
+		"full_text": "@kevinrmcclure Ideally with Page Numbers in case I need to use ILL. https://t.co/U121lJpF8H",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinrmcclure",
+					"name": "Kevin R. McClure",
+					"id": 2397025926,
+					"id_str": "2397025926",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563166461157265400,
+					"id_str": "1563166461157265409",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF7nUoVUAEQOA-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF7nUoVUAEQOA-.jpg",
+					"url": "https://t.co/U121lJpF8H",
+					"display_url": "pic.twitter.com/U121lJpF8H",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563166467037663235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563166461157265400,
+					"id_str": "1563166461157265409",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FbF7nUoVUAEQOA-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FbF7nUoVUAEQOA-.jpg",
+					"url": "https://t.co/U121lJpF8H",
+					"display_url": "pic.twitter.com/U121lJpF8H",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1563166467037663235/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FbF7nUoVUAEQOA-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1563148532378665000,
+		"in_reply_to_status_id_str": "1563148532378664963",
+		"in_reply_to_user_id": 2397025926,
+		"in_reply_to_user_id_str": "2397025926",
+		"in_reply_to_screen_name": "kevinrmcclure",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2198,
+			"friends_count": 1375,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kevinrmcclure Ideally with Page Numbers in case I need to use ILL. https://t.co/U121lJpF8H"
+	},
+	{
 		"created_at": "Thu Aug 25 19:15:48 +0000 2022",
 		"id": 1562881446158934000,
 		"id_str": "1562881446158934022",
