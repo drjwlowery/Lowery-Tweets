@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 15:37:52 +0000 2022",
+		"id": 1566204259871367200,
+		"id_str": "1566450480561246210",
+		"full_text": "Significant #TitleIX #EdLaw case: Fed. Dist. Ct. of Missouri via MSJ: 1) Adopts the 10CA Farmer T9 Deliberate Indifference standard holding that no further harassment is needed, only vulnerability; 2) Adopts the 9CA Karasek T9 Heightened Risk/Policy COA (Not adopted by Cir. Ct.); https://t.co/kGlUOAZ5id",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TitleIX",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "EdLaw",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566200545479630800,
+					"id_str": "1566200545479630849",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FbxDGRhWIAEEbf9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbxDGRhWIAEEbf9.png",
+					"url": "https://t.co/kGlUOAZ5id",
+					"display_url": "pic.twitter.com/kGlUOAZ5id",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1566204259871367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1130,
+							"h": 620,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566200545479630800,
+					"id_str": "1566200545479630849",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FbxDGRhWIAEEbf9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbxDGRhWIAEEbf9.png",
+					"url": "https://t.co/kGlUOAZ5id",
+					"display_url": "pic.twitter.com/kGlUOAZ5id",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1566204259871367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1130,
+							"h": 620,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566201007058591700,
+					"id_str": "1566201007058591744",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FbxDhJCWIAAzDJY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbxDhJCWIAAzDJY.png",
+					"url": "https://t.co/kGlUOAZ5id",
+					"display_url": "pic.twitter.com/kGlUOAZ5id",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1566204259871367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1566201365474459600,
+					"id_str": "1566201365474459648",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FbxD2APWQAAf68V.png",
+					"media_url_https": "https://pbs.twimg.com/media/FbxD2APWQAAf68V.png",
+					"url": "https://t.co/kGlUOAZ5id",
+					"display_url": "pic.twitter.com/kGlUOAZ5id",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1566204259871367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 548,
+							"h": 846,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 846,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1566201390216745000,
+					"id_str": "1566201390216744960",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FbxD3caXkAAbfrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbxD3caXkAAbfrB.jpg",
+					"url": "https://t.co/kGlUOAZ5id",
+					"display_url": "pic.twitter.com/kGlUOAZ5id",
+					"expanded_url": "https://twitter.com/JakeHigherEdLaw/status/1566204259871367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1018,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893633585944703000,
+			"id_str": "893633585944702977",
+			"name": "Jake G., Esq.",
+			"screen_name": "JakeHigherEdLaw",
+			"location": "Texas, USA",
+			"description": "Legal Researcher & Presenter on Title IX & Education Law. Civil Rights & Compliance Admin. All statements are my own, or a Court's. Texas Attorney. YNWA.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Sat Aug 05 00:43:44 +0000 2017",
+			"favourites_count": 982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226923465619509250/wp353gxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893633585944702977/1617719529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Significant #TitleIX #EdLaw case: Fed. Dist. Ct. of Missouri via MSJ: 1) Adopts the 10CA Farmer T9 Deliberate Indifference standard holding that no further harassment is needed, only vulnerability; 2) Adopts the 9CA Karasek T9 Heightened Risk/Policy COA (Not adopted by Cir. Ct.); https://t.co/kGlUOAZ5id"
+	},
+	{
 		"created_at": "Sat Sep 03 01:41:39 +0000 2022",
 		"id": 1565877653240008700,
 		"id_str": "1565877653240008704",
