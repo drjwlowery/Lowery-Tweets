@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 14:43:32 +0000 2022",
+		"id": 1567161582785859600,
+		"id_str": "1567161582785859584",
+		"full_text": "@ChrisMarsicano @WestwardWhiskey Road-trip! https://t.co/h0CYhHdCmT",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMarsicano",
+					"name": "Chris Marsicano",
+					"id": 62824122,
+					"id_str": "62824122",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "WestwardWhiskey",
+					"name": "Westward Whiskey",
+					"id": 2188930950,
+					"id_str": "2188930950",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567161575928127500,
+					"id_str": "1567161575928127489",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fb-tJm7WYAESdHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fb-tJm7WYAESdHY.jpg",
+					"url": "https://t.co/h0CYhHdCmT",
+					"display_url": "pic.twitter.com/h0CYhHdCmT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1567161582785859584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567161575928127500,
+					"id_str": "1567161575928127489",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fb-tJm7WYAESdHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fb-tJm7WYAESdHY.jpg",
+					"url": "https://t.co/h0CYhHdCmT",
+					"display_url": "pic.twitter.com/h0CYhHdCmT",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1567161582785859584/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 366,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fb-tJm7WYAESdHY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566509999328792600,
+		"in_reply_to_status_id_str": "1566509999328792576",
+		"in_reply_to_user_id": 62824122,
+		"in_reply_to_user_id_str": "62824122",
+		"in_reply_to_screen_name": "ChrisMarsicano",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1374,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d88a5def1d7e9609",
+			"url": "https://api.twitter.com/1.1/geo/id/d88a5def1d7e9609.json",
+			"place_type": "city",
+			"name": "Indiana",
+			"full_name": "Indiana, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.213942,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.656614
+						],
+						[
+							-79.213942,
+							40.656614
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChrisMarsicano @WestwardWhiskey Road-trip! https://t.co/h0CYhHdCmT"
+	},
+	{
+		"created_at": "Tue Sep 06 14:42:13 +0000 2022",
+		"id": 1567161251855306800,
+		"id_str": "1567161251855306753",
+		"full_text": "Cardona’s Title IX rule draws more than 349K comments (twice that of the Trump era rule) https://t.co/ZdX3VfUUCf via @politico #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politico",
+					"name": "POLITICO",
+					"id": 9300262,
+					"id_str": "9300262",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZdX3VfUUCf",
+					"expanded_url": "https://politi.co/3x2jwT0",
+					"display_url": "politi.co/3x2jwT0",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1374,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d88a5def1d7e9609",
+			"url": "https://api.twitter.com/1.1/geo/id/d88a5def1d7e9609.json",
+			"place_type": "city",
+			"name": "Indiana",
+			"full_name": "Indiana, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.213942,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.656614
+						],
+						[
+							-79.213942,
+							40.656614
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cardona’s Title IX rule draws more than 349K comments (twice that of the Trump era rule) https://t.co/ZdX3VfUUCf via @politico #SAHElaw"
+	},
+	{
+		"created_at": "Tue Sep 06 13:27:14 +0000 2022",
+		"id": 1567142382159659000,
+		"id_str": "1567142382159659011",
+		"full_text": "Kansas Teacher settles suit after refusing to use preferred pronouns for $95,000 https://t.co/Xwj9UmZtCT via @MailOnline #SAHElaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAHElaw",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MailOnline",
+					"name": "Daily Mail Online",
+					"id": 15438913,
+					"id_str": "15438913",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xwj9UmZtCT",
+					"expanded_url": "https://mol.im/a/11165891",
+					"display_url": "mol.im/a/11165891",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2195,
+			"friends_count": 1374,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kansas Teacher settles suit after refusing to use preferred pronouns for $95,000 https://t.co/Xwj9UmZtCT via @MailOnline #SAHElaw"
+	},
+	{
 		"created_at": "Mon Sep 05 15:21:14 +0000 2022",
 		"id": 1566808681638944800,
 		"id_str": "1566808681638944769",
