@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 17:51:35 +0000 2022",
+		"id": 1575906216164802600,
+		"id_str": "1575906216164802560",
+		"full_text": "@kevinrmcclure https://t.co/OxzfLFu3hD",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinrmcclure",
+					"name": "Kevin R. McClure",
+					"id": 2397025926,
+					"id_str": "2397025926",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575906205675012000,
+					"id_str": "1575906205675012096",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fd6-WDSXwAA9Nwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fd6-WDSXwAA9Nwy.jpg",
+					"url": "https://t.co/OxzfLFu3hD",
+					"display_url": "pic.twitter.com/OxzfLFu3hD",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1575906216164802560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575906205675012000,
+					"id_str": "1575906205675012096",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fd6-WDSXwAA9Nwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fd6-WDSXwAA9Nwy.jpg",
+					"url": "https://t.co/OxzfLFu3hD",
+					"display_url": "pic.twitter.com/OxzfLFu3hD",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1575906216164802560/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fd6-WDSXwAA9Nwy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575796373626441700,
+		"in_reply_to_status_id_str": "1575796373626441729",
+		"in_reply_to_user_id": 2397025926,
+		"in_reply_to_user_id_str": "2397025926",
+		"in_reply_to_screen_name": "kevinrmcclure",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 1372,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d88a5def1d7e9609",
+			"url": "https://api.twitter.com/1.1/geo/id/d88a5def1d7e9609.json",
+			"place_type": "city",
+			"name": "Indiana",
+			"full_name": "Indiana, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.213942,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.5860237
+						],
+						[
+							-79.089163,
+							40.656614
+						],
+						[
+							-79.213942,
+							40.656614
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@kevinrmcclure https://t.co/OxzfLFu3hD"
+	},
+	{
+		"created_at": "Fri Sep 30 02:31:40 +0000 2022",
+		"id": 1575674710104633300,
+		"id_str": "1575674710104633344",
+		"full_text": "@cant_b Another form of disaster capitalism? https://t.co/HMmebjlRIC",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cant_b",
+					"name": "Brendan Cantwell",
+					"id": 158781901,
+					"id_str": "158781901",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575674704135954400,
+					"id_str": "1575674704135954433",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fd3ry42XoAEWU7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fd3ry42XoAEWU7N.jpg",
+					"url": "https://t.co/HMmebjlRIC",
+					"display_url": "pic.twitter.com/HMmebjlRIC",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1575674710104633344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575674704135954400,
+					"id_str": "1575674704135954433",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fd3ry42XoAEWU7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fd3ry42XoAEWU7N.jpg",
+					"url": "https://t.co/HMmebjlRIC",
+					"display_url": "pic.twitter.com/HMmebjlRIC",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1575674710104633344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 380,
+							"h": 184,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							95,
+							46
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fd3ry42XoAEWU7N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575610919346118700,
+		"in_reply_to_status_id_str": "1575610919346118658",
+		"in_reply_to_user_id": 158781901,
+		"in_reply_to_user_id_str": "158781901",
+		"in_reply_to_screen_name": "cant_b",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 1372,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cant_b Another form of disaster capitalism? https://t.co/HMmebjlRIC"
+	},
+	{
 		"created_at": "Thu Sep 29 19:56:05 +0000 2022",
 		"id": 1575575158848336000,
 		"id_str": "1575575158848335872",
