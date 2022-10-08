@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 16:39:42 +0000 2022",
+		"id": 1578424840880500700,
+		"id_str": "1578424840880500738",
+		"full_text": "ABA Video Panel Discussion of the proposed Title IX Regulations. https://t.co/qM9DXueyEB via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qM9DXueyEB",
+					"expanded_url": "https://youtu.be/Srv07-TJt2c",
+					"display_url": "youtu.be/Srv07-TJt2c",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 1371,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ABA Video Panel Discussion of the proposed Title IX Regulations. https://t.co/qM9DXueyEB via @YouTube"
+	},
+	{
+		"created_at": "Fri Oct 07 14:55:33 +0000 2022",
+		"id": 1578398629701763000,
+		"id_str": "1578398629701763072",
+		"full_text": "Victor Spathelf was just one of a number of @NASPAtweets presidents to go one to serve as as a college president. The most recent example of this is @DrLoriDePauwU. #HistSAHE https://t.co/FKZe5wiFh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						165,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "DrLoriDePauwU",
+					"name": "Lori S. White",
+					"id": 3507116961,
+					"id_str": "3507116961",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FKZe5wiFh2",
+					"expanded_url": "https://twitter.com/naspahistory/status/1578072594103795712",
+					"display_url": "twitter.com/naspahistory/s…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 1371,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578072594103795700,
+		"quoted_status_id_str": "1578072594103795712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FKZe5wiFh2",
+			"expanded": "https://twitter.com/naspahistory/status/1578072594103795712",
+			"display": "twitter.com/naspahistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 17:20:00 +0000 2022",
+			"id": 1578072594103795700,
+			"id_str": "1578072594103795712",
+			"full_text": "Victor F. Spathelf passed away on Oct. 6, 1998 at the age of 88. He was the 1952-53 @NASPAtweets president.\n\nDuring his presidency, he moved from Wayne State where he served as Dean of Student Affairs to Ferris State University, where he would serve as president in until 1972. https://t.co/vmaQdIUrO2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASPAtweets",
+						"name": "NASPA",
+						"id": 93729105,
+						"id_str": "93729105",
+						"indices": [
+							84,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577720726609617000,
+						"id_str": "1577720726609616896",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+						"url": "https://t.co/vmaQdIUrO2",
+						"display_url": "pic.twitter.com/vmaQdIUrO2",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1578072594103795712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577720726609617000,
+						"id_str": "1577720726609616896",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+						"url": "https://t.co/vmaQdIUrO2",
+						"display_url": "pic.twitter.com/vmaQdIUrO2",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1578072594103795712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/jDWkdGdBnt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jDWkdGdBnt",
+								"expanded_url": "http://naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 283,
+				"friends_count": 38,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 893,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Victor Spathelf was just one of a number of @NASPAtweets presidents to go one to serve as as a college president. The most recent example of this is @DrLoriDePauwU. #HistSAHE https://t.co/FKZe5wiFh2"
+	},
+	{
+		"created_at": "Fri Oct 07 02:25:58 +0000 2022",
+		"id": 1578209993051996200,
+		"id_str": "1578209993051996163",
+		"full_text": "Transgender College Students' Identity Exploration Processes by ⁦@itsAlexCL⁩ in Journal of College Student Development.  https://t.co/lRvR4wil4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsAlexCL",
+					"name": "Alex C. Lange",
+					"id": 850019210,
+					"id_str": "850019210",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lRvR4wil4v",
+					"expanded_url": "https://muse.jhu.edu/article/866338",
+					"display_url": "muse.jhu.edu/article/866338",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0jUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0jUQ",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 1371,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728991630942994434/Pz_8YYc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Transgender College Students' Identity Exploration Processes by ⁦@itsAlexCL⁩ in Journal of College Student Development.  https://t.co/lRvR4wil4v"
+	},
+	{
 		"created_at": "Thu Oct 06 21:57:13 +0000 2022",
 		"id": 1578142357333201000,
 		"id_str": "1578142357333200896",
