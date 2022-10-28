@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 18:18:52 +0000 2022",
+		"id": 1585697553399525400,
+		"id_str": "1585697553399525376",
+		"full_text": "Busy is a decision. We do the things we want to do, period. If we say we are too busy, it is just shorthand for the thing being \"not important enough\" or \"not a priority.\" Busy is not a badge. You don’t find the time to make things, you make the time to do things.\n~Debbie Millman https://t.co/vXBeeH9lmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585697448684503000,
+					"id_str": "1585697448684503040",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FgGHbZ4VQAAKQRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgGHbZ4VQAAKQRz.jpg",
+					"url": "https://t.co/vXBeeH9lmz",
+					"display_url": "pic.twitter.com/vXBeeH9lmz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1585697553399525376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585697448684503000,
+					"id_str": "1585697448684503040",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FgGHbZ4VQAAKQRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgGHbZ4VQAAKQRz.jpg",
+					"url": "https://t.co/vXBeeH9lmz",
+					"display_url": "pic.twitter.com/vXBeeH9lmz",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1585697553399525376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2204,
+			"friends_count": 1370,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Busy is a decision. We do the things we want to do, period. If we say we are too busy, it is just shorthand for the thing being \"not important enough\" or \"not a priority.\" Busy is not a badge. You don’t find the time to make things, you make the time to do things.\n~Debbie Millman https://t.co/vXBeeH9lmz"
+	},
+	{
+		"created_at": "Thu Oct 27 16:19:00 +0000 2022",
+		"id": 1585667388032155600,
+		"id_str": "1585667388032155649",
+		"full_text": "It's #Halloween! I'm sharing some of my favorite higher education horror movies.\n\nTerror Train (1980) starred Jamie Lee Curtis and was produced in Canada for an American audience. It was funded under the Canadian Tax Shelter Investment Program. https://t.co/v8GBsmC1VC https://t.co/qwtafXHzui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Halloween",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v8GBsmC1VC",
+					"expanded_url": "https://youtu.be/mUnXVqQaPag",
+					"display_url": "youtu.be/mUnXVqQaPag",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583850544539500500,
+					"id_str": "1583850544539500545",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffr3rbyWAAEyDyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffr3rbyWAAEyDyE.jpg",
+					"url": "https://t.co/qwtafXHzui",
+					"display_url": "pic.twitter.com/qwtafXHzui",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1585667388032155649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583850544539500500,
+					"id_str": "1583850544539500545",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffr3rbyWAAEyDyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffr3rbyWAAEyDyE.jpg",
+					"url": "https://t.co/qwtafXHzui",
+					"display_url": "pic.twitter.com/qwtafXHzui",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1585667388032155649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 265,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2204,
+			"friends_count": 1370,
+			"listed_count": 94,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's #Halloween! I'm sharing some of my favorite higher education horror movies.\n\nTerror Train (1980) starred Jamie Lee Curtis and was produced in Canada for an American audience. It was funded under the Canadian Tax Shelter Investment Program. https://t.co/v8GBsmC1VC https://t.co/qwtafXHzui"
+	},
+	{
 		"created_at": "Wed Oct 26 19:20:18 +0000 2022",
 		"id": 1585350626539511800,
 		"id_str": "1585350626539511808",
