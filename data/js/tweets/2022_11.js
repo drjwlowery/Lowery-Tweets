@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 18:17:39 +0000 2022",
+		"id": 1596206496798630000,
+		"id_str": "1596206496798629888",
+		"full_text": "@drbbourke https://t.co/08dPBvd2Z0",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drbbourke",
+					"name": "Brian Bourke",
+					"id": 948073964,
+					"id_str": "948073964",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596206491291340800,
+					"id_str": "1596206491291340801",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FibdWMWX0AE3lW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FibdWMWX0AE3lW6.jpg",
+					"url": "https://t.co/08dPBvd2Z0",
+					"display_url": "pic.twitter.com/08dPBvd2Z0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1596206496798629888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596206491291340800,
+					"id_str": "1596206491291340801",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FibdWMWX0AE3lW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FibdWMWX0AE3lW6.jpg",
+					"url": "https://t.co/08dPBvd2Z0",
+					"display_url": "pic.twitter.com/08dPBvd2Z0",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1596206496798629888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595987779376517000,
+		"in_reply_to_status_id_str": "1595987779376517125",
+		"in_reply_to_user_id": 948073964,
+		"in_reply_to_user_id_str": "948073964",
+		"in_reply_to_screen_name": "drbbourke",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2152,
+			"friends_count": 1338,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "18df13e4a5a670b5",
+			"url": "https://api.twitter.com/1.1/geo/id/18df13e4a5a670b5.json",
+			"place_type": "city",
+			"name": "North Charleston",
+			"full_name": "North Charleston, SC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.1575903,
+							32.829336
+						],
+						[
+							-79.934288,
+							32.829336
+						],
+						[
+							-79.934288,
+							32.9995131
+						],
+						[
+							-80.1575903,
+							32.9995131
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@drbbourke https://t.co/08dPBvd2Z0"
+	},
+	{
 		"created_at": "Thu Nov 24 19:16:04 +0000 2022",
 		"id": 1595858808496169000,
 		"id_str": "1595858808496168960",
