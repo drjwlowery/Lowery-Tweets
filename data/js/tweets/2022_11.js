@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 00:44:14 +0000 2022",
+		"id": 1597390944986599400,
+		"id_str": "1597390944986599424",
+		"full_text": "@DrBritWilliams @Microsoft You can turn off modern comments (for now) which at least part of the problem. https://t.co/vYSknz1YUg",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrBritWilliams",
+					"name": "Big Brit = @DrBritWilliams on all Apps",
+					"id": 1143673459,
+					"id_str": "1143673459",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597390941932994600,
+					"id_str": "1597390941932994563",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FisSmS1XwAMCI8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FisSmS1XwAMCI8e.jpg",
+					"url": "https://t.co/vYSknz1YUg",
+					"display_url": "pic.twitter.com/vYSknz1YUg",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1597390944986599424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1226,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597390941932994600,
+					"id_str": "1597390941932994563",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FisSmS1XwAMCI8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FisSmS1XwAMCI8e.jpg",
+					"url": "https://t.co/vYSknz1YUg",
+					"display_url": "pic.twitter.com/vYSknz1YUg",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1597390944986599424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1226,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596974066174668800,
+		"in_reply_to_status_id_str": "1596974066174668800",
+		"in_reply_to_user_id": 1143673459,
+		"in_reply_to_user_id_str": "1143673459",
+		"in_reply_to_screen_name": "DrBritWilliams",
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 1336,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrBritWilliams @Microsoft You can turn off modern comments (for now) which at least part of the problem. https://t.co/vYSknz1YUg"
+	},
+	{
 		"created_at": "Fri Nov 25 18:17:39 +0000 2022",
 		"id": 1596206496798630000,
 		"id_str": "1596206496798629888",
