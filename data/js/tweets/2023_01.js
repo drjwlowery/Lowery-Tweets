@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 21:50:31 +0000 2023",
+		"id": 1617640948137365500,
+		"id_str": "1617640948137365504",
+		"full_text": "Congratulations @gavinhenning! https://t.co/Qtc0mAORk6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gavinhenning",
+					"name": "Gavin Henning",
+					"id": 29996474,
+					"id_str": "29996474",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qtc0mAORk6",
+					"expanded_url": "https://twitter.com/naspahistory/status/1617558944163192833",
+					"display_url": "twitter.com/naspahistory/s…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146,
+			"friends_count": 1334,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1617558944163192800,
+		"quoted_status_id_str": "1617558944163192833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qtc0mAORk6",
+			"expanded": "https://twitter.com/naspahistory/status/1617558944163192833",
+			"display": "twitter.com/naspahistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 23 16:24:39 +0000 2023",
+			"id": 1617558944163192800,
+			"id_str": "1617558944163192833",
+			"full_text": "Congratulations to Dr. @gavinhenning, NASPA's 2022-23 George D. Kuh Outstanding Contribution to Literature and/or Research Award recipient. Dr. Henning is Professor of Higher Education  at New England College. https://t.co/8ExhryQrLm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gavinhenning",
+						"name": "Gavin Henning",
+						"id": 29996474,
+						"id_str": "29996474",
+						"indices": [
+							23,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1617558662150787000,
+						"id_str": "1617558662150787072",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FnK5CHTakAA3NYp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FnK5CHTakAA3NYp.jpg",
+						"url": "https://t.co/8ExhryQrLm",
+						"display_url": "pic.twitter.com/8ExhryQrLm",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1617558944163192833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1617558662150787000,
+						"id_str": "1617558662150787072",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FnK5CHTakAA3NYp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FnK5CHTakAA3NYp.jpg",
+						"url": "https://t.co/8ExhryQrLm",
+						"display_url": "pic.twitter.com/8ExhryQrLm",
+						"expanded_url": "https://twitter.com/NASPAhistory/status/1617558944163192833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 937716186057527300,
+				"id_str": "937716186057527297",
+				"name": "NASPA History",
+				"screen_name": "NASPAhistory",
+				"location": "",
+				"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+				"url": "https://t.co/nt1IV8SxLc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nt1IV8SxLc",
+								"expanded_url": "http://linktr.ee/naspahistory",
+								"display_url": "linktr.ee/naspahistory",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 278,
+				"friends_count": 39,
+				"listed_count": 0,
+				"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+				"favourites_count": 108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 914,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @gavinhenning! https://t.co/Qtc0mAORk6"
+	},
+	{
 		"created_at": "Mon Jan 23 00:06:57 +0000 2023",
 		"id": 1617312896639242200,
 		"id_str": "1617312896639242241",
@@ -533,7 +843,7 @@ Grailbird.data.tweets_2023_01 =
 		"created_at": "Sun Jan 22 15:26:58 +0000 2023",
 		"id": 1617182038733295600,
 		"id_str": "1617182038733295617",
-		"full_text": "What if [common or typical] Diversity Trainings Are Doing More Harm Than Good? via @NYTOpinion by ⁦@jessesingal⁩  https://t.co/XFjAUqjzMu",
+		"full_text": "What if [common or typical] Diversity Trainings Are Doing More Harm Than Good? via @NYTOpinion by @jessesingal  https://t.co/XFjAUqjzMu",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -655,7 +965,7 @@ Grailbird.data.tweets_2023_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "What if [common or typical] Diversity Trainings Are Doing More Harm Than Good? via @NYTOpinion by ⁦@jessesingal⁩  https://t.co/XFjAUqjzMu"
+		"text": "What if [common or typical] Diversity Trainings Are Doing More Harm Than Good? via @NYTOpinion by @jessesingal  https://t.co/XFjAUqjzMu"
 	},
 	{
 		"created_at": "Sun Jan 22 15:16:39 +0000 2023",
