@@ -1,6 +1,2217 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 22:34:42 +0000 2023",
+		"id": 1626711766909550600,
+		"id_str": "1626711766909550593",
+		"full_text": "You are the best Artblocks. @bmarchesini1995 @jamsari_7 @sg1271 @KbOIsmail @andriuscanan @Kolarits @Escandiuzzi @dawyncy @bennysimp20 @x420withme_ @TheEndofq @allstarsings @GowansDVE https://t.co/YrOx9cJiby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bmarchesini1995",
+					"name": "Boomer",
+					"id": 874548622427336700,
+					"id_str": "874548622427336704",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "jamsari_7",
+					"name": "jamsari",
+					"id": 866560487168786400,
+					"id_str": "866560487168786432",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "sg1271",
+					"name": "sg217",
+					"id": 1096163294,
+					"id_str": "1096163294",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"screen_name": "KbOIsmail",
+					"name": "ABDULKABEER✍️.",
+					"id": 848116675811717100,
+					"id_str": "848116675811717120",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"screen_name": "andriuscanan",
+					"name": "Andres Canan",
+					"id": 252864696,
+					"id_str": "252864696",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "Kolarits",
+					"name": "Stefan_Domnanovich",
+					"id": 19596466,
+					"id_str": "19596466",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"screen_name": "Escandiuzzi",
+					"name": "Escandiuzzi",
+					"id": 17582137,
+					"id_str": "17582137",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"screen_name": "dawyncy",
+					"name": "dawyncy",
+					"id": 1381544008653041700,
+					"id_str": "1381544008653041669",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"screen_name": "bennysimp20",
+					"name": "Benjamin Simpson",
+					"id": 911784572580433900,
+					"id_str": "911784572580433920",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "x420withme_",
+					"name": "x420withme_💙",
+					"id": 1405468318631436300,
+					"id_str": "1405468318631436294",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"screen_name": "TheEndofq",
+					"name": "Petty la Q",
+					"id": 1022892868673957900,
+					"id_str": "1022892868673957888",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "allstarsings",
+					"name": "Allstar",
+					"id": 633255089,
+					"id_str": "633255089",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "GowansDVE",
+					"name": "Darren Gowans",
+					"id": 719741033,
+					"id_str": "719741033",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YrOx9cJiby",
+					"expanded_url": "https://twitter.com/DarkNightStudy/status/1626699427501993987",
+					"display_url": "twitter.com/DarkNightStudy…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626699427501994000,
+		"quoted_status_id_str": "1626699427501993987",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YrOx9cJiby",
+			"expanded": "https://twitter.com/DarkNightStudy/status/1626699427501993987",
+			"display": "twitter.com/DarkNightStudy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 17 21:45:40 +0000 2023",
+			"id": 1626699427501994000,
+			"id_str": "1626699427501993987",
+			"full_text": "After the success of my last project The Currency, series 2 together with \n@Artblocks\n\n IO is now live!\n\nPhysical Editions will be exchangeable in London from December 13th!\nFree for Artblocks holders, 0.15 ETH for everyone else.\n\nMint here: https://t.co/heA16oH07H https://t.co/5nQirbaUVP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Artblocks",
+						"name": "@Artblocks",
+						"id": 1419266182780055600,
+						"id_str": "1419266182780055553",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/heA16oH07H",
+						"expanded_url": "http://linktr.ee/damienhirst.nf",
+						"display_url": "linktr.ee/damienhirst.nf",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1626699380970455000,
+						"id_str": "1626699380970455040",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpMyd-cXgAAy_hc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpMyd-cXgAAy_hc.jpg",
+						"url": "https://t.co/5nQirbaUVP",
+						"display_url": "pic.twitter.com/5nQirbaUVP",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626699427501993987/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626699380970455000,
+						"id_str": "1626699380970455040",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpMyd-cXgAAy_hc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpMyd-cXgAAy_hc.jpg",
+						"url": "https://t.co/5nQirbaUVP",
+						"display_url": "pic.twitter.com/5nQirbaUVP",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626699427501993987/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304636904,
+				"id_str": "2304636904",
+				"name": "Damien Hirst",
+				"screen_name": "DarkNightStudy",
+				"location": "",
+				"description": "The official page for the British artist Damien Hirst offering the latest news, updates and links.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192166,
+				"friends_count": 1,
+				"listed_count": 657,
+				"created_at": "Sun Jan 26 00:52:07 +0000 2014",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304636904/1675923094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You are the best Artblocks. @bmarchesini1995 @jamsari_7 @sg1271 @KbOIsmail @andriuscanan @Kolarits @Escandiuzzi @dawyncy @bennysimp20 @x420withme_ @TheEndofq @allstarsings @GowansDVE https://t.co/YrOx9cJiby"
+	},
+	{
+		"created_at": "Fri Feb 17 17:49:00 +0000 2023",
+		"id": 1626639865852088300,
+		"id_str": "1626639865852088320",
+		"full_text": "\"Patience only works if you do.\n\nDoing the work + patience = results.\n\nPlanning to work + patience = you're just waiting.\"\n\n– @JamesClear https://t.co/VXpxVjWnGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesClear",
+					"name": "James Clear",
+					"id": 226428094,
+					"id_str": "226428094",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1626272438949679000,
+					"id_str": "1626272438949679105",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FpGuKreakAER1a5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpGuKreakAER1a5.jpg",
+					"url": "https://t.co/VXpxVjWnGE",
+					"display_url": "pic.twitter.com/VXpxVjWnGE",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1626639865852088320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 625,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626272438949679000,
+					"id_str": "1626272438949679105",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FpGuKreakAER1a5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpGuKreakAER1a5.jpg",
+					"url": "https://t.co/VXpxVjWnGE",
+					"display_url": "pic.twitter.com/VXpxVjWnGE",
+					"expanded_url": "https://twitter.com/drjwlowery/status/1626639865852088320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 625,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Patience only works if you do.\n\nDoing the work + patience = results.\n\nPlanning to work + patience = you're just waiting.\"\n\n– @JamesClear https://t.co/VXpxVjWnGE"
+	},
+	{
+		"created_at": "Fri Feb 17 12:47:33 +0000 2023",
+		"id": 1626564005132386300,
+		"id_str": "1626564005132386304",
+		"full_text": "How to mint @kbsfk @FlowerField_NFT @8bitchain @SRTSTEW @t3xcritter @Saifali_khann @umr_stock @spitfire05781 @TomatoGenesis https://t.co/RQEdOwJhCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kbsfk",
+					"name": "KSBXP",
+					"id": 1507386825840676900,
+					"id_str": "1507386825840676868",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "FlowerField_NFT",
+					"name": "FieldofFlowers",
+					"id": 1491775017838854100,
+					"id_str": "1491775017838854145",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "8bitchain",
+					"name": "8-bitchain",
+					"id": 1471302886030151700,
+					"id_str": "1471302886030151682",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "SRTSTEW",
+					"name": "Lew’s",
+					"id": 1494767392169283600,
+					"id_str": "1494767392169283587",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"screen_name": "t3xcritter",
+					"name": "crittcratt",
+					"id": 318628972,
+					"id_str": "318628972",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "Saifali_khann",
+					"name": "Saif Ali Khan",
+					"id": 1485883984412348400,
+					"id_str": "1485883984412348416",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "umr_stock",
+					"name": "umr",
+					"id": 944494256982388700,
+					"id_str": "944494256982388737",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "spitfire05781",
+					"name": "FlyingA",
+					"id": 952550617943298000,
+					"id_str": "952550617943298048",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "TomatoGenesis",
+					"name": "Tomato Genesis",
+					"id": 1485962112061288400,
+					"id_str": "1485962112061288448",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RQEdOwJhCE",
+					"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+					"display_url": "twitter.com/DarkNightStudy…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626531987505746000,
+		"quoted_status_id_str": "1626531987505745920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RQEdOwJhCE",
+			"expanded": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+			"display": "twitter.com/DarkNightStudy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 17 10:40:19 +0000 2023",
+			"id": 1626531987505746000,
+			"id_str": "1626531987505745920",
+			"full_text": "After the success of my last project The Currency, series 2 together with \n@Artblocks\n\n IO is now live!\n\nPhysical Editions will be exchangeable in London from December 13th!\nFree for Artblocks holders, 0.15 ETH for everyone else.\n\nMint here: https://t.co/Gz9U81WbMu https://t.co/DlIsEHXTz5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Artblocks",
+						"name": "@Artblocks",
+						"id": 1419266182780055600,
+						"id_str": "1419266182780055553",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gz9U81WbMu",
+						"expanded_url": "http://linktr.ee/damienhirst.nft",
+						"display_url": "linktr.ee/damienhirst.nft",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304636904,
+				"id_str": "2304636904",
+				"name": "Damien Hirst",
+				"screen_name": "DarkNightStudy",
+				"location": "",
+				"description": "The official page for the British artist Damien Hirst offering the latest news, updates and links.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192166,
+				"friends_count": 1,
+				"listed_count": 657,
+				"created_at": "Sun Jan 26 00:52:07 +0000 2014",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304636904/1675923094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to mint @kbsfk @FlowerField_NFT @8bitchain @SRTSTEW @t3xcritter @Saifali_khann @umr_stock @spitfire05781 @TomatoGenesis https://t.co/RQEdOwJhCE"
+	},
+	{
+		"created_at": "Fri Feb 17 11:24:43 +0000 2023",
+		"id": 1626543158887690200,
+		"id_str": "1626543158887690240",
+		"full_text": "Artblocks WOW @MimarYavuz @mysteriestudent @TheRustling @InsungFilms @aplusing @CryptoNewsSourc @MiniAventuras @ypj0807 @aymengfxdz @AlexBiloochko @BibiNb58765188 @cilkds @Variniabythesea https://t.co/RQEdOwIJN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MimarYavuz",
+					"name": "fatih yavuz",
+					"id": 397212442,
+					"id_str": "397212442",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "mysteriestudent",
+					"name": "StudentOfMysteries",
+					"id": 788962844444270600,
+					"id_str": "788962844444270593",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "TheRustling",
+					"name": "Jimmy Rustler",
+					"id": 1462906818,
+					"id_str": "1462906818",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "InsungFilms",
+					"name": "Insung Hwang",
+					"id": 69503911,
+					"id_str": "69503911",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "aplusing",
+					"name": "Kaede❤️DaHyun (tripleS)",
+					"id": 467561812,
+					"id_str": "467561812",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"screen_name": "CryptoNewsSourc",
+					"name": "Why.is.it.trending",
+					"id": 1480314259292582000,
+					"id_str": "1480314259292581889",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "MiniAventuras",
+					"name": "TheAmazingMini",
+					"id": 2509139461,
+					"id_str": "2509139461",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "ypj0807",
+					"name": "Kang Lim",
+					"id": 893492990,
+					"id_str": "893492990",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"screen_name": "aymengfxdz",
+					"name": "AymenGfxDz",
+					"id": 1455670044462039000,
+					"id_str": "1455670044462039041",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "AlexBiloochko",
+					"name": "Alex",
+					"id": 1480586073583587300,
+					"id_str": "1480586073583587330",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "BibiNb58765188",
+					"name": "Bibi Nb",
+					"id": 1370749631949381600,
+					"id_str": "1370749631949381636",
+					"indices": [
+						147,
+						162
+					]
+				},
+				{
+					"screen_name": "cilkds",
+					"name": "Tuan 53",
+					"id": 392447341,
+					"id_str": "392447341",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"screen_name": "Variniabythesea",
+					"name": "V 🐋🦈🐬🐳🐙",
+					"id": 1213480431741333500,
+					"id_str": "1213480431741333504",
+					"indices": [
+						171,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RQEdOwIJN6",
+					"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+					"display_url": "twitter.com/DarkNightStudy…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626531987505746000,
+		"quoted_status_id_str": "1626531987505745920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RQEdOwIJN6",
+			"expanded": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+			"display": "twitter.com/DarkNightStudy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 17 10:40:19 +0000 2023",
+			"id": 1626531987505746000,
+			"id_str": "1626531987505745920",
+			"full_text": "After the success of my last project The Currency, series 2 together with \n@Artblocks\n\n IO is now live!\n\nPhysical Editions will be exchangeable in London from December 13th!\nFree for Artblocks holders, 0.15 ETH for everyone else.\n\nMint here: https://t.co/Gz9U81WbMu https://t.co/DlIsEHXTz5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Artblocks",
+						"name": "@Artblocks",
+						"id": 1419266182780055600,
+						"id_str": "1419266182780055553",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gz9U81WbMu",
+						"expanded_url": "http://linktr.ee/damienhirst.nft",
+						"display_url": "linktr.ee/damienhirst.nft",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304636904,
+				"id_str": "2304636904",
+				"name": "Damien Hirst",
+				"screen_name": "DarkNightStudy",
+				"location": "",
+				"description": "The official page for the British artist Damien Hirst offering the latest news, updates and links.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192166,
+				"friends_count": 1,
+				"listed_count": 657,
+				"created_at": "Sun Jan 26 00:52:07 +0000 2014",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304636904/1675923094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Artblocks WOW @MimarYavuz @mysteriestudent @TheRustling @InsungFilms @aplusing @CryptoNewsSourc @MiniAventuras @ypj0807 @aymengfxdz @AlexBiloochko @BibiNb58765188 @cilkds @Variniabythesea https://t.co/RQEdOwIJN6"
+	},
+	{
+		"created_at": "Fri Feb 17 10:57:29 +0000 2023",
+		"id": 1626536304426057700,
+		"id_str": "1626536304426057728",
+		"full_text": "Creativity is 1000% @cryptossembly @Blane_noir @alfonsogomez @CawCawCaw @howieeNFT @enriqueparramar @OnlyEmjay @t5camilo @TomH9191 https://t.co/RQEdOwIJN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cryptossembly",
+					"name": "Cryptossembly-NFTs",
+					"id": 1492433796213444600,
+					"id_str": "1492433796213444609",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "Blane_noir",
+					"name": "Enrique V.",
+					"id": 725234522,
+					"id_str": "725234522",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "alfonsogomez",
+					"name": "alfonsogomez.eth",
+					"id": 15854563,
+					"id_str": "15854563",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "CawCawCaw",
+					"name": "Kurt B Carlson",
+					"id": 19840064,
+					"id_str": "19840064",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "howieeNFT",
+					"name": "howiee",
+					"id": 1324717934837575700,
+					"id_str": "1324717934837575680",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "enriqueparramar",
+					"name": "Enrique Parra Marque",
+					"id": 2742917499,
+					"id_str": "2742917499",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"screen_name": "OnlyEmjay",
+					"name": "Emjay",
+					"id": 44937011,
+					"id_str": "44937011",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"screen_name": "t5camilo",
+					"name": "T5",
+					"id": 1519729182477013000,
+					"id_str": "1519729182477012993",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"screen_name": "TomH9191",
+					"name": "Tom",
+					"id": 1481148908588134400,
+					"id_str": "1481148908588134403",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RQEdOwIJN6",
+					"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+					"display_url": "twitter.com/DarkNightStudy…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626531987505746000,
+		"quoted_status_id_str": "1626531987505745920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RQEdOwIJN6",
+			"expanded": "https://twitter.com/DarkNightStudy/status/1626531987505745920",
+			"display": "twitter.com/DarkNightStudy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 17 10:40:19 +0000 2023",
+			"id": 1626531987505746000,
+			"id_str": "1626531987505745920",
+			"full_text": "After the success of my last project The Currency, series 2 together with \n@Artblocks\n\n IO is now live!\n\nPhysical Editions will be exchangeable in London from December 13th!\nFree for Artblocks holders, 0.15 ETH for everyone else.\n\nMint here: https://t.co/Gz9U81WbMu https://t.co/DlIsEHXTz5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Artblocks",
+						"name": "@Artblocks",
+						"id": 1419266182780055600,
+						"id_str": "1419266182780055553",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gz9U81WbMu",
+						"expanded_url": "http://linktr.ee/damienhirst.nft",
+						"display_url": "linktr.ee/damienhirst.nft",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626531944849604600,
+						"id_str": "1626531944849604608",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpKaL6SWAAA3R-k.jpg",
+						"url": "https://t.co/DlIsEHXTz5",
+						"display_url": "pic.twitter.com/DlIsEHXTz5",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626531987505745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304636904,
+				"id_str": "2304636904",
+				"name": "Damien Hirst",
+				"screen_name": "DarkNightStudy",
+				"location": "",
+				"description": "The official page for the British artist Damien Hirst offering the latest news, updates and links.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192166,
+				"friends_count": 1,
+				"listed_count": 657,
+				"created_at": "Sun Jan 26 00:52:07 +0000 2014",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304636904/1675923094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Creativity is 1000% @cryptossembly @Blane_noir @alfonsogomez @CawCawCaw @howieeNFT @enriqueparramar @OnlyEmjay @t5camilo @TomH9191 https://t.co/RQEdOwIJN6"
+	},
+	{
+		"created_at": "Fri Feb 17 07:05:57 +0000 2023",
+		"id": 1626478040384503800,
+		"id_str": "1626478040384503808",
+		"full_text": "thanks Artblocks @DerekAtkinsp @PkpPrakash10 @FoodyOriginals @GLAWK_ @tylervis_ @kryptokracja @the_slow_loris @Gin63390073 @johnnyzito14 @tierneygearon https://t.co/2zGdfUb0Ow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DerekAtkinsp",
+					"name": "GH-海外KYC认证-个人定制💳",
+					"id": 2401430761,
+					"id_str": "2401430761",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "PkpPrakash10",
+					"name": "Pkp|mesi10.bnb",
+					"id": 1376835735324528600,
+					"id_str": "1376835735324528642",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "FoodyOriginals",
+					"name": "FoodyOriginals // NFT",
+					"id": 1498036522670567400,
+					"id_str": "1498036522670567426",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "GLAWK_",
+					"name": "glawk",
+					"id": 1042054610259791900,
+					"id_str": "1042054610259791872",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "tylervis_",
+					"name": "TYLER",
+					"id": 1546662468465832000,
+					"id_str": "1546662468465831936",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "kryptokracja",
+					"name": "Kryptokracja",
+					"id": 1455547029506171000,
+					"id_str": "1455547029506170888",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"screen_name": "the_slow_loris",
+					"name": "Loris",
+					"id": 765956831810388000,
+					"id_str": "765956831810387969",
+					"indices": [
+						94,
+						109
+					]
+				},
+				{
+					"screen_name": "Gin63390073",
+					"name": "Gin_kendro",
+					"id": 1243341261907476500,
+					"id_str": "1243341261907476480",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "johnnyzito14",
+					"name": "Johnny Zito",
+					"id": 4105952895,
+					"id_str": "4105952895",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"screen_name": "tierneygearon",
+					"name": "tierney gearon",
+					"id": 34432944,
+					"id_str": "34432944",
+					"indices": [
+						137,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2zGdfUb0Ow",
+					"expanded_url": "https://twitter.com/DarkNightStudy/status/1626448143767183360",
+					"display_url": "twitter.com/DarkNightStudy…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120855168,
+			"id_str": "120855168",
+			"name": "John Wesley Lowery",
+			"screen_name": "drjwlowery",
+			"location": "Indiana, PA",
+			"description": "IUP SAHE Prof & Chair teaching & researching in areas of student affairs history, law, & cont. issues. Rock-star in a bow tie. RT ≠ endorsement or agreement",
+			"url": "https://t.co/WFfAQp0RKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WFfAQp0RKo",
+							"expanded_url": "http://www.johnwesleylowery.com",
+							"display_url": "johnwesleylowery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 1337,
+			"listed_count": 92,
+			"created_at": "Sun Mar 07 19:41:09 +0000 2010",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581677516586188800/EvtNYKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120855168/1654533729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626448143767183400,
+		"quoted_status_id_str": "1626448143767183360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2zGdfUb0Ow",
+			"expanded": "https://twitter.com/DarkNightStudy/status/1626448143767183360",
+			"display": "twitter.com/DarkNightStudy…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 17 05:07:10 +0000 2023",
+			"id": 1626448143767183400,
+			"id_str": "1626448143767183360",
+			"full_text": "After the success of my last project The Currency, series 2 together with \n@Artblocks\n\n IO is now live!\n\nPhysical Editions will be exchangeable in London from December 13th!\nFree for Artblocks holders, 0.15 ETH for everyone else.\n\nMint here: https://t.co/Gz9U81WbMu https://t.co/1lSYvXzlv1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Artblocks",
+						"name": "@Artblocks",
+						"id": 1419266182780055600,
+						"id_str": "1419266182780055553",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gz9U81WbMu",
+						"expanded_url": "http://linktr.ee/damienhirst.nft",
+						"display_url": "linktr.ee/damienhirst.nft",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1626448106874077200,
+						"id_str": "1626448106874077184",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpJN75fWAAAHYUp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpJN75fWAAAHYUp.jpg",
+						"url": "https://t.co/1lSYvXzlv1",
+						"display_url": "pic.twitter.com/1lSYvXzlv1",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626448143767183360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626448106874077200,
+						"id_str": "1626448106874077184",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FpJN75fWAAAHYUp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FpJN75fWAAAHYUp.jpg",
+						"url": "https://t.co/1lSYvXzlv1",
+						"display_url": "pic.twitter.com/1lSYvXzlv1",
+						"expanded_url": "https://twitter.com/DarkNightStudy/status/1626448143767183360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304636904,
+				"id_str": "2304636904",
+				"name": "Damien Hirst",
+				"screen_name": "DarkNightStudy",
+				"location": "",
+				"description": "The official page for the British artist Damien Hirst offering the latest news, updates and links.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192166,
+				"friends_count": 1,
+				"listed_count": 657,
+				"created_at": "Sun Jan 26 00:52:07 +0000 2014",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623565242834857984/O1iYn_uW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304636904/1675923094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thanks Artblocks @DerekAtkinsp @PkpPrakash10 @FoodyOriginals @GLAWK_ @tylervis_ @kryptokracja @the_slow_loris @Gin63390073 @johnnyzito14 @tierneygearon https://t.co/2zGdfUb0Ow"
+	},
+	{
 		"created_at": "Thu Feb 16 19:06:58 +0000 2023",
 		"id": 1626297101939527700,
 		"id_str": "1626297101939527681",
