@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 21:06:00 +0000 2023",
+		"id": 1626646858322804700,
+		"id_str": "1627051832836243456",
+		"full_text": "Today, @EdCivilRights released 3 resources to assist school communities, students, parents, &amp; coaches in evaluating whether a school is meeting its legal duty to provide equal athletic opportunity based on sex consistent with #TitleIX and the #TitleIX regulations.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TitleIX",
+					"indices": [
+						230,
+						238
+					]
+				},
+				{
+					"text": "TitleIX",
+					"indices": [
+						247,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDcivilrights",
+					"name": "ED Civil Rights",
+					"id": 252634665,
+					"id_str": "252634665",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252634665,
+			"id_str": "252634665",
+			"name": "ED Civil Rights",
+			"screen_name": "EDcivilrights",
+			"location": "Washington, DC",
+			"description": "Official Twitter account for U.S. Department of Education's Office for Civil Rights. Know your rights! Follow ≠ endorsement. RT ≠ endorsement.",
+			"url": "https://t.co/AC9eSQgYwG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AC9eSQgYwG",
+							"expanded_url": "http://www.ed.gov/ocr",
+							"display_url": "ed.gov/ocr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15156,
+			"friends_count": 103,
+			"listed_count": 358,
+			"created_at": "Tue Feb 15 16:03:43 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245425172/usdeptofED_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245425172/usdeptofED_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252634665/1645718954",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Today, @EdCivilRights released 3 resources to assist school communities, students, parents, &amp; coaches in evaluating whether a school is meeting its legal duty to provide equal athletic opportunity based on sex consistent with #TitleIX and the #TitleIX regulations."
+	},
+	{
 		"created_at": "Fri Feb 17 22:34:42 +0000 2023",
 		"id": 1626711766909550600,
 		"id_str": "1626711766909550593",
